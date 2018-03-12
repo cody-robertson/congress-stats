@@ -24,5 +24,20 @@ namespace CongressStats
         {
             InitializeComponent();
         }
+
+        private void Frame_Navigated(object sender, NavigationEventArgs e)
+        {
+            frame.NavigationService.Navigate(new Congress_Navigation());
+        }
+
+        private void Mem_Of_Congress_Click(object sender, RoutedEventArgs e)
+        {
+            frame.NavigationService.Navigate(Mem_Of_Congress);
+        }
+
+        private void Popular_Bills_Click(object sender, RoutedEventArgs e)
+        {
+            frame.NavigationService.Navigate(Popular_Bills);
+        }
     }
 }

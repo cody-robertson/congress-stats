@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Frame x:Name="frame" Content="Frame" HorizontalAlignment="Left" Height="250" VerticalAlignment="Top" Width="429" RenderTransformOrigin="0.492,0.49" Margin="39,37,0,0" Navigated="Frame_Navigated"/>
+        <Button x:Name="Mem_Of_Congress" Content="Members Of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Margin="56,73,0,0" Height="178" Click="Mem_Of_Congress_Click"/>
+        <Button x:Name="Popular_Bills" Content="Popular Bills" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" Margin="335,73,0,0" Height="178" Click="Popular_Bills_Click"/>
+        <Label Content="CongressStats" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="3.562,1.92" Margin="220,37,0,0" Width="82"/>
+        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="70,128,0,0"/>
+        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="122" Margin="335,113,0,0" RenderTransformOrigin="0.472,0.285"/>
     </Grid>
 </Window>
