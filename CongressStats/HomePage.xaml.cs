@@ -16,18 +16,23 @@ using System.Windows.Shapes;
 namespace CongressStats
 {
     /// <summary>
-    /// Interaction logic for CongressListing.xaml
+    /// Interaction logic for HomePage.xaml
     /// </summary>
-    public partial class CongressListing : Page
+    public partial class HomePage : Page
     {
-        public CongressListing()
+        public HomePage()
         {
             InitializeComponent();
         }
 
-        private void Browse_Congress_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void Mem_Of_Congress_Click(object sender, RoutedEventArgs e)
         {
-            
+            this.NavigationService.Navigate(new Congress_Navigation());
+        }
+
+        private void Popular_Bills_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new Popular_Bills()); 
         }
     }
 }

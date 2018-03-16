@@ -23,21 +23,13 @@ namespace CongressStats
         public MainWindow()
         {
             InitializeComponent();
+            
         }
 
-        private void Frame_Navigated(object sender, NavigationEventArgs e)
+        private void MyWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            frame.NavigationService.Navigate(new Congress_Navigation());
+            frame.NavigationService.Navigate(new HomePage());
         }
 
-        private void Mem_Of_Congress_Click(object sender, RoutedEventArgs e)
-        {
-            frame.NavigationService.Navigate(Mem_Of_Congress);
-        }
-
-        private void Popular_Bills_Click(object sender, RoutedEventArgs e)
-        {
-            frame.NavigationService.Navigate(Popular_Bills);
-        }
     }
 }

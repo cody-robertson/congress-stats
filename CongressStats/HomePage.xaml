@@ -1,0 +1,19 @@
+﻿<Page x:Class="CongressStats.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CongressStats"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HomePage">
+
+    <Grid>
+        <Label Content="Congress Stats" HorizontalAlignment="Left" Margin="324,80,0,0" VerticalAlignment="Top" Height="39" Width="120" RenderTransformOrigin="0.533,0.003"/>
+        <Button x:Name="Mem_Of_Congress" Content="Members Of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Margin="102,203,0,0" Height="178" Click="Mem_Of_Congress_Click"/>
+        <Button x:Name="Popular_Bills" Content="Popular Bills" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" Margin="541,203,0,0" Height="178" Click="Popular_Bills_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="126" Margin="102,258,0,0"/>
+        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="122" Margin="541,258,0,0" RenderTransformOrigin="0.472,0.285"/>
+
+    </Grid>
+</Page>
