@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for the hour of meeting of the House.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Providing for the hour of meeting of the House.</title>
+      </item>
+    </titles>
+    <introducedDate>2018-01-08</introducedDate>
+    <latestAction>
+      <actionDate>2018-01-08</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionTime>18:57:08</actionTime>
+    </latestAction>
+    <title>Providing for the hour of meeting of the House.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <updateDate>2018-02-06T16:40:05Z</updateDate>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cboCostEstimates />
+    <billNumber>679</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <createDate>2018-01-09T03:11:02Z</createDate>
+    <originChamber>House</originChamber>
+    <actions>
+      <item>
+        <links />
+        <actionDate>2018-01-08</actionDate>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:57:08</actionTime>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6</url>
+            <name>H6</name>
+          </link>
+        </links>
+        <actionDate>2018-01-08</actionDate>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H6)</text>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:57:04</actionTime>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2018-01-08</actionDate>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>18:57:04</actionTime>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6</url>
+            <name>H6</name>
+          </link>
+        </links>
+        <actionDate>2018-01-08</actionDate>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H6)</text>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:56:26</actionTime>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2018-01-08</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2018-01-08</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>M001165</bioguideId>
+        <district>23</district>
+        <firstName>Kevin</firstName>
+        <middleName />
+        <state>CA</state>
+        <fullName>Rep. McCarthy, Kevin [R-CA-23]</fullName>
+        <identifiers>
+          <lisID>1833</lisID>
+          <gpoId>7827</gpoId>
+          <bioguideId>M001165</bioguideId>
+        </identifiers>
+        <lastName>McCarthy</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2018-01-08</actionDate>
+          <updateDate>2018-01-08T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Fixes the daily hour of meeting for the House of Representatives for the second session of the 115th Congress.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-02-05T22:08:19Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDate>2018-01-08</actionDate>
+          <updateDate>2018-01-08T17:09:23Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Fixes the daily hour of meeting for the House of Representatives for the second session of the 115th Congress.</p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2018-02-05T22:08:29Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

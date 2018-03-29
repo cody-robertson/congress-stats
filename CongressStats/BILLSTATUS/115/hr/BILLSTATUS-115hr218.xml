@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-01-03</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T19:20:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-13T14:09:25Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-06-27T13:41:07Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-01-03T17:24:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <date>2017-04-05T20:55:46Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2017-02-10T16:47:22Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <billReferrals>1</billReferrals>
+        <prayer>1</prayer>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <unfinishedBusinessInCommitteeOfTheWhole>1</unfinishedBusinessInCommitteeOfTheWhole>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>1</committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <actionStageOverride>1</actionStageOverride>
+        <considerationByHouse>2</considerationByHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>8</generalDebate>
+        <placeholderTextForH>5</placeholderTextForH>
+        <reportedToHouse>1</reportedToHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:09:55</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:09:53</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6124-6125</url>
+            <name>H6124-6125</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll406.xml</url>
+            <name>Roll no. 406</name>
+          </link>
+        </links>
+        <committee />
+        <text>On passage Passed by the Yeas and Nays: 248 - 179 (Roll no. 406). (text of amendment in the nature of a substitute: CR H6124-6125)</text>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>12:09:53</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll406.xml</url>
+            <name>Roll no. 406</name>
+          </link>
+        </links>
+        <committee />
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 248 - 179 (Roll no. 406).</text>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:53:18</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>On motion to recommit with instructions Failed by voice vote.</text>
+        <actionCode>H36110</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:53:11</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+        <actionCode>H8A000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:47:58</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>DEBATE - The House proceeded with 10 minutes of debate on the Garamendi motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a provision to the underlying bill requiring the road to be constructed using only materials and equipment manufactured in the United States.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:47:45</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6130</url>
+            <name>H6130</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>Mr. Garamendi moved to recommit with instructions to the Committee on Natural Resources. (text: CR H6130)</text>
+        <actionCode>H36100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:46:37</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+        <actionCode>H34400</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:46:27</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>The previous question was ordered without objection.</text>
+        <actionCode>H35000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:45:47</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/218</url>
+            <name>H.R. 218</name>
+          </link>
+        </links>
+        <committee />
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 218.</text>
+        <actionCode>H32600</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:34:27</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+        <actionCode>H32050</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:34:15</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6128-6131</url>
+            <name>H6128-6131</name>
+          </link>
+        </links>
+        <committee />
+        <text>Considered as unfinished business. (consideration: CR H6128-6131)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:00:38</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/218</url>
+            <name>H.R. 218</name>
+          </link>
+        </links>
+        <committee />
+        <text>Committee of the Whole House on the state of the Union rises leaving H.R. 218 as unfinished business.</text>
+        <actionCode>H32700</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:00:28</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>On motion that the Committee rise Agreed to by voice vote.</text>
+        <actionCode>H32341</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>11:00:15</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>Mr. Bishop (UT) moved that the Committee rise.</text>
+        <actionCode>H32340</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>10:59:25</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>10:51:47</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/454</url>
+            <name>H. Res. 454</name>
+          </link>
+        </links>
+        <committee />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 3.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>10:48:46</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/454</url>
+            <name>H. Res. 454</name>
+          </link>
+        </links>
+        <committee />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 2.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>10:48:09</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Tsongas amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Tsongas demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>10:37:31</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/454</url>
+            <name>H. Res. 454</name>
+          </link>
+        </links>
+        <committee />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Tsongas amendment No. 1.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>09:58:22</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/218</url>
+            <name>H.R. 218</name>
+          </link>
+        </links>
+        <committee />
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 218.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>09:57:49</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <committee />
+        <text>The Speaker designated the Honorable Gary J. Palmer to act as Chairman of the Committee.</text>
+        <actionCode>H32400</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>09:57:45</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/454</url>
+            <name>H. Res. 454</name>
+          </link>
+        </links>
+        <committee />
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 454 and Rule XVIII.</text>
+        <actionCode>H32020</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>09:57:35</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/218</url>
+            <name>H.R. 218</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2825</url>
+            <name>H.R. 2825</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2883</url>
+            <name>H.R. 2883</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2910</url>
+            <name>H.R. 2910</name>
+          </link>
+        </links>
+        <committee />
+        <text>Rule provides for consideration of H.R. 2910, H.R. 2883 and H.R. 218. The resolution makes in order at anytime on the legislative day of July 20, 2017, for the Speaker to entertain motions that the House suspend the rules, relating to the bill H.R. 2825. Also the rule provides that the Committee on Appropriations may at any time before 5 p.m. on Friday, July 21, 2017, file privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2018.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>09:57:30</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/454</url>
+            <name>H. Res. 454</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6120-6128</url>
+            <name>H6120-6128</name>
+          </link>
+        </links>
+        <committee />
+        <text>Considered under the provisions of rule H. Res. 454. (consideration: CR H6120-6128)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>14:23:30</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-19</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/454</url>
+            <name>H. Res. 454</name>
+          </link>
+        </links>
+        <committee />
+        <text>Rule H. Res. 454 passed House.</text>
+        <actionCode>H1L220</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:59:55</actionTime>
+        <type>Floor</type>
+        <actionDate>2017-07-18</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/454</url>
+            <name>H. Res. 454</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/218</url>
+            <name>H.R. 218</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2825</url>
+            <name>H.R. 2825</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2883</url>
+            <name>H.R. 2883</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2910</url>
+            <name>H.R. 2910</name>
+          </link>
+        </links>
+        <committee />
+        <text>Rules Committee Resolution H. Res. 454 Reported to House. Rule provides for consideration of H.R. 2910, H.R. 2883 and H.R. 218. The resolution makes in order at anytime on the legislative day of July 20, 2017, for the Speaker to entertain motions that the House suspend the rules, relating to the bill H.R. 2825. Also the rule provides that the Committee on Appropriations may at any time before 5 p.m. on Friday, July 21, 2017, file privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2018.</text>
+        <actionCode>H1L210</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2017-07-13</actionDate>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 153.</text>
+        <actionCode>H12410</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/218</url>
+            <name>H. Rept. 115-218</name>
+          </link>
+        </links>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-218.</text>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/218</url>
+            <name>H. Rept. 115-218</name>
+          </link>
+        </links>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-218.</text>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 23 - 14.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>37</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-01-26T21:54:29Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-03</actionDate>
+          <text><![CDATA[<p><b>King Cove Road Land Exchange Act</b></p> <p>This bill declares that, if the state of Alaska offers to convey to the Department of the Interior 43,093 acres of state-owned land, Interior shall convey to Alaska, in exchange, 206 acres of federal land within the Izembek National Wildlife Refuge and 131 acres of federal land within the Izembek Wilderness, for purposes of: (1) designating a road corridor through the refuge, and (2) constructing a single-lane gravel road along the road corridor. </p> <p>The values of the federal and nonfederal lands to be exchanged shall be equal. </p> <p>Interior and Alaska shall select an appraiser to conduct appraisals of the federal and nonfederal lands in accordance with nationally recognized appraisal standards. </p> <p>The bill requires the route of the road corridor to follow a specified southern road alignment.</p> <p>The bill states that the exchange of the federal and nonfederal lands and the road to be constructed under this bill shall not constitute a major federal action requiring environmental impact review under the National Environmental Policy Act of 1969.</p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <updateDate>2017-07-13T14:43:10Z</updateDate>
+          <name>Reported to House without amendment</name>
+          <lastSummaryUpdateDate>2017-08-08T18:42:00Z</lastSummaryUpdateDate>
+          <actionDate>2017-07-13</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>King Cove Road Land Exchange Act</b></p> <p>(Sec. 4) This bill declares that, if the state of Alaska offers to convey to the Department of the Interior 43,093 acres of state-owned land, Interior shall convey to Alaska, in exchange, 206 acres of federal land within the Izembek National Wildlife Refuge and 131 acres of federal land within the Izembek Wilderness, for purposes of: (1) designating a road corridor through the refuge, and (2) constructing a single-lane gravel road along the road corridor. </p> <p>The values of the federal and nonfederal lands to be exchanged: (1) shall be equal, or (2) if not equal, shall be equalized in accordance with this bill. </p> <p>Interior and Alaska shall select an appraiser to conduct appraisals of the federal and nonfederal lands in accordance with nationally recognized appraisal standards. </p> <p>Upon completion of the exchange of the federal and nonfederal lands: (1) the boundary of the Wilderness shall be adjusted to exclude the federal land, and (2) the nonfederal land shall be added to the Wilderness. </p> <p>(Sec. 5) The bill requires the route of the road corridor to follow a specified southern road alignment.</p> <p>(Sec. 6) The bill makes the requirements relating to the usage, barrier cables, and dimensions and the limitation on the location of support facilities with regard to the construction of a single-lane gravel road between the communities of King Cove and Cold Bay, Alaska (as set forth under the Omnibus Public Land Management Act of 2009) applicable to the road to be constructed in the road corridor. </p> <p>(Sec. 7) The bill states that the exchange of the federal and nonfederal lands and the road to be constructed under this bill shall not constitute a major federal action requiring environmental impact review under the National Environmental Policy Act of 1969.</p>]]></text>
+          <versionCode>79</versionCode>
+        </item>
+        <item>
+          <actionDesc>Passed House amended</actionDesc>
+          <updateDate>2017-07-20T13:40:30Z</updateDate>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2017-08-09T19:14:22Z</lastSummaryUpdateDate>
+          <actionDate>2017-07-20</actionDate>
+          <text><![CDATA[<p><b>King Cove Road Land Exchange Act</b></p> <p>(Sec. 4) This bill declares that, if the state of Alaska offers to convey to the Department of the Interior 43,093 acres of state-owned land, Interior shall convey to Alaska, in exchange, 206 acres of federal land within the Izembek National Wildlife Refuge and 131 acres of federal land within the Izembek Wilderness, for purposes of: (1) designating a road corridor through the refuge, and (2) constructing a single-lane gravel road along the road corridor. </p> <p>The values of the federal and nonfederal lands to be exchanged: (1) shall be equal, or (2) if not equal, shall be equalized in accordance with this bill. </p> <p>Interior and Alaska shall select an appraiser to conduct appraisals of the federal and nonfederal lands in accordance with nationally recognized appraisal standards. </p> <p>Upon completion of the exchange of the federal and nonfederal lands: (1) the boundary of the Wilderness shall be adjusted to exclude the federal land, and (2) the nonfederal land shall be added to the Wilderness. </p> <p>(Sec. 5) The bill requires the route of the road corridor to follow a specified southern road alignment.</p> <p>(Sec. 6) The bill makes the requirements relating to the usage, barrier cables, and dimensions and the limitation on the location of support facilities with regard to the construction of a single-lane gravel road between the communities of King Cove and Cold Bay, Alaska (as set forth under the Omnibus Public Land Management Act of 2009) applicable to the road to be constructed in the road corridor. </p> <p>(Sec. 7) The bill states that the exchange of the federal and nonfederal lands and the road to be constructed under this bill (including the issuance of any permit that may be required from any federal agency to construct such road) shall not constitute a major federal action requiring environmental impact review under the National Environmental Policy Act of 1969.</p>]]></text>
+          <versionCode>36</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:27:15Z</updateDate>
+    <amendments>
+      <amendment>
+        <latestAction>
+          <actionTime>11:45:13</actionTime>
+          <actionDate>2017-07-20</actionDate>
+          <text>On agreeing to the Grijalva amendment (A003) Failed by recorded vote: 167 - 260 (Roll no. 405).</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>212</number>
+        <type>HAMDT</type>
+        <purpose />
+        <proposedDate />
+        <amendedAmendment />
+        <congress>115</congress>
+        <version>1.0.0</version>
+        <createDate>2017-07-21T07:16:26Z</createDate>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <links />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <titles />
+        <amendedBill>
+          <congress>115</congress>
+          <type>HR</type>
+          <title>King Cove Road Land Exchange Act</title>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+          <number>218</number>
+        </amendedBill>
+        <submittedDate>2017-07-20T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <notes />
+        <type>HAMDT</type>
+        <description>Amendment sought to prohibit the Act from taking effect until $20 million in federal funds given to Alaska for transportation purposes in King Cove is repaid to the Federal Government.</description>
+        <sponsors>
+          <item>
+            <lastName>Grijalva</lastName>
+            <district>3</district>
+            <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+            <middleName>M.</middleName>
+            <bioguideId>G000551</bioguideId>
+            <identifiers>
+              <lisID>1708</lisID>
+              <gpoId>7804</gpoId>
+              <bioguideId>G000551</bioguideId>
+            </identifiers>
+            <state>AZ</state>
+            <firstName>Raul</firstName>
+            <party>D</party>
+          </item>
+        </sponsors>
+        <purpose />
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <text>On agreeing to the Grijalva amendment (A003) Failed by recorded vote: 167 - 260 (Roll no. 405).</text>
+              <actionTime>11:45:13</actionTime>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/212</url>
+                  <name>H.Amdt.212</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll405.xml</url>
+                  <name>Roll no. 405</name>
+                </link>
+              </links>
+              <actionCode>H32111</actionCode>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <text>Amendment (A003) offered by Mr. Grijalva. (consideration: CR H6127-6130; text: CR H6127)</text>
+              <actionTime>10:51:45</actionTime>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/212</url>
+                  <name>H.Amdt.212</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6127</url>
+                  <name>H6127</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6127-6130</url>
+                  <name>H6127-6130</name>
+                </link>
+              </links>
+              <actionCode>H3A100</actionCode>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <text>House amendment offered/reported by : Amendment (A003) offered by Mr. Grijalva.(consideration: CR H6127-6130; text: CR H6127)</text>
+              <actionTime>10:51:45</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/212</url>
+                  <name>H.Amdt.212</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6127</url>
+                  <name>H6127</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6127-6130</url>
+                  <name>H6127-6130</name>
+                </link>
+              </links>
+              <actionCode>71500</actionCode>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <text>Amendment failed in Committee of the Whole</text>
+              <actionTime>11:45:13</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/212</url>
+                  <name>H.Amdt.212</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll405.xml</url>
+                  <name>Roll no. 405</name>
+                </link>
+              </links>
+              <actionCode>77000</actionCode>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <text>Roll call votes on amendments in House</text>
+              <actionTime>11:45:13</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/212</url>
+                  <name>H.Amdt.212</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll405.xml</url>
+                  <name>Roll no. 405</name>
+                </link>
+              </links>
+              <actionCode>75000</actionCode>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <text>House amendment not agreed to: On agreeing to the Grijalva amendment (A003) Failed by recorded vote: 167 - 260 (Roll no. 405).</text>
+              <actionTime>11:45:13</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/212</url>
+                  <name>H.Amdt.212</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll405.xml</url>
+                  <name>Roll no. 405</name>
+                </link>
+              </links>
+              <actionCode>73000</actionCode>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <text>House amendment offered</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <links />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <count>8</count>
+        </actions>
+        <updateDate>2018-02-22T15:27:15Z</updateDate>
+        <number>212</number>
+        <description>Amendment sought to prohibit the Act from taking effect until $20 million in federal funds given to Alaska for transportation purposes in King Cove is repaid to the Federal Government.</description>
+      </amendment>
+      <amendment>
+        <latestAction>
+          <actionTime>10:51:31</actionTime>
+          <actionDate>2017-07-20</actionDate>
+          <text>On agreeing to the Young (AK) amendment (A002) Agreed to by voice vote.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>211</number>
+        <type>HAMDT</type>
+        <purpose />
+        <createDate>2017-07-21T07:16:25Z</createDate>
+        <number>211</number>
+        <type>HAMDT</type>
+        <updateDate>2018-02-22T15:27:15Z</updateDate>
+        <submittedDate>2017-07-20T04:00:00Z</submittedDate>
+        <proposedDate />
+        <sponsors>
+          <item>
+            <district>0</district>
+            <state>AK</state>
+            <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+            <bioguideId>Y000033</bioguideId>
+            <firstName>DON</firstName>
+            <party>R</party>
+            <middleName>E.</middleName>
+            <identifiers>
+              <bioguideId>Y000033</bioguideId>
+              <gpoId>7785</gpoId>
+              <lisID>1256</lisID>
+            </identifiers>
+            <lastName>YOUNG</lastName>
+          </item>
+        </sponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendedAmendment />
+        <amendedBill>
+          <congress>115</congress>
+          <number>218</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>King Cove Road Land Exchange Act</title>
+        </amendedBill>
+        <links />
+        <notes />
+        <titles />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <text>On agreeing to the Young (AK) amendment (A002) Agreed to by voice vote.</text>
+              <actionCode>H32111</actionCode>
+              <actionTime>10:51:31</actionTime>
+              <committee />
+              <actionDate>2017-07-20</actionDate>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.211</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/211</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <text>Amendment (A002) offered by Mr. Young (AK). (consideration: CR H6126-6127; text: CR H6126)</text>
+              <actionCode>H3A100</actionCode>
+              <actionTime>10:48:42</actionTime>
+              <committee />
+              <actionDate>2017-07-20</actionDate>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.211</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/211</url>
+                </link>
+                <link>
+                  <name>H6126</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6126</url>
+                </link>
+                <link>
+                  <name>H6126-6127</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6126-6127</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>House amendment offered/reported by : Amendment (A002) offered by Mr. Young (AK).(consideration: CR H6126-6127; text: CR H6126)</text>
+              <actionCode>71500</actionCode>
+              <actionTime>10:48:42</actionTime>
+              <committee />
+              <actionDate>2017-07-20</actionDate>
+              <type>NotUsed</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.211</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/211</url>
+                </link>
+                <link>
+                  <name>H6126</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6126</url>
+                </link>
+                <link>
+                  <name>H6126-6127</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6126-6127</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <text>House amendment agreed to: On agreeing to the Young (AK) amendment (A002) Agreed to by voice vote.</text>
+              <actionCode>72000</actionCode>
+              <actionTime>10:51:31</actionTime>
+              <committee />
+              <actionDate>2017-07-20</actionDate>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.211</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/211</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <actionCode>76000</actionCode>
+              <actionTime>10:51:31</actionTime>
+              <committee />
+              <actionDate>2017-07-20</actionDate>
+              <type>NotUsed</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.211</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/211</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <text>House amendment offered</text>
+              <actionCode>71000</actionCode>
+              <committee />
+              <actionDate>2017-07-20</actionDate>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links />
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actionTypeCounts>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentOffered>1</amendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+          </actionTypeCounts>
+        </actions>
+        <purpose />
+        <description>Page 6, line 21, insert "(including the issuance of any permit that may be required from any Federal agency to construct the road)" after "under this Act".</description>
+        <chamber>House of Representatives</chamber>
+        <version>1.0.0</version>
+        <description>Page 6, line 21, insert "(including the issuance of any permit that may be required from any Federal agency to construct the road)" after "under this Act".</description>
+      </amendment>
+      <amendment>
+        <latestAction>
+          <actionTime>11:40:43</actionTime>
+          <actionDate>2017-07-20</actionDate>
+          <text>On agreeing to the Tsongas amendment (A001) Failed by recorded vote: 190 - 234 (Roll no. 404).</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>210</number>
+        <type>HAMDT</type>
+        <purpose />
+        <amendedBill>
+          <congress>115</congress>
+          <title>King Cove Road Land Exchange Act</title>
+          <type>HR</type>
+          <originChamberCode>H</originChamberCode>
+          <number>218</number>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <amendedAmendment />
+        <type>HAMDT</type>
+        <congress>115</congress>
+        <submittedDate>2017-07-20T04:00:00Z</submittedDate>
+        <description>Amendment sought to require mitigation measures, previously adopted in P.L. 111-11, to ensure that impacts to migratory birds, wildlife, and wetlands are minimized.</description>
+        <purpose />
+        <chamber>House of Representatives</chamber>
+        <sponsors>
+          <item>
+            <state>MA</state>
+            <middleName />
+            <bioguideId>T000465</bioguideId>
+            <firstName>Niki</firstName>
+            <lastName>Tsongas</lastName>
+            <identifiers>
+              <bioguideId>T000465</bioguideId>
+              <gpoId>7970</gpoId>
+              <lisID>1884</lisID>
+            </identifiers>
+            <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+            <party>D</party>
+            <district>3</district>
+          </item>
+        </sponsors>
+        <actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>11:40:43</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.210</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/210</url>
+                </link>
+                <link>
+                  <name>Roll no. 404</name>
+                  <url>http://clerk.house.gov/evs/2017/roll404.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-07-20</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>On agreeing to the Tsongas amendment (A001) Failed by recorded vote: 190 - 234 (Roll no. 404).</text>
+            </item>
+            <item>
+              <actionTime>10:37:29</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.210</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/210</url>
+                </link>
+                <link>
+                  <name>H6125</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6125</url>
+                </link>
+                <link>
+                  <name>H6125-6126</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6125-6126</url>
+                </link>
+                <link>
+                  <name>H6129</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6129</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-07-20</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>Amendment (A001) offered by Ms. Tsongas. (consideration: CR H6125-6126, H6129; text: CR H6125)</text>
+            </item>
+            <item>
+              <actionDate>2017-07-20</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>10:37:29</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.210</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/210</url>
+                </link>
+                <link>
+                  <name>H6125</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6125</url>
+                </link>
+                <link>
+                  <name>H6125-6126</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6125-6126</url>
+                </link>
+                <link>
+                  <name>H6129</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6129</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-07-20</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A001) offered by Ms. Tsongas.(consideration: CR H6125-6126, H6129; text: CR H6125)</text>
+            </item>
+            <item>
+              <actionTime>11:40:43</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.210</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/210</url>
+                </link>
+                <link>
+                  <name>Roll no. 404</name>
+                  <url>http://clerk.house.gov/evs/2017/roll404.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <actionDate>2017-07-20</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment not agreed to: On agreeing to the Tsongas amendment (A001) Failed by recorded vote: 190 - 234 (Roll no. 404).</text>
+            </item>
+            <item>
+              <actionTime>11:40:43</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.210</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/210</url>
+                </link>
+                <link>
+                  <name>Roll no. 404</name>
+                  <url>http://clerk.house.gov/evs/2017/roll404.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <actionDate>2017-07-20</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Roll call votes on amendments in House</text>
+            </item>
+            <item>
+              <actionTime>11:40:43</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.210</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/210</url>
+                </link>
+                <link>
+                  <name>Roll no. 404</name>
+                  <url>http://clerk.house.gov/evs/2017/roll404.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>77000</actionCode>
+              <actionDate>2017-07-20</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Amendment failed in Committee of the Whole</text>
+            </item>
+            <item>
+              <links />
+              <committee />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-07-20</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered</text>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <count>8</count>
+        </actions>
+        <notes />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <version>1.0.0</version>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <links />
+        <createDate>2017-07-21T07:16:25Z</createDate>
+        <proposedDate />
+        <updateDate>2018-02-22T15:27:15Z</updateDate>
+        <titles />
+        <number>210</number>
+        <description>Amendment sought to require mitigation measures, previously adopted in P.L. 111-11, to ensure that impacts to migratory birds, wildlife, and wetlands are minimized.</description>
+      </amendment>
+    </amendments>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00153</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors />
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <title>King Cove Road Land Exchange Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <title>King Cove Road Land Exchange Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>King Cove Road Land Exchange Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To provide for the exchange of Federal land and non-Federal land in the State of Alaska for the construction of a road between King Cove and Cold Bay.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>King Cove Road Land Exchange Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <title>King Cove Road Land Exchange Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>King Cove Road Land Exchange Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>Providing for consideration of the bill (H.R. 2910) to provide for Federal and State agency coordination in the approval of certain authorizations under the Natural Gas Act, and for other purposes; providing for consideration of the bill (H.R. 2883) to establish a more uniform, transparent, and modern process to authorize the construction, connection, operation, and maintenance of international border-crossing facilities for the import and export of oil and natural gas and the transmission of electricity; providing for consideration of the bill (H.R. 218) to provide for the exchange of Federal land and non-Federal land in the State of Alaska for the construction of a road between King Cove and Cold Bay; and for other purposes.</latestTitle>
+        <latestAction>
+          <actionTime>14:23:30</actionTime>
+          <actionDate>2017-07-19</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>454</number>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>King Cove Road Land Exchange Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-01-11</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>101</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-07-20</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H52-H53]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. YOUNG of Alaska:H.R. 218.Congress has the power to enact this legislation pursuantto the following:[[Page H53]]Article IV, Section 3, Clause 2``The Congress shall have Power to dispose of and make allneedful Rules and Regulations respecting the Territory orother Property belonging to the United States; and nothing inthis Constitution shall be so construed as to Prejudice anyClaims of the United States, or of any particular State.''</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>0</district>
+        <state>AK</state>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <bioguideId>Y000033</bioguideId>
+        <firstName>DON</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+          <lisID>1256</lisID>
+        </identifiers>
+        <lastName>YOUNG</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 218, King Cove Road Land Exchange Act</title>
+        <pubDate>2017-07-13T15:11:26Z</pubDate>
+        <url>https://www.cbo.gov/publication/52910</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-01-04T07:01:13Z</createDate>
+    <congress>115</congress>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>406</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-07-20T16:09:53Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll406.xml</url>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <laws />
+    <title>King Cove Road Land Exchange Act</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-218</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>218</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-12-22T08:16:06Z</updateDate>
+    <version>1.0.0</version>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Small Business Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-07T15:03:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hssm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-12-08T03:11:09Z</createDate>
+    <recordedVotes />
+    <notes />
+    <committeeReports />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Small Business.</text>
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-12-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-12-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-12-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <bioguideId>V000081</bioguideId>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <lastName>VELAZQUEZ</lastName>
+        <firstName>NYDIA</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>S001200</bioguideId>
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <lastName>Soto</lastName>
+        <firstName>Darren</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>G000582</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+        </identifiers>
+        <state>PR</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <lastName>Gonzalez-Colon</lastName>
+        <firstName>Jenniffer</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <bioguideId>S000248</bioguideId>
+        <identifiers>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <lastName>SERRANO</lastName>
+        <firstName>JOSE</firstName>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-12-07</actionDate>
+      <links />
+      <text>Referred to the House Committee on Small Business.</text>
+    </latestAction>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>4598</billNumber>
+    <introducedDate>2017-12-07</introducedDate>
+    <title>To amend the Small Business Act to require public communications about disaster assistance resources to be made in multiple languages.</title>
+    <sponsors>
+      <item>
+        <lastName>Meng</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+        </identifiers>
+        <byRequestType />
+        <middleName />
+        <firstName>Grace</firstName>
+        <district>6</district>
+        <bioguideId>M001188</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Small Business Act to require public communications about disaster assistance resources to be made in multiple languages.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>To amend the Small Business Act to require public communications about disaster assistance resources to be made in multiple languages.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 200 (Thursday, December 7, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 4598.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, of the U.S. Constitution.[Page H9757]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

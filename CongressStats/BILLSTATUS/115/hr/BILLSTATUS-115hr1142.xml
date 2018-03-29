@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1142</billNumber>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>352</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2017-02-13</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2017-02-16</actionDate>
+    </latestAction>
+    <createDate>2017-02-17T04:46:13Z</createDate>
+    <title>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</strong></p> <p>This bill directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the posthumous award of a Congressional Gold Medal to Roddie Edmonds in recognition of his achievements and heroic actions during World War II.</p>]]></text>
+          <actionDate>2017-02-16</actionDate>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-07-08T14:55:51Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2018-02-06T16:41:31Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>D000533</bioguideId>
+        <district>2</district>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <firstName>JOHN</firstName>
+        <lastName>DUNCAN</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>322</lisID>
+          <bioguideId>D000533</bioguideId>
+          <gpoId>8149</gpoId>
+        </identifiers>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2017-02-16T15:04:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>CULBERSON</lastName>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <party>R</party>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <middleName>ABNEY</middleName>
+        <state>TX</state>
+        <bioguideId>C001048</bioguideId>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001048</bioguideId>
+          <lisID>1670</lisID>
+          <gpoId>8163</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Fleischmann</lastName>
+        <firstName>Charles</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <middleName>J. "Chuck"</middleName>
+        <state>TN</state>
+        <bioguideId>F000459</bioguideId>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000459</bioguideId>
+          <lisID>2061</lisID>
+          <gpoId>8150</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>COOPER</lastName>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <party>D</party>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <middleName>H.</middleName>
+        <state>TN</state>
+        <bioguideId>C000754</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Black</lastName>
+        <firstName>Diane</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <middleName />
+        <state>TN</state>
+        <bioguideId>B001273</bioguideId>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DUNCAN of Tennessee:H.R. 1142.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 5.[Page H1304]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-02-16</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To award a Congressional Gold Medal to Master Sergeant Rodrick "Roddie" Edmonds in recognition of his heroic actions during World War II.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

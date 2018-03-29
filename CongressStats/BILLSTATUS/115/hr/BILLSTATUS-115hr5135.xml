@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea />
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-03-01</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-03-01</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-03-01</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <actionDate>2018-03-01</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide for additional grants for school security, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide for additional grants for school security, and for other purposes.</title>
+      </item>
+    </titles>
+    <billNumber>5135</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>D000600</bioguideId>
+        <firstName>Mario</firstName>
+        <lastName>Diaz-Balart</lastName>
+        <state>FL</state>
+        <district>25</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>7893</gpoId>
+          <bioguideId>D000600</bioguideId>
+          <lisID>1717</lisID>
+        </identifiers>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+      </item>
+      <item>
+        <bioguideId>F000461</bioguideId>
+        <firstName>Bill</firstName>
+        <lastName>Flores</lastName>
+        <state>TX</state>
+        <district>17</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8173</gpoId>
+          <bioguideId>F000461</bioguideId>
+          <lisID>2065</lisID>
+        </identifiers>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+      </item>
+    </cosponsors>
+    <title>To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide for additional grants for school security, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-03-01T18:30:32Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-03-02T08:16:32Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>GRANGER</lastName>
+        <middleName />
+        <firstName>KAY</firstName>
+        <party>R</party>
+        <bioguideId>G000377</bioguideId>
+        <identifiers>
+          <gpoId>8168</gpoId>
+          <lisID>1487</lisID>
+          <bioguideId>G000377</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>12</district>
+        <state>TX</state>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-03-01</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-03-02T08:11:02Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

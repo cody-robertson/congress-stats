@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>233</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-01-24</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:37Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>ME</state>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <middleName>MARGARET</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NC</state>
+        <identifiers>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <bioguideId>B001135</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>BURR</lastName>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <firstName>RICHARD</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MT</state>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Gillibrand</lastName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000476</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Tillis</lastName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <middleName>Roland</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>NELSON</lastName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <firstName>CLARENCE</firstName>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Gardner</lastName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <firstName>Cory</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>STABENOW</lastName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>DEBORAH</firstName>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+          <lisID>2185</lisID>
+        </identifiers>
+        <bioguideId>K000383</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>King</lastName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <party>I</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Kaine</lastName>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <bioguideId>B001267</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Bennet</lastName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MT</state>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <bioguideId>D000618</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Daines</lastName>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Peters</lastName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <lastName>Van Hollen</lastName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alabama</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Georgia</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Indiana</name>
+          </item>
+          <item>
+            <name>Maine</name>
+          </item>
+          <item>
+            <name>Massachusetts</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Michigan</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>North Carolina</name>
+          </item>
+          <item>
+            <name>South Carolina</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-24T23:54:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-24</introducedDate>
+    <title>Providing Veterans Overdue Care Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-01-25T04:45:59Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Warner</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <bioguideId>W000805</bioguideId>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <links />
+      <actionDate>2017-01-24</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>90</number>
+        <latestTitle>Providing Veterans Overdue Care Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-01-19</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Providing Veterans Overdue Care Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Providing Veterans Overdue Care Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to authorize the Secretary of Veterans Affairs to carry out certain major medical facility leases of the Department of Veterans Affairs.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Providing Veterans Overdue Care Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Providing Veterans Overdue Care Act of 2017</strong></p> <p>This bill authorizes the Department of Veterans Affairs to carry out major medical facility leases in specified amounts for:</p> <ul> <li> outpatient clinics in Ann Arbor, Michigan; Daytona Beach, Gainesville, and Ocala, Florida; Hampton Roads, Virginia; Missoula, Montana; Northern Colorado, Colorado; Oxnard and Santa Rosa, California; Pike County, Georgia; Portland, Maine; and Raleigh, North Carolina;</li> <li> an outpatient mental health clinic and an outpatient specialty clinic in Birmingham, Alabama;</li> <li>research space in Boston, Massachusetts; Charleston, South Carolina; and Mission Bay, California;</li> <li>Chief Business Office Purchased Care office space in Denver, Colorado; and</li> <li> replacement outpatient clinics in Corpus Christi, Texas; Jacksonville and Tampa, Florida; Pontiac, Michigan; Rochester, New York (phase II); and Terre Haute, Indiana. </li></ul>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-02-16T22:28:55Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-01-24T05:00:00Z</updateDate>
+          <actionDate>2017-01-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

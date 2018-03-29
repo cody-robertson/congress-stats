@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <lastName>Blunt</lastName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+        </identifiers>
+        <bioguideId>F000444</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <lastName>FLAKE</lastName>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <firstName>JEFF</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>ID</state>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <bioguideId>C000880</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <lastName>CRAPO</lastName>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <bioguideId>W000437</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <lastName>WICKER</lastName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>ROGER</firstName>
+        <party>R</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-09T22:47:37Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Regulatory Responsibility for our Economy Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Regulatory Responsibility for our Economy Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to codify and modify regulatory requirements of Federal agencies.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Regulatory Responsibility for our Economy Act of 2017</title>
+      </item>
+    </titles>
+    <billType>S</billType>
+    <amendments />
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-09</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-01-09</introducedDate>
+    <relatedBills />
+    <committeeReports />
+    <calendarNumbers />
+    <billNumber>69</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Regulatory Responsibility for our Economy Act of</strong> <b>2017</b></p> <p> This bill sets forth general requirements for the federal regulatory system, including the protection of public health, welfare, safety, and the environment, the promotion of predictability in the regulatory process, and the consideration of benefits and costs of regulations. </p> <p>The bill requires federal agencies to: (1) propose or adopt regulations only upon a reasoned determination that the benefits of such regulations justify their costs; (2) tailor regulations to impose the least burden on society and to maximize economic and other benefits; (3) involve the public and parties affected by regulations in the regulatory process; (4) develop regulatory actions that promote innovation, flexibility, and objectivity; and (5) consider methods to promote retrospective analysis of rules that may be outmoded, ineffective, insufficient, or excessively burdensome, and develop plans for reviewing on a periodic basis significant regulation actions (i.e., those having an annual effect on the economy of $100 million or more or otherwise adversely affecting the economy). </p> <p>The bill provides for judicial review of any agency action required under this bill. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-09</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-02-02T19:04:19Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-09T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2018-02-06T16:44:25Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-01-09</actionDate>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Regulatory Responsibility for our Economy Act of 2017</title>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <bioguideId>R000307</bioguideId>
+        <state>KS</state>
+        <lastName>ROBERTS</lastName>
+        <middleName />
+        <firstName>PAT</firstName>
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <createDate>2017-01-10T05:15:46Z</createDate>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

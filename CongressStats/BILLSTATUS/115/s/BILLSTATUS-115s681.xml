@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>681</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:04Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>Boozman</lastName>
+        <bioguideId>B001236</bioguideId>
+        <state>AR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <identifiers>
+          <lisID>2176</lisID>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>Kaine</lastName>
+        <bioguideId>K000384</bioguideId>
+        <state>VA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>Gillibrand</lastName>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <firstName>PATTY</firstName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>MURRAY</lastName>
+        <bioguideId>M001111</bioguideId>
+        <state>WA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>TAMMY</firstName>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>BALDWIN</lastName>
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <firstName>CLARENCE</firstName>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>NELSON</lastName>
+        <bioguideId>N000032</bioguideId>
+        <state>FL</state>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Margaret</firstName>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>Hassan</lastName>
+        <bioguideId>H001076</bioguideId>
+        <state>NH</state>
+        <middleName>Wood</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <lastName>Schatz</lastName>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <lastName>BROWN</lastName>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <lastName>Shaheen</lastName>
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <lastName>Van Hollen</lastName>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <firstName>Al</firstName>
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <lastName>Franken</lastName>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <lastName>Booker</lastName>
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <firstName>Kamala</firstName>
+        <identifiers>
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <lastName>Harris</lastName>
+        <bioguideId>H001075</bioguideId>
+        <state>CA</state>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <lastName>STABENOW</lastName>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+        <middleName>ANN</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Duckworth</lastName>
+        <bioguideId>D000622</bioguideId>
+        <state>IL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <firstName>Catherine</firstName>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <lastName>Cortez Masto</lastName>
+        <bioguideId>C001113</bioguideId>
+        <state>NV</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>SHELLEY</firstName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2018-01-09</sponsorshipDate>
+        <lastName>CAPITO</lastName>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <lastName>Smith</lastName>
+        <bioguideId>S001203</bioguideId>
+        <state>MN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cemeteries and funerals</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>National symbols</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-05-17T18:30:16Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-21T18:53:59Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-03-21</introducedDate>
+    <title>Deborah Sampson Act</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-03-22T05:45:19Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <links />
+      <actionDate>2017-05-17</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>2452</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Deborah Sampson Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Veterans' Affairs.</text>
+          <actionDate>2017-05-16</actionDate>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Deborah Sampson Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Deborah Sampson Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend title 38, United States Code, to improve the benefits and services provided by the Department of Veterans Affairs to women veterans, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Deborah Sampson Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-03-21T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-18T19:22:00Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-21</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Deborah Sampson Act</b></p> <p>This bill directs the Department of Veterans Affairs (VA) to carry out a three-year pilot program to assess the feasibility of peer-to-peer assistance for women veterans (including those who are separating or newly separated from the Armed Forces), with emphasis placed on women who suffered service-related sexual trauma or who are at risk of becoming homeless.</p> <p> Additionally, the VA shall: </p> <ul> <li>expand the women veterans call center to include a text messaging capability; </li> <li>establish a partnership with at least one nongovernmental organization to provide legal services to women veterans based upon their 10 highest unmet needs; </li> <li>retrofit VA medical facilities with fixtures, materials, and other outfitting measures to support the care of women veterans; </li> <li>ensure that each VA medical facility has at least one full-time or part-time women's health primary care provider; </li> <li>expand to 14 days VA post-delivery care services for women veterans who are receiving maternity care in a VA or VA-contracted facility; </li> <li>ensure that the women veteran manager program is supported at each VA medical center with a program manager and an ombudsman; </li> <li>collect, analyze, and publish data on each VA service or benefit program and disaggregate such data by sex and minority status; and </li> <li>publish an Internet website that serves as a centralized information source for women veterans' benefits and services.</li> </ul> <p>The bill makes funds available for: (1) primary care and emergency care clinicians' participation in the women veterans health care mini-residency program, and (2) organizations that focus on providing assistance to women veterans and their families.</p> <p>The bill: (1) provides for reintegration and readjustment services to veterans and family members in group retreat settings, and (2) expresses the sense of Congress that the VA's motto should be more inclusive. </p> </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>2069</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-11-02</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-02</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:55Z</updateDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gillibrand</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DURBIN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+        </identifiers>
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <party>D</party>
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Franken</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Merkley</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <bioguideId>M001111</bioguideId>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MURRAY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <bioguideId>S000033</bioguideId>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <party>I</party>
+        <firstName>BERNARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SANDERS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <party>D</party>
+        <firstName>TAMMY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BALDWIN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName>A.</middleName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Booker</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-11-02T19:39:03Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-11-02</introducedDate>
+    <title>Protecting Workers' Freedom to Organize Act</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-11-03T00:41:18Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2017-11-02</actionDate>
+    </latestAction>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Protecting Workers' Freedom to Organize Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend the National Labor Relations Act to clarify the requirements for meeting the definition of the term "employee", and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Protecting Workers' Freedom to Organize Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Protecting Workers’ Freedom to Organize Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Protecting Workers' Freedom to Organize Act</b></p> <p>This bill amends the National Labor Relations Act to modify the definitions of &quot;employee&quot; and &quot;supervisor&quot; under that Act to prevent the misclassification of employees as independent contractors in order to deny them collective bargaining rights. An individual performing any services is deemed to be an employee and not an independent contractor unless such individual is free from control and direction in the performance of such services, the services are performed outside the usual course of the employer's business, and the individual is customarily engaged in an independently established business.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-11-02</actionDate>
+          <lastSummaryUpdateDate>2018-01-02T15:57:25Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-11-02T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-06-13</introducedDate>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-06-16</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <billNumber>2889</billNumber>
+    <sponsors>
+      <item>
+        <state>VT</state>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <bioguideId>W000800</bioguideId>
+        <lastName>Welch</lastName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <district>0</district>
+        <firstName>Peter</firstName>
+        <byRequestType />
+        <middleName />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Closing Loopholes for Orphan Drugs Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend title III of the Public Health Service Act to limit the orphan drug exclusion under the drug discount program under section 340B of such title.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Closing Loopholes for Orphan Drugs Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Closing Loopholes for Orphan Drugs Act</title>
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CURBELO of Florida:H.R. 2901.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18, which states that ``TheCongress shall have power to make all laws which shall benecessary and proper for carrying into execution theforegoing powers, and all other powers vested by theConstitution in the government of the United States, or inany Department or Officer thereof.''[Page H4938]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-06-13T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-11-20T16:28:26Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-13</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Closing Loopholes for Orphan Drugs Act</b></p> This bill amends the Public Health Service Act to revise the 340B Drug Pricing Program, which currently requires drug manufacturers to discount orphan drugs (drugs for rare conditions) for certain entities covered by the program. The bill discounts orphan drugs that are not being used to treat rare conditions for all entities covered by the program.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-16T19:47:28Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-13T14:00:36Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <updateDate>2018-02-06T16:43:08Z</updateDate>
+    <title>Closing Loopholes for Orphan Drugs Act</title>
+    <createDate>2017-06-14T03:11:37Z</createDate>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-16</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-06-13</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-06-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-06-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <amendments />
+    <notes />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <lastName>Harper</lastName>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001045</bioguideId>
+        <firstName>Gregg</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <gpoId>8007</gpoId>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <lastName>PETERSON</lastName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <middleName>C.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000258</bioguideId>
+        <firstName>COLLIN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <introducedDate>2017-04-07</introducedDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <middleName>JOSEPH</middleName>
+        <state>VT</state>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <firstName>PATRICK</firstName>
+        <bioguideId>L000174</bioguideId>
+        <party>D</party>
+        <lastName>LEAHY</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <middleName>D.</middleName>
+        <state>ID</state>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>C000880</bioguideId>
+        <party>R</party>
+        <lastName>CRAPO</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <middleName />
+        <state>CA</state>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <firstName>DIANNE</firstName>
+        <bioguideId>F000062</bioguideId>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <recordedVotes />
+    <amendments />
+    <laws />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-04-25</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-25</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <committee />
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-04-25</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2535-2536</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2535-2536</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2535-2536)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-25</actionDate>
+        <links />
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>14500</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2460-2461</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2460-2461</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2460-2461)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-07</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <actionDate>2017-04-25</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution supporting the mission and goals of National Crime Victims' Rights Week in 2017, which include increasing public awareness of the rights, needs, and concerns of, and services available to assist, victims and survivors of crime in the United States.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution supporting the mission and goals of National Crime Victims' Rights Week in 2017, which include increasing public awareness of the rights, needs, and concerns of, and services available to assist, victims and survivors of crime in the United States.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses support for the mission and goals of National Crime Victims' Rights Week, which include increasing awareness of: (1) the impact of crime on victims, survivors, and their families; and (2) the challenges to achieving justice and the many solutions available to meet those challenges. </p> <p>Recognizes that crime victims, survivors, and their families should be treated with dignity, fairness, and respect. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-04-21T15:38:43Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-04-07T04:00:00Z</updateDate>
+          <actionDate>2017-04-07</actionDate>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Expresses support for the mission and goals of National Crime Victims' Rights Week, which include increasing awareness of: (1) the impact of crime on victims, survivors, and their families; and (2) the challenges to achieving justice and the many solutions available to meet those challenges. </p> <p>Recognizes that crime victims, survivors, and their families should be treated with dignity, fairness, and respect. </p>]]></text>
+          <name>Passed Senate without amendment</name>
+          <lastSummaryUpdateDate>2017-05-01T13:44:50Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <updateDate>2017-04-25T13:05:23Z</updateDate>
+          <actionDate>2017-04-25</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution supporting the mission and goals of National Crime Victims' Rights Week in 2017, which include increasing public awareness of the rights, needs, and concerns of, and services available to assist, victims and survivors of crime in the United States.</title>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-02-06T16:44:05Z</updateDate>
+    <notes />
+    <billType>SRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-04-25T21:45:24Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-04-07T16:44:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <committeeReports />
+    <billNumber>131</billNumber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <state>IA</state>
+        <bioguideId>G000386</bioguideId>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <createDate>2017-04-08T00:41:45Z</createDate>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

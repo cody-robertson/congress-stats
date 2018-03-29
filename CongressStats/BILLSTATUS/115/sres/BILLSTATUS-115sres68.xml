@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution raising awareness of modern slavery.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution raising awareness of modern slavery.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2017-02-27</introducedDate>
+    <latestAction>
+      <actionDate>2017-03-07</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S1647)</text>
+      <links />
+    </latestAction>
+    <title>A resolution raising awareness of modern slavery.</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Labor standards</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <updateDate>2018-02-06T16:44:00Z</updateDate>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <createDate>2017-02-28T05:17:29Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-03-07T23:15:43Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-27T22:54:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>68</billNumber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <billType>SRES</billType>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-07</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1647</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1647</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S1647)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S1647</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1647</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S1647)</text>
+        <committee />
+        <actionDate>2017-03-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-03-07</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <links />
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <actionDate>2017-03-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S1452</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1452</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1452)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-02-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001071</bioguideId>
+        <party>R</party>
+        <firstName>Bob</firstName>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+        <identifiers>
+          <bioguideId>C001071</bioguideId>
+          <gpoId>8294</gpoId>
+          <lisID>1825</lisID>
+        </identifiers>
+        <lastName>Corker</lastName>
+        <state>TN</state>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-04T17:06:10Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-27T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Commends each individual who supported the END IT movement on February 23, 2017.</p> <p> Notes the dedication of individuals, organizations, and governments to end modern slavery. </p> <p>Calls for international action to bring an end to modern slavery. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-27</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-03-11T16:10:25Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-07T12:54:11Z</updateDate>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Commends each individual who supported the END IT movement on February 23, 2017.</p> <p> Notes the dedication of individuals, organizations, and governments to end modern slavery. </p> <p>Calls for international action to bring an end to modern slavery. </p>]]></text>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2017-03-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <cosponsors>
+      <item>
+        <lastName>CARDIN</lastName>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <party>D</party>
+        <state>MD</state>
+        <bioguideId>C000141</bioguideId>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

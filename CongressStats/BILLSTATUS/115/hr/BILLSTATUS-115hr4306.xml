@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-03</actionDate>
+        <committee>
+          <name>Water, Power and Oceans Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-08</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 182 (Wednesday, November 8, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUFFMAN:H.R. 4306.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1: The Congress shall havePower to lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defence andgeneral Welfare of the United States; but all Duties, Impostsand Excises shall be uniform throughout the United States.Article I, Section 8, Clause 18: To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H371]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+      <actionDate>2018-01-03</actionDate>
+    </latestAction>
+    <laws />
+    <cosponsors>
+      <item>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <bioguideId>L000554</bioguideId>
+        <identifiers>
+          <bioguideId>L000554</bioguideId>
+          <gpoId>8044</gpoId>
+          <lisID>699</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <lastName>LOBIONDO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Gwen</firstName>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <bioguideId>M001160</bioguideId>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <middleName />
+        <state>WI</state>
+        <lastName>Moore</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Madeleine</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <bioguideId>B001245</bioguideId>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <middleName>Z.</middleName>
+        <state>GU</state>
+        <lastName>Bordallo</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Jimmy</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <bioguideId>P000613</bioguideId>
+        <identifiers>
+          <lisID>2309</lisID>
+          <gpoId />
+          <bioguideId>P000613</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>20</district>
+        <middleName />
+        <state>CA</state>
+        <lastName>Panetta</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Steven</firstName>
+        <sponsorshipDate>2017-11-17</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <bioguideId>P000601</bioguideId>
+        <identifiers>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+          <lisID>2035</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <middleName>M.</middleName>
+        <state>MS</state>
+        <lastName>Palazzo</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2017-11-17</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <bioguideId>P000034</bioguideId>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <middleName />
+        <state>NJ</state>
+        <lastName>PALLONE</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>PETER</firstName>
+        <sponsorshipDate>2017-11-21</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <bioguideId>D000191</bioguideId>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <middleName>A.</middleName>
+        <state>OR</state>
+        <lastName>DEFAZIO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>GENE</firstName>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <bioguideId>G000410</bioguideId>
+        <identifiers>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>29</district>
+        <middleName />
+        <state>TX</state>
+        <lastName>GREEN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <bioguideId>S001201</bioguideId>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+          <gpoId />
+          <lisID>2341</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <state>NY</state>
+        <lastName>Suozzi</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <bioguideId>C001069</bioguideId>
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+          <lisID>1836</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <middleName />
+        <state>CT</state>
+        <lastName>Courtney</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bradley</firstName>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <bioguideId>B001289</bioguideId>
+        <identifiers>
+          <bioguideId>B001289</bioguideId>
+          <gpoId />
+          <lisID>2197</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <middleName />
+        <state>AL</state>
+        <lastName>Byrne</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Colleen</firstName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <bioguideId>H001050</bioguideId>
+        <identifiers>
+          <gpoId>7912</gpoId>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <middleName />
+        <state>HI</state>
+        <lastName>Hanabusa</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <bioguideId>P000607</bioguideId>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <middleName />
+        <state>WI</state>
+        <lastName>Pocan</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>ROSA</firstName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <bioguideId>D000216</bioguideId>
+        <identifiers>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <middleName />
+        <state>CT</state>
+        <lastName>DELAURO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>MIKE</firstName>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <bioguideId>T000460</bioguideId>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <middleName />
+        <state>CA</state>
+        <lastName>THOMPSON</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <bioguideId>K000188</bioguideId>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <middleName />
+        <state>WI</state>
+        <lastName>KIND</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Suzanne</firstName>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <bioguideId>B001278</bioguideId>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <middleName />
+        <state>OR</state>
+        <lastName>Bonamici</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <bioguideId>L000559</bioguideId>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <middleName>R.</middleName>
+        <state>RI</state>
+        <lastName>LANGEVIN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <bioguideId>G000551</bioguideId>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <middleName>M.</middleName>
+        <state>AZ</state>
+        <lastName>Grijalva</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Alan</firstName>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <bioguideId>L000579</bioguideId>
+        <identifiers>
+          <lisID>2111</lisID>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>47</district>
+        <middleName>S.</middleName>
+        <state>CA</state>
+        <lastName>Lowenthal</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Derek</firstName>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <bioguideId>K000381</bioguideId>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+          <lisID>2169</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <middleName />
+        <state>WA</state>
+        <lastName>Kilmer</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Chellie</firstName>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <bioguideId>P000597</bioguideId>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <middleName />
+        <state>ME</state>
+        <lastName>Pingree</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bruce</firstName>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <bioguideId>P000611</bioguideId>
+        <identifiers>
+          <bioguideId>P000611</bioguideId>
+          <gpoId />
+          <lisID>2247</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <middleName />
+        <state>ME</state>
+        <lastName>Poliquin</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>National Sea Grant College Program Amendments Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <date>2018-01-03T21:37:24Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water, Power and Oceans Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-11-08T15:00:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <calendarNumbers />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Agricultural research</name>
+          </item>
+          <item>
+            <name>Aquaculture</name>
+          </item>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Food supply, safety, and labeling</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Great Lakes</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Seafood</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>4306</billNumber>
+    <cboCostEstimates />
+    <introducedDate>2017-11-08</introducedDate>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <middleName />
+        <bioguideId>H001068</bioguideId>
+        <firstName>Jared</firstName>
+        <byRequestType />
+        <lastName>Huffman</lastName>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <party>D</party>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <latestTitle>National Sea Grant College Program Amendments Act of 2017</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+          <actionDate>2017-09-19</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <number>129</number>
+      </item>
+    </relatedBills>
+    <createDate>2017-11-09T03:11:18Z</createDate>
+    <updateDate>2018-02-24T08:15:35Z</updateDate>
+    <recordedVotes />
+    <titles>
+      <item>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

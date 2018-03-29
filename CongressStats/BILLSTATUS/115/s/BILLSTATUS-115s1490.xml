@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-25T21:38:18Z</updateDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-29T18:15:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestTitle>Alaska Native Claims Settlement Improvement Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>1481</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <title>ANCSA Nagamut Group Land Conveyance Settlement Act of 2017</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>ANCSA Nagamut Group Land Conveyance Settlement Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Alaska Native Claims Settlement Act regarding the Nagamut selection, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>ANCSA Nagamut Group Land Conveyance Settlement Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>ANCSA Nagamut Group Land Conveyance Settlement Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <notes />
+    <committeeReports />
+    <recordedVotes />
+    <billNumber>1490</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Lisa</firstName>
+        <byRequestType />
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-06-29</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-06-30T00:41:34Z</createDate>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <lastName>Sullivan</lastName>
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <state>AK</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+    </cosponsors>
+    <introducedDate>2017-06-29</introducedDate>
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-06-29</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

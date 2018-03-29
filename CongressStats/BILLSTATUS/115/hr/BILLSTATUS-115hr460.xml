@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. YOUNG of Iowa:H.R. 460.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution.[Page H392]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-01-24T19:10:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-01-11T15:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>115</congress>
+        <number>4986</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+          <actionDate>2018-02-08</actionDate>
+        </latestAction>
+        <latestTitle>FCC Reauthorization Act of 2018</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>115</congress>
+        <number>96</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Presented to President.</text>
+          <actionDate>2018-02-14</actionDate>
+        </latestAction>
+        <latestTitle>Improving Rural Call Quality and Reliability Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>1</generalDebate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>17:15:24</actionTime>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-23</actionDate>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H582-583</url>
+            <name>H582-583</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H583-584</url>
+            <name>H583-584</name>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H582-583; H583-584)</text>
+        <actionTime>17:15:22</actionTime>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-23</actionDate>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H582-583</url>
+            <name>H582-583</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H583-584</url>
+            <name>H583-584</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H582-583; H583-584)</text>
+        <actionTime>17:15:22</actionTime>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-23</actionDate>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/460</url>
+            <name>H.R. 460</name>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 460.</text>
+        <actionTime>17:01:42</actionTime>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-23</actionDate>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H582-586</url>
+            <name>H582-586</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H583-586</url>
+            <name>H583-586</name>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H582-586; H583-586)</text>
+        <actionTime>17:01:34</actionTime>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-23</actionDate>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <links />
+        <text>Mr. Lance moved to suspend the rules and pass the bill.</text>
+        <actionTime>17:01:23</actionTime>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-23</actionDate>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-11</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-11</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-11</actionDate>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-02-01T23:04:15Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-11</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-11T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Improving Rural Call Quality and Reliability Act of </strong><strong>2017</strong></p> <p>This bill amends the Communications Act of 1934 to require intermediate providers that offer the capability to transmit voice communications and signaling information from one destination to another, and that charge a rate to any other entity (including an affiliated entity) for such a transmission, to: (1) register with the Federal Communications Commission (FCC), and (2) comply with service quality standards to be established by the FCC. </p> <p>An "intermediate provider" is an entity that: (1) enters a business arrangement with a long-distance voice service provider that makes the initial call path choice for more than 100,000 domestic retail subscriber lines, or with another intermediate provider, to carry, route, or transmit voice traffic from a call placed from or to an end user connection using a North American Numbering Plan resource; and (2) does not itself (directly or in conjunction with an affiliate) serve as such a long-distance initial call path choice provider in the context of originating or terminating a given call. </p> <p>The bill prohibits such long-distance providers (including local exchange carriers, interexchange carriers, commercial mobile radio services, interconnected voice over Internet Protocol [VoIP] services, and certain non-interconnected VoIP services) from using an intermediate provider to transmit voice communications and signals unless the intermediate provider is so registered. </p> <p>The FCC must: (1) ensure the integrity of the transmission of voice communications to all customers in the United States, (2) prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such voice communications, and (3) make a registry of intermediate providers publicly available on the FCC website. </p> <p>The bill shall not be construed to preempt or expand the authority of a state agency or public utility commission to collect data, or enforce state law and regulations, regarding the completion of intrastate voice communications. </p> <p>Certain long-distance providers that make initial call path choices are exempt from service quality standards that the FCC is required to establish under this bill if they certify under a safe harbor provision in existing FCC rules that they monitor the performance of, or do not use, intermediate providers. </p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-02-01T23:04:40Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-23</actionDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <updateDate>2017-01-23T14:19:51Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Improving Rural Call Quality and Reliability Act of</b> <b>2017</b></p> <p>(Sec. 2) This bill amends the Communications Act of 1934 to require intermediate providers that offer the capability to transmit voice communications and signaling information from one destination to another, and that charge a rate to any other entity (including an affiliated entity) for such a transmission, to: (1) register with the Federal Communications Commission (FCC), and (2) comply with service quality standards to be established by the FCC. </p> <p>An &quot;intermediate provider&quot; is an entity that: (1) enters a business arrangement with a long-distance voice service provider that makes the initial call path choice for more than 100,000 domestic retail subscriber lines, or with another intermediate provider, to carry, route, or transmit voice traffic from a call placed from or to an end user connection using a North American Numbering Plan resource; and (2) does not itself (directly or in conjunction with an affiliate) serve as such a long-distance initial call path choice provider in the context of originating or terminating a given call. </p> <p>The bill prohibits such long-distance providers (including local exchange carriers, interexchange carriers, commercial mobile radio services, interconnected voice over Internet Protocol [VoIP] services, and certain non-interconnected VoIP services) from using an intermediate provider to transmit voice communications and signals unless the intermediate provider is so registered. </p> <p>The FCC must: (1) ensure the integrity of the transmission of voice communications to all customers in the United States, (2) prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such voice communications, and (3) make a registry of intermediate providers publicly available on the FCC website. </p> <p>The bill shall not be construed to preempt or expand the authority of a state agency or public utility commission to collect data, or enforce state law and regulations, regarding the completion of intrastate voice communications. </p> <p>Certain long-distance providers that make initial call path choices are exempt from service quality standards that the FCC is required to establish under this bill if they certify under a safe harbor provision in existing FCC rules that they monitor the performance of, or do not use, intermediate providers. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-01-11</introducedDate>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+      <actionDate>2017-01-24</actionDate>
+    </latestAction>
+    <createDate>2017-01-12T04:45:50Z</createDate>
+    <laws />
+    <cosponsors>
+      <item>
+        <lastName>Welch</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <bioguideId>W000800</bioguideId>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VT</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Loebsack</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <firstName>David</firstName>
+        <bioguideId>L000565</bioguideId>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IA</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Duffy</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8220</gpoId>
+          <bioguideId>D000614</bioguideId>
+          <lisID>2072</lisID>
+        </identifiers>
+        <firstName>Sean</firstName>
+        <bioguideId>D000614</bioguideId>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <lastName>Stewart</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2168</lisID>
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <bioguideId>S001192</bioguideId>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>UT</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Pocan</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <bioguideId>P000607</bioguideId>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Latta</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8095</gpoId>
+          <lisID>1885</lisID>
+          <bioguideId>L000566</bioguideId>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <bioguideId>L000566</bioguideId>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <bioguideId>K000188</bioguideId>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>NOLAN</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <bioguideId>N000127</bioguideId>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Noem</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8147</gpoId>
+          <lisID>2060</lisID>
+          <bioguideId>N000184</bioguideId>
+        </identifiers>
+        <firstName>Kristi</firstName>
+        <bioguideId>N000184</bioguideId>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SD</state>
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <firstName>Kevin</firstName>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ND</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Luetkemeyer</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+          <bioguideId>L000569</bioguideId>
+        </identifiers>
+        <firstName>Blaine</firstName>
+        <bioguideId>L000569</bioguideId>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <middleName />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. Young, David [R-IA-3]</fullName>
+        <state>IA</state>
+        <identifiers>
+          <lisID>2242</lisID>
+          <gpoId />
+          <bioguideId>Y000066</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>David</firstName>
+        <middleName />
+        <lastName>Young</lastName>
+        <district>3</district>
+        <byRequestType />
+        <bioguideId>Y000066</bioguideId>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-16T18:13:57Z</updateDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Communications Act of 1934 to ensure the integrity of voice communications and to prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such communications.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+    <billNumber>460</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>568</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to House Administration</text>
+      <links />
+      <actionDate>2017-01-13</actionDate>
+    </latestAction>
+    <createDate>2017-01-14T04:47:33Z</createDate>
+    <title>FAIR Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Financial Accountability in Reporting Act or the FAIR Ac</b>t </p> <p>This bill amends the Ethics in Government Act of 1978 to require an individual who filed a financial disclosure report as a candidate for the office of President, Vice President, or Member of Congress to file a financial disclosure report by May 15 of the year in which the individual assumed the position or within 30 days of assuming the position, whichever is later. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-13</actionDate>
+          <lastSummaryUpdateDate>2017-10-02T20:09:32Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-13T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to House Administration</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionDate>2017-01-13</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to House Oversight and Government Reform</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionDate>2017-01-13</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionDate>2017-01-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-01-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-01-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:40:56Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>S001156</bioguideId>
+        <district>38</district>
+        <middleName>T.</middleName>
+        <byRequestType />
+        <firstName>LINDA</firstName>
+        <lastName>SANCHEZ</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-13T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-13T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>J000298</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jayapal</lastName>
+        <state>WA</state>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <middleName />
+        <firstName>Pramila</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>VELAZQUEZ</lastName>
+        <state>NY</state>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <middleName>M.</middleName>
+        <firstName>NYDIA</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001145</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <middleName>D.</middleName>
+        <firstName>JANICE</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001143</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCOLLUM</lastName>
+        <state>MN</state>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <middleName />
+        <firstName>BETTY</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000389</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Khanna</lastName>
+        <state>CA</state>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <middleName />
+        <firstName>Ro</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001168</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sarbanes</lastName>
+        <state>MD</state>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <middleName>P.</middleName>
+        <firstName>John</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001168</bioguideId>
+          <gpoId>7978</gpoId>
+          <lisID>1854</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001170</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shea-Porter</lastName>
+        <state>NH</state>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <middleName />
+        <firstName>Carol</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEE</lastName>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SANCHEZ:H.R. 568.Congress has the power to enact this legislation pursuantto the following:Article One, section 8, clause 18:Congress shall have Power--To make all Laws which shall benecessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department of Officer thereof.[Page H548]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-01-13</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Financial Accountability in Reporting Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>FAIR Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Financial Accountability in Reporting Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Ethics in Government Act of 1978 to require certain Federal officials to make requisite financial disclosures within 30 days of assuming office, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>FAIR Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

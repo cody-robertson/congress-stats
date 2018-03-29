@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+        <bioguideId>B001261</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>WY</state>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <bioguideId>E000285</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <state>WY</state>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <lastName>BALDWIN</lastName>
+        <bioguideId>B001230</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>WI</state>
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MN</state>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-17T21:16:01Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to direct the Secretary of the Interior to reissue the final rules relating to the listing of the gray wolf in the Western Great Lakes and the State of Wyoming under the Endangered Species Act of 1973.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to direct the Secretary of the Interior to reissue the final rules relating to the listing of the gray wolf in the Western Great Lakes and the State of Wyoming under the Endangered Species Act of 1973.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <amendments />
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-17</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-17</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <introducedDate>2017-01-17</introducedDate>
+    <relatedBills>
+      <item>
+        <number>3668</number>
+        <latestTitle>SHARE Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 224.</text>
+          <actionDate>2017-09-18</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>424</number>
+        <latestTitle>Gray Wolf State Management Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 361.</text>
+          <actionDate>2018-01-08</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <calendarNumbers />
+    <billNumber>164</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill requires the Department of the Interior to reissue two rules that removed protections under the Endangered Species Act of 1973 for the gray wolf populations located in Wyoming and the western Great Lakes (all of Wisconsin, Michigan, and Minnesota, as well as portions of North Dakota, South Dakota, Iowa, Illinois, Indiana, and Ohio). In addition, this bill prohibits judicial review of the reissued rules.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-01-17</actionDate>
+          <lastSummaryUpdateDate>2017-08-09T19:01:58Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-01-17T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2018-02-06T16:44:32Z</updateDate>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2017-01-17</actionDate>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Michigan</name>
+          </item>
+          <item>
+            <name>Minnesota</name>
+          </item>
+          <item>
+            <name>Wisconsin</name>
+          </item>
+          <item>
+            <name>Wyoming</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>A bill to direct the Secretary of the Interior to reissue the final rules relating to the listing of the gray wolf in the Western Great Lakes and the State of Wyoming under the Endangered Species Act of 1973.</title>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <bioguideId>J000293</bioguideId>
+        <state>WI</state>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <firstName>Ron</firstName>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <createDate>2017-01-18T05:05:00Z</createDate>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <cosponsors />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <notes />
+    <title>Northern Mariana Islands U.S. Workforce Act</title>
+    <sponsors>
+      <item>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <state>AK</state>
+        <bioguideId>M001153</bioguideId>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Northern Mariana Islands U.S. Workforce Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to incentivize the hiring of United States workers in the Commonwealth of the Northern Mariana Islands, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Northern Mariana Islands U.S. Workforce Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Northern Mariana Islands U.S. Workforce Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>S</billType>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <actionDate>2018-02-06</actionDate>
+      <links />
+    </latestAction>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2018-02-06T15:00:36Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2018-01-19T18:36:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2018-01-19</introducedDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billNumber>2325</billNumber>
+    <updateDate>2018-02-15T05:19:03Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-06</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2018-01-19</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>4869</number>
+        <latestAction>
+          <actionDate>2018-01-23</actionDate>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Northern Mariana Islands U.S. Workforce Act</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <createDate>2018-01-20T04:11:03Z</createDate>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

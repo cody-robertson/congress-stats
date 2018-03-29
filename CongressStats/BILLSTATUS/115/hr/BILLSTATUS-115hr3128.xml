@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-29</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRIFFITH:H.R. 3128.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 18 of the UnitedStates Constitution.[Page H5378]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2017-06-29</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2017-06-29</introducedDate>
+    <relatedBills />
+    <amendments />
+    <cosponsors>
+      <item>
+        <middleName>B.</middleName>
+        <state>WV</state>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <lastName>McKinley</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <bioguideId>M001180</bioguideId>
+      </item>
+      <item>
+        <middleName>H.</middleName>
+        <state>WV</state>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <lastName>Jenkins</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000297</bioguideId>
+          <lisID>2278</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Evan</firstName>
+        <bioguideId>J000297</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>ND</state>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kevin</firstName>
+        <bioguideId>C001096</bioguideId>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <state>AZ</state>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <bioguideId>G000565</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <bioguideId>J000292</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>MT</state>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <lastName>Gianforte</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000584</bioguideId>
+          <gpoId />
+          <lisID>2359</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Greg</firstName>
+        <bioguideId>G000584</bioguideId>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <state>TN</state>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <lastName>Roe</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <bioguideId>R000582</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>KY</state>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <lastName>Barr</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2131</lisID>
+          <gpoId />
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Andy</firstName>
+        <bioguideId>B001282</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>IL</state>
+        <sponsorshipDate>2017-11-06</sponsorshipDate>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <lastName>Davis</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Rodney</firstName>
+        <bioguideId>D000619</bioguideId>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <state>CO</state>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <lastName>Tipton</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <bioguideId>T000470</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>IA</state>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <lastName>King</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>K000362</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>MS</state>
+        <sponsorshipDate>2017-11-17</sponsorshipDate>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <lastName>Harper</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gregg</firstName>
+        <bioguideId>H001045</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>KY</state>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <lastName>Guthrie</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000558</bioguideId>
+          <lisID>1922</lisID>
+          <gpoId>7954</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brett</firstName>
+        <bioguideId>G000558</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>IN</state>
+        <sponsorshipDate>2017-12-12</sponsorshipDate>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <lastName>Rokita</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000592</bioguideId>
+          <lisID>2017</lisID>
+          <gpoId>7943</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Todd</firstName>
+        <bioguideId>R000592</bioguideId>
+      </item>
+      <item>
+        <middleName>X.</middleName>
+        <state>WV</state>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <lastName>Mooney</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+          <lisID>2277</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Alexander</firstName>
+        <bioguideId>M001195</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <lastName>Gibbs</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2049</lisID>
+          <bioguideId>G000563</bioguideId>
+          <gpoId>8108</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bob</firstName>
+        <bioguideId>G000563</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Industrial facilities</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend section 111 of the Clean Air Act to clarify when a physical change in, or change in the method of operation of, a stationary source constitutes a modification, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend section 111 of the Clean Air Act to clarify when a physical change in, or change in the method of operation of, a stationary source constitutes a modification, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <title>To amend section 111 of the Clean Air Act to clarify when a physical change in, or change in the method of operation of, a stationary source constitutes a modification, and for other purposes.</title>
+    <congress>115</congress>
+    <createDate>2017-06-30T03:11:37Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-29T14:07:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <laws />
+    <recordedVotes />
+    <updateDate>2018-01-18T08:15:24Z</updateDate>
+    <billNumber>3128</billNumber>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8200</gpoId>
+          <bioguideId>G000568</bioguideId>
+          <lisID>2070</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>9</district>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <middleName>Morgan</middleName>
+        <lastName>Griffith</lastName>
+        <state>VA</state>
+        <bioguideId>G000568</bioguideId>
+        <firstName>H.</firstName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

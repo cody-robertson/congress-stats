@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4510</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2017-12-01</actionDate>
+    </latestAction>
+    <createDate>2017-12-02T03:11:14Z</createDate>
+    <title>No Congressional Vehicle Leases Act</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <actionDate>2017-12-01</actionDate>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-12-01</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-12-01</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-08T08:16:09Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>B001294</bioguideId>
+        <district>1</district>
+        <middleName />
+        <byRequestType />
+        <firstName>Rod</firstName>
+        <lastName>Blum</lastName>
+        <state>IA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2241</lisID>
+          <gpoId />
+          <bioguideId>B001294</bioguideId>
+        </identifiers>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-01T14:01:35Z</date>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+          <lisID>2306</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <lastName>O'Halleran</lastName>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>O000171</bioguideId>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NC</state>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <lastName>JONES</lastName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <firstName>WALTER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+        </identifiers>
+        <district>26</district>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <lastName>Burgess</lastName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <middleName>C.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001248</bioguideId>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 122 (Wednesday, July 19, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TROTT:H.R. 3317.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H6043]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-12-01</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>No Congressional Vehicle Leases Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit the use of official funds provided for the operations of a House of Congress for long-term vehicle leases, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>No Congressional Vehicle Leases Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>No Congressional Vehicle Leases Act</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

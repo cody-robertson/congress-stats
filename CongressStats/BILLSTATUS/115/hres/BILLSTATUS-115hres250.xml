@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>250</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-21</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:41Z</updateDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <district>9</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000130</bioguideId>
+          <lisID>2112</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <district>51</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <party>D</party>
+        <firstName>Juan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vargas</lastName>
+        <state>CA</state>
+        <bioguideId>V000130</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <party>D</party>
+        <firstName>Jamie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+        <bioguideId>R000606</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+        <district>37</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <party>D</party>
+        <firstName>Karen</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bass</lastName>
+        <state>CA</state>
+        <bioguideId>B001270</bioguideId>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Arkansas</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Connecticut</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Delaware</name>
+          </item>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Hawaii</name>
+          </item>
+          <item>
+            <name>Iowa</name>
+          </item>
+          <item>
+            <name>Juvenile crime and gang violence</name>
+          </item>
+          <item>
+            <name>Kansas</name>
+          </item>
+          <item>
+            <name>Kentucky</name>
+          </item>
+          <item>
+            <name>Massachusetts</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>South Dakota</name>
+          </item>
+          <item>
+            <name>Supreme Court</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Utah</name>
+          </item>
+          <item>
+            <name>Vermont</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+          <item>
+            <name>Washington State</name>
+          </item>
+          <item>
+            <name>West Virginia</name>
+          </item>
+          <item>
+            <name>Wyoming</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:08:30Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-21T14:51:35Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-04-05</introducedDate>
+    <title>Expressing the need to eliminate life without parole for children.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+      <actionDate>2017-04-21</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-04-06T03:11:46Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Cardenas</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>C001097</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <firstName>Tony</firstName>
+        <district>29</district>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <lisID>2107</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the need to eliminate life without parole for children.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Expressing the need to eliminate life without parole for children.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Applauds and celebrates the Supreme Court's decisions in <i>Roper v. Simmons</i>, <i>Graham v. Florida</i>, and <i>Miller v. Alabama</i> to strike down the death penalty, the use of life without parole sentences for non-homicide offenses, and the use of mandatory life without parole sentences for children in the United States.</p> <p>Applauds the states of Texas, Nevada, Wyoming, Kentucky, Kansas, Colorado, Montana, Alaska, Hawaii, Delaware, Massachusetts, Vermont, Connecticut, West Virginia, California, Florida, Washington, and the District of Columbia for recent legislative changes that eliminated life without the possibility of release or parole sentences for children convicted of serious crimes.</p> <p>Encourages other state legislatures to eliminate extreme sentences for children convicted of serious crimes.</p>]]></text>
+          <lastSummaryUpdateDate>2017-04-10T13:52:48Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

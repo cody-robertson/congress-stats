@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          <systemCode>hsvr09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2017-02-07</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a Nation.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Recognizing the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a Nation.</title>
+      </item>
+    </titles>
+    <billNumber>22</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <lastName>O'Halleran</lastName>
+        <bioguideId>O000171</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>AZ</state>
+        <firstName>Tom</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000171</bioguideId>
+          <lisID>2306</lisID>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+      </item>
+      <item>
+        <lastName>Evans</lastName>
+        <bioguideId>E000296</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>PA</state>
+        <firstName>Dwight</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+          <lisID>2298</lisID>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+      </item>
+      <item>
+        <lastName>JACKSON LEE</lastName>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <firstName>SHEILA</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <district>18</district>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+      <item>
+        <lastName>Scott</lastName>
+        <bioguideId>S001157</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>GA</state>
+        <firstName>David</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+          <gpoId>7910</gpoId>
+          <lisID>1722</lisID>
+        </identifiers>
+        <district>13</district>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+      </item>
+      <item>
+        <lastName>BISHOP</lastName>
+        <bioguideId>B000490</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <state>GA</state>
+        <firstName>SANFORD</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+      </item>
+      <item>
+        <lastName>Soto</lastName>
+        <bioguideId>S001200</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+        <firstName>Darren</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+      </item>
+      <item>
+        <lastName>Takano</lastName>
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <district>41</district>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+      </item>
+      <item>
+        <lastName>CONYERS</lastName>
+        <bioguideId>C000714</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MI</state>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+      </item>
+      <item>
+        <lastName>Vargas</lastName>
+        <bioguideId>V000130</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <firstName>Juan</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <lisID>2112</lisID>
+          <gpoId />
+        </identifiers>
+        <district>51</district>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <bioguideId>K000385</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <state>IL</state>
+        <firstName>Robin</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+      </item>
+      <item>
+        <lastName>Jeffries</lastName>
+        <bioguideId>J000294</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <state>NY</state>
+        <firstName>Hakeem</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2149</lisID>
+          <gpoId />
+          <bioguideId>J000294</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+      </item>
+      <item>
+        <lastName>Veasey</lastName>
+        <bioguideId>V000131</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <state>TX</state>
+        <firstName>Marc</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <lisID>2166</lisID>
+          <gpoId />
+        </identifiers>
+        <district>33</district>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+      </item>
+      <item>
+        <lastName>Jayapal</lastName>
+        <bioguideId>J000298</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>WA</state>
+        <firstName>Pramila</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+          <lisID>2354</lisID>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+      </item>
+      <item>
+        <lastName>RYAN</lastName>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>OH</state>
+        <firstName>TIM</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+      </item>
+      <item>
+        <lastName>HASTINGS</lastName>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <district>20</district>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <state>NY</state>
+        <firstName>Yvette</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+      </item>
+      <item>
+        <lastName>Lawrence</lastName>
+        <bioguideId>L000581</bioguideId>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <state>MI</state>
+        <firstName>Brenda</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000581</bioguideId>
+          <gpoId />
+          <lisID>2252</lisID>
+        </identifiers>
+        <district>14</district>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+      </item>
+      <item>
+        <lastName>Demings</lastName>
+        <bioguideId>D000627</bioguideId>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Butler</middleName>
+        <state>FL</state>
+        <firstName>Val</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000627</bioguideId>
+          <lisID>2320</lisID>
+          <gpoId />
+        </identifiers>
+        <district>10</district>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+      </item>
+      <item>
+        <lastName>Heck</lastName>
+        <bioguideId>H001064</bioguideId>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>WA</state>
+        <firstName>Denny</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+      </item>
+      <item>
+        <lastName>Cohen</lastName>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TN</state>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <district>9</district>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+      </item>
+      <item>
+        <lastName>LEE</lastName>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <district>13</district>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+      </item>
+      <item>
+        <lastName>SMITH</lastName>
+        <bioguideId>S000510</bioguideId>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>WA</state>
+        <firstName>ADAM</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S000510</bioguideId>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <district>9</district>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+      </item>
+      <item>
+        <lastName>Barragan</lastName>
+        <bioguideId>B001300</bioguideId>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Diaz</middleName>
+        <state>CA</state>
+        <firstName>Nanette</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2311</lisID>
+          <gpoId />
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <district>44</district>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+      </item>
+    </cosponsors>
+    <title>Recognizing the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a Nation.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <date>2017-02-07T15:07:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-07T14:03:04Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <systemCode>hsvr09</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-27T08:15:12Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Beatty</lastName>
+        <middleName />
+        <firstName>Joyce</firstName>
+        <party>D</party>
+        <bioguideId>B001281</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>3</district>
+        <state>OH</state>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-02-07</actionDate>
+          <lastSummaryUpdateDate>2017-02-11T14:01:40Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Recognizes the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a nation.</p> <p>Recognizes the need for the Department of Veterans Affairs to continue to work to eliminate any health and benefit disparities for minority veterans.</p>]]></text>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-02-07</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-02-08T04:45:54Z</createDate>
+    <billType>HCONRES</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-30</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-11-30</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2017-11-30</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <title>Veterans Crisis Line Study Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to direct the Secretary of Veterans Affairs to conduct a study on the Veterans Crisis Line.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans Crisis Line Study Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans Crisis Line Study Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>2174</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <lastName>Donnelly</lastName>
+        <sponsorshipDate>2017-11-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000607</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <sponsorshipDate>2017-12-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <sponsorshipDate>2017-12-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001236</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <lastName>Hassan</lastName>
+        <sponsorshipDate>2018-01-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001076</bioguideId>
+        <party>D</party>
+        <middleName>Wood</middleName>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Margaret</firstName>
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <lastName>NELSON</lastName>
+        <sponsorshipDate>2018-01-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000032</bioguideId>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>CLARENCE</firstName>
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gary</firstName>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <lastName>Hoeven</lastName>
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001061</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>ND</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <lastName>Warner</lastName>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000805</bioguideId>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <identifiers>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000595</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <title>Veterans Crisis Line Study Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>4173</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Veterans Crisis Line Study Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-11-09</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-30T17:15:17Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssva00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-03-02T05:54:18Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Young</lastName>
+        <middleName>C.</middleName>
+        <firstName>Todd</firstName>
+        <party>R</party>
+        <bioguideId>Y000064</bioguideId>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>IN</state>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-11-30</actionDate>
+          <text><![CDATA[<p><b>Veterans Crisis Line Study Act of 2017</b></p> <p>This bill directs the Department of Veterans Affairs (VA) to conduct a study on the outcomes and the efficacy of the Veterans Crisis Line during the five-year period beginning January 1, 2014, based on an analysis of national suicide data and data collected from the line. </p> <p>Such study shall address: (1) the efficacy of the line in leading veterans to sustained mental health regimens and suicide prevention; (2) the line's visibility; (3) the role of the line as part of the VA's mental health care services; and (4) whether receiving sustained mental health care affects suicidality, including among veterans who are at high risk for suicide.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-11-30T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-12-26T22:35:08Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-11-30</introducedDate>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-12-01T00:41:19Z</createDate>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

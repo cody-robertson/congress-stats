@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2017-07-13T00:41:35Z</createDate>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2018-02-22T14:30:13Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-12T16:45:52Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>HELLPP Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Helping Ensure Life- and Limb-saving access to Podiatric Physicians Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend title XIX of the Social Security Act to cover physician services delivered by podiatric physicians to ensure access by Medicaid beneficiaries to appropriate quality foot and ankle care, to amend title XVIII of such Act to modify the requirements for diabetic shoes to be included under Medicare, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>HELLPP Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>HELLPP Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Helping Ensure Life- and Limb-saving access to Podiatric Physicians Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2017-07-12</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <billNumber>1533</billNumber>
+    <amendments />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <lastName>STABENOW</lastName>
+        <firstName>DEBORAH</firstName>
+        <middleName>ANN</middleName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <state>MI</state>
+        <party>D</party>
+        <bioguideId>S000770</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <lastName>Cotton</lastName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <state>AR</state>
+        <party>R</party>
+        <bioguideId>C001095</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <lastName>UDALL</lastName>
+        <firstName>TOM</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <state>NM</state>
+        <party>D</party>
+        <bioguideId>U000039</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <lastName>Heinrich</lastName>
+        <firstName>Martin</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <state>NM</state>
+        <party>D</party>
+        <bioguideId>H001046</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+        <firstName>SHERROD</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <state>OH</state>
+        <party>D</party>
+        <bioguideId>B000944</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+          <lisID>2283</lisID>
+        </identifiers>
+        <lastName>Ernst</lastName>
+        <firstName>Joni</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>IA</state>
+        <party>R</party>
+        <bioguideId>E000295</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>HELLPP Act</title>
+    <introducedDate>2017-07-12</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <lastName>GRASSLEY</lastName>
+        <firstName>CHARLES</firstName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <bioguideId>G000386</bioguideId>
+        <middleName>ERNEST</middleName>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <state>IA</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestTitle>HELLPP Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-03-24</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>1542</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Superfund Polluter Pays Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-03-13</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>1524</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

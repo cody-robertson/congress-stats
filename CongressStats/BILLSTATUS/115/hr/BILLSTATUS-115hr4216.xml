@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <systemCode>hsag03</systemCode>
+          <name>Nutrition Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-01</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <notes />
+    <updateDate>2017-11-17T08:13:17Z</updateDate>
+    <committeeReports />
+    <amendments />
+    <billNumber>4216</billNumber>
+    <sponsors>
+      <item>
+        <lastName>Sablan</lastName>
+        <party>D</party>
+        <state>MP</state>
+        <middleName>Kilili Camacho</middleName>
+        <district>0</district>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <byRequestType />
+        <bioguideId>S001177</bioguideId>
+        <firstName>Gregorio</firstName>
+        <identifiers>
+          <gpoId>8018</gpoId>
+          <lisID>1962</lisID>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 177 (Wednesday, November 1, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SABLAN:H.R. 4216.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8, Clause 3 and Article IV,Section 3, Clause 2 of the Constitution of the United States.[Page H8386]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Northern Mariana Islands Enhanced Nutrition Assistance Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Northern Mariana Islands Enhanced Nutrition Assistance Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Agricultural Act of 2014 to make available additional funds for the Commonwealth of the Northern Mariana Islands pilot project.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Northern Mariana Islands Enhanced Nutrition Assistance Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors />
+    <title>Northern Mariana Islands Enhanced Nutrition Assistance Act of 2017</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Nutrition Subcommittee</name>
+              <systemCode>hsag03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-16T18:15:11Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-01T14:03:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-11-16</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <introducedDate>2017-11-01</introducedDate>
+    <createDate>2017-11-02T03:11:20Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

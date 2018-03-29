@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>838</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2017-02-02</actionDate>
+    </latestAction>
+    <createDate>2017-02-03T05:17:29Z</createDate>
+    <title>Campaign Spending Integrity Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Campaign Spending Integrity Act</b></p> <p>This bill amends the Federal Election Campaign Act of 1971 to prohibit a candidate for election to federal office from using amounts contributed to the candidate's campaign to make payments to vendors owned or controlled by the candidate or by an immediate family member of the candidate.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-10-23T19:02:46Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+          <actionDate>2017-02-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-02-02</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-02-02</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:41:13Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>R000599</bioguideId>
+        <district>36</district>
+        <middleName />
+        <byRequestType />
+        <firstName>Raul</firstName>
+        <lastName>Ruiz</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-02T15:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <bioguideId>K000009</bioguideId>
+        <lastName>KAPTUR</lastName>
+        <party>D</party>
+        <district>9</district>
+        <firstName>MARCY</firstName>
+        <state>OH</state>
+        <identifiers>
+          <lisID>616</lisID>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <bioguideId>S001170</bioguideId>
+        <lastName>Shea-Porter</lastName>
+        <party>D</party>
+        <district>1</district>
+        <firstName>Carol</firstName>
+        <state>NH</state>
+        <identifiers>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <bioguideId>J000298</bioguideId>
+        <lastName>Jayapal</lastName>
+        <party>D</party>
+        <district>7</district>
+        <firstName>Pramila</firstName>
+        <state>WA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <bioguideId>C001037</bioguideId>
+        <lastName>CAPUANO</lastName>
+        <party>D</party>
+        <district>7</district>
+        <firstName>MICHAEL</firstName>
+        <state>MA</state>
+        <identifiers>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <bioguideId>L000551</bioguideId>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <district>13</district>
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <district>9</district>
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUIZ:H.R. 838.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, Clauses 1 and 18 of the United StatesConstitution, to provide for the general welfare and make alllaws necessary and proper to carry out the powers ofCongress.[Page H946]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-02-02</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Campaign Spending Integrity Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Campaign Spending Integrity Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Federal Election Campaign Act of 1971 to prohibit a candidate for election for Federal office from using amounts contributed to the candidate's campaign to make payments to vendors owned or controlled by the candidate or by an immediate family member of the candidate.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Campaign Spending Integrity Act</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business ethics</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

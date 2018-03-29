@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>1409</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-06-22</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:33Z</updateDate>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <bioguideId>H001041</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>NV</state>
+        <firstName>Dean</firstName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <lastName>GRAHAM</lastName>
+        <bioguideId>G000359</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>O.</middleName>
+        <state>SC</state>
+        <firstName>LINDSEY</firstName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <lastName>Casey</lastName>
+        <bioguideId>C001070</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>PA</state>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Lighting and heating</name>
+          </item>
+          <item>
+            <name>Residential rehabilitation and home repair</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-22T16:37:33Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-06-22</introducedDate>
+    <title>Technologies for Energy Jobs and Security Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-06-23T06:41:44Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>CARPER</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <firstName>THOMAS</firstName>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2017-06-22</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>1090</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2017-02-15</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Technologies for Energy Security Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Technologies for Energy Jobs and Security Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to extend the credit for residential energy efficient property, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Technologies for Energy Jobs and Security Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Technologies for Energy Jobs and Security Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Technologies for Energy Jobs and Security Act of 2017 </b></p> <p>This bill amends the Internal Revenue Code to extend and modify tax credits for residential energy efficient property and investments in energy property. </p> <p>The bill modifies the tax credit for residential energy efficient property to extend through 2021 the credits for expenditures for fuel cell property, small wind energy property, and geothermal heat pump property. For each extended credit, the bill phases out the current credit rate of 30% of expenditures by reducing it to 26% or 22%, depending on the date that the property is placed in service.</p> <p>The bill extends the tax credit for investments in energy property for the following property with construction that begins before January 1, 2022: </p> <ul> <li> fiber-optic solar energy property, </li> <li>thermal energy property. </li> <li> fuel cell property, </li> <li> microturbine property, </li> <li> combined heat and power system property, and</li> <li> small wind energy property.</li> </ul> <p>The bill phases out the current credit rate of 30% for investments in geothermal energy property, fiber-optic solar energy property, fuel cell property, and small wind energy property by reducing it to 26% or 22%, depending on the date that the property is placed in service. </p> <p>The bill also allows an energy tax credit through 2021 for investment in waste heat to power property that does not have a capacity in excess of 50 megawatts. &quot;Waste heat to power property&quot; is property comprising a system which generates electricity through the recovery of a qualified waste heat resource. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-06-22</actionDate>
+          <lastSummaryUpdateDate>2017-11-15T19:19:00Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-06-22T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

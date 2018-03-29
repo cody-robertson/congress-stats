@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-09-11</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-09-15T20:34:49Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-12-21T21:28:52Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-11T16:00:16Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-12-21T21:28:41Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-09-13T19:06:46Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-11T16:00:11Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <reportedToHouse>1</reportedToHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <placeholderTextForH>2</placeholderTextForH>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <committeeReportOfABill>1</committeeReportOfABill>
+      </actionTypeCounts>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 355.</text>
+        <links />
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <text>Committee on Energy and Commerce discharged.</text>
+        <links />
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <text>Committee on Energy and Commerce discharged.</text>
+        <links />
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-480, Part I.</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-480</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/480</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-480, Part I.</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-480</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/480</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-15</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-11</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-11</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-09-11</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-09-11</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2018-02-22T15:28:29Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00355</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <lastName>THOMPSON</lastName>
+        <district>5</district>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <firstName>MIKE</firstName>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000460</bioguideId>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <lastName>Brooks</lastName>
+        <district>5</district>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <firstName>Susan</firstName>
+        <identifiers>
+          <bioguideId>B001284</bioguideId>
+          <lisID>2129</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001284</bioguideId>
+        <state>IN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <middleName>O.</middleName>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <lastName>Matsui</lastName>
+        <district>6</district>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <firstName>Doris</firstName>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001163</bioguideId>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <lastName>Curbelo</lastName>
+        <district>26</district>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <firstName>Carlos</firstName>
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+          <lisID>2235</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001107</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <lastName>Costello</lastName>
+        <district>6</district>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <firstName>Ryan</firstName>
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+          <lisID>2266</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001106</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <lastName>Khanna</lastName>
+        <district>17</district>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+          <lisID>2308</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000389</bioguideId>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>ITAM Act</title>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Increasing Telehealth Access in Medicare Act</title>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to include additional telehealth services for purposes of MA organization bids, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>ITAM Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>ITAM Act</title>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Increasing Telehealth Access in Medicare Act</title>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-12-21</actionDate>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 355.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 146 (Monday, September 11, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACK:H.R. 3727.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests isthe power of Congress to make rules for the government andregulation of the land and naval forces, as enumerated inArticle I, Section 8, Clause 1 of the United StatesConstitution.[Page H7223]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>6</district>
+        <state>TN</state>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <bioguideId>B001273</bioguideId>
+        <firstName>Diane</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+        </identifiers>
+        <lastName>Black</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 3727, Increasing Telehealth Access in Medicare Act</title>
+        <pubDate>2017-09-26T12:54:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/53136</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-09-12T03:11:20Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>ITAM Act</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-480</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>3727</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DENT:H.R. 1732.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H2464]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-27T16:01:40Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-12T17:38:53Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-27T16:01:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-31T13:14:28Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2017-04-12</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-31</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Judiciary</text>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Energy and Commerce</text>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2017-03-27</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Synthetic Drug Control Act of 2017</b></p> <p>This bill directs the Drug Enforcement Administration to update schedule I of the Controlled Substances Act to include certain synthetic substances. A schedule I controlled substance is a drug, substance, or chemical that: has a high potential for abuse; has no currently accepted medical value; and is subject to regulatory controls and administrative, civil, and criminal penalties under the Controlled Substances Act.</p> <p>The bill exempts from treatment as a controlled substance any such synthetic substance that is manufactured, distributed, and used exclusively for research.</p>]]></text>
+          <lastSummaryUpdateDate>2018-02-09T22:00:49Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-27T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-03-27</introducedDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+      <actionDate>2017-04-12</actionDate>
+    </latestAction>
+    <createDate>2017-03-28T05:32:32Z</createDate>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>CT</state>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Himes</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001047</bioguideId>
+        <district>4</district>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <state>PA</state>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Barletta</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001269</bioguideId>
+        <district>11</district>
+        <party>R</party>
+        <identifiers>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+        </identifiers>
+        <firstName>Lou</firstName>
+      </item>
+      <item>
+        <state>PA</state>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Meehan</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001181</bioguideId>
+        <district>7</district>
+        <party>R</party>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <firstName>Patrick</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8133</gpoId>
+          <lisID>1799</lisID>
+          <bioguideId>D000604</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Charles</firstName>
+        <middleName>W.</middleName>
+        <lastName>Dent</lastName>
+        <district>15</district>
+        <byRequestType />
+        <bioguideId>D000604</bioguideId>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-16T15:12:34Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Synthetic Drug Control Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Synthetic Drug Control Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Controlled Substances Act to add certain synthetic substances to schedule I, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Synthetic Drug Control Act of 2017</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <title>Synthetic Drug Control Act of 2017</title>
+    <billNumber>1732</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

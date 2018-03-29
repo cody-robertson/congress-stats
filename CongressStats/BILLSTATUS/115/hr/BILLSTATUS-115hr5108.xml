@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <updateDate>2018-02-28T16:22:09Z</updateDate>
+    <notes />
+    <billNumber>5108</billNumber>
+    <introducedDate>2018-02-27</introducedDate>
+    <calendarNumbers />
+    <title>To amend the Internal Revenue Code of 1986 to provide for current year inclusion of net CFC tested income, and for other purposes.</title>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-27</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-02-27</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-02-27</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-27T15:04:50Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2018-02-28T08:11:02Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <congress>115</congress>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to provide for current year inclusion of net CFC tested income, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to provide for current year inclusion of net CFC tested income, and for other purposes.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <lastName>DOGGETT</lastName>
+        <identifiers>
+          <lisID>303</lisID>
+          <gpoId>8181</gpoId>
+          <bioguideId>D000399</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>LLOYD</firstName>
+        <middleName />
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <district>35</district>
+        <byRequestType />
+        <state>TX</state>
+        <bioguideId>D000399</bioguideId>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2018-02-27</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <policyArea />
+    <cosponsors>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001037</bioguideId>
+          <lisID>1564</lisID>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <bioguideId>C001037</bioguideId>
+        <state>MA</state>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <lastName>CAPUANO</lastName>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>ELIJAH</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <bioguideId>C000984</bioguideId>
+        <state>MD</state>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <lastName>CUMMINGS</lastName>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <firstName>DANNY</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <bioguideId>D000096</bioguideId>
+        <state>IL</state>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <lastName>DAVIS</lastName>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>ROSA</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <bioguideId>D000216</bioguideId>
+        <state>CT</state>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <lastName>DELAURO</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <firstName>PETER</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <bioguideId>D000191</bioguideId>
+        <state>OR</state>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <lastName>DEFAZIO</lastName>
+        <district>4</district>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Pramila</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>J000298</bioguideId>
+        <state>WA</state>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <lastName>Jayapal</lastName>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>MARCY</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <bioguideId>K000009</bioguideId>
+        <state>OH</state>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <lastName>KAPTUR</lastName>
+        <district>9</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>JERROLD</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+        </identifiers>
+        <bioguideId>N000002</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <lastName>NADLER</lastName>
+        <district>10</district>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <firstName>GRACE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <bioguideId>N000179</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <lastName>NAPOLITANO</lastName>
+        <district>32</district>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <district>0</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+        </identifiers>
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <lastName>Pocan</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Jamie</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000606</bioguideId>
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <lastName>Raskin</lastName>
+        <district>8</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>TIM</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <bioguideId>R000577</bioguideId>
+        <state>OH</state>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <lastName>RYAN</lastName>
+        <district>13</district>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <firstName>JANICE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <lastName>SCHAKOWSKY</lastName>
+        <district>9</district>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7978</gpoId>
+          <lisID>1854</lisID>
+          <bioguideId>S001168</bioguideId>
+        </identifiers>
+        <bioguideId>S001168</bioguideId>
+        <state>MD</state>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <lastName>Sarbanes</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <bioguideId>G000559</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <lastName>Garamendi</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <firstName>LOUISE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <bioguideId>S000480</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <lastName>SLAUGHTER</lastName>
+        <district>25</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <bioguideId>H001038</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <lastName>Higgins</lastName>
+        <district>26</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Keith</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <bioguideId>E000288</bioguideId>
+        <state>MN</state>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <firstName>CAROLYN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <bioguideId>M000087</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <lastName>MALONEY</lastName>
+        <district>12</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Bonnie</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+          <lisID>2259</lisID>
+        </identifiers>
+        <bioguideId>W000822</bioguideId>
+        <state>NJ</state>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <lastName>Watson Coleman</lastName>
+        <district>12</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <bioguideId>L000551</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <district>13</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>D000623</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <lastName>DeSaulnier</lastName>
+        <district>11</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Judy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <bioguideId>C001080</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <lastName>Chu</lastName>
+        <district>27</district>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

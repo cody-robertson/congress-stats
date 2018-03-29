@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-02-24</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-28T15:43:34Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-02-28T20:47:17Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-27T20:39:56Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw13</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-03-09T20:16:54Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-02-28T20:45:12Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-24T14:30:44Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-03-28</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionTime>17:17:23</actionTime>
+        <committee />
+        <actionDate>2017-03-27</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2449)</text>
+        <actionCode>H37300</actionCode>
+        <actionTime>17:17:21</actionTime>
+        <committee />
+        <actionDate>2017-03-27</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H2449</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2449</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2449)</text>
+        <actionCode>8000</actionCode>
+        <actionTime>17:17:21</actionTime>
+        <committee />
+        <actionDate>2017-03-27</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H2449</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2449</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1214.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>17:11:09</actionTime>
+        <committee />
+        <actionDate>2017-03-27</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 1214</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1214</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H2449-2450)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>17:11:07</actionTime>
+        <committee />
+        <actionDate>2017-03-27</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H2449-2450</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2449-2450</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Mr. Barletta moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <actionTime>17:10:31</actionTime>
+        <committee />
+        <actionDate>2017-03-27</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 14.</text>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <actionDate>2017-03-09</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-32.</text>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionDate>2017-03-09</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-32</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/32</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-32.</text>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionDate>2017-03-09</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-32</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/32</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionDate>2017-02-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-02-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-02-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForH>3</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Disaster Simplified Assistance Value Enhancement Act or the Disaster SAVE Act</strong></p> <p>This bill requires the Federal Emergency Management Agency (FEMA) to establish the repair cost threshold for eligibility for major disaster assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act's simplified procedures program at $500,000 until September 30, 2021.</p> <p>FEMA must report to specified congressional committees by May 1, 2021, on the comprehensive review of such program, including an assessment of cost-effectiveness, speed of recovery, capacity of the grantees, past performance and accountability measures. </p>]]></text>
+          <actionDate>2017-02-24</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-03-14T19:16:55Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-24T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <versionCode>79</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>Disaster Simplified Assistance Value Enhancement Act or the Disaster SAVE Act</strong></p> <p>(Sec. 2) This bill requires the Federal Emergency Management Agency (FEMA) to establish the repair cost threshold for eligibility for major disaster assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act's simplified procedures program at $500,000 until September 30, 2021.</p> <p>FEMA must report to specified congressional committees by May 1, 2021, on the comprehensive review of such program, including an assessment of cost-effectiveness, speed of recovery, capacity of the grantees, past performance, and accountability measures. </p>]]></text>
+          <actionDate>2017-03-09</actionDate>
+          <name>Reported to House without amendment</name>
+          <lastSummaryUpdateDate>2017-04-24T18:16:10Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-09T14:13:53Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Passed House amended</actionDesc>
+          <versionCode>36</versionCode>
+          <text><![CDATA[<p><strong>Disaster Simplified Assistance Value Enhancement Act or the Disaster SAVE Act</strong></p> <p>(Sec. 2) This bill requires the Federal Emergency Management Agency (FEMA) to establish the repair cost threshold for eligibility for major disaster assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act's simplified procedures program at $500,000 until September 30, 2021.</p> <p>FEMA must submit a report to specified congressional committees by May 1, 2021, containing the results of a comprehensive review of such program, including an assessment of cost-effectiveness, speed of recovery, capacity of the grantees, past performance and accountability measures. </p>]]></text>
+          <actionDate>2017-03-27</actionDate>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2017-07-19T19:16:50Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-27T15:07:04Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:27:26Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00014</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <lastName>Denham</lastName>
+        <firstName>Jeff</firstName>
+        <fullName>Rep. Denham, Jeff [R-CA-10]</fullName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000612</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <identifiers>
+          <bioguideId>D000612</bioguideId>
+          <gpoId>7824</gpoId>
+          <lisID>1995</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Graves</lastName>
+        <firstName>Garret</firstName>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000577</bioguideId>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>G000577</bioguideId>
+          <lisID>2245</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Disaster Simplified Assistance Value Enhancement Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Disaster Simplified Assistance Value Enhancement Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Disaster Simplified Assistance Value Enhancement Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Disaster SAVE Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Disaster Simplified Assistance Value Enhancement Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Disaster Simplified Assistance Value Enhancement Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Disaster SAVE Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Disaster SAVE Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Disaster Simplified Assistance Value Enhancement Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To require the Administrator of the Federal Emergency Management Agency to conduct a program to use simplified procedures to issue public assistance for certain projects under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Disaster SAVE Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-03-28</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BARLETTA:H.R. 1214.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution,specifically Clause 1 (relating to providing for the commondefense and general welfare of the United States) and Clause18 (relating to the power to make all laws necessary andproper for carrying out the powers vested in Congress) andArticle I, Section 10, Clause 3 (relating to interstatecompacts)..[Page H1321]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>11</district>
+        <state>PA</state>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <bioguideId>B001269</bioguideId>
+        <firstName>Lou</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001269</bioguideId>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+        </identifiers>
+        <lastName>Barletta</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 1214, Disaster SAVE Act</title>
+        <pubDate>2017-03-07T22:07:38Z</pubDate>
+        <url>https://www.cbo.gov/publication/52477</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-02-25T04:49:55Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>Disaster SAVE Act</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-32</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>1214</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

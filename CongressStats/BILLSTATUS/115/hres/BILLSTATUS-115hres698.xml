@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-01-17</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-01-17</actionDate>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-01-17</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HRES</billType>
+    <constitutionalAuthorityStatementText />
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2018-01-17</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2018-01-17</introducedDate>
+    <relatedBills />
+    <amendments />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SESSIONS</lastName>
+        <party>R</party>
+        <middleName />
+        <bioguideId>S000250</bioguideId>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+          <lisID>2171</lisID>
+        </identifiers>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pocan</lastName>
+        <party>D</party>
+        <middleName />
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Arts, Culture, Religion</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Recognizing magic as a rare and valuable art form.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Recognizing magic as a rare and valuable art form.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <title>Recognizing magic as a rare and valuable art form.</title>
+    <congress>115</congress>
+    <createDate>2018-01-18T03:11:02Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-17T15:01:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <laws />
+    <recordedVotes />
+    <updateDate>2018-01-19T19:30:10Z</updateDate>
+    <billNumber>698</billNumber>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>1</district>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <middleName />
+        <lastName>Titus</lastName>
+        <state>NV</state>
+        <bioguideId>T000468</bioguideId>
+        <firstName>Dina</firstName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-25T14:03:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-10-27T20:26:31Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-25T14:03:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <firstName>ANNA</firstName>
+        <middleName>G.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <bioguideId>E000215</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <lastName>ESHOO</lastName>
+        <district>18</district>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Markwayne</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <bioguideId>M001190</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <lastName>Mullin</lastName>
+        <district>2</district>
+        <state>OK</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2102</lisID>
+          <gpoId />
+          <bioguideId>B001287</bioguideId>
+        </identifiers>
+        <firstName>Ami</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <bioguideId>B001287</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <lastName>Bera</lastName>
+        <district>7</district>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-27</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <amendments />
+    <createDate>2017-10-26T03:11:20Z</createDate>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-02-12T20:16:06Z</lastSummaryUpdateDate>
+          <updateDate>2017-10-25T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Strengthening Medicare Intensive Cardiac Rehabilitation Programs Act</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to revise requirements related&nbsp;the approval of&nbsp;intensive cardiac rehabilitation programs by the Centers for Medicare &amp; Medicaid Services (CMS) for purposes of Medicare coverage.</p> <p>To be approved by the CMS as an intensive cardiac rehabilitation program under current law, a program&nbsp;must show that it: (1) positively affected the progression of coronary heart disease or reduced the need for either coronary bypass surgery or percutaneous coronary interventions, and (2) accomplished a significant reduction in other specified health measures. The bill instead requires a program to show that it: (1) reversed the progression of coronary heart disease or reduced the need for coronary bypass surgery; and (2) accomplished, in addition to a significant reduction in other specified health measures, a significant increase in the measure of blood flow to the heart. The bill further requires a program to show,&nbsp;using&nbsp;research specific to its own program,&nbsp;that&nbsp;these measures were accomplished&nbsp;by lifestyle changes alone.</p> <p>The bill removes the specific requirement that such a program be "physician-supervised" but retains other existing requirements for program supervision.</p> <p>A&nbsp;program that was previously approved by the CMS as an intensive cardiac rehabilitation program shall be deemed to have met these requirements.</p> <p>To be eligible for an intensive cardiac rehabilitation program under current law, an individual must have had one of several specified conditions or interventions. The bill adds to the list of qualifying conditions: (1) stable, chronic heart failure; and (2) any additional condition that the CMS determines shall be covered under such a program.</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDate>2017-10-25</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Strengthening Medicare Intensive Cardiac Rehabilitation Programs Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to strengthen intensive cardiac rehabilitation programs under the Medicare program.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Strengthening Medicare Intensive Cardiac Rehabilitation Programs Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Strengthening Medicare Intensive Cardiac Rehabilitation Programs Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-10-25</introducedDate>
+    <title>Strengthening Medicare Intensive Cardiac Rehabilitation Programs Act</title>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 172 (Wednesday, October 25, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of Missouri:H.R. 4136.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H8226]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-10-27</actionDate>
+    </latestAction>
+    <billNumber>4136</billNumber>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>S</type>
+        <latestTitle>Strengthening Medicare Intensive Cardiac Rehabilitation Programs Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-01-05</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>46</number>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <updateDate>2018-02-16T15:12:41Z</updateDate>
+    <committeeReports />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <state>MO</state>
+        <byRequestType />
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <bioguideId>S001195</bioguideId>
+        <party>R</party>
+        <middleName />
+        <firstName>Jason</firstName>
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+          <lisID>2191</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <lastName>Smith</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

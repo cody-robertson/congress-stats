@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>1093</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Highways and Transit Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>hspw14</systemCode>
+          <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>5</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:41:28Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <firstName>Donald</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8373</gpoId>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <bioguideId>P000604</bioguideId>
+        <lastName>Payne</lastName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2114</lisID>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <bioguideId>E000293</bioguideId>
+        <lastName>Esty</lastName>
+        <state>CT</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Public transit</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-03-29T15:05:32Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-15T15:02:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-03-29T14:39:04Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-16T14:48:59Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw14</systemCode>
+              <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+            </item>
+            <item>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-03-29T14:38:35Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-16T20:40:19Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+              <name>Highways and Transit Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 1093, a bill to require the Federal Railroad Administration to provide appropriate Congressional notice of comprehensive safety assessments conducted with respect to intercity or commuter rail passenger transportation</title>
+        <pubDate>2017-04-18T20:05:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52647</url>
+      </item>
+    </cboCostEstimates>
+    <introducedDate>2017-02-15</introducedDate>
+    <title>To require the Federal Railroad Administration and the Federal Transit Authority to provide appropriate Congressional notice of safety audits conducted with respect to railroads and rail transit agencies.</title>
+    <amendments />
+    <latestAction>
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <links />
+      <actionDate>2017-03-29</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-02-16T04:46:04Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Sires</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <bioguideId>S001165</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <firstName>Albio</firstName>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+          <gpoId>8055</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SIRES:H.R. 1093.Congress has the power to enact this legislation pursuantto the following:Pursuant to clause 3(d)(1) of rule XIII of the Rules of theHouse of Representatives, the Committee finds the authorityfor this legislation in article I, section 8 of theConstitution.[Page H1245]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Federal Railroad Administration and the Federal Transit Authority to provide appropriate Congressional notice of safety audits conducted with respect to railroads and rail transit agencies.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To require the Federal Railroad Administration and the Federal Transit Authority to provide appropriate Congressional notice of safety audits conducted with respect to railroads and rail transit agencies.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-28T20:10:38Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-15T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill requires the Federal Railroad Administration or the Federal Transit Authority: (1) within 10 days after beginning a safety audit of a railroad or rail transit agency, to notify specified congressional committees and each Member of Congress representing a state through which such agency operates service; and (2) within 90 days after completing such audit, to report the results to such committees and Members. </p>]]></text>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-02-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

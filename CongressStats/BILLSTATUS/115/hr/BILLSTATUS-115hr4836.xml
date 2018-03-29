@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionDate>2018-01-18</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <actionDate>2018-01-19</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To provide an exemption to noncontiguous States for certain essential air service requirements.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To provide an exemption to noncontiguous States for certain essential air service requirements.</title>
+      </item>
+    </titles>
+    <billNumber>4836</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <lastName>YOUNG</lastName>
+        <bioguideId>Y000033</bioguideId>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <state>AK</state>
+        <firstName>DON</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <district>0</district>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+      </item>
+      <item>
+        <lastName>Hanabusa</lastName>
+        <bioguideId>H001050</bioguideId>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>HI</state>
+        <firstName>Colleen</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+          <gpoId>7912</gpoId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+      </item>
+    </cosponsors>
+    <title>To provide an exemption to noncontiguous States for certain essential air service requirements.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 11 (Thursday, January 18, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. GABBARD:H.R. 4836.Congress has the power to enact this legislation pursuantto the following:Congress has the power to enact this legislation pursuantto the following: The U.S. Constitution including Article 1,Section 8.[Page H554]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-18T15:02:00Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hspw05</systemCode>
+              <name>Aviation Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-19T17:56:15Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T19:17:15Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Gabbard</lastName>
+        <middleName />
+        <firstName>Tulsi</firstName>
+        <party>D</party>
+        <bioguideId>G000571</bioguideId>
+        <identifiers>
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <district>2</district>
+        <state>HI</state>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-01-18</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-01-19T03:11:04Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

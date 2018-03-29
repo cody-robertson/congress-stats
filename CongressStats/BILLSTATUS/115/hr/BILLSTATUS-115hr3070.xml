@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-06-27</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-27T14:03:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionDate>2017-06-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2018-02-22T15:27:44Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <firstName>Bill</firstName>
+        <state>IL</state>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <middleName />
+        <bioguideId>F000454</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Foster</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>11</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>To amend the Federal Deposit Insurance Act to clarify the definition of a deposit broker, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Federal Deposit Insurance Act to clarify the definition of a deposit broker, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-06-27</actionDate>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McHENRY:H.R. 3070.Congress has the power to enact this legislation pursuantto the following:The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay Debts and provide for thecommon Defence . . . of the United States; but all Duties,Imports and Excises shall be uniform throughout the UnitedStates.[Page H5232]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>10</district>
+        <state>NC</state>
+        <fullName>Rep. McHenry, Patrick T. [R-NC-10]</fullName>
+        <bioguideId>M001156</bioguideId>
+        <firstName>Patrick</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001156</bioguideId>
+          <gpoId>8033</gpoId>
+          <lisID>1792</lisID>
+        </identifiers>
+        <lastName>McHenry</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <createDate>2017-06-28T03:11:37Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>To amend the Federal Deposit Insurance Act to clarify the definition of a deposit broker, and for other purposes.</title>
+    <committeeReports />
+    <billNumber>3070</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

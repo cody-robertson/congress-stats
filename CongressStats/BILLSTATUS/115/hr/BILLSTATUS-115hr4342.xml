@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-11-09</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-11-09</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-11-09</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <actionDate>2017-12-13</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Fire Sale Loophole Closing Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend chapter 44 of title 18, United States Code, to restrict the ability of a person whose Federal license to import, manufacture, or deal in firearms has been revoked, whose application to renew such a license has been denied, or who has received a license revocation or renewal denial notice, to transfer business inventory firearms, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fire Sale Loophole Closing Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fire Sale Loophole Closing Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>4342</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>Eric</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <bioguideId>S001193</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <lastName>Swalwell</lastName>
+        <district>15</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>JERROLD</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <bioguideId>N000002</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <lastName>NADLER</lastName>
+        <district>10</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Ro</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <bioguideId>K000389</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <lastName>Khanna</lastName>
+        <district>17</district>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>ZOE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <bioguideId>L000397</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <lastName>LOFGREN</lastName>
+        <district>19</district>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <district>0</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>EARL</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <bioguideId>B000574</bioguideId>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <lastName>BLUMENAUER</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>DIANA</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+        </identifiers>
+        <bioguideId>D000197</bioguideId>
+        <state>CO</state>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <lastName>DEGETTE</lastName>
+        <district>1</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Albio</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1818</lisID>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <bioguideId>S001165</bioguideId>
+        <state>NJ</state>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <lastName>Sires</lastName>
+        <district>8</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <lastName>Cohen</lastName>
+        <district>9</district>
+      </item>
+    </cosponsors>
+    <title>Fire Sale Loophole Closing Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 183 (Thursday, November 9, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CICILLINE:H.R. 4342.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution[Page H8698]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-09T14:02:30Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-13T22:26:11Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T08:16:41Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Cicilline</lastName>
+        <middleName>N.</middleName>
+        <firstName>David</firstName>
+        <party>D</party>
+        <bioguideId>C001084</bioguideId>
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>1</district>
+        <state>RI</state>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2017-11-09</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-11-10T03:11:20Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

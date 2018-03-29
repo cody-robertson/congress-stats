@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4798</billNumber>
+    <createDate>2018-01-17T03:11:04Z</createDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Broadband Infrastructure Inventory Act of 2018</latestTitle>
+        <number>4839</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Communications and Technology.</text>
+          <actionDate>2018-01-19</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-16T17:01:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif16</systemCode>
+              <name>Communications and Technology Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-19T21:25:19Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-16T17:00:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-17T17:52:41Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <committeeReports />
+    <congress>115</congress>
+    <notes />
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Stefanik</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <state>NY</state>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <bioguideId>S001196</bioguideId>
+        <identifiers>
+          <lisID>2263</lisID>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <firstName>Elise</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <updateDate>2018-02-06T08:13:14Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <title>Inventory of Assets for Communications Facilities Act of 2018</title>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <committee>
+          <systemCode>hsif16</systemCode>
+          <name>Communications and Technology Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-17</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-01-16</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-01-16</actionDate>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-01-16</actionDate>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-01-16</actionDate>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2018-01-16</introducedDate>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Chris</firstName>
+        <byRequestType />
+        <lastName>Collins</lastName>
+        <bioguideId>C001092</bioguideId>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <middleName />
+        <district>27</district>
+        <identifiers>
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 9 (Tuesday, January 16, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COLLINS of New York:H.R. 4798.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution[Page H404]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2018-01-19</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Inventory of Assets for Communications Facilities Act of 2018</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for an inventory of Federal assets on which a communications facility could be constructed or that could otherwise be made available for use in connection with the construction or operation of a communications facility or provision of communications service.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Inventory of Assets for Communications Facilities Act of 2018</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Inventory of Assets for Communications Facilities Act of 2018</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

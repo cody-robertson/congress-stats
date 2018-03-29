@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2017-01-25T04:45:56Z</createDate>
+    <billType>SRES</billType>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2018-02-22T15:29:17Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-24T21:22:02Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssra00</systemCode>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-24T21:21:36Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssva00</systemCode>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-24</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Veterans' Affairs for the 115th Congress.</p> <p>Limits expenses of such committee to specified amounts from: (1) March 1, 2017, through September 30, 2017, (2) October 1, 2017, through September 30, 2018, and (3) October 1, 2018, through February 28, 2019.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-03-16T19:13:15Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-24T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2017-01-24</actionDate>
+          <versionCode>80</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Veterans' Affairs for the 115th Congress.</p> <p>Limits expenses of such committee to specified amounts from: (1) March 1, 2017, through September 30, 2017, (2) October 1, 2017, through September 30, 2018, and (3) October 1, 2018, through February 28, 2019.</p>]]></text>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-03-16T19:12:19Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-24T13:51:49Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S454-455</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S454-455</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S454-455)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Original measure reported to Senate by Senator Isakson. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Veterans' Affairs. Original measure reported to Senate by Senator Isakson. Without written report.</text>
+        <type>Committee</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-24</actionDate>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2017-01-24</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S454-455)</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <billNumber>24</billNumber>
+    <amendments />
+    <recordedVotes />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Veterans' Affairs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs</title>
+    <introducedDate>2017-01-24</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <lastName>Isakson</lastName>
+        <firstName>Johnny</firstName>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <bioguideId>I000055</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <state>GA</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

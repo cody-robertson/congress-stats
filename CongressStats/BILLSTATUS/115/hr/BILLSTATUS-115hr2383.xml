@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>2383</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionDate>2017-05-04</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-05-04</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-05-04</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:42:43Z</updateDate>
+    <cosponsors>
+      <item>
+        <lastName>Loebsack</lastName>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <middleName />
+        <state>IA</state>
+        <bioguideId>L000565</bioguideId>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>PASCRELL</lastName>
+        <firstName>WILLIAM</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <middleName>J.</middleName>
+        <state>NJ</state>
+        <bioguideId>P000096</bioguideId>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <identifiers>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Guthrie</lastName>
+        <firstName>Brett</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <middleName />
+        <state>KY</state>
+        <bioguideId>G000558</bioguideId>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <identifiers>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>HASTINGS</lastName>
+        <firstName>ALCEE</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>20</district>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>GRAVES</lastName>
+        <firstName>SAM</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <middleName />
+        <state>MO</state>
+        <bioguideId>G000546</bioguideId>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <identifiers>
+          <lisID>1656</lisID>
+          <bioguideId>G000546</bioguideId>
+          <gpoId>8014</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Smith</lastName>
+        <firstName>Adrian</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <middleName />
+        <state>NE</state>
+        <bioguideId>S001172</bioguideId>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <identifiers>
+          <lisID>1860</lisID>
+          <bioguideId>S001172</bioguideId>
+          <gpoId>8040</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>PETERSON</lastName>
+        <firstName>COLLIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <middleName>C.</middleName>
+        <state>MN</state>
+        <bioguideId>P000258</bioguideId>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Comer</lastName>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <middleName />
+        <state>KY</state>
+        <bioguideId>C001108</bioguideId>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2297</lisID>
+          <gpoId />
+          <bioguideId>C001108</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <middleName />
+        <state>IA</state>
+        <bioguideId>K000362</bioguideId>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Walz</lastName>
+        <firstName>Timothy</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <middleName>J.</middleName>
+        <state>MN</state>
+        <bioguideId>W000799</bioguideId>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Bost</lastName>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <party>R</party>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>B001295</bioguideId>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <identifiers>
+          <lisID>2243</lisID>
+          <bioguideId>B001295</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Smith</lastName>
+        <firstName>Jason</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <middleName />
+        <state>MO</state>
+        <bioguideId>S001195</bioguideId>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001195</bioguideId>
+          <lisID>2191</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Blum</lastName>
+        <firstName>Rod</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+        <middleName />
+        <state>IA</state>
+        <bioguideId>B001294</bioguideId>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <identifiers>
+          <lisID>2241</lisID>
+          <gpoId />
+          <bioguideId>B001294</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Young</lastName>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Young, David [R-IA-3]</fullName>
+        <middleName />
+        <state>IA</state>
+        <bioguideId>Y000066</bioguideId>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <identifiers>
+          <lisID>2242</lisID>
+          <gpoId />
+          <bioguideId>Y000066</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Kilmer</lastName>
+        <firstName>Derek</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>D</party>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <middleName />
+        <state>WA</state>
+        <bioguideId>K000381</bioguideId>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <identifiers>
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Wagner</lastName>
+        <firstName>Ann</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <middleName />
+        <state>MO</state>
+        <bioguideId>W000812</bioguideId>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <identifiers>
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Luetkemeyer</lastName>
+        <firstName>Blaine</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <middleName />
+        <state>MO</state>
+        <bioguideId>L000569</bioguideId>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Kuster</lastName>
+        <firstName>Ann</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <middleName>M.</middleName>
+        <state>NH</state>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-04T13:05:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-05-04</introducedDate>
+    <title>American Renewable Fuel and Job Creation Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2017-05-04</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-05-05T03:11:54Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Noem</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <bioguideId>N000184</bioguideId>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <firstName>Kristi</firstName>
+        <district>0</district>
+        <identifiers>
+          <lisID>2060</lisID>
+          <bioguideId>N000184</bioguideId>
+          <gpoId>8147</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. NOEM:H.R. 2383.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1: The Congress shall havePower To lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defence andgeneral Welfare of the United States; but all Duties,Imposts, and Excises shall be uniform throughout the UnitedStates[Page H4179]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-04-26</actionDate>
+          <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S2554-2555)</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>American Renewable Fuel and Job Creation Act of 2017</latestTitle>
+        <number>944</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <title>American Renewable Fuel and Job Creation Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>American Renewable Fuel and Job Creation Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to reform and extend the incentives for biodiesel.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>American Renewable Fuel and Job Creation Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-05-04T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-06-21T18:07:06Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-04</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>American Renewable Fuel and Job Creation Act of 2017</b><br> <br> This bill amends the Internal Revenue Code to modify and extend: (1) the income tax credit for biodiesel and renewable diesel used as fuel, and (2) the excise tax credit for biodiesel fuel mixtures. </p> <p>The bill: (1) makes the credits available to domestic producers of the fuels rather than the policy under current law of providing a mixture credit to the blender of the fuel, (2) increases the income tax credit for certain small biodiesel producers, and (3) extends the credits through 2020. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

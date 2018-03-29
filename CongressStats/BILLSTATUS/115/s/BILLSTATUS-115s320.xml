@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>320</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-06</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S746-747</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S746-747</url>
+          </link>
+          <link>
+            <name>S747</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S747</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S746-747; text of measure as introduced: CR S747)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-06</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:42Z</updateDate>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>B001288</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Booker</lastName>
+        <state>NJ</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-07T00:10:21Z</date>
+            </item>
+          </activities>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-06</introducedDate>
+    <title>NextGen Accountability Act</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-02-07T09:43:12Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <bioguideId>D000618</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S746-747; text of measure as introduced: CR S747)</text>
+      <links />
+      <actionDate>2017-02-06</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestTitle>Federal Aviation Administration Reauthorization Act of 2017</latestTitle>
+        <number>1405</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>NextGen Accountability Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>NextGen Accountability Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Federal Aviation Administration to establish annual performance objectives and to hold the Chief NextGen Officer accountable for meeting such objectives.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>NextGen Accountability Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>NextGen Accountability Act</b></p> <p>This bill amends the FAA Modernization and Reform Act of 2012 to direct the Federal Aviation Administration (FAA) to establish annual Next Generation Air Transportation System (NextGen) performance goals for each of the national airspace system performance metrics to meet identified performance metric baselines with respect to NextGen projects.</p> <p>The bill amends the Vision 100--Century of Aviation Reauthorization Act to revise contents of an annual Department of Transportation report to Congress regarding an integrated work plan for the NextGen. The plan shall include, among other things, a description of the progress made in meeting NextGen performance goals relative to the performance metrics.</p> <p>The bill revises requirements for the award of bonuses to the FAA Chief NextGen Officer. The FAA, for purposes of the award of such bonuses, shall also consider any progress made toward meeting the NextGen performance goals. </p> <p>The bill revises certain performance goals set forth in the annual performance agreement between the FAA and the NextGen Officer to include quantifiable NextGen airspace efficiency, productivity, capacity, and safety performance objectives.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-06</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-02-17T21:00:59Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-06T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

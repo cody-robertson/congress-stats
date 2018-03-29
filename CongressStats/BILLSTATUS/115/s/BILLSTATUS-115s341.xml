@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>341</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-08</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-02-08</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:43Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <bioguideId>C000141</bioguideId>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <bioguideId>M000303</bioguideId>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+        </identifiers>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <lastName>MCCAIN</lastName>
+        <party>R</party>
+        <middleName>SIDNEY</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>SHERROD</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Claire</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <bioguideId>M001170</bioguideId>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <lastName>McCaskill</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JERRY</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <bioguideId>M000934</bioguideId>
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <lastName>MORAN</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <bioguideId>R000122</bioguideId>
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <lastName>REED</lastName>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>RICHARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <lastName>DURBIN</lastName>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <bioguideId>B001267</bioguideId>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Christopher</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>DE</state>
+        <bioguideId>C001088</bioguideId>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jon</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <bioguideId>D000607</bioguideId>
+        <identifiers>
+          <lisID>1850</lisID>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <lastName>Donnelly</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Sheldon</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <bioguideId>W000802</bioguideId>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>N000032</bioguideId>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jeanne</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ROB</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <bioguideId>P000449</bioguideId>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+        </identifiers>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <bioguideId>D000622</bioguideId>
+        <identifiers>
+          <lisID>2123</lisID>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <bioguideId>V000128</bioguideId>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>TAMMY</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <bioguideId>B001230</bioguideId>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <lastName>BALDWIN</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Bob</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <bioguideId>C001070</bioguideId>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Amy</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Foreign property</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+          <item>
+            <name>Ukraine</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-04-27T14:00:34Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-08T18:15:27Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-08</introducedDate>
+    <title>Russia Sanctions Review Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-02-09T08:35:57Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>GRAHAM</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <bioguideId>G000359</bioguideId>
+        <middleName>O.</middleName>
+        <byRequestType />
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <firstName>LINDSEY</firstName>
+        <identifiers>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+      <links />
+      <actionDate>2017-04-27</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>2935</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Trade.</text>
+          <actionDate>2017-06-28</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Freezing Russian Sanctions Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>1059</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+          <actionDate>2017-03-06</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Russia Sanctions Review Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Russia Sanctions Review Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Russia Sanctions Review Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for congressional oversight of actions to waive, suspend, reduce, provide relief from, or otherwise limit the application of sanctions with respect to the Russian Federation, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Russia Sanctions Review Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Russia Sanctions Review Act of 2017</strong></p> <p>This bill provides that the following executive orders, as in effect on January 1, 2017, and any sanctions imposed pursuant to such orders, shall remain in effect: (1) Executive Order 13694 (relating to blocking property of certain persons engaging in significant malicious cyber-enabled activities); (2) Executive Orders 13660, 13661, and 13662 (relating to blocking property of certain persons contributing to the situation in Ukraine); and (3) Executive Order 13685 (relating to blocking property of certain persons and prohibiting certain transactions with respect to the Crimea region of Ukraine).</p> <p>Before taking any action to waive or otherwise limit the application of sanctions with respect to the Russian Federation, the President shall submit to specified congressional committees a report that: (1) describes the proposed action; and (2) certifies that the Russian government has ceased ordering or supporting acts intended to undermine Ukraine's peace, security, stability,sovereignty, or territorial integrity and has ceased cyber attacks against the U.S. government and U.S. persons and entities.</p> <p>During the 120-day period following a report's submission: (1) the Senate Committee on Foreign Relations and the House Committee on Foreign Affairs shall review such report and certification, and (2) the President may not take action to waive or otherwise limit the application of such sanctions.</p> <p>The President may not take action to waive or otherwise limit the application of sanctions with respect to the Russian Federation: (1) for 12 days after the date of passage by both Houses of Congress of a congressional joint resolution disapproving such action, (2) for 10 days after the the President vetoes such joint resolution, and (3) if such joint resolution is enacted as provided for by this bill.</p>]]></text>
+          <actionDate>2017-02-08</actionDate>
+          <updateDate>2017-02-08T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-27T19:19:29Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

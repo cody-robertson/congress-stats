@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-06-06</introducedDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <bioguideId>H000338</bioguideId>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName>GRANT</middleName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <party>R</party>
+        <firstName>ORRIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>HATCH</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <bioguideId>C001075</bioguideId>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cassidy</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName>Wood</middleName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <party>D</party>
+        <firstName>Margaret</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hassan</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <party>D</party>
+        <firstName>Jeanne</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shaheen</lastName>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-06</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-06</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-06-07T00:41:38Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <latestAction>
+      <actionDate>2017-06-06</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <title>RISE Act of 2017</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Respond, Innovate, Succeed, and Empower Act of 2017 or the RISE Act of 2017</b></p> <p>This bill amends the Higher Education Act of 1965 to set forth requirements about data collection related to students with disabilities. Specifically, the bill requires institutions of higher education (IHEs) to outline which documents disabled students need to submit in order to ensure they are eligible for student disability support services. </p> <p>IHEs must submit key data related to their undergraduate students with disabilities for inclusion in federal postsecondary institution data collection efforts.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-11-15T15:55:09Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-06-06T04:00:00Z</updateDate>
+          <actionDate>2017-06-06</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <billNumber>1295</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student records</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>3199</number>
+        <latestTitle>Improving Access to Higher Education Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2017-07-12</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>2782</number>
+        <latestTitle>RISE Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2017-06-06</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2017-06-06T19:21:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>RISE Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Respond, Innovate, Succeed, and Empower Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>RISE Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Respond, Innovate, Succeed, and Empower Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Higher Education Act of 1965 to provide students with disabilities and their families with access to critical information needed to select the right college and succeed once enrolled.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>RISE Act of 2017</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <middleName />
+        <state>PA</state>
+        <byRequestType />
+        <firstName>Bob</firstName>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <lastName>Casey</lastName>
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-06T16:45:29Z</updateDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

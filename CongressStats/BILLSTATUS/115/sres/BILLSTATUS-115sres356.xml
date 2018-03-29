@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees />
+    </committees>
+    <amendments />
+    <latestAction>
+      <links />
+      <actionDate>2017-12-11</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S7946-7947; text as passed Senate: CR S7946)</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <party>R</party>
+        <middleName>Neely</middleName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <bioguideId>K000393</bioguideId>
+        <state>LA</state>
+        <lastName>Kennedy</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <notes />
+    <updateDate>2017-12-16T05:28:44Z</updateDate>
+    <billNumber>356</billNumber>
+    <introducedDate>2017-12-11</introducedDate>
+    <cboCostEstimates />
+    <title>A resolution expressing the sense of the Senate that Members of Congress should substitute teach at least 1 day per year in a public school to gain firsthand knowledge on how to address the prevailing challenges facing educators and how to remove obstacles to learning for students.</title>
+    <createDate>2017-12-12T00:26:06Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-12-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7946</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7946</url>
+          </link>
+          <link>
+            <name>S7946-7947</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7946-7947</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S7946-7947; text as passed Senate: CR S7946)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-12-11</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S7946</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7946</url>
+          </link>
+          <link>
+            <name>S7946-7947</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7946-7947</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.(consideration: CR S7946-7947; text as passed Senate: CR S7946)</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-11</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <billType>SRES</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution expressing the sense of the Senate that Members of Congress should substitute teach at least 1 day per year in a public school to gain firsthand knowledge on how to address the prevailing challenges facing educators and how to remove obstacles to learning for students.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A resolution expressing the sense of the Senate that Members of Congress should substitute teach at least 1 day per year in a public school to gain firsthand knowledge on how to address the prevailing challenges facing educators and how to remove obstacles to learning for students.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <firstName>Sheldon</firstName>
+        <bioguideId>W000802</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

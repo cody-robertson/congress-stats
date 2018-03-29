@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <createDate>2017-11-29T03:11:24Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-28</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-28</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-28</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <state>AZ</state>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <bioguideId>S001191</bioguideId>
+        <district>9</district>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <notes />
+    <relatedBills />
+    <introducedDate>2017-11-28</introducedDate>
+    <cboCostEstimates />
+    <committeeReports />
+    <billNumber>4462</billNumber>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <date>2017-11-28T17:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-11-29T20:37:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hspw13</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <laws />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2017-11-29</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <lastName>Donovan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Daniel</firstName>
+        <identifiers>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+          <lisID>2293</lisID>
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Gonzalez-Colon</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jenniffer</firstName>
+        <identifiers>
+          <lisID>2347</lisID>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <party>R</party>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <state>PR</state>
+        <bioguideId>G000582</bioguideId>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>TRACE Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Taking Responsibility by Accounting for Corruption and Excess Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to prohibit certain reimbursements relating to disaster assistance, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>TRACE Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>TRACE Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Taking Responsibility by Accounting for Corruption and Excess Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-12-05T08:15:57Z</updateDate>
+    <calendarNumbers />
+    <title>TRACE Act</title>
+    <congress>115</congress>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

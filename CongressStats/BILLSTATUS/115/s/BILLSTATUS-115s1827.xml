@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>5</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-20</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 288.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-12-20</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/197</url>
+            <name>report No. 115-197</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 115-197.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-20</actionDate>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/197</url>
+            <name>report No. 115-197</name>
+          </link>
+        </links>
+        <text>Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 115-197.</text>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 288.</text>
+      <actionDate>2017-12-20</actionDate>
+    </latestAction>
+    <laws />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <state>OR</state>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <lastName>WYDEN</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <state>OH</state>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <lastName>BROWN</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <state>MI</state>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <bioguideId>S000770</bioguideId>
+        <firstName>DEBORAH</firstName>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <lastName>STABENOW</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <state>PA</state>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <bioguideId>C001070</bioguideId>
+        <firstName>Bob</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <lastName>Casey</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <bioguideId>M000639</bioguideId>
+        <firstName>ROBERT</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <lastName>MENENDEZ</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+          <lisID>2123</lisID>
+        </identifiers>
+        <state>IL</state>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <bioguideId>D000622</bioguideId>
+        <firstName>Tammy</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-09-19</sponsorshipDate>
+        <lastName>Duckworth</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+        </identifiers>
+        <state>GA</state>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <bioguideId>I000055</bioguideId>
+        <firstName>Johnny</firstName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <lastName>Isakson</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <state>MT</state>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+        </identifiers>
+        <state>NV</state>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <bioguideId>H001041</bioguideId>
+        <firstName>Dean</firstName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <lastName>Heller</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <bioguideId>P000595</bioguideId>
+        <firstName>Gary</firstName>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <lastName>Peters</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <bioguideId>N000032</bioguideId>
+        <firstName>CLARENCE</firstName>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <lastName>NELSON</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+        </identifiers>
+        <state>CO</state>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <bioguideId>B001267</bioguideId>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <lastName>Bennet</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <state>CO</state>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <bioguideId>G000562</bioguideId>
+        <firstName>Cory</firstName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <lastName>Gardner</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <state>IA</state>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <bioguideId>G000386</bioguideId>
+        <firstName>CHARLES</firstName>
+        <party>R</party>
+        <middleName>ERNEST</middleName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <lastName>GRASSLEY</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+          <lisID>2299</lisID>
+        </identifiers>
+        <state>NV</state>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <bioguideId>C001113</bioguideId>
+        <firstName>Catherine</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <lastName>Cortez Masto</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <state>AK</state>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <bioguideId>M001153</bioguideId>
+        <firstName>Lisa</firstName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+        <lastName>Murkowski</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <state>DE</state>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <bioguideId>C001088</bioguideId>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+        <lastName>Coons</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <state>IN</state>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <bioguideId>D000607</bioguideId>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <lastName>Donnelly</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <bioguideId>M001170</bioguideId>
+        <firstName>Claire</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <lastName>McCaskill</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <state>HI</state>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <bioguideId>H001042</bioguideId>
+        <firstName>Mazie</firstName>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <lastName>Hirono</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NJ</state>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <bioguideId>B001288</bioguideId>
+        <firstName>Cory</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-10-30</sponsorshipDate>
+        <lastName>Booker</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <state>DE</state>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <bioguideId>C000174</bioguideId>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-11-27</sponsorshipDate>
+        <lastName>CARPER</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NE</state>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <bioguideId>F000463</bioguideId>
+        <firstName>Deb</firstName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Fischer</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <gpoId />
+          <lisID>2364</lisID>
+        </identifiers>
+        <state>AL</state>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <bioguideId>J000300</bioguideId>
+        <firstName>Doug</firstName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <lastName>Jones</lastName>
+      </item>
+    </cosponsors>
+    <title>KIDS Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-12-20T17:33:44Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-18T19:59:09Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-197</citation>
+      </committeeReport>
+    </committeeReports>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0288</number>
+      </item>
+    </calendarNumbers>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-09-18</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Keep Kids' Insurance Dependable and Secure Act of 2017 or the KIDS Act of 2017</strong></p> <p>This bill amends titles XI (General Provisions), XIX (Medicaid), and XXI (Children's Health Insurance Program) (CHIP) of the Social Security Act to&nbsp;extend funding for&nbsp;CHIP through FY2022 and otherwise revise&nbsp;provisions related to&nbsp;CHIP and Medicaid. </p> <p>The bill also extends funding through FY2022 for:</p> <ul> <li>the Child Enrollment Contingency Fund, </li> <li>the Childhood Obesity Demonstration Project, </li> <li>the Pediatric Quality Measures Program, and </li> <li>specified outreach and enrollment grants.</li></ul> <p>In addition, the bill reauthorizes through FY2022:</p> <ul> <li>the qualifying-states option (which allows states that provided coverage to now CHIP-eligible children prior to CHIP's enactment to continue to provide such coverage), and </li> <li>the express-lane eligibility option (which allows states to use eligibility findings from other public benefit programs to determine&nbsp;children's eligibility for Medicaid and CHIP).</li></ul> <p>Beginning in FY2020, the bill allows&nbsp;state child-health plans&nbsp;to adopt more restrictive eligibility standards with respect to children in families whose income exceeds 300% of the poverty line.</p> <p>Current law provides states with an enhanced Federal Matching Assistance Percentage (FMAP) for child-health assistance through FY2019. The bill&nbsp;maintains the&nbsp;enhanced FMAP&nbsp;in FY2020, but&nbsp;halves the&nbsp;percentage-point increase.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-10-06T20:16:48Z</lastSummaryUpdateDate>
+          <updateDate>2017-09-18T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2017-12-20</actionDate>
+          <versionCode>01</versionCode>
+          <text><![CDATA[<p><strong>Keep Kids' Insurance Dependable and Secure Act of 2017 or the KIDS Act of 2017</strong></p> <p>(Sec. 2) This bill extends funding through FY2022 for&nbsp;the&nbsp;Children's Health Insurance Program (CHIP) and the Childhood Obesity Demonstration Project. </p> <p>In addition, the bill reauthorizes through FY2022:</p> <ul> <li>the qualifying-states option (which allows states that provided coverage to now CHIP-eligible children prior to CHIP's enactment to continue to provide such coverage), and </li> <li>the express-lane eligibility option (which allows states to use eligibility findings from other public benefit programs to determine&nbsp;children's eligibility for Medicaid and CHIP).</li></ul> <p>Beginning in FY2020, the bill allows&nbsp;state child-health plans&nbsp;to adopt more restrictive eligibility standards with respect to children in families whose income exceeds 300% of the poverty line.</p> <p>(Sec. 3) The bill extends funding through FY2022 for the Childhood Obesity Demonstration Project and the Pediatric Quality Measures Program.</p> <p>(Sec. 4) The bill&nbsp;extends funding through FY2022 for specified outreach and enrollment grants.</p> <p>(Sec. 5) Current law provides states with an enhanced Federal Matching Assistance Percentage (FMAP) for child-health assistance through FY2019. The bill&nbsp;maintains the&nbsp;enhanced FMAP&nbsp;in FY2020, but&nbsp;halves the&nbsp;percentage-point increase.</p>]]></text>
+          <name>Reported to Senate with amendment(s)</name>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <lastSummaryUpdateDate>2017-12-21T22:45:41Z</lastSummaryUpdateDate>
+          <updateDate>2017-12-20T12:40:50Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1827</billNumber>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-10-23T15:48:49Z</pubDate>
+        <url>https://www.cbo.gov/publication/53234</url>
+        <title>S. 1827, Keep Kids’ Insurance Dependable and Secure Act of 2017</title>
+      </item>
+      <item>
+        <pubDate>2018-01-05T18:05:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/53442</url>
+        <title>S. 1827, Keep Kids’ Insurance Dependable and Secure Act of 2017</title>
+      </item>
+      <item>
+        <pubDate>2018-01-11T15:14:05Z</pubDate>
+        <url>https://www.cbo.gov/publication/53459</url>
+        <title>Extending Funding for the Children's Health Insurance Program for 10 Years</title>
+      </item>
+    </cboCostEstimates>
+    <introducedDate>2017-09-18</introducedDate>
+    <congress>115</congress>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <state>UT</state>
+        <middleName>GRANT</middleName>
+        <bioguideId>H000338</bioguideId>
+        <firstName>ORRIN</firstName>
+        <byRequestType />
+        <lastName>HATCH</lastName>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-10-23</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 263.</text>
+        </latestAction>
+        <latestTitle>HEALTHY KIDS Act</latestTitle>
+        <number>3921</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2018-01-16</actionDate>
+          <text>Referred to the Committee on Appropriations, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>Making an extension of continuing appropriations for fiscal year 2018, and for other purposes.</latestTitle>
+        <number>125</number>
+      </item>
+    </relatedBills>
+    <createDate>2017-09-19T00:26:19Z</createDate>
+    <updateDate>2018-02-22T15:28:55Z</updateDate>
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>KIDS Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Keep Kids' Insurance Dependable and Secure Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>KIDS Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Keep Kids' Insurance Dependable and Secure Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to extend funding for the Children's Health Insurance Program, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>KIDS Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>KIDS Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>Keep Kids' Insurance Dependable and Secure Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>KIDS Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Keep Kids' Insurance Dependable and Secure Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

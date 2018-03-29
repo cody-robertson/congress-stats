@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-12-04</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-12-04</actionDate>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-12-04</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 39 (Tuesday, March 7, 2017)][Pages H1594-H1595]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COOK:H.R. 1399.[[Page H1595]]Congress has the power to enact this legislation pursuantto the following:Article I, Section 8</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <actionDate>2017-12-05</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2017-12-04</introducedDate>
+    <relatedBills />
+    <amendments />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <middleName />
+        <district>8</district>
+        <firstName>Raja</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2325</lisID>
+          <gpoId />
+          <bioguideId>K000391</bioguideId>
+        </identifiers>
+        <bioguideId>K000391</bioguideId>
+        <lastName>Krishnamoorthi</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Distracted Driving Education Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To direct the Secretary of Transportation to establish a distracted driving education grant program, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Distracted Driving Education Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Distracted Driving Education Act of 2017</title>
+      </item>
+    </titles>
+    <title>Distracted Driving Education Act of 2017</title>
+    <congress>115</congress>
+    <createDate>2017-12-05T03:11:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-05T14:44:10Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-04T23:01:05Z</date>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <laws />
+    <recordedVotes />
+    <updateDate>2018-01-17T17:00:08Z</updateDate>
+    <billNumber>4542</billNumber>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <middleName>M.</middleName>
+        <lastName>Rice</lastName>
+        <state>NY</state>
+        <bioguideId>R000602</bioguideId>
+        <firstName>Kathleen</firstName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

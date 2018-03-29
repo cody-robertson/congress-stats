@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-11-07</actionDate>
+      <links />
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <committeeReports />
+    <updateDate>2017-12-21T12:30:09Z</updateDate>
+    <notes />
+    <introducedDate>2017-11-07</introducedDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>A bill to amend the Omnibus Public Land Management Act of 2009 to clarify the authority of the Administrator of the National Oceanic and Atmospheric Administration with respect to post-storm assessments, and for other purposes.</latestTitle>
+        <congress>115</congress>
+        <number>2242</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2017-12-18</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <title>COASTAL Implementation Act of 2017</title>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-11-08T00:26:16Z</createDate>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+        <firstName>ROGER</firstName>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-07</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-11-07</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <billType>S</billType>
+    <amendments />
+    <cosponsors />
+    <cboCostEstimates />
+    <billNumber>2093</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-07T20:51:35Z</date>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>COASTAL Implementation Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Omnibus Public Land Management Act of 2009 to clarify the authority of the Administrator of the Federal Emergency Management Agency with respect to post-storm assessments, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>COASTAL Implementation Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>COASTAL Implementation Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

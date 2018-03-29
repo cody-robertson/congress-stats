@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <introducedDate>2017-11-16</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-07-18</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <latestTitle>Gaining Responsibility on Water Act of 2017</latestTitle>
+        <number>23</number>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-02-17</actionDate>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        </latestAction>
+        <latestTitle>Bureau of Reclamation Water Project Streamlining Act</latestTitle>
+        <number>875</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2017-11-30</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <billNumber>4419</billNumber>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-02-02T22:00:17Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-11-30T15:15:50Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-21T17:20:52Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T14:04:35Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-11-30</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Power and Oceans Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-21</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Power and Oceans Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E1587</url>
+            <name>E1587</name>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR E1587)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-16</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-16</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-16</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 188 (Thursday, November 16, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NEWHOUSE:H.R. 4419.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the United StatesConstitution[Page H9426]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Bureau of Reclamation and Bureau of Indian Affairs Water Project Streamlining Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To facilitate and streamline the Bureau of Reclamation and Bureau of Indian Affairs processes for creating or expanding certain water projects, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Bureau of Reclamation and Bureau of Indian Affairs Water Project Streamlining Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Bureau of Reclamation and Bureau of Indian Affairs Water Project Streamlining Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>Dan</firstName>
+        <state>WA</state>
+        <identifiers>
+          <lisID>2275</lisID>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Newhouse</lastName>
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <bioguideId>N000189</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <amendments />
+    <calendarNumbers />
+    <title>Bureau of Reclamation and Bureau of Indian Affairs Water Project Streamlining Act</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1810</lisID>
+          <bioguideId>R000578</bioguideId>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000578</bioguideId>
+        <firstName>David</firstName>
+        <party>R</party>
+        <middleName>G.</middleName>
+        <lastName>Reichert</lastName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1908</lisID>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001177</bioguideId>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <middleName />
+        <lastName>McClintock</lastName>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+      </item>
+    </cosponsors>
+    <createDate>2017-11-17T03:11:17Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

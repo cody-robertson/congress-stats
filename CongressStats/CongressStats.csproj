@@ -78,6 +78,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Bill.cs" />
+    <Compile Include="BillParser.cs" />
     <Compile Include="Bill_Profile.xaml.cs">
       <DependentUpon>Bill_Profile.xaml</DependentUpon>
     </Compile>

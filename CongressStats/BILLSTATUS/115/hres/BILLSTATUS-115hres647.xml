@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <recordedVotes>
+      <recordedVote>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <rollNumber>666</rollNumber>
+        <date>2017-12-07T19:12:12Z</date>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll666.xml</url>
+        <congress>115</congress>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <rollNumber>665</rollNumber>
+        <date>2017-12-07T19:05:36Z</date>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll665.xml</url>
+        <congress>115</congress>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <updateDate>2018-02-22T15:26:55Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-12-06T21:57:01Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-12-06</actionDate>
+          <lastSummaryUpdateDate>2017-12-07T09:07:21Z</lastSummaryUpdateDate>
+          <updateDate>2017-12-06T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 477) to amend the Securities Exchange Act of 1934 to exempt from registration brokers performing services in connection with the transfer of ownership of smaller privately held companies; providing for consideration of the bill (H.R. 3971) to amend the Truth in Lending Act and the Real Estate Settlement Procedures Act of 1974 to modify the requirements for community financial institutions with respect to certain rules relating to mortgage loans, and for other purposes; and providing for consideration of the joint resolution (H.J. Res. 123) making further continuing appropriations for fiscal year 2018.]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers>
+      <item>
+        <calendar>H00108</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <notes />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Providing for consideration of the bill (H.R. 477) to amend the Securities Exchange Act of 1934 to exempt from registration brokers performing services in connection with the transfer of ownership of smaller privately held companies; providing for consideration of the bill (H.R. 3971) to amend the Truth in Lending Act and the Real Estate Settlement Procedures Act of 1974 to modify the requirements for community financial institutions with respect to certain rules relating to mortgage loans, and for other purposes; and providing for consideration of the joint resolution (H.J. Res. 123) making further continuing appropriations for fiscal year 2018, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Providing for consideration of the bill (H.R. 477) to amend the Securities Exchange Act of 1934 to exempt from registration brokers performing services in connection with the transfer of ownership of smaller privately held companies; providing for consideration of the bill (H.R. 3971) to amend the Truth in Lending Act and the Real Estate Settlement Procedures Act of 1974 to modify the requirements for community financial institutions with respect to certain rules relating to mortgage loans, and for other purposes; and providing for consideration of the joint resolution (H.J. Res. 123) making further continuing appropriations for fiscal year 2018, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2017-12-07T03:11:06Z</createDate>
+    <version>1.0.0</version>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-443</citation>
+      </committeeReport>
+    </committeeReports>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <provisionsOfARule>1</provisionsOfARule>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <item>
+        <actionTime>14:12:13</actionTime>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-07</actionDate>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <actionTime>14:12:12</actionTime>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H9722</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9722</url>
+          </link>
+          <link>
+            <name>Roll no. 666</name>
+            <url>http://clerk.house.gov/evs/2017/roll666.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-07</actionDate>
+        <committee />
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 238 - 188 (Roll no. 666). (text: CR H9722)</text>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <actionTime>14:12:12</actionTime>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>Roll no. 666</name>
+            <url>http://clerk.house.gov/evs/2017/roll666.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-07</actionDate>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 238 - 188 (Roll no. 666).</text>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <actionTime>14:05:36</actionTime>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H9730</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9730</url>
+          </link>
+          <link>
+            <name>Roll no. 665</name>
+            <url>http://clerk.house.gov/evs/2017/roll665.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-07</actionDate>
+        <committee />
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 236 - 190 (Roll no. 665). (consideration: CR H9730)</text>
+        <actionCode>H35000</actionCode>
+      </item>
+      <item>
+        <actionTime>12:41:52</actionTime>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H. Res. 647</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/647</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-07</actionDate>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 647.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <actionTime>12:37:59</actionTime>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H9722-9730</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9722-9730</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-07</actionDate>
+        <committee />
+        <text>Considered as privileged matter. (consideration: CR H9722-9730)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <text>Placed on the House Calendar, Calendar No. 108.</text>
+        <type>Calendars</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-06</actionDate>
+        <committee />
+        <actionCode>H12420</actionCode>
+      </item>
+      <item>
+        <actionTime>16:57:02</actionTime>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.J.Res. 123</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-joint-resolution/123</url>
+          </link>
+          <link>
+            <name>H.R. 3971</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3971</url>
+          </link>
+          <link>
+            <name>H.R. 477</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/477</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-06</actionDate>
+        <committee />
+        <text>Provides for consideration of H.R. 477 and H.R. 3971 under structured rules with one hour of debate, one motion to recommit with or without instructions on each measure. Also provides for consideration of H.J.Res. 123 under a closed rule, with one hour of debate and one motion</text>
+        <actionCode>H12700</actionCode>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-443, by Mr. Woodall.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-443</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/443</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-06</actionDate>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionCode>H12100</actionCode>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-443, by Mr. Woodall.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-443</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/443</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-06</actionDate>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-06</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2017-12-07</actionDate>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>14:12:13</actionTime>
+    </latestAction>
+    <billNumber>647</billNumber>
+    <amendments />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <title>Providing for consideration of the bill (H.R. 477) to amend the Securities Exchange Act of 1934 to exempt from registration brokers performing services in connection with the transfer of ownership of smaller privately held companies; providing for consideration of the bill (H.R. 3971) to amend the Truth in Lending Act and the Real Estate Settlement Procedures Act of 1974 to modify the requirements for community financial institutions with respect to certain rules relating to mortgage loans, and for other purposes; and providing for consideration of the joint resolution (H.J. Res. 123) making further continuing appropriations for fiscal year 2018, and for other purposes.</title>
+    <introducedDate>2017-12-06</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <lastName>Woodall</lastName>
+        <middleName />
+        <firstName>Rob</firstName>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <bioguideId>W000810</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7904</gpoId>
+          <bioguideId>W000810</bioguideId>
+          <lisID>2008</lisID>
+        </identifiers>
+        <state>GA</state>
+        <district>7</district>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2017-12-11</actionDate>
+        </latestAction>
+        <number>477</number>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Community Institution Mortgage Relief Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2017-12-13</actionDate>
+        </latestAction>
+        <number>3971</number>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Making further continuing appropriations for fiscal year 2018, and for other purposes.</latestTitle>
+        <type>HJRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Became Public Law No: 115-90.</text>
+          <actionDate>2017-12-08</actionDate>
+        </latestAction>
+        <number>123</number>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

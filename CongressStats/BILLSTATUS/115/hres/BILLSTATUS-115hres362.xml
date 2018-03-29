@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>362</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Environment.</text>
+      <links />
+      <actionDate>2017-05-26</actionDate>
+    </latestAction>
+    <createDate>2017-05-26T03:11:38Z</createDate>
+    <title>Affirming the need to achieve environmental justice, commending the work of environmental justice advocates, and for other purposes.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-08-28T21:45:18Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-25</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Reaffirms the importance of clean air, clean water, resource conservation, and other policy goals that led to the enactment of existing environmental and public health protections.</p> <p>Affirms the need to achieve environmental justice so that environmental and public health policies adequately and equally protect all Americans. </p> <p>Commends environmental justice advocates for their work to achieve fairer, healthier, more sustainable policies and outcomes.</p> <p>Acknowledges the prevalence of environmental injustices that directly affect the health and well-being of individuals and communities across the country, especially racial minority, rural, indigenous, and low-income communities.</p> <p>Affirms the commitment of the House of Representatives to ameliorating existing environmental injustices and preventing future injustices.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-26</actionDate>
+        <committee>
+          <systemCode>hsif18</systemCode>
+          <name>Environment and the Economy Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Natural Resources</text>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:39:49Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>M001200</bioguideId>
+        <district>4</district>
+        <middleName>Donald</middleName>
+        <byRequestType />
+        <firstName>A.</firstName>
+        <lastName>McEachin</lastName>
+        <state>VA</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>2352</lisID>
+          <bioguideId>M001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:09:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-26T15:30:35Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif18</systemCode>
+              <name>Environment and the Economy Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:09:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <bioguideId>J000298</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+          <lisID>2354</lisID>
+        </identifiers>
+        <lastName>Jayapal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Pramila</firstName>
+        <state>WA</state>
+      </item>
+      <item>
+        <district>44</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <bioguideId>B001300</bioguideId>
+        <middleName>Diaz</middleName>
+        <identifiers>
+          <lisID>2311</lisID>
+          <bioguideId>B001300</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Barragan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Nanette</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>V000081</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <lastName>VELAZQUEZ</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>NYDIA</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>B001304</bioguideId>
+        <middleName>G.</middleName>
+        <identifiers>
+          <lisID>2331</lisID>
+          <gpoId />
+          <bioguideId>B001304</bioguideId>
+        </identifiers>
+        <lastName>Brown</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Anthony</firstName>
+        <state>MD</state>
+      </item>
+      <item>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>N000002</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+        </identifiers>
+        <lastName>NADLER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>JERROLD</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ALCEE</firstName>
+        <state>FL</state>
+      </item>
+      <item>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>P000604</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId>8373</gpoId>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <lastName>Payne</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Donald</firstName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>M001160</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Gwen</firstName>
+        <state>WI</state>
+      </item>
+      <item>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>J000032</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <lastName>JACKSON LEE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>SHEILA</firstName>
+        <state>TX</state>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>E000296</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Evans</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Dwight</firstName>
+        <state>PA</state>
+      </item>
+      <item>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipDate>2017-07-06</sponsorshipDate>
+        <bioguideId>R000606</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+          <lisID>2332</lisID>
+        </identifiers>
+        <lastName>Raskin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jamie</firstName>
+        <state>MD</state>
+      </item>
+      <item>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <sponsorshipDate>2017-07-06</sponsorshipDate>
+        <bioguideId>K000389</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+          <lisID>2308</lisID>
+        </identifiers>
+        <lastName>Khanna</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ro</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <sponsorshipDate>2017-07-06</sponsorshipDate>
+        <bioguideId>S000510</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>S000510</bioguideId>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <lastName>SMITH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ADAM</firstName>
+        <state>WA</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-05-25</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Affirming the need to achieve environmental justice, commending the work of environmental justice advocates, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Affirming the need to achieve environmental justice, commending the work of environmental justice advocates, and for other purposes.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Due process and equal protection</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

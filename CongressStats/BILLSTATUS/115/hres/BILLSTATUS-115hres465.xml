@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <introducedDate>2017-07-20</introducedDate>
+    <cosponsors />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the House of Representatives that regular order should be restored in the House and Senate.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the House of Representatives that regular order should be restored in the House and Senate.</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <recordedVotes />
+    <amendments />
+    <laws />
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Rules.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-07-20</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-07-20</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-07-20</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:39:54Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-07-20T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that:</p> <ul> <li>it should not be in order to consider a bill or resolution in the House unless each committee of referral had a hearing on it at which amendments were permitted, a vote was taken, and the committee filed a report on the measure;</li> <li> a conference report should not be filed in the House unless the conference committee held at least three meetings in which all committee members were allowed to be present, all items of difference between the chambers were addressed, voted on, and resolved by the full conference committee membership, and printed or electronic copies of the conference report and the accompanying joint explanatory statement were available to Members and Delegates for at least 48 hours before filing;</li> <li>both chambers should schedule simultaneous five-day work weeks in Washington and district work periods; and</li> <li>every bill brought to committee should be open to amendment and every bill brought to the floor of the House for a vote should be considered under an open rule.</li></ul>]]></text>
+          <lastSummaryUpdateDate>2017-11-09T21:38:08Z</lastSummaryUpdateDate>
+          <actionDate>2017-07-20</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Expressing the sense of the House of Representatives that regular order should be restored in the House and Senate.</title>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Referred to the House Committee on Rules.</text>
+      <actionDate>2017-07-20</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <billNumber>465</billNumber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <state>MN</state>
+        <bioguideId>N000127</bioguideId>
+        <identifiers>
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <district>8</district>
+        <lastName>NOLAN</lastName>
+        <firstName>RICHARD</firstName>
+        <middleName />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-21T03:11:33Z</createDate>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>343</number>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Restore Democracy Resolution</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2017-06-07</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

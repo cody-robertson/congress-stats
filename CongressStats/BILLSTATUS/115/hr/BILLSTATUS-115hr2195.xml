@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-04-27</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-07-28T15:08:15Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-02T19:22:53Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-27T14:05:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee />
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 193.</text>
+        <actionDate>2017-07-28</actionDate>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-268</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/268</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-268.</text>
+        <actionDate>2017-07-28</actionDate>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-268</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/268</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-268.</text>
+        <actionDate>2017-07-28</actionDate>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionDate>2017-04-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-04-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-04-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <billReferrals>1</billReferrals>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <reportedToHouse>1</reportedToHouse>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-04-27</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-12-26T17:14:47Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>OSC Access Act </b></p> <p>This bill expands the authority of the Office of Special Counsel (OSC) by allowing it to: (1) have timely access to material available to an agency that relates to an investigation, review, or inquiry relating to whistle-blower allegations or prohibited personnel practices; (2) request from any agency the information or assistance that may be necessary for it to carry out its duties and responsibilities; and (3) require, during an investigation, review, or inquiry of an agency, the agency to provide it any record or other information related to an investigation, review, or inquiry. </p> <p>A claim of common law privilege by an agency, or an officer or employee of an agency, shall not prevent the OSC from obtaining any material from such&nbsp;agency.</p>]]></text>
+          <updateDate>2017-04-27T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:27:41Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Office of Special Counsel</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00193</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <lastName>Chaffetz</lastName>
+        <firstName>Jason</firstName>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001076</bioguideId>
+        <state>UT</state>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <identifiers>
+          <bioguideId>C001076</bioguideId>
+          <lisID>1956</lisID>
+          <gpoId>8191</gpoId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+      </item>
+      <item>
+        <lastName>CUMMINGS</lastName>
+        <firstName>ELIJAH</firstName>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000984</bioguideId>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <lastName>Rice</lastName>
+        <firstName>Kathleen</firstName>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000602</bioguideId>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+          <lisID>2262</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <lastName>Coffman</lastName>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001077</bioguideId>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Speier</lastName>
+        <firstName>Jackie</firstName>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001175</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <title>OSC Access Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>OSC Access Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend title 5, United States Code, to provide for access of the Special Counsel to certain information.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>OSC Access Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <title>OSC Access Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>OSC Access Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Office of Special Counsel Reauthorization Act of 2017</latestTitle>
+        <number>582</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-08-04</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 193.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BLUM:H.R. 2195.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H2942]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>1</district>
+        <state>IA</state>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+        <bioguideId>B001294</bioguideId>
+        <firstName>Rod</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001294</bioguideId>
+          <lisID>2241</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Blum</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2195, OSC Access Act</title>
+        <pubDate>2017-05-23T18:10:06Z</pubDate>
+        <url>https://www.cbo.gov/publication/52756</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-04-28T03:11:52Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>OSC Access Act</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-268</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>2195</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

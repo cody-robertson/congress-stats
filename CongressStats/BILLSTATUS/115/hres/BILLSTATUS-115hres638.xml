@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>638</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-07</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-30</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-30</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-30</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:03Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>French</middleName>
+        <sponsorshipDate>2017-11-30</sponsorshipDate>
+        <firstName>J.</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2223</lisID>
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <bioguideId>H001072</bioguideId>
+        <lastName>Hill</lastName>
+        <state>AR</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-11-30</sponsorshipDate>
+        <firstName>Bruce</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <bioguideId>W000821</bioguideId>
+        <lastName>Westerman</lastName>
+        <state>AR</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A. "Rick"</middleName>
+        <sponsorshipDate>2017-11-30</sponsorshipDate>
+        <firstName>Eric</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1989</lisID>
+          <gpoId>7793</gpoId>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <bioguideId>C001087</bioguideId>
+        <lastName>Crawford</lastName>
+        <state>AR</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-30T15:02:10Z</date>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <name>Readiness Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-07T16:41:31Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-11-30</introducedDate>
+    <title>Recognizing the Aviation Cadet Museum in Eureka Springs, Arkansas, as the national aviation cadet museum of the United States.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <links />
+      <actionDate>2017-12-07</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-12-01T03:11:10Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Womack</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <bioguideId>W000809</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <firstName>Steve</firstName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1991</lisID>
+          <gpoId>7795</gpoId>
+          <bioguideId>W000809</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills>
+      <item>
+        <latestTitle>A resolution recognizing the Aviation Cadet Museum in Eureka Springs, Arkansas, as the national aviation cadet museum of the United States.</latestTitle>
+        <number>186</number>
+        <latestAction>
+          <actionDate>2017-06-07</actionDate>
+          <text>Referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S3339)</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Recognizing the Aviation Cadet Museum in Eureka Springs, Arkansas, as the national aviation cadet museum of the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Recognizing the Aviation Cadet Museum in Eureka Springs, Arkansas, as the national aviation cadet museum of the United States.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Recognizes the Aviation Cadet Museum in Eureka Springs, Arkansas, as the national aviation cadet museum of the United States.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-11-30</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-01-17T22:27:49Z</lastSummaryUpdateDate>
+          <updateDate>2017-11-30T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

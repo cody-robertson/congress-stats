@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <createDate>2018-01-30T03:10:59Z</createDate>
+    <notes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Department of Defense Appropriations Act, 2018</latestTitle>
+        <number>695</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-02-08</actionDate>
+          <text>Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 695 not invoked in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 29. (CR S798)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <lastName>Cheney</lastName>
+        <firstName>Liz</firstName>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <state>WY</state>
+        <byRequestType />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001109</bioguideId>
+          <lisID>2356</lisID>
+          <gpoId />
+        </identifiers>
+        <district>0</district>
+        <bioguideId>C001109</bioguideId>
+        <middleName />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <date>2018-01-29T23:39:15Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00122</calendar>
+      </item>
+    </calendarNumbers>
+    <introducedDate>2018-01-29</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2018-01-29</actionDate>
+          <lastSummaryUpdateDate>2018-01-30T09:07:37Z</lastSummaryUpdateDate>
+          <updateDate>2018-01-29T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[Sets forth the rule for consideration of the Senate amendments to the bill (H.R. 695) to amend the National Child Protection Act of 1993 to establish a national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities.]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors />
+    <recordedVotes>
+      <recordedVote>
+        <sessionNumber>2</sessionNumber>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <date>2018-01-30T18:53:28Z</date>
+        <chamber>House</chamber>
+        <rollNumber>48</rollNumber>
+        <url>http://clerk.house.gov/evs/2018/roll048.xml</url>
+      </recordedVote>
+      <recordedVote>
+        <sessionNumber>2</sessionNumber>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <date>2018-01-30T18:44:49Z</date>
+        <chamber>House</chamber>
+        <rollNumber>47</rollNumber>
+        <url>http://clerk.house.gov/evs/2018/roll047.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <laws />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-537</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <billNumber>714</billNumber>
+    <title>Providing for consideration of the Senate amendments to the bill (H.R. 695) to amend the National Child Protection Act of 1993 to establish a national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HRES</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <reportedToHouse>1</reportedToHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <provisionsOfARule>1</provisionsOfARule>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+      </actionTypeCounts>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <actionTime>13:53:30</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H690</url>
+            <name>H690</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll048.xml</url>
+            <name>Roll no. 48</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 236 - 183 (Roll no. 48). (text: CR H690)</text>
+        <actionCode>H37100</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <actionTime>13:53:28</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll048.xml</url>
+            <name>Roll no. 48</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 236 - 183 (Roll no. 48).</text>
+        <actionCode>8000</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <actionTime>13:53:28</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H697-698</url>
+            <name>H697-698</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll047.xml</url>
+            <name>Roll no. 47</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 232 - 187 (Roll no. 47). (consideration: CR H697-698)</text>
+        <actionCode>H35000</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <actionTime>13:44:49</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/714</url>
+            <name>H. Res. 714</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 714.</text>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <actionTime>12:25:34</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H690-698</url>
+            <name>H690-698</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered as privileged matter. (consideration: CR H690-698)</text>
+        <actionCode>H30000</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <actionTime>12:23:32</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the House Calendar, Calendar No. 122.</text>
+        <actionCode>H12420</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/695</url>
+            <name>H.R. 695</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Provides for consideration of the Senate amendments to H.R. 695 and makes in order a motion offered by the Chair of the Committee on Appropriations that the House concur in the Senate amendment to the title and concur in the Senate amendment to the text with an amendment consisting of the text of Rules Committee Print 115-56.</text>
+        <actionCode>H12700</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <actionTime>18:39:16</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/537</url>
+            <name>H. Rept. 115-537</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-537, by Ms. Cheney.</text>
+        <actionCode>H12100</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/537</url>
+            <name>H. Rept. 115-537</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-537, by Ms. Cheney.</text>
+        <actionCode>5000</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Providing for consideration of the Senate amendments to the bill (H.R. 695) to amend the National Child Protection Act of 1993 to establish a national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Providing for consideration of the Senate amendments to the bill (H.R. 695) to amend the National Child Protection Act of 1993 to establish a national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2018-02-22T15:29:48Z</updateDate>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>13:53:30</actionTime>
+      <actionDate>2018-01-30</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

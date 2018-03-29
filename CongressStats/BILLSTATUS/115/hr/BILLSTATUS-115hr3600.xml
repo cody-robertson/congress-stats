@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of Iowa:H.R. 3600.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to Amendment XIV, Section 2,of the United States Constitution.[Page H6579]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-07-28</actionDate>
+    </latestAction>
+    <laws />
+    <cosponsors>
+      <item>
+        <lastName>Babin</lastName>
+        <firstName>Brian</firstName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>36</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <bioguideId>B001291</bioguideId>
+      </item>
+      <item>
+        <lastName>Norman</lastName>
+        <firstName>Ralph</firstName>
+        <state>SC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <bioguideId>N000190</bioguideId>
+      </item>
+      <item>
+        <lastName>Graves</lastName>
+        <firstName>Garret</firstName>
+        <state>LA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000577</bioguideId>
+          <lisID>2245</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <bioguideId>G000577</bioguideId>
+      </item>
+      <item>
+        <lastName>Gibbs</lastName>
+        <firstName>Bob</firstName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000563</bioguideId>
+          <gpoId>8108</gpoId>
+          <lisID>2049</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <bioguideId>G000563</bioguideId>
+      </item>
+      <item>
+        <lastName>Grothman</lastName>
+        <firstName>Glenn</firstName>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <bioguideId>G000576</bioguideId>
+      </item>
+      <item>
+        <lastName>LaMalfa</lastName>
+        <firstName>Doug</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <bioguideId>L000578</bioguideId>
+      </item>
+      <item>
+        <lastName>Harris</lastName>
+        <firstName>Andy</firstName>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001052</bioguideId>
+          <gpoId>7976</gpoId>
+          <lisID>2026</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <bioguideId>H001052</bioguideId>
+      </item>
+      <item>
+        <lastName>JOHNSON</lastName>
+        <firstName>SAM</firstName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>J000174</bioguideId>
+          <lisID>603</lisID>
+          <gpoId>8159</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <bioguideId>J000174</bioguideId>
+      </item>
+      <item>
+        <lastName>SESSIONS</lastName>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>32</district>
+        <middleName />
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <bioguideId>S000250</bioguideId>
+      </item>
+      <item>
+        <lastName>Biggs</lastName>
+        <firstName>Andy</firstName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+          <lisID>2307</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <bioguideId>B001302</bioguideId>
+      </item>
+      <item>
+        <lastName>Allen</lastName>
+        <firstName>Rick</firstName>
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <middleName>W.</middleName>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <bioguideId>A000372</bioguideId>
+      </item>
+      <item>
+        <lastName>CHABOT</lastName>
+        <firstName>STEVE</firstName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <bioguideId>C000266</bioguideId>
+      </item>
+      <item>
+        <lastName>Wilson</lastName>
+        <firstName>Joe</firstName>
+        <state>SC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <bioguideId>W000795</bioguideId>
+      </item>
+      <item>
+        <lastName>DesJarlais</lastName>
+        <firstName>Scott</firstName>
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <middleName />
+        <identifiers>
+          <lisID>2062</lisID>
+          <gpoId>8151</gpoId>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <bioguideId>D000616</bioguideId>
+      </item>
+      <item>
+        <lastName>Posey</lastName>
+        <firstName>Bill</firstName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <bioguideId>P000599</bioguideId>
+      </item>
+      <item>
+        <lastName>McClintock</lastName>
+        <firstName>Tom</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <bioguideId>M001177</bioguideId>
+      </item>
+      <item>
+        <lastName>Blackburn</lastName>
+        <firstName>Marsha</firstName>
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <middleName />
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <bioguideId>B001243</bioguideId>
+      </item>
+      <item>
+        <lastName>Rokita</lastName>
+        <firstName>Todd</firstName>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000592</bioguideId>
+          <lisID>2017</lisID>
+          <gpoId>7943</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-02-08</sponsorshipDate>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <bioguideId>R000592</bioguideId>
+      </item>
+      <item>
+        <lastName>Brooks</lastName>
+        <firstName>Mo</firstName>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <gpoId>7790</gpoId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <bioguideId>B001274</bioguideId>
+      </item>
+      <item>
+        <lastName>Abraham</lastName>
+        <firstName>Ralph</firstName>
+        <state>LA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <middleName>Lee</middleName>
+        <identifiers>
+          <bioguideId>A000374</bioguideId>
+          <gpoId />
+          <lisID>2244</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <bioguideId>A000374</bioguideId>
+      </item>
+      <item>
+        <lastName>Ross</lastName>
+        <firstName>Dennis</firstName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>15</district>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <bioguideId>R000593</bioguideId>
+      </item>
+    </cosponsors>
+    <title>Census Accuracy Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-28T13:09:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <calendarNumbers />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-07-28</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-11-14T16:09:15Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Census Accuracy Act of 2017</strong></p> <p>This bill requires any questionnaire used in the decennial census to determine the total population by states to include: (1) a checkbox or other similar option for a respondent to indicate whether he or she is a U.S. citizen or U.S. national, is lawfully admitted for permanent residence in the United States, is an alien who otherwise has lawful status under the immigration laws, or is none of these; and (2) a question regarding which federal program or legal provision accorded the respondent such status.</p>]]></text>
+          <updateDate>2017-07-28T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3600</billNumber>
+    <cboCostEstimates />
+    <introducedDate>2017-07-28</introducedDate>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <state>IA</state>
+        <middleName />
+        <bioguideId>K000362</bioguideId>
+        <firstName>Steve</firstName>
+        <byRequestType />
+        <lastName>King</lastName>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <party>R</party>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills />
+    <createDate>2017-07-29T03:11:39Z</createDate>
+    <updateDate>2018-02-24T08:15:29Z</updateDate>
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Census Accuracy Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend title 13, United States Code, to require that any questionnaire used in determining the decennial census of population shall contain an option for respondents to indicate citizenship status or lawful presence in the United States, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Census Accuracy Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Census Accuracy Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

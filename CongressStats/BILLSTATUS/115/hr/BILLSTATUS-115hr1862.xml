@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-04-03</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-23T15:27:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-22T18:59:37Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-04-05T17:20:01Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-04-03T16:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2017-04-03T15:43:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>17</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>3</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <actionStageOverride>1</actionStageOverride>
+        <considerationByHouse>2</considerationByHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <billReferrals>1</billReferrals>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <actionTime>18:58:01</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4399</url>
+            <name>H4399</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll269.xml</url>
+            <name>Roll no. 269</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 30 (Roll no. 269). (text: CR H4399)</text>
+        <actionCode>H37300</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <actionTime>18:58:00</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll269.xml</url>
+            <name>Roll no. 269</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 30 (Roll no. 269).</text>
+        <actionCode>8000</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <actionTime>18:58:00</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4414-4415</url>
+            <name>H4414-4415</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered as unfinished business. (consideration: CR H4414-4415)</text>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <actionTime>18:32:21</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionCode>H37220</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <actionTime>16:53:10</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1862</url>
+            <name>H.R. 1862</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1862.</text>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <actionTime>16:21:49</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4399-4402</url>
+            <name>H4399-4402</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H4399-4402)</text>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <actionTime>16:21:47</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+        <actionCode>H30300</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <actionTime>16:21:26</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 88.</text>
+        <actionCode>H12410</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/139</url>
+            <name>H. Rept. 115-139</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Judiciary. H. Rept. 115-139.</text>
+        <actionCode>H12200</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/139</url>
+            <name>H. Rept. 115-139</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Judiciary. H. Rept. 115-139.</text>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-05-22</actionDate>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-04-03</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-03</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-04-03</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-04-03</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-02-12T18:22:10Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Global Child Protection Act of 2017</b></p> <p>This bill amends the federal criminal code:</p> <ul> <li>to broaden the definition of &quot;illicit sexual conduct&quot; to include any conduct involving a person under 18 years of age that would be a sex abuse offense if it occurred inside the United States, and </li> <li>to broaden the federal sex offenses that trigger a mandatory life prison term for a defendant with a prior sex offense conviction involving a minor victim. </li> </ul>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-03</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-04-03T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:27:38Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00088</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <firstName>Claudia</firstName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <bioguideId>T000478</bioguideId>
+        <identifiers>
+          <bioguideId>T000478</bioguideId>
+          <lisID>2344</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>22</district>
+        <middleName />
+        <state>NY</state>
+        <lastName>Tenney</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Global Child Protection Act of 2017</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Global Child Protection Act of 2017</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Global Child Protection Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Global Child Protection Act of 2017</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Global Child Protection Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 18, United States Code, to expand the scope of certain definitions pertaining to unlawful sexual conduct, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Global Child Protection Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <relatedBills />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-05-23</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. ROBY:H.R. 1862.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates[Page H2629]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>2</district>
+        <state>AL</state>
+        <fullName>Rep. Roby, Martha [R-AL-2]</fullName>
+        <bioguideId>R000591</bioguideId>
+        <firstName>Martha</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <gpoId>7787</gpoId>
+          <bioguideId>R000591</bioguideId>
+          <lisID>1986</lisID>
+        </identifiers>
+        <lastName>Roby</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 1862, Global Child Protection Act of 2017</title>
+        <pubDate>2017-05-12T20:00:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52721</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-04-04T03:11:53Z</createDate>
+    <congress>115</congress>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>269</rollNumber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-05-22T22:58:00Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll269.xml</url>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <laws />
+    <title>Global Child Protection Act of 2017</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-139</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>1862</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

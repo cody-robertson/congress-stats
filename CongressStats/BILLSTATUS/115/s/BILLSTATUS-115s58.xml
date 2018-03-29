@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-09T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-24T19:50:29Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>Middle Class Health Benefits Tax Repeal Act of 2017</strong></p> <p>This bill amends the Internal Revenue Code to repeal, beginning with taxable years beginning after December 31, 2017, the excise tax on employer-sponsored health care coverage for which there is an excess benefit (high-cost plans). </p>]]></text>
+          <actionDate>2017-01-09</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-01-09</introducedDate>
+    <updateDate>2018-02-28T05:41:56Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-09</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-09</actionDate>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <notes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>58</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Middle Class Health Benefits Tax Repeal Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>173</number>
+        <latestAction>
+          <actionDate>2017-01-13</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Middle Class Health Benefits Tax Repeal Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>40</number>
+        <latestAction>
+          <actionDate>2017-01-05</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <byRequestType />
+        <bioguideId>H001041</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>NV</state>
+        <firstName>Dean</firstName>
+        <identifiers>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Middle Class Health Benefits Tax Repeal Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Middle Class Health Benefits Tax Repeal Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to amend the Internal Revenue Code of 1986 to repeal the excise tax on high cost employer-sponsored health coverage.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Middle Class Health Benefits Tax Repeal Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-01-09</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2017-01-10T05:15:46Z</createDate>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <lastName>Heinrich</lastName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001046</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Martin</firstName>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000444</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>JEFF</firstName>
+        <identifiers>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+          <lisID>1633</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <lastName>Cortez Masto</lastName>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001113</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Catherine</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000575</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Roy</firstName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <lastName>Murkowski</lastName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lisa</firstName>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <lastName>Duckworth</lastName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000622</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tammy</firstName>
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <lastName>Donnelly</lastName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000607</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <identifiers>
+          <gpoId>7941</gpoId>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <sponsorshipDate>2017-06-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000562</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cory</firstName>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000449</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROB</firstName>
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001181</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001184</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tim</firstName>
+        <identifiers>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000770</bioguideId>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <lastName>Sullivan</lastName>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dan</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gary</firstName>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <lastName>Hassan</lastName>
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001076</bioguideId>
+        <party>D</party>
+        <middleName>Wood</middleName>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Margaret</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>BROWN</lastName>
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000944</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000437</bioguideId>
+        <party>R</party>
+        <middleName>F.</middleName>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROGER</firstName>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001236</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <lastName>INHOFE</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>I000024</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>JIM</firstName>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <lastName>Hirono</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001042</bioguideId>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mazie</firstName>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <lastName>Casey</lastName>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bob</firstName>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <lastName>Young</lastName>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Y000064</bioguideId>
+        <party>R</party>
+        <middleName>C.</middleName>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Todd</firstName>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+          <lisID>2019</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <lastName>Ernst</lastName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000295</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joni</firstName>
+        <identifiers>
+          <lisID>2283</lisID>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001277</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-09T19:30:16Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Middle Class Health Benefits Tax Repeal Act of 2017</title>
+    <billType>S</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

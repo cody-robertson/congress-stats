@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <lastName>Zeldin</lastName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2261</lisID>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Lee</firstName>
+        <state>NY</state>
+        <byRequestType />
+        <bioguideId>Z000017</bioguideId>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-29T17:00:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>Condemning the actions taken by the Government of the Republic of Cameroon against Patrice Nganang and others, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Condemning the actions taken by the Government of the Republic of Cameroon against Patrice Nganang and others, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2018-01-29</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Cameroon</name>
+          </item>
+          <item>
+            <name>Due process and equal protection</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <createDate>2018-01-30T03:11:00Z</createDate>
+    <title>Condemning the actions taken by the Government of the Republic of Cameroon against Patrice Nganang and others, and for other purposes.</title>
+    <committeeReports />
+    <billType>HRES</billType>
+    <introducedDate>2018-01-29</introducedDate>
+    <updateDate>2018-02-28T18:57:56Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors />
+    <billNumber>718</billNumber>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <amendments />
+    <latestAction>
+      <actionDate>2018-01-29</actionDate>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

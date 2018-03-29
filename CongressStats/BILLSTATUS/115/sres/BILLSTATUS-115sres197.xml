@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-22T08:44:32Z</createDate>
+    <introducedDate>2017-06-21</introducedDate>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-06-21</actionDate>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S3690)</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <billNumber>197</billNumber>
+    <sponsors>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <bioguideId>P000603</bioguideId>
+        <lastName>Paul</lastName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <firstName>Rand</firstName>
+        <party>R</party>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <title>A resolution to provide sufficient time for legislation to be read.</title>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>A resolution to provide sufficient time for legislation to be read.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>A resolution to provide sufficient time for legislation to be read.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>SRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-06-21T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p> Makes it out of order in the Senate to consider any measure or matter until one session day has passed since introduction for every 20 pages included in the measure or matter in the usual form, plus one session day for any number of remaining pages less than 20.</p> <p>Authorizes any Senator to raise a point of order that any measure or matter is not in order. Makes out of order any motion to table such point of order.</p> <p>Allows any Senator to move to waive or suspend the point of order only by an affirmative yea and nay vote of three-fifths of the Members. Makes all such motions debatable collectively for up to three hours equally divided between the Senator raising the point for order and the Senator moving to waive it, or their designees. Makes unamendable any motion to waive the point of order.</p>]]></text>
+          <lastSummaryUpdateDate>2017-09-08T21:04:34Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-21</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-21T18:34:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <updateDate>2018-02-06T16:44:10Z</updateDate>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S3690</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3690</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S3690)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-06-21</actionDate>
+      </item>
+    </actions>
+    <amendments />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

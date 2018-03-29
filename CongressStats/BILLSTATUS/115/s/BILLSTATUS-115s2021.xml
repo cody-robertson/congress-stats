@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2021</billNumber>
+    <relatedBills>
+      <item>
+        <latestTitle>Health Care Choice Act of 2017</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-01-25</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <number>314</number>
+      </item>
+      <item>
+        <latestTitle>To amend the Public Health Service Act to provide for cooperative governing of individual health insurance coverage.</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-07-18</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <number>3278</number>
+      </item>
+      <item>
+        <latestTitle>A bill to expand health care choices by allowing Americans to buy health care coverage across State lines.</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <number>1516</number>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <lastName>Cruz</lastName>
+        <byRequestType />
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-10-26</actionDate>
+    </latestAction>
+    <committeeReports />
+    <createDate>2017-10-27T00:41:23Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-10-26</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-10-26</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>Health Care Choice Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to repeal title I of the Patient Protection and Affordable Care Act and to amend the Public Health Service Act to provide for cooperative governing of individual health insurance coverage offered in interstate commerce.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Health Care Choice Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Health Care Choice Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <title>Health Care Choice Act of 2017</title>
+    <congress>115</congress>
+    <calendarNumbers />
+    <introducedDate>2017-10-26</introducedDate>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-26T18:02:50Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <updateDate>2018-01-25T21:32:21Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

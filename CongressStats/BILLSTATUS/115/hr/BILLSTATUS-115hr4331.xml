@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-09</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-09</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-09</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <lastName>CLAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>LACY</middleName>
+        <identifiers>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <firstName>WM.</firstName>
+        <party>D</party>
+        <bioguideId>C001049</bioguideId>
+      </item>
+      <item>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <lastName>CUMMINGS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <identifiers>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+        </identifiers>
+        <state>MD</state>
+        <firstName>ELIJAH</firstName>
+        <party>D</party>
+        <bioguideId>C000984</bioguideId>
+      </item>
+      <item>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <lastName>Watson Coleman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>2259</lisID>
+          <gpoId />
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <state>NJ</state>
+        <firstName>Bonnie</firstName>
+        <party>D</party>
+        <bioguideId>W000822</bioguideId>
+      </item>
+      <item>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>Keith</firstName>
+        <party>D</party>
+        <bioguideId>E000288</bioguideId>
+      </item>
+      <item>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <bioguideId>H000324</bioguideId>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Raul</firstName>
+        <party>D</party>
+        <bioguideId>G000551</bioguideId>
+      </item>
+      <item>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <lastName>CONYERS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+        </identifiers>
+        <state>MI</state>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <bioguideId>C000714</bioguideId>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <actionDate>2017-12-13</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <committeeReports />
+    <version>1.0.0</version>
+    <createDate>2017-11-10T03:11:19Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-13T22:25:33Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-09T14:02:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Police Accountability Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 18, United States Code, to provide a penalty for assault or homicide committed by certain State or local law enforcement officers, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Police Accountability Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Police Accountability Act of 2017</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <updateDate>2017-12-14T08:13:59Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <recordedVotes />
+    <title>Police Accountability Act of 2017</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 183 (Thursday, November 9, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOHNSON of Georgia:H.R. 4331.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Cl. 18[Page H8698]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4331</billNumber>
+    <introducedDate>2017-11-09</introducedDate>
+    <laws />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <bioguideId>J000288</bioguideId>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <firstName>Henry</firstName>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Johnson</lastName>
+        <state>GA</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

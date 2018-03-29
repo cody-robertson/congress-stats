@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <bioguideId>M001183</bioguideId>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <lastName>Manchin</lastName>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <lastName>Kaine</lastName>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AR</state>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <bioguideId>B001236</bioguideId>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <sponsorshipDate>2017-06-05</sponsorshipDate>
+        <lastName>NELSON</lastName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <firstName>CLARENCE</firstName>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-06-15T14:00:24Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-06T20:43:42Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to provide for the entitlement to educational assistance under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs for members of the Armed Forces awarded the Purple Heart, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend title 38, United States Code, to provide for the entitlement to educational assistance under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs for members of the Armed Forces awarded the Purple Heart, and for other purposes.</title>
+      </item>
+    </titles>
+    <billType>S</billType>
+    <amendments />
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-06</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-04-06</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>1379</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To amend title 38, United States Code, to provide for the entitlement to educational assistance under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs for members of the Armed Forces awarded the Purple Heart.</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Opportunity.</text>
+          <actionDate>2017-03-09</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <calendarNumbers />
+    <billNumber>882</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-06T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-11-06T19:00:28Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-06</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill entitles members of the Armed Forces who have been awarded the Purple Heart for service occurring on or after September 11, 2001, to educational assistance under the Department of Veterans Affairs' Post-9/11 Educational Assistance Program.</p> <p>Such individuals are also eligible to participate in the Yellow Ribbon G.I. Education Enhancement Program.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2018-02-06T16:45:14Z</updateDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <latestAction>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <actionDate>2017-06-15</actionDate>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>A bill to amend title 38, United States Code, to provide for the entitlement to educational assistance under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs for members of the Armed Forces awarded the Purple Heart, and for other purposes.</title>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <bioguideId>R000605</bioguideId>
+        <state>SD</state>
+        <lastName>Rounds</lastName>
+        <middleName />
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2288</lisID>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <createDate>2017-04-07T00:41:50Z</createDate>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

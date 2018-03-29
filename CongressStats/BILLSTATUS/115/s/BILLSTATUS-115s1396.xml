@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-06-21</introducedDate>
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001056</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <lastName>Duckworth</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+      </item>
+      <item>
+        <state>NC</state>
+        <party>R</party>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000476</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>Roland</middleName>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-06-21</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-06-22T08:44:35Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <latestAction>
+      <actionDate>2017-06-21</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <title>ADVANCE Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act or the ADVANCE Act</b></p> <p> This bill applies commercial driver's license standards for former members of the Armed Forces or reserves to current members of the Armed Forces or reserves.</p> <p>The bill allows such covered individuals who have experience in driving vehicles similar to a commercial motor vehicle while serving in the Armed Forces or reserves to apply for an exemption from all or a portion of federal commercial motor vehicle driving test requirements.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-06-21</actionDate>
+          <lastSummaryUpdateDate>2018-01-17T22:33:03Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-06-21T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <billNumber>1396</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Motor carriers</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>2258</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2017-06-27</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>ADVANCE Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>1393</number>
+        <type>S</type>
+        <latestAction>
+          <text>Became Public Law No: 115-105.</text>
+          <actionDate>2018-01-08</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Jobs for Our Heroes Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-06-21T21:31:58Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>ADVANCE Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to require that certain standards for commercial driver's licenses applicable to former members of the armed services or reserves also apply to current members of the armed services or reserves.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>ADVANCE Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>ADVANCE Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <byRequestType />
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-06T16:45:33Z</updateDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-05-18</introducedDate>
+    <cosponsors>
+      <item>
+        <lastName>Dingell</lastName>
+        <firstName>Debbie</firstName>
+        <middleName />
+        <party>D</party>
+        <bioguideId>D000624</bioguideId>
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Moore</lastName>
+        <firstName>Gwen</firstName>
+        <middleName />
+        <party>D</party>
+        <bioguideId>M001160</bioguideId>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Wasserman Schultz</lastName>
+        <firstName>Debbie</firstName>
+        <middleName />
+        <party>D</party>
+        <bioguideId>W000797</bioguideId>
+        <identifiers>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <district>23</district>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Human Resources.</text>
+      <actionDate>2017-05-31</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <title>Foster Youth and Driving Act</title>
+    <sponsors>
+      <item>
+        <middleName>K.</middleName>
+        <district>7</district>
+        <bioguideId>D000096</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <firstName>DANNY</firstName>
+        <party>D</party>
+        <byRequestType />
+        <lastName>DAVIS</lastName>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <laws />
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Human Resources Subcommittee</name>
+              <systemCode>hswm03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-31T18:10:54Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-18T14:00:19Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <title>Foster Youth and Driving Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Foster Youth and Driving Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title IV of the Social Security Act to expand foster parent training and provide new appropriations to support the obtainment of a driver's license.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Foster Youth and Driving Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-31</actionDate>
+        <committee>
+          <systemCode>hswm03</systemCode>
+          <name>Human Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <billNumber>2512</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <calendarNumbers />
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DANNY K. DAVIS of Illinois:H.R. 2512.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I of the United States Constitutionand its subsequent amendments, and further clarified andinterpreted by the Supreme Court of the United States.[Page H4358]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <createDate>2017-05-19T03:11:40Z</createDate>
+    <updateDate>2018-01-30T15:45:08Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-26T14:04:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-28T20:44:29Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif17</systemCode>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-26T14:04:20Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <committee>
+          <systemCode>hsif17</systemCode>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-26</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-26</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-26</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-26</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <createDate>2017-07-27T03:11:33Z</createDate>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-07-26</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill directs the Department of Transportation (DOT) to establish in the National Highway Traffic Safety Administration a Highly Automated Vehicle Advisory Council to undertake information gathering activities, develop technical advice, and present best practices or recommendations to DOT regarding:</p> <ul> <li>labor and employment issues that may be affected by the deployment of highly automated vehicles;</li> <li> the impact of the development and deployment of such vehicles on the environment;</li> <li> protection of consumer privacy and security of information collected by such vehicles; and</li> <li> cabin safety for vehicle passengers and how automated driving systems may impact collision vectors, overall crashworthiness, and the use and placement of airbags, seatbelts, anchor belts, head restraints, and other protective features in the cabin..</li> </ul> <p>A "highly automated vehicle" is defined as a motor vehicle (excluding a commercial motor vehicle) equipped with an automated driving system. </p> <p>An "automated driving system" is defined as the hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether such system is limited to a specific operational design domain.</p>]]></text>
+          <updateDate>2017-07-26T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-07T23:11:26Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for the establishment in the National Highway Traffic Safety Administration of a Highly Automated Vehicle Advisory Council.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To provide for the establishment in the National Highway Traffic Safety Administration of a Highly Automated Vehicle Advisory Council.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-26</introducedDate>
+    <title>To provide for the establishment in the National Highway Traffic Safety Administration of a Highly Automated Vehicle Advisory Council.</title>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <notes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARDENAS:H.R. 3404.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3To regulate Commerce with foreign Nations, and among theseveral States, and with the Indian Tribes[Page H6466]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+      <links />
+      <actionDate>2017-07-28</actionDate>
+    </latestAction>
+    <billNumber>3404</billNumber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>3411</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+          <actionDate>2017-07-28</actionDate>
+        </latestAction>
+        <latestTitle>To establish in the National Highway Traffic Safety Administration an Automated Driving System Cybersecurity Advisory Council to make recommendations regarding cybersecurity for the testing, deployment, and updating of automated driving systems.</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>3413</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2017-07-27</actionDate>
+        </latestAction>
+        <latestTitle>ACCESS Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>3414</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2017-07-27</actionDate>
+        </latestAction>
+        <latestTitle>To establish in the National Highway Traffic Safety Administration a Disability Mobility Advisory Council to make recommendations regarding advancing mobility access for the disabled community with respect to the deployment of automated driving systems.</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>3416</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-07-28</actionDate>
+        </latestAction>
+        <latestTitle>To establish in the National Highway Traffic Safety Administration a Rural and Mountainous Advisory Council to make recommendations regarding the testing and deployment of highly automated vehicles and automated driving systems in areas that are rural, remote, mountainous, insular, or unmapped.</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>3430</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+          <actionDate>2017-07-28</actionDate>
+        </latestAction>
+        <latestTitle>SHARES Act</latestTitle>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <updateDate>2018-02-15T05:05:25Z</updateDate>
+    <committeeReports />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <byRequestType />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <bioguideId>C001097</bioguideId>
+        <party>D</party>
+        <middleName />
+        <firstName>Tony</firstName>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <lastName>Cardenas</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

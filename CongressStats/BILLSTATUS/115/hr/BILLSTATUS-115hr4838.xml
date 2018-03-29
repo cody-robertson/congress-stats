@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-01-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-01-18</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-01-18</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <actionDate>2018-01-18</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Reaching English Learners Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Higher Education Act of 1965 to direct the Secretary of Education to award institutions of higher education grants for teaching English learners.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Reaching English Learners Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Reaching English Learners Act</title>
+      </item>
+    </titles>
+    <billNumber>4838</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>A000370</bioguideId>
+        <firstName>Alma</firstName>
+        <lastName>Adams</lastName>
+        <state>NC</state>
+        <district>12</district>
+        <middleName>S.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>2201</lisID>
+          <bioguideId>A000370</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+      </item>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <firstName>Adriano</firstName>
+        <lastName>Espaillat</lastName>
+        <state>NY</state>
+        <district>13</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <gpoId />
+          <lisID>2342</lisID>
+        </identifiers>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <firstName>Raul</firstName>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <district>3</district>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>P000034</bioguideId>
+        <firstName>FRANK</firstName>
+        <lastName>PALLONE</lastName>
+        <state>NJ</state>
+        <district>6</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>887</lisID>
+          <gpoId>8048</gpoId>
+          <bioguideId>P000034</bioguideId>
+        </identifiers>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+      </item>
+      <item>
+        <bioguideId>S000248</bioguideId>
+        <firstName>JOSE</firstName>
+        <lastName>SERRANO</lastName>
+        <state>NY</state>
+        <district>15</district>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+      </item>
+      <item>
+        <bioguideId>S001145</bioguideId>
+        <firstName>JANICE</firstName>
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <district>9</district>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+      </item>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+        <state>FL</state>
+        <district>9</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+      </item>
+      <item>
+        <bioguideId>R000486</bioguideId>
+        <firstName>LUCILLE</firstName>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <state>CA</state>
+        <district>40</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+          <lisID>997</lisID>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+      </item>
+      <item>
+        <bioguideId>G000581</bioguideId>
+        <firstName>Vicente</firstName>
+        <lastName>Gonzalez</lastName>
+        <state>TX</state>
+        <district>15</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+          <lisID>2349</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+      </item>
+      <item>
+        <bioguideId>D000623</bioguideId>
+        <firstName>Mark</firstName>
+        <lastName>DeSaulnier</lastName>
+        <state>CA</state>
+        <district>11</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+      </item>
+      <item>
+        <bioguideId>K000390</bioguideId>
+        <firstName>Ruben</firstName>
+        <lastName>Kihuen</lastName>
+        <state>NV</state>
+        <district>4</district>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>2340</lisID>
+          <bioguideId>K000390</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kihuen, Ruben J. [D-NV-4]</fullName>
+      </item>
+      <item>
+        <bioguideId>S000480</bioguideId>
+        <firstName>LOUISE</firstName>
+        <lastName>SLAUGHTER</lastName>
+        <state>NY</state>
+        <district>25</district>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+      </item>
+      <item>
+        <bioguideId>C001080</bioguideId>
+        <firstName>Judy</firstName>
+        <lastName>Chu</lastName>
+        <state>CA</state>
+        <district>27</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+      </item>
+      <item>
+        <bioguideId>G000585</bioguideId>
+        <firstName>Jimmy</firstName>
+        <lastName>Gomez</lastName>
+        <state>CA</state>
+        <district>34</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000585</bioguideId>
+          <lisID>2362</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+      </item>
+    </cosponsors>
+    <title>Reaching English Learners Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 11 (Thursday, January 18, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LANGEVIN:H.R. 4838.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H554]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-18T15:04:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-27T08:16:09Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <bioguideId>L000559</bioguideId>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <byRequestType />
+        <district>2</district>
+        <state>RI</state>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-01-18</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-01-19T03:11:04Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

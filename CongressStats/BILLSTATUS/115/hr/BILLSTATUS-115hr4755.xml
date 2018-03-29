@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cosponsors />
+    <introducedDate>2018-01-10</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2018-01-10T15:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <firstName>Warren</firstName>
+        <party>R</party>
+        <byRequestType />
+        <bioguideId>D000626</bioguideId>
+        <identifiers>
+          <bioguideId>D000626</bioguideId>
+          <lisID>2296</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Davidson</lastName>
+        <state>OH</state>
+        <district>8</district>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <middleName />
+      </item>
+    </sponsors>
+    <createDate>2018-01-11T03:11:04Z</createDate>
+    <billNumber>4755</billNumber>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <committeeReports />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-108.</text>
+          <actionDate>2017-07-13</actionDate>
+        </latestAction>
+        <number>10</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Federal Reserve Regulatory Oversight Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Federal Reserve Regulatory Oversight Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Federal Reserve Act to bring the non-monetary policy related functions of the Board of Governors of the Federal Reserve System into the appropriations process, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Federal Reserve Regulatory Oversight Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Federal Reserve Regulatory Oversight Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2018-01-10</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-02-27T22:11:23Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Federal Reserve Regulatory Oversight Act</b> </p> <p>This bill amends the Federal Reserve Act to subject the nonmonetary policy-related administrative costs of the Federal Reserve Board to the congressional appropriations process.]]></text>
+          <updateDate>2018-01-10T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2018-01-10</actionDate>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <updateDate>2018-02-28T16:22:20Z</updateDate>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 6 (Wednesday, January 10, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DAVIDSON:H.R. 4755.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 8. ``The Congress shall havePower to . . . make all laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States, or in any Department orOfficer thereof.''[Page H132]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2018-01-10</actionDate>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-01-10</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-01-10</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

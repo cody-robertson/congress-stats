@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-10-12</introducedDate>
+    <latestAction>
+      <actionDate>2017-11-16</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Readiness.</text>
+    </latestAction>
+    <laws />
+    <congress>115</congress>
+    <title>Department of Defense Check Before You Rent Act</title>
+    <relatedBills />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-12T14:02:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-16T16:31:07Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-14T20:18:01Z</date>
+                </item>
+              </activities>
+              <name>Readiness Subcommittee</name>
+              <systemCode>hsas03</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <district>3</district>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>WALTER</firstName>
+        <lastName>JONES</lastName>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000565</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <district>2</district>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>David</firstName>
+        <lastName>Loebsack</lastName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001187</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <district>11</district>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Mark</firstName>
+        <lastName>Meadows</lastName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000565</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <district>4</district>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <billNumber>4046</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <notes />
+    <cboCostEstimates />
+    <createDate>2017-10-13T03:11:23Z</createDate>
+    <billType>HR</billType>
+    <updateDate>2018-01-25T21:39:02Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <name>Readiness Subcommittee</name>
+          <systemCode>hsas03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <links />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <title>Department of Defense Check Before You Rent Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title 10, United States Code, to require the Secretary of a military department to make certifications regarding the feasibility of using existing space in property under the jurisdiction of the Department of Defense prior to entering into certain agreements to acquire or lease real property for the use of such military department, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Department of Defense Check Before You Rent Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Department of Defense Check Before You Rent Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BUSTOS:H.R. 4046.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 14 of the UnitedStates Constitution.[Page H8032]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>17</district>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+          <lisID>2127</lisID>
+          <gpoId />
+        </identifiers>
+        <state>IL</state>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <party>D</party>
+        <middleName />
+        <bioguideId>B001286</bioguideId>
+        <firstName>Cheri</firstName>
+        <lastName>Bustos</lastName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

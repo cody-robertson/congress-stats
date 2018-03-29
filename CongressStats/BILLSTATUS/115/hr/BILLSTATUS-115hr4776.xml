@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-01-11T14:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-01-12T21:21:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>DC</state>
+        <middleName>HOLMES</middleName>
+      </item>
+      <item>
+        <lastName>Jayapal</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <firstName>Pramila</firstName>
+        <bioguideId>J000298</bioguideId>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>DeSaulnier</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+        <bioguideId>D000623</bioguideId>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Brownley</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Julia</firstName>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>26</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Wasserman Schultz</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <bioguideId>W000797</bioguideId>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>23</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <middleName />
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-12</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <actionDate>2018-01-11</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2018-01-11</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2018-01-11</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <amendments />
+    <createDate>2018-01-12T03:11:03Z</createDate>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Hospital Preparedness Reauthorization Act of 2018</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To amend the Public Health Service Act to reauthorize a program of partnerships for State and regional hospital preparedness to improve surge capacity.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Hospital Preparedness Reauthorization Act of 2018</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Hospital Preparedness Reauthorization Act of 2018</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2018-01-11</introducedDate>
+    <title>Hospital Preparedness Reauthorization Act of 2018</title>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 7 (Thursday, January 11, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. DINGELL:H.R. 4776.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article I, section 8 of the UnitedStates Constitution.[Page H169]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2018-01-12</actionDate>
+    </latestAction>
+    <billNumber>4776</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <updateDate>2018-02-16T18:03:04Z</updateDate>
+    <committeeReports />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <state>MI</state>
+        <byRequestType />
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <bioguideId>D000624</bioguideId>
+        <party>D</party>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <lastName>Dingell</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

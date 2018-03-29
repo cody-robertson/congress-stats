@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-01-12T03:11:01Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2018-01-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-01-18</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S270</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S270</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S270)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <actionDate>2018-01-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2018-01-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <actionDate>2018-01-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>11:56:22</actionTime>
+      </item>
+      <item>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H162)</text>
+        <links>
+          <link>
+            <name>H162</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H162</url>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+        <actionDate>2018-01-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>11:56:12</actionTime>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H162)</text>
+        <links>
+          <link>
+            <name>H162</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H162</url>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <actionDate>2018-01-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>11:56:12</actionTime>
+      </item>
+      <item>
+        <text>Considered by unanimous consent. (consideration: CR H162)</text>
+        <links>
+          <link>
+            <name>H162</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H162</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <actionDate>2018-01-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>11:56:02</actionTime>
+      </item>
+      <item>
+        <text>Mr. Nunes asked unanimous consent to consider as introduced.</text>
+        <links />
+        <actionCode>H30200</actionCode>
+        <type>Floor</type>
+        <actionDate>2018-01-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>11:55:02</actionTime>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2018-01-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2018-01-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <sentToHouse>1</sentToHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <agreedToInSenate>1</agreedToInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>1710</lisID>
+          <bioguideId>N000181</bioguideId>
+          <gpoId>7826</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <middleName />
+        <lastName>Nunes</lastName>
+        <district>22</district>
+        <bioguideId>N000181</bioguideId>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <firstName>Devin</firstName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <congress>115</congress>
+    <notes />
+    <committeeReports />
+    <laws />
+    <billNumber>98</billNumber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <amendments />
+    <updateDate>2018-01-30T15:33:55Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <title>Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 139.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 139.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <cosponsors />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-01-19</actionDate>
+          <text>Became Public Law No: 115-118.</text>
+        </latestAction>
+        <number>139</number>
+        <latestTitle>An Act to amend the Foreign Intelligence Surveillance Act of 1978 to improve foreign intelligence collection and the safeguards, accountability, and oversight of acquisitions of foreign intelligence, to extend title VII of such Act, and for other purposes.</latestTitle>
+        <congress>115</congress>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2018-01-11</introducedDate>
+    <title>Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 139.</title>
+    <billType>HCONRES</billType>
+    <latestAction>
+      <links />
+      <text>Message on Senate action sent to the House.</text>
+      <actionDate>2018-01-18</actionDate>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

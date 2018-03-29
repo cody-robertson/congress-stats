@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <lastName>SESSIONS</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <byRequestType />
+        <bioguideId>S000250</bioguideId>
+        <district>32</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2018-02-06T20:05:58Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-02-09</actionDate>
+          <text>Became Public Law No: 115-123.</text>
+        </latestAction>
+        <number>1892</number>
+        <type>HR</type>
+        <latestTitle>Bipartisan Budget Act of 2018</latestTitle>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Providing for consideration of the Senate amendment to the bill (H.R. 1892) to amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Providing for consideration of the Senate amendment to the bill (H.R. 1892) to amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText />
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <provisionsOfARule>1</provisionsOfARule>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInHouse>1</introducedInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>2</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>17:19:15</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 188 (Roll no. 59). (text: CR H821)</text>
+        <actionTime>17:19:14</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H821</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H821</url>
+          </link>
+          <link>
+            <name>Roll no. 59</name>
+            <url>http://clerk.house.gov/evs/2018/roll059.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 188 (Roll no. 59).(text: CR H821)</text>
+        <actionTime>17:19:14</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H821</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H821</url>
+          </link>
+          <link>
+            <name>Roll no. 59</name>
+            <url>http://clerk.house.gov/evs/2018/roll059.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 235 - 189 (Roll no. 58). (consideration: CR H833-834)</text>
+        <actionTime>17:12:35</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H833-834</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H833-834</url>
+          </link>
+          <link>
+            <name>Roll no. 58</name>
+            <url>http://clerk.house.gov/evs/2018/roll058.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered as unfinished business. (consideration: CR H833-834)</text>
+        <actionTime>17:05:11</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H833-834</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H833-834</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 727, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes had prevailed. Ms. Slaughter demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.</text>
+        <actionTime>16:11:23</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H.Res. 727</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/727</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 727.</text>
+        <actionTime>15:10:29</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 727</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/727</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered as privileged matter. (consideration: CR H821-830)</text>
+        <actionTime>15:09:11</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H821-830</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H821-830</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Placed on the House Calendar, Calendar No. 124.</text>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Providing for consideration of the Senate amendment to H.R. 1892.</text>
+        <actionTime>15:05:59</actionTime>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H12700</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1892</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1892</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-547, by Mr. Sessions.</text>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-547</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/547</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-547, by Mr. Sessions.</text>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-547</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/547</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <createDate>2018-02-07T03:11:00Z</createDate>
+    <title>Providing for consideration of the Senate amendment to the bill (H.R. 1892) to amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-547</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HRES</billType>
+    <introducedDate>2018-02-06</introducedDate>
+    <updateDate>2018-03-01T16:08:53Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-02-06T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-07T09:06:45Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[Sets forth the rule for consideration of the Senate amendment to the bill (H.R. 1892) to amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.]]></text>
+          <actionDate>2018-02-06</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors />
+    <billNumber>727</billNumber>
+    <recordedVotes>
+      <recordedVote>
+        <date>2018-02-06T22:19:14Z</date>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2018/roll059.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>2</sessionNumber>
+        <congress>115</congress>
+        <rollNumber>59</rollNumber>
+      </recordedVote>
+      <recordedVote>
+        <date>2018-02-06T22:12:35Z</date>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2018/roll058.xml</url>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>2</sessionNumber>
+        <congress>115</congress>
+        <rollNumber>58</rollNumber>
+      </recordedVote>
+    </recordedVotes>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00124</calendar>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates />
+    <amendments />
+    <latestAction>
+      <actionDate>2018-02-06</actionDate>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>17:19:15</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

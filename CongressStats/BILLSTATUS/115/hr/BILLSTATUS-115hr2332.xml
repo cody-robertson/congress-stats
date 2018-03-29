@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <district>3</district>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <bioguideId>K000188</bioguideId>
+        <state>WI</state>
+        <party>D</party>
+        <firstName>RON</firstName>
+        <lastName>KIND</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills>
+      <item>
+        <number>1025</number>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+          <actionDate>2017-05-03</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>AFFIRM Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billNumber>2332</billNumber>
+    <title>AFFIRM Act</title>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>JAMES</middleName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <firstName>F.</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <bioguideId>S000244</bioguideId>
+        <lastName>SENSENBRENNER</lastName>
+        <state>WI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <firstName>ROSA</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <bioguideId>D000216</bioguideId>
+        <lastName>DELAURO</lastName>
+        <state>CT</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <firstName>EARL</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <bioguideId>B000574</bioguideId>
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural insurance</name>
+          </item>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KIND:H.R. 2332.Congress has the power to enact this legislation pursuantto the following:Article I Section 8.[Page H3324]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-19</actionDate>
+        <committee>
+          <systemCode>hsag16</systemCode>
+          <name>General Farm Commodities and Risk Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <links />
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-03</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-03</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>AFFIRM Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Assisting Family Farmers through Insurance Reform Measures Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>AFFIRM Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Assisting Family Farmers through Insurance Reform Measures Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To reform the Federal Crop Insurance Act and reduce Federal spending on crop insurance.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>AFFIRM Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-03T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Assisting Family Farmers through Insurance Reform Measures Act or the AFFIRM Act </b></p> <p>This bill amends the Federal Crop Insurance Act to require the Department of Agriculture (USDA) to reduce federal crop insurance payments and disclose details regarding subsidies. </p> <p>The bill prohibits premium subsidies: (1) for additional coverage for any person or legal entity that has an average adjusted gross income that is greater than $250,000, (2) that exceed $40,000 per year for any person or legal entity, or (3) for policies that are based on the actual market price of an agricultural commodity at the time of harvest.</p> <p>The bill establishes an annual cap on total reimbursements for administrative and operating costs of crop insurance providers that begins at $900 million for 2018 and is adjusted for inflation in each subsequent year. The average rate of return for insurance providers is limited to 8.9% of retained premiums. </p> <p>The bill eliminates a requirement that any renegotiated Standard Insurance Agreement (SRA) be budget-neutral. (The SRA is an agreement between USDA and the private companies that administer the federal crop insurance program that specifies details such as administrative and operating expense reimbursements and risk sharing. Eliminating the budget neutrality requirement permits USDA to use the renegotiation of the SRA to achieve savings.) </p> <p>USDA must annually disclose to the public specified details regarding the recipients and amounts of federal crop insurance subsidies. </p>]]></text>
+          <lastSummaryUpdateDate>2017-05-22T17:43:44Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsag16</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-19T13:45:54Z</date>
+                </item>
+              </activities>
+              <name>General Farm Commodities and Risk Management Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T14:03:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-05-03</introducedDate>
+    <updateDate>2018-02-06T16:42:40Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>HR</billType>
+    <createDate>2017-05-04T03:11:53Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <links />
+      <actionDate>2017-05-19</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

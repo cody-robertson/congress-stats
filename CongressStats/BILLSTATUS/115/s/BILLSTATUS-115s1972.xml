@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-25T21:38:22Z</updateDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-17T20:20:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <title>A bill to improve the monitoring and reporting of propane stocks and days of supply by the Administrator of the Energy Information Administration with regard to propane export volumes, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to improve the monitoring and reporting of propane stocks and days of supply by the Administrator of the Energy Information Administration with regard to propane export volumes, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to improve the monitoring and reporting of propane stocks and days of supply by the Administrator of the Energy Information Administration with regard to propane export volumes, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <notes />
+    <committeeReports />
+    <recordedVotes />
+    <billNumber>1972</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <middleName>R.</middleName>
+        <firstName>JOHN</firstName>
+        <byRequestType />
+        <lastName>THUNE</lastName>
+        <party>R</party>
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2017-10-17</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-10-17</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-10-18T00:41:22Z</createDate>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>Amy</firstName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-10-17</introducedDate>
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-10-17</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

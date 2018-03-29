@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing amounts for the expenses of the Committee on Homeland Security in the One Hundred Fifteenth Congress.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Providing amounts for the expenses of the Committee on Homeland Security in the One Hundred Fifteenth Congress.</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>M001157</bioguideId>
+        <lastName>McCaul</lastName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <byRequestType />
+        <district>10</district>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <title>Providing amounts for the expenses of the Committee on Homeland Security in the One Hundred Fifteenth Congress.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionDate>2017-02-09</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-02-09</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-02-09</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-09T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-11T17:09:33Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-09</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Provides amounts for the expenses of the House Committee on Homeland Security for the 115th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <billNumber>112</billNumber>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Homeland Security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <bioguideId>T000193</bioguideId>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <district>2</district>
+        <firstName>BENNIE</firstName>
+        <state>MS</state>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+          <lisID>1151</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2017-02-09</actionDate>
+    </latestAction>
+    <laws />
+    <notes />
+    <createDate>2017-02-10T04:45:50Z</createDate>
+    <billType>HRES</billType>
+    <updateDate>2018-02-06T16:39:35Z</updateDate>
+    <relatedBills />
+    <cboCostEstimates />
+    <introducedDate>2017-02-09</introducedDate>
+    <amendments />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes />
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-09T19:30:46Z</date>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

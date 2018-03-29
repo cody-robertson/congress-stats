@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <lastName>Bergman</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2333</lisID>
+          <bioguideId>B001301</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Jack</firstName>
+        <state>MI</state>
+        <byRequestType />
+        <bioguideId>B001301</bioguideId>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T14:01:20Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2018-02-15T20:53:49Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-29T20:06:14Z</date>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-29T20:06:06Z</date>
+                </item>
+              </activities>
+              <name>Water, Power and Oceans Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>Cormorant Control Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To direct the Secretary of the Interior to reissue a rule relating to extension of the expiration dates for double-crested cormorant depredation orders, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Cormorant Control Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Cormorant Control Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText />
+    <actions>
+      <item>
+        <actionDate>2018-02-15</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <name>Water, Power and Oceans Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2017-11-16</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2017-11-16</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2017-11-16</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <createDate>2017-11-17T03:11:18Z</createDate>
+    <title>Cormorant Control Act</title>
+    <committeeReports />
+    <billType>HR</billType>
+    <introducedDate>2017-11-16</introducedDate>
+    <updateDate>2018-02-28T08:13:29Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <firstName>John</firstName>
+        <lastName>Moolenaar</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <state>MI</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2248</lisID>
+          <bioguideId>M001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001194</bioguideId>
+        <district>4</district>
+        <middleName>R.</middleName>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Tim</firstName>
+        <lastName>Walberg</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <state>MI</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <lisID>1855</lisID>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <bioguideId>W000798</bioguideId>
+        <district>7</district>
+        <middleName />
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bruce</firstName>
+        <lastName>Westerman</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <state>AR</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2224</lisID>
+          <gpoId />
+          <bioguideId>W000821</bioguideId>
+        </identifiers>
+        <bioguideId>W000821</bioguideId>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>COLLIN</firstName>
+        <lastName>PETERSON</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <state>MN</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <bioguideId>P000258</bioguideId>
+        <district>7</district>
+        <middleName>C.</middleName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>FRED</firstName>
+        <lastName>UPTON</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <state>MI</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>U000031</bioguideId>
+          <lisID>1177</lisID>
+          <gpoId>7991</gpoId>
+        </identifiers>
+        <bioguideId>U000031</bioguideId>
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <lastName>Huizenga</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+        <state>MI</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2028</lisID>
+          <gpoId>7987</gpoId>
+          <bioguideId>H001058</bioguideId>
+        </identifiers>
+        <bioguideId>H001058</bioguideId>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <lastName>Bishop</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+        <state>MI</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001293</bioguideId>
+          <lisID>2249</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001293</bioguideId>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <lastName>Mitchell</lastName>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <state>MI</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2334</lisID>
+          <bioguideId>M001201</bioguideId>
+        </identifiers>
+        <bioguideId>M001201</bioguideId>
+        <district>10</district>
+        <middleName />
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Eric</firstName>
+        <lastName>Crawford</lastName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <state>AR</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+          <lisID>1989</lisID>
+          <gpoId>7793</gpoId>
+        </identifiers>
+        <bioguideId>C001087</bioguideId>
+        <district>1</district>
+        <middleName>A. "Rick"</middleName>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>WALTER</firstName>
+        <lastName>JONES</lastName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <state>NC</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <bioguideId>J000255</bioguideId>
+        <district>3</district>
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>4429</billNumber>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <amendments />
+    <latestAction>
+      <actionDate>2018-02-15</actionDate>
+      <links />
+      <text>Subcommittee Hearings Held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

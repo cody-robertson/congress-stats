@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2018-02-15T04:53:43Z</updateDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2018-01-26T03:11:00Z</createDate>
+    <latestAction>
+      <text>Message on Senate action sent to the House.</text>
+      <links />
+      <actionDate>2018-01-29</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <lastName>ADERHOLT</lastName>
+        <party>R</party>
+        <bioguideId>A000055</bioguideId>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1460</lisID>
+          <gpoId>7789</gpoId>
+          <bioguideId>A000055</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <firstName>ROBERT</firstName>
+        <state>AL</state>
+        <middleName>B.</middleName>
+      </item>
+    </sponsors>
+    <billNumber>101</billNumber>
+    <recordedVotes />
+    <cosponsors />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Providing for a joint session of Congress to receive a message from the President.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Providing for a joint session of Congress to receive a message from the President.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <calendarNumbers />
+    <billType>HCONRES</billType>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-02-02T19:23:28Z</lastSummaryUpdateDate>
+          <actionDate>2018-01-25</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-01-25T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Provides for a joint session of Congress on January 30, 2018, to receive a message from the President.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-02-02T19:24:22Z</lastSummaryUpdateDate>
+          <actionDate>2018-01-25</actionDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <updateDate>2018-01-25T12:49:13Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Provides for a joint session of Congress on January 30, 2018, to receive a message from the President.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-02-02T19:24:30Z</lastSummaryUpdateDate>
+          <actionDate>2018-01-29</actionDate>
+          <versionCode>82</versionCode>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <updateDate>2018-01-29T14:05:22Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Provides for a joint session of Congress on January 30, 2018, to receive a message from the President.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <laws />
+    <version>1.0.0</version>
+    <title>Providing for a joint session of Congress to receive a message from the President.</title>
+    <cboCostEstimates />
+    <introducedDate>2018-01-25</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2018-01-29</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-01-29</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S554</url>
+            <name>S554</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S554)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S554</url>
+            <name>S554</name>
+          </link>
+        </links>
+        <actionDate>2018-01-29</actionDate>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S554)</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <links />
+        <actionTime>16:02:35</actionTime>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H627</url>
+            <name>H627</name>
+          </link>
+        </links>
+        <actionTime>16:02:32</actionTime>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H627)</text>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H627</url>
+            <name>H627</name>
+          </link>
+        </links>
+        <actionTime>16:02:32</actionTime>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H627)</text>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H627</url>
+            <name>H627</name>
+          </link>
+        </links>
+        <actionTime>16:02:07</actionTime>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H627)</text>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2018-01-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2018-01-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <sentToHouse>1</sentToHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <congress>115</congress>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>5</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-17</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S344-345</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S344-345</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S344-345)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-01-17</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:43:53Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <firstName>ORRIN</firstName>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>HATCH</lastName>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+        <middleName>GRANT</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <identifiers>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>Blunt</lastName>
+        <bioguideId>B000575</bioguideId>
+        <state>MO</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>Lankford</lastName>
+        <bioguideId>L000575</bioguideId>
+        <state>OK</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>JIM</firstName>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>INHOFE</lastName>
+        <bioguideId>I000024</bioguideId>
+        <state>OK</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>Cornyn</lastName>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>Boozman</lastName>
+        <bioguideId>B001236</bioguideId>
+        <state>AR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>ROGER</firstName>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>WICKER</lastName>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>Risch</lastName>
+        <bioguideId>R000584</bioguideId>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>Tillis</lastName>
+        <bioguideId>T000476</bioguideId>
+        <state>NC</state>
+        <middleName>Roland</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <firstName>Ben</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>Sasse</lastName>
+        <bioguideId>S001197</bioguideId>
+        <state>NE</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>Lee</lastName>
+        <bioguideId>L000577</bioguideId>
+        <state>UT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <lastName>CRAPO</lastName>
+        <bioguideId>C000880</bioguideId>
+        <state>ID</state>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+          <lisID>2283</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+        <lastName>Ernst</lastName>
+        <bioguideId>E000295</bioguideId>
+        <state>IA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>First Amendment rights</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-17T21:34:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-17</introducedDate>
+    <title>A concurrent resolution affirming the importance of religious freedom as a fundamental human right that is essential to a free society and protected for all people of the United States under the Constitution of the United States, and recognizing the 231st anniversary of the enactment of the Virginia Statute for Religious Freedom.</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>SCONRES</billType>
+    <createDate>2017-01-18T05:04:58Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <bioguideId>D000618</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S344-345)</text>
+      <links />
+      <actionDate>2017-01-17</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>32</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A concurrent resolution affirming the importance of religious freedom as a fundamental human right that is essential to a free society and protected for all people of the United States under the Constitution of the United States, and recognizing the 232nd anniversary of the enactment of the Virginia Statute for Religious Freedom.</latestTitle>
+        <latestAction>
+          <text>Referred to the Committee on the Judiciary.</text>
+          <actionDate>2018-01-16</actionDate>
+        </latestAction>
+        <type>SCONRES</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A concurrent resolution affirming the importance of religious freedom as a fundamental human right that is essential to a free society and protected for all people of the United States under the Constitution of the United States, and recognizing the 231st anniversary of the enactment of the Virginia Statute for Religious Freedom.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A concurrent resolution affirming the importance of religious freedom as a fundamental human right that is essential to a free society and protected for all people of the United States under the Constitution of the United States, and recognizing the 231st anniversary of the enactment of the Virginia Statute for Religious Freedom.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Calls for honoring the 231st anniversary of the enactment of the Virginia Statute for Religious Freedom on Religious Freedom Day, January 16, 2017.</p> <p>Affirms that: </p> <ul> <li> religious freedom includes the right of individuals of any faith and individuals of no faith to live, work, associate, and worship in accordance with their beliefs;</li> <li> all people of the United States can be unified in supporting religious freedom because it is a fundamental human right; and </li> <li> the American people will remain forever unshackled in matters of faith.</li> </ul>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-01-17</actionDate>
+          <lastSummaryUpdateDate>2017-02-23T15:51:29Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-01-17T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

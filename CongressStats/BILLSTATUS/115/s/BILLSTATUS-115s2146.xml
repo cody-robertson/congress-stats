@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestTitle>Urban Indian Health Parity Act</latestTitle>
+        <number>4443</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-11-16</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <recordedVotes />
+    <amendments />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2017-12-06</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-12-06</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2017-12-06</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14500</actionCode>
+        <type>Committee</type>
+        <text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>2</referredToCommittee>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>5</senate>
+      </actionByCounts>
+    </actions>
+    <title>Urban Indian Health Parity Act</title>
+    <createDate>2017-11-17T00:41:21Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-06T23:45:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <type>Other</type>
+          <subcommittees />
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-06T23:45:24Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-11-16T21:09:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName />
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <state>MT</state>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Heinrich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <state>NM</state>
+        <party>D</party>
+        <firstName>Martin</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <state>OR</state>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MA</state>
+        <party>D</party>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <lastName>Harris</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <firstName>Kamala</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001075</bioguideId>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>CANTWELL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <state>WA</state>
+        <party>D</party>
+        <firstName>MARIA</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2017-11-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Franken</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <party>D</party>
+        <firstName>Al</firstName>
+        <sponsorshipDate>2017-11-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000457</bioguideId>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>BALDWIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <state>WI</state>
+        <party>D</party>
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2017-12-09T05:28:14Z</updateDate>
+    <committeeReports />
+    <introducedDate>2017-11-16</introducedDate>
+    <latestAction>
+      <text>Referred to the Committee on Finance.</text>
+      <actionDate>2017-12-06</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <title>Urban Indian Health Parity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to extend the full Federal medical assistance percentage to urban Indian organizations.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Urban Indian Health Parity Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Urban Indian Health Parity Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <state>NM</state>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <byRequestType />
+        <lastName>UDALL</lastName>
+        <bioguideId>U000039</bioguideId>
+      </item>
+    </sponsors>
+    <billNumber>2146</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

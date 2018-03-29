@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <state>KY</state>
+        <firstName>Rand</firstName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <bioguideId>P000603</bioguideId>
+        <party>R</party>
+        <lastName>Paul</lastName>
+        <identifiers>
+          <gpoId>8308</gpoId>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-10-17T12:38:08Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-07T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>National Right-to-Work Act </b></p> <p> This bill amends the National Labor Relations Act and the Railway Labor Act to repeal those provisions that permit employers, pursuant to a collective bargaining agreement that is a union security agreement, to require employees to join a union as a condition of employment (including provisions permitting railroad carriers to require, pursuant to such an agreement, payroll deduction of union dues or fees as a condition of employment).</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-03-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-15T05:16:06Z</updateDate>
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-03-07</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2017-03-07</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>545</billNumber>
+    <calendarNumbers />
+    <createDate>2017-03-08T05:28:21Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-07</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-07</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <amendments />
+    <recordedVotes />
+    <committeeReports />
+    <title>National Right-to-Work Act</title>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-03-07T21:30:03Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001261</bioguideId>
+        <firstName>John</firstName>
+        <party>R</party>
+        <state>WY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000567</bioguideId>
+        <firstName>Thad</firstName>
+        <party>R</party>
+        <state>MS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8292</gpoId>
+          <bioguideId>C000567</bioguideId>
+          <lisID>213</lisID>
+        </identifiers>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <lastName>Cochran</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001056</bioguideId>
+        <firstName>John</firstName>
+        <party>R</party>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001098</bioguideId>
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2175</lisID>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000285</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <state>WY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000295</bioguideId>
+        <firstName>Joni</firstName>
+        <party>R</party>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <lastName>Ernst</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000338</bioguideId>
+        <firstName>ORRIN</firstName>
+        <party>R</party>
+        <state>UT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <lastName>HATCH</lastName>
+        <middleName>GRANT</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001041</bioguideId>
+        <firstName>Dean</firstName>
+        <party>R</party>
+        <state>NV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>I000024</bioguideId>
+        <firstName>JIM</firstName>
+        <party>R</party>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <lastName>INHOFE</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000575</bioguideId>
+        <firstName>James</firstName>
+        <party>R</party>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <lastName>Lankford</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000577</bioguideId>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <state>UT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <lastName>Lee</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000934</bioguideId>
+        <firstName>JERRY</firstName>
+        <party>R</party>
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+        </identifiers>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <lastName>MORAN</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000612</bioguideId>
+        <firstName>David</firstName>
+        <party>R</party>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <lastName>Perdue</lastName>
+        <middleName>Alfred</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000307</bioguideId>
+        <firstName>PAT</firstName>
+        <party>R</party>
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <lastName>ROBERTS</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000605</bioguideId>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <state>SD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <lastName>Rounds</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000595</bioguideId>
+        <firstName>Marco</firstName>
+        <party>R</party>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001184</bioguideId>
+        <firstName>Tim</firstName>
+        <party>R</party>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+          <lisID>2056</lisID>
+        </identifiers>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000476</bioguideId>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2291</lisID>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <middleName>Roland</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000437</bioguideId>
+        <firstName>ROGER</firstName>
+        <party>R</party>
+        <state>MS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000359</bioguideId>
+        <firstName>LINDSEY</firstName>
+        <party>R</party>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <lastName>GRAHAM</lastName>
+        <middleName>O.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001236</bioguideId>
+        <firstName>John</firstName>
+        <party>R</party>
+        <state>AR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+        </identifiers>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001202</bioguideId>
+        <firstName>Luther</firstName>
+        <party>R</party>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2357</lisID>
+          <bioguideId>S001202</bioguideId>
+        </identifiers>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+        <lastName>Strange</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000293</bioguideId>
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <lastName>Johnson</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001135</bioguideId>
+        <firstName>RICHARD</firstName>
+        <party>R</party>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <lastName>BURR</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000584</bioguideId>
+        <firstName>James</firstName>
+        <party>R</party>
+        <state>ID</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <lastName>Risch</lastName>
+        <middleName>E.</middleName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestTitle>National Right-to-Work Act</latestTitle>
+        <number>785</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2017-02-01</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>National Right-to-Work Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>National Right-to-Work Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>A bill to preserve and protect the free choice of individual employees to form, join, or assist labor organizations, or to refrain from such activities.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>National Right-to-Work Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <laws />
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-25T21:31:36Z</updateDate>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2017-07-26</actionDate>
+      <text>Referred to the Subcommittee on Readiness.</text>
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <bioguideId>L000565</bioguideId>
+        <district>2</district>
+        <lastName>Loebsack</lastName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <byRequestType />
+        <firstName>David</firstName>
+        <state>IA</state>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-27T14:01:10Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Readiness Subcommittee</name>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-26T15:36:34Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2017-06-28T03:11:37Z</createDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LOEBSACK:H.R. 3080.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the US Constitution.[Page H5232]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Readiness Subcommittee</name>
+          <systemCode>hsas03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-27</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-27</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-27</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <bioguideId>B001286</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2127</lisID>
+          <gpoId />
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <firstName>Cheri</firstName>
+        <middleName />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <district>17</district>
+        <lastName>Bustos</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <amendments />
+    <introducedDate>2017-06-27</introducedDate>
+    <title>To provide installation reutilization authority for arsenals, depots, and plants.</title>
+    <cboCostEstimates />
+    <billNumber>3080</billNumber>
+    <version>1.0.0</version>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>To provide installation reutilization authority for arsenals, depots, and plants.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To provide installation reutilization authority for arsenals, depots, and plants.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

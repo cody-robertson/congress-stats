@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2018-01-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <actionDate>2018-01-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2018-01-18</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-02-15T17:20:16Z</lastSummaryUpdateDate>
+          <actionDate>2018-01-18</actionDate>
+          <updateDate>2018-01-18T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Thanks and promotes the profession of Certified Registered Nurse Anesthetists (CRNAs) by encouraging patients, hospital administrators, health care professionals, policymakers, and others to become more familiar with CRNAs by participating in National CRNA Week.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>702</billNumber>
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <state>IL</state>
+        <bioguideId>S001145</bioguideId>
+        <byRequestType />
+        <lastName>SCHAKOWSKY</lastName>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <party>D</party>
+        <firstName>JANICE</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2018-01-19</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2018-01-19T03:11:02Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1656</lisID>
+          <gpoId>8014</gpoId>
+          <bioguideId>G000546</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000546</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <firstName>SAM</firstName>
+        <lastName>GRAVES</lastName>
+        <state>MO</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>997</lisID>
+          <gpoId>7839</gpoId>
+          <bioguideId>R000486</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000486</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>40</district>
+        <party>D</party>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <firstName>LUCILLE</firstName>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Recognizing the roles and the contributions of America's Certified Registered Nurse Anesthetists (CRNAs) and their role in providing quality healthcare for the public.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Recognizing the roles and the contributions of America's Certified Registered Nurse Anesthetists (CRNAs) and their role in providing quality healthcare for the public.</title>
+      </item>
+    </titles>
+    <billType>HRES</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2018-01-18</introducedDate>
+    <title>Recognizing the roles and the contributions of America's Certified Registered Nurse Anesthetists (CRNAs) and their role in providing quality healthcare for the public.</title>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-02-03</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <number>64</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Recognizing the roles and contributions of America's Certified Registered Nurse Anesthetists (CRNAs) and their role in providing quality healthcare for the public.</latestTitle>
+        <congress>115</congress>
+        <type>HRES</type>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2018-01-19T21:24:39Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2018-01-18T15:04:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2018-02-19T04:07:42Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

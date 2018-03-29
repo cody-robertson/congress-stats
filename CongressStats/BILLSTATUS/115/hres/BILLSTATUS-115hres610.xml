@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-07T15:01:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-10T21:28:09Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-11-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <lastName>Esty</lastName>
+        <middleName>H.</middleName>
+        <bioguideId>E000293</bioguideId>
+        <firstName>Elizabeth</firstName>
+        <state>CT</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2114</lisID>
+          <bioguideId>E000293</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>32</district>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <lastName>SESSIONS</lastName>
+        <middleName />
+        <bioguideId>S000250</bioguideId>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8188</gpoId>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <lastName>Mast</lastName>
+        <middleName>J.</middleName>
+        <bioguideId>M001199</bioguideId>
+        <firstName>Brian</firstName>
+        <state>FL</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2322</lisID>
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <lastName>Meng</lastName>
+        <middleName />
+        <bioguideId>M001188</bioguideId>
+        <firstName>Grace</firstName>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-11-10</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-11-07</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2017-11-07</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2017-11-07</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <createDate>2017-11-08T03:11:14Z</createDate>
+    <billType>HRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-02-07T21:36:03Z</lastSummaryUpdateDate>
+          <actionDate>2017-11-07</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-11-07T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses support for the designation of as National Diabetes Heart Health Awareness Day. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for the designation of November 9, 2017, as "National Diabetes Heart Health Awareness Day", coinciding with American Diabetes Month.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing support for the designation of November 9, 2017, as "National Diabetes Heart Health Awareness Day", coinciding with American Diabetes Month.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-11-07</introducedDate>
+    <title>Expressing support for the designation of November 9, 2017, as "National Diabetes Heart Health Awareness Day", coinciding with American Diabetes Month.</title>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-11-10</actionDate>
+    </latestAction>
+    <billNumber>610</billNumber>
+    <relatedBills>
+      <item>
+        <number>324</number>
+        <latestAction>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7120-7121; text: CR S7119-7120)</text>
+          <actionDate>2017-11-08</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>A resolution designating November 9, 2017, as "National Diabetes Heart Health Awareness Day", coinciding with American Diabetes Month.</latestTitle>
+        <type>SRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <updateDate>2018-02-15T05:04:50Z</updateDate>
+    <committeeReports />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <state>GA</state>
+        <byRequestType />
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <bioguideId>A000372</bioguideId>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <firstName>Rick</firstName>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <lastName>Allen</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-10-26</introducedDate>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 173 (Thursday, October 26, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARTWRIGHT:H.R. 4150.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3[Page H8271]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <district>17</district>
+        <firstName>Matt</firstName>
+        <state>PA</state>
+        <lastName>Cartwright</lastName>
+        <bioguideId>C001090</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Innovate America Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To support innovation, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Innovate America Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Innovate America Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <createDate>2017-10-27T03:11:24Z</createDate>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-26T13:00:28Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-10-27T20:27:22Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif17</systemCode>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-26T13:00:33Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-26T13:00:23Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-26T13:00:18Z</date>
+            </item>
+          </activities>
+          <systemCode>hssy00</systemCode>
+          <chamber>House</chamber>
+          <name>Science, Space, and Technology Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>4</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-27</actionDate>
+        <committee>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+          <systemCode>hsif17</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Education and the Workforce, Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Education and the Workforce, Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Education and the Workforce, Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Education and the Workforce, Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <amendments />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <lastName>Davis</lastName>
+        <middleName />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <firstName>Rodney</firstName>
+        <bioguideId>D000619</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <lastName>RYAN</lastName>
+        <middleName />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <firstName>TIM</firstName>
+        <bioguideId>R000577</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <updateDate>2017-11-28T08:12:38Z</updateDate>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-27</actionDate>
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+    </latestAction>
+    <billNumber>4150</billNumber>
+    <cboCostEstimates />
+    <recordedVotes />
+    <title>Innovate America Act</title>
+    <laws />
+    <committeeReports />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

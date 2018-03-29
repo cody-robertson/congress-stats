@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>1039</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-05-04</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2776</url>
+            <name>S2776</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S2776)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-05-04</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:20Z</updateDate>
+    <cosponsors>
+      <item>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <lastName>MCCAIN</lastName>
+        <bioguideId>M000303</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>SIDNEY</middleName>
+        <state>AZ</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-04T14:30:09Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-05-04</introducedDate>
+    <title>A bill to indemnify local law enforcement entities for complying with valid detainers issued by immigration officers.</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-05-05T00:41:44Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>FLAKE</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <bioguideId>F000444</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <firstName>JEFF</firstName>
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S2776)</text>
+      <links />
+      <actionDate>2017-05-04</actionDate>
+    </latestAction>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to indemnify local law enforcement entities for complying with valid detainers issued by immigration officers.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to indemnify local law enforcement entities for complying with valid detainers issued by immigration officers.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-04T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p></p> <p>Subject to available appropriations, the Department of Homeland Security shall be responsible to pay the costs of any legally-cognizable injuries to third parties by any state or local law enforcement officer resulting from a request from Immigration and Customs Enforcement to temporarily detain an alien or transport the alien to a federal detention center.</p> <p>Nothing in this bill shall be construed to preclude a legal cause of action.</p>]]></text>
+          <lastSummaryUpdateDate>2017-12-05T21:36:40Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-04</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

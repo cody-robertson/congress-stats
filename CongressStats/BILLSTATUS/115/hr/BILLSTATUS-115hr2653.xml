@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR E735-736)</text>
+        <committee />
+        <actionDate>2017-05-26</actionDate>
+        <links>
+          <link>
+            <name>E735-736</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E735-736</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000454</bioguideId>
+        <party>D</party>
+        <state>IL</state>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Foster</lastName>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000608</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <district>52</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <firstName>Scott</firstName>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <middleName>H.</middleName>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+          <lisID>2113</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <state>DC</state>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000472</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <district>41</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Takano</lastName>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001101</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Clark</lastName>
+        <firstName>Katherine</firstName>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2196</lisID>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001278</bioguideId>
+        <party>D</party>
+        <state>OR</state>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bonamici</lastName>
+        <firstName>Suzanne</firstName>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2092</lisID>
+          <gpoId>8367</gpoId>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000469</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <district>20</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Tonko</lastName>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000523</bioguideId>
+        <party>D</party>
+        <state>NC</state>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>PRICE</lastName>
+        <firstName>DAVID</firstName>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>P000523</bioguideId>
+          <gpoId>8027</gpoId>
+          <lisID>930</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000293</bioguideId>
+        <party>D</party>
+        <state>CT</state>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Esty</lastName>
+        <firstName>Elizabeth</firstName>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <middleName>H.</middleName>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <lisID>2114</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000397</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <district>19</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LOFGREN</lastName>
+        <firstName>ZOE</firstName>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000608</bioguideId>
+        <party>D</party>
+        <state>NV</state>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rosen</lastName>
+        <firstName>Jacky</firstName>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000593</bioguideId>
+        <party>D</party>
+        <state>CO</state>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Perlmutter</lastName>
+        <firstName>Ed</firstName>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7865</gpoId>
+          <lisID>1835</lisID>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000480</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <district>25</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SLAUGHTER</lastName>
+        <firstName>LOUISE</firstName>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <gpoId>8089</gpoId>
+          <lisID>1069</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000551</bioguideId>
+        <party>D</party>
+        <state>AZ</state>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grijalva</lastName>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000582</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <district>33</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lieu</lastName>
+        <firstName>Ted</firstName>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2230</lisID>
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000096</bioguideId>
+        <party>D</party>
+        <state>IL</state>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DAVIS</lastName>
+        <firstName>DANNY</firstName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <middleName>K.</middleName>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000381</bioguideId>
+        <party>D</party>
+        <state>WA</state>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kilmer</lastName>
+        <firstName>Derek</firstName>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000379</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kennedy</lastName>
+        <firstName>Joseph</firstName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>2172</lisID>
+          <gpoId />
+          <bioguideId>K000379</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001292</bioguideId>
+        <party>D</party>
+        <state>VA</state>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Beyer</lastName>
+        <firstName>Donald</firstName>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <middleName>S.</middleName>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+          <lisID>2272</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000563</bioguideId>
+        <party>D</party>
+        <state>IL</state>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lipinski</lastName>
+        <firstName>Daniel</firstName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <middleName>William</middleName>
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000375</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Keating</lastName>
+        <firstName>William</firstName>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001111</bioguideId>
+        <party>D</party>
+        <state>FL</state>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Crist</lastName>
+        <firstName>Charlie</firstName>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2321</lisID>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000598</bioguideId>
+        <party>D</party>
+        <state>CO</state>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Polis</lastName>
+        <firstName>Jared</firstName>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1910</lisID>
+          <gpoId>7860</gpoId>
+          <bioguideId>P000598</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000296</bioguideId>
+        <party>D</party>
+        <state>PA</state>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Evans</lastName>
+        <firstName>Dwight</firstName>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000559</bioguideId>
+        <party>D</party>
+        <state>RI</state>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LANGEVIN</lastName>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000560</bioguideId>
+        <party>D</party>
+        <state>WA</state>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LARSEN</lastName>
+        <firstName>RICK</firstName>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <lisID>1675</lisID>
+          <bioguideId>L000560</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <links />
+      <text>Sponsor introductory remarks on measure. (CR E735-736)</text>
+      <actionDate>2017-05-26</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+          <item>
+            <name>Minority employment</name>
+          </item>
+          <item>
+            <name>National Science Foundation</name>
+          </item>
+          <item>
+            <name>Office of Science and Technology Policy</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+          <item>
+            <name>Women's education</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <committeeReports />
+    <version>1.0.0</version>
+    <createDate>2017-05-26T03:11:41Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hssy00</systemCode>
+          <type>Standing</type>
+          <name>Science, Space, and Technology Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:08:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>STEM Opportunities Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>STEM Opportunities Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To direct the Director of the Office of Science and Technology Policy to carry out programs and activities to ensure that Federal science agencies and institutions of higher education receiving Federal research and development funding are fully engaging their entire talent pool, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>STEM Opportunities Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <updateDate>2017-12-13T23:15:09Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-11-15</actionDate>
+          <text>Ordered to be Reported by Voice Vote.</text>
+        </latestAction>
+        <number>4375</number>
+        <latestTitle>STEM Research and Education Effectiveness and Transparency Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-05-25</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <number>1270</number>
+        <latestTitle>STEM Opportunities Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <title>STEM Opportunities Act of 2017</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. EDDIE BERNICE JOHNSON of Texas:H.R. 2653.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the Constitution of the UnitedStates.[Page H4607]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2653</billNumber>
+    <introducedDate>2017-05-25</introducedDate>
+    <laws />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <middleName>BERNICE</middleName>
+        <district>30</district>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <bioguideId>J000126</bioguideId>
+        <identifiers>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+          <lisID>599</lisID>
+        </identifiers>
+        <firstName>EDDIE</firstName>
+        <byRequestType />
+        <party>D</party>
+        <lastName>JOHNSON</lastName>
+        <state>TX</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-06-08</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-26T21:44:18Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm03</systemCode>
+              <activities>
+                <item>
+                  <date>2017-06-12T19:28:54Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Human Resources Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-06-20T19:13:48Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-06-15T13:11:35Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-08T14:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>36</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <actionCode>H38310</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>11:02:28</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>On passage Passed by the Yeas and Nays: 377 - 34 (Roll no. 322).</text>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll322.xml</url>
+            <name>Roll no. 322</name>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>11:02:26</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 377 - 34 (Roll no. 322).</text>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll322.xml</url>
+            <name>Roll no. 322</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>11:02:26</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5117-5118)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5117-5118</url>
+            <name>H5117-5118</name>
+          </link>
+        </links>
+        <actionCode>H34400</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:55:19</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <links />
+        <actionCode>H35000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:55:10</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2842.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2842</url>
+            <name>H.R. 2842</name>
+          </link>
+        </links>
+        <actionCode>H32600</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:54:34</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+        <links />
+        <actionCode>H32050</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:48:02</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>Considered as unfinished business. (consideration: CR H5123-5125)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5123-5125</url>
+            <name>H5123-5125</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:47:07</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2842 as unfinished business.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2842</url>
+            <name>H.R. 2842</name>
+          </link>
+        </links>
+        <actionCode>H32700</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:43:45</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>On motion that the committee rise Agreed to by voice vote.</text>
+        <links />
+        <actionCode>H32341</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:43:36</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>Mr. Smith (NE) moved that the committee rise.</text>
+        <links />
+        <actionCode>H32340</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:43:22</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H. Res. 396, the Committee of the Whole proceeded with 10 minutes of debate on the Kilmer amendment No. 7.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H. Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:08:47</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H. Res. 396, the Committee of the Whole proceeded with 10 minutes of debate on the Khanna amendment No. 6.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H. Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:04:55</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Davidson amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Davis (IL) demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.</text>
+        <links />
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:04:14</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 396, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson amendment No. 5.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H.Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:58:05</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Krishnamoorthi amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (NE) demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.</text>
+        <links />
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:57:05</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 396, the Committee of the Whole proceeded with 10 minutes of debate on the Krishnamoorthi amendment No. 4.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H.Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:54:31</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 396, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici amendment No. 3.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H.Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:48:23</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 396, the Committee of the Whole proceeded with 10 minutes of debate on the Bost amendment No. 2.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H.Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:44:31</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 396, the Committee of the Whole proceeded with 10 minutes of debate on the Foxx amendment No. 1.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H.Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:40:58</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2842.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2842</url>
+            <name>H.R. 2842</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:11:13</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>The Speaker designated the Honorable Jeff Denham to act as Chairman of the Committee.</text>
+        <links />
+        <actionCode>H32400</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:11:02</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 396 and Rule XVIII.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H. Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H32020</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:11:01</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>Rule provides for consideration of H.R. 2842 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-22. The resolution makes in order only those further amendments printed in the Rules Committee report. Also, the resolution makes in order at any time on the legislative day of June 22, 2017, for the Speaker to entertain motion that the House suspend the rules relating to the bill H.R. 2353.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2353</url>
+            <name>H.R. 2353</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2842</url>
+            <name>H.R. 2842</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:10:33</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <text>Considered under the provisions of rule H. Res. 396. (consideration: CR H5114-5125)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H. Res. 396</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5114-5125</url>
+            <name>H5114-5125</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>09:10:28</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <text>Rule H. Res. 396 passed House.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H. Res. 396</name>
+          </link>
+        </links>
+        <actionCode>H1L220</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>13:43:51</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <text>Rules Committee Resolution H. Res. 396 Reported to House. Rule provides for consideration of H.R. 2842 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-22. The resolution makes in order only those further amendments printed in the Rules Committee report. Also, the resolution makes in order at any time on the legislative day of June 22, 2017, for the Speaker to entertain motion that the House suspend the rules relating to the bill H.R. 2353.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/396</url>
+            <name>H. Res. 396</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2353</url>
+            <name>H.R. 2353</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2842</url>
+            <name>H.R. 2842</name>
+          </link>
+        </links>
+        <actionCode>H1L210</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionTime>16:47:39</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-20</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 126.</text>
+        <links />
+        <actionCode>H12410</actionCode>
+        <type>Calendars</type>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-20</actionDate>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-185.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/185</url>
+            <name>H. Rept. 115-185</name>
+          </link>
+        </links>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-20</actionDate>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-185.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/185</url>
+            <name>H. Rept. 115-185</name>
+          </link>
+        </links>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-12</actionDate>
+        <committee>
+          <name>Human Resources Subcommittee</name>
+          <systemCode>hswm03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <considerationByHouse>2</considerationByHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <actionStageOverride>1</actionStageOverride>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>1</committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <billReferrals>1</billReferrals>
+        <unfinishedBusinessInCommitteeOfTheWhole>1</unfinishedBusinessInCommitteeOfTheWhole>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <generalDebate>11</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <reportedToHouse>1</reportedToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <placeholderTextForH>5</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Accelerating Individuals into the Workforce Act</b></p> <p>This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to require the Administration for Children &amp; Families (ACF) to make grants to states for demonstration projects that provide wage subsidies to enable low-income individuals to enter and retain employment.</p> <p>States may use grant funds to subsidize an individual's wages for up to 12 months. The subsidy may be up to 50% of an individual's wages. Individuals are eligible for subsidized wages if they: (1) are recipients of TANF or similar state assistance or a noncustodial parent of a child receiving such assistance, (2) are unemployed when the subsidy begins, and (3) have an income below 200% of the poverty line.</p> <p>States must ensure that participants in subsidized job programs do not displace current workers.</p> The ACF must reserve funding to carry out this bill from amounts in the Contingency Fund for State Welfare Programs.]]></text>
+          <actionDate>2017-06-08</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-06-16T19:56:34Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-08T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to House with amendment(s)</actionDesc>
+          <versionCode>17</versionCode>
+          <text><![CDATA[<p><b>Accelerating Individuals into the Workforce Act</b></p> <p>(Sec. 2) This bill amends title IV&nbsp;(Temporary Assistance for Needy Families) (TANF) of the Social Security Act to require the Administration for Children &amp; Families (ACF) to make grants to states for demonstration projects that provide wage subsidies to enable low-income individuals to enter and retain employment. At least one&nbsp;of these&nbsp;demonstration projects shall fund programs that offer apprenticeships registered under the National Apprenticeship Act.</p> <p>States may use grant funds to subsidize an individual's wages for up to 12 months. The subsidy may be up to 50% of an individual's wages. Individuals are eligible for subsidized wages if they: (1) are recipients of TANF or similar state assistance or a noncustodial parent of a child receiving such assistance, (2) are unemployed when the subsidy begins, and (3) have an income below 200% of the poverty line.</p> <p>States must ensure that participants in subsidized job programs do not displace current workers.</p>The ACF must reserve funding to carry out the bill from amounts in the Contingency Fund for State Welfare Programs.]]></text>
+          <actionDate>2017-06-20</actionDate>
+          <name>Reported to House with amendment(s)</name>
+          <lastSummaryUpdateDate>2018-01-17T20:49:16Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-20T13:07:55Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Passed House amended</actionDesc>
+          <versionCode>36</versionCode>
+          <text><![CDATA[<p><b>Accelerating Individuals into the Workforce Act</b></p> <p>(Sec. 2) This bill amends title IV&nbsp;(Temporary Assistance for Needy Families) (TANF) of the Social Security Act to require the Administration for Children &amp; Families (ACF) to make grants to states for demonstration projects that provide wage subsidies to enable low-income individuals to enter and retain employment. At least one&nbsp;of these&nbsp;demonstration projects shall fund programs that offer apprenticeships registered under the National Apprenticeship Act.</p> <p>States may use grant funds to subsidize an individual's wages for up to 12 months. The subsidy may be up to 50% of an individual's wages. Individuals are eligible for subsidized wages if they: (1) are recipients of TANF or similar state assistance or a noncustodial parent of a child receiving such assistance, (2) are unemployed when the subsidy begins, and (3) have an income below 200% of the poverty line.</p> <p>States must ensure that participants in subsidized job programs do not displace current workers.</p>The ACF must reserve funding to carry out the bill from amounts in the Contingency Fund for State Welfare Programs.]]></text>
+          <actionDate>2017-06-23</actionDate>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2018-01-17T20:46:22Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-23T13:05:05Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:28:17Z</updateDate>
+    <amendments>
+      <amendment>
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <purpose>An amendment numbered 7 printed in House Report 115-187 to require the Secretary to address employment-related challenges in rural areas and among members of federally recognized Indian tribes in the recommendations provided to Congress.</purpose>
+        <latestAction>
+          <text>On agreeing to the Kilmer amendment (A007) Agreed to by voice vote.</text>
+          <actionTime>10:12:19</actionTime>
+          <actionDate>2017-06-23</actionDate>
+        </latestAction>
+        <description />
+        <purpose>An amendment numbered 7 printed in House Report 115-187 to require the Secretary to address employment-related challenges in rural areas and among members of federally recognized Indian tribes in the recommendations provided to Congress.</purpose>
+        <amendedBill>
+          <type>HR</type>
+          <number>2842</number>
+          <title>Accelerating Individuals into the Workforce Act</title>
+          <congress>115</congress>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>10:12:19</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.148</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/148</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>On agreeing to the Kilmer amendment (A007) Agreed to by voice vote.</text>
+            </item>
+            <item>
+              <actionTime>10:08:28</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.148</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/148</url>
+                </link>
+                <link>
+                  <name>H5122</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5122</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>Amendment (A007) offered by Mr. Kilmer. (consideration: CR H5122; text: CR H5122)</text>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>10:08:28</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.148</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/148</url>
+                </link>
+                <link>
+                  <name>H5122</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5122</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A007) offered by Mr. Kilmer.</text>
+            </item>
+            <item>
+              <actionTime>10:12:19</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.148</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/148</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment agreed to: On agreeing to the Kilmer amendment (A007) Agreed to by voice vote.</text>
+            </item>
+            <item>
+              <actionTime>10:12:19</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.148</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/148</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Amendment agreed to Committee of the Whole</text>
+            </item>
+            <item>
+              <links />
+              <committee />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered</text>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <count>7</count>
+        </actions>
+        <version>1.0.0</version>
+        <createDate>2017-06-24T07:16:15Z</createDate>
+        <number>148</number>
+        <titles />
+        <congress>115</congress>
+        <updateDate>2018-02-22T15:27:09Z</updateDate>
+        <submittedDate>2017-06-23T04:00:00Z</submittedDate>
+        <proposedDate />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <notes />
+        <description />
+        <links />
+        <type>HAMDT</type>
+        <chamber>House of Representatives</chamber>
+        <sponsors>
+          <item>
+            <party>D</party>
+            <lastName>Kilmer</lastName>
+            <firstName>Derek</firstName>
+            <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+            <bioguideId>K000381</bioguideId>
+            <middleName />
+            <identifiers>
+              <lisID>2169</lisID>
+              <gpoId />
+              <bioguideId>K000381</bioguideId>
+            </identifiers>
+            <state>WA</state>
+            <district>6</district>
+          </item>
+        </sponsors>
+        <amendedAmendment />
+        <number>148</number>
+      </amendment>
+      <amendment>
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <purpose>An amendment numbered 6 printed in House Report 115-187 to direct HHS to measure the effect of training and credentialing in its evaluation to the public and recommendations to Congress.</purpose>
+        <latestAction>
+          <text>On agreeing to the Khanna amendment (A006) Agreed to by voice vote.</text>
+          <actionTime>10:08:19</actionTime>
+          <actionDate>2017-06-23</actionDate>
+        </latestAction>
+        <description />
+        <createDate>2017-06-24T07:16:15Z</createDate>
+        <number>147</number>
+        <type>HAMDT</type>
+        <updateDate>2018-02-22T15:27:09Z</updateDate>
+        <submittedDate>2017-06-23T04:00:00Z</submittedDate>
+        <proposedDate />
+        <sponsors>
+          <item>
+            <district>17</district>
+            <state>CA</state>
+            <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+            <bioguideId>K000389</bioguideId>
+            <firstName>Ro</firstName>
+            <party>D</party>
+            <middleName />
+            <identifiers>
+              <bioguideId>K000389</bioguideId>
+              <lisID>2308</lisID>
+              <gpoId />
+            </identifiers>
+            <lastName>Khanna</lastName>
+          </item>
+        </sponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendedAmendment />
+        <amendedBill>
+          <congress>115</congress>
+          <number>2842</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>Accelerating Individuals into the Workforce Act</title>
+        </amendedBill>
+        <links />
+        <notes />
+        <titles />
+        <actions>
+          <count>7</count>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/147</url>
+                  <name>H.Amdt.147</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>On agreeing to the Khanna amendment (A006) Agreed to by voice vote.</text>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>10:08:19</actionTime>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/147</url>
+                  <name>H.Amdt.147</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5121</url>
+                  <name>H5121</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5121-5122</url>
+                  <name>H5121-5122</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>Amendment (A006) offered by Mr. Khanna. (consideration: CR H5121-5122; text: CR H5121)</text>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>10:04:37</actionTime>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/147</url>
+                  <name>H.Amdt.147</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5121</url>
+                  <name>H5121</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5121-5122</url>
+                  <name>H5121-5122</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A006) offered by Mr. Khanna.</text>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>10:04:37</actionTime>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/147</url>
+                  <name>H.Amdt.147</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment agreed to: On agreeing to the Khanna amendment (A006) Agreed to by voice vote.</text>
+              <actionCode>72000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>10:08:19</actionTime>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/147</url>
+                  <name>H.Amdt.147</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <actionCode>76000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>10:08:19</actionTime>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <committee />
+              <links />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered</text>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <type>Floor</type>
+            </item>
+          </actions>
+        </actions>
+        <purpose>An amendment numbered 6 printed in House Report 115-187 to direct HHS to measure the effect of training and credentialing in its evaluation to the public and recommendations to Congress.</purpose>
+        <description />
+        <chamber>House of Representatives</chamber>
+        <version>1.0.0</version>
+        <number>147</number>
+      </amendment>
+      <amendment>
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <purpose>An amendment numbered 5 printed in House Report 115-187 to direct states to include in their end of the fiscal year report the number of recipients who received additional federal or state means-tested benefits during their subsidized employment.</purpose>
+        <latestAction>
+          <text>On agreeing to the Davidson amendment (A005) Agreed to by recorded vote: 264 - 147 (Roll no. 321).</text>
+          <actionTime>10:54:15</actionTime>
+          <actionDate>2017-06-23</actionDate>
+        </latestAction>
+        <description>Amendment to direct states to include in their end of the fiscal year report the number of recipients who received additional federal or state means-tested benefits during their subsidized employment.</description>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <createDate>2017-06-24T07:16:15Z</createDate>
+        <congress>115</congress>
+        <actions>
+          <count>8</count>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>10:54:15</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.146</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/146</url>
+                </link>
+                <link>
+                  <name>Roll no. 321</name>
+                  <url>http://clerk.house.gov/evs/2017/roll321.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>On agreeing to the Davidson amendment (A005) Agreed to by recorded vote: 264 - 147 (Roll no. 321).</text>
+            </item>
+            <item>
+              <actionTime>09:57:44</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.146</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/146</url>
+                </link>
+                <link>
+                  <name>H5120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5120</url>
+                </link>
+                <link>
+                  <name>H5120-5121</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5120-5121</url>
+                </link>
+                <link>
+                  <name>H5123-5124</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5123-5124</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>Amendment (A005) offered by Mr. Davidson. (consideration: CR H5120-5121, H5123-5124; text: CR H5120)</text>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>10:54:15</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.146</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/146</url>
+                </link>
+                <link>
+                  <name>Roll no. 321</name>
+                  <url>http://clerk.house.gov/evs/2017/roll321.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Roll call votes on amendments in House</text>
+            </item>
+            <item>
+              <actionTime>10:54:15</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.146</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/146</url>
+                </link>
+                <link>
+                  <name>Roll no. 321</name>
+                  <url>http://clerk.house.gov/evs/2017/roll321.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Amendment agreed to Committee of the Whole</text>
+            </item>
+            <item>
+              <actionTime>10:54:15</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.146</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/146</url>
+                </link>
+                <link>
+                  <name>Roll no. 321</name>
+                  <url>http://clerk.house.gov/evs/2017/roll321.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment agreed to: On agreeing to the Davidson amendment (A005) Agreed to by recorded vote: 264 - 147 (Roll no. 321).</text>
+            </item>
+            <item>
+              <actionTime>09:57:44</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.146</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/146</url>
+                </link>
+                <link>
+                  <name>H5120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5120</url>
+                </link>
+                <link>
+                  <name>H5120-5121</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5120-5121</url>
+                </link>
+                <link>
+                  <name>H5123-5124</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5123-5124</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A005) offered by Mr. Davidson.</text>
+            </item>
+            <item>
+              <links />
+              <committee />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered</text>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <type>HAMDT</type>
+        <chamber>House of Representatives</chamber>
+        <sponsors>
+          <item>
+            <lastName>Davidson</lastName>
+            <firstName>Warren</firstName>
+            <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+            <district>8</district>
+            <party>R</party>
+            <identifiers>
+              <bioguideId>D000626</bioguideId>
+              <gpoId />
+              <lisID>2296</lisID>
+            </identifiers>
+            <state>OH</state>
+            <bioguideId>D000626</bioguideId>
+            <middleName />
+          </item>
+        </sponsors>
+        <amendedAmendment />
+        <version>1.0.0</version>
+        <proposedDate />
+        <amendedBill>
+          <congress>115</congress>
+          <number>2842</number>
+          <originChamberCode>H</originChamberCode>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <title>Accelerating Individuals into the Workforce Act</title>
+        </amendedBill>
+        <number>146</number>
+        <description>Amendment to direct states to include in their end of the fiscal year report the number of recipients who received additional federal or state means-tested benefits during their subsidized employment.</description>
+        <notes />
+        <purpose>An amendment numbered 5 printed in House Report 115-187 to direct states to include in their end of the fiscal year report the number of recipients who received additional federal or state means-tested benefits during their subsidized employment.</purpose>
+        <updateDate>2018-02-22T15:27:09Z</updateDate>
+        <submittedDate>2017-06-23T04:00:00Z</submittedDate>
+        <links />
+        <titles />
+        <number>146</number>
+      </amendment>
+      <amendment>
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <purpose>An amendment numbered 4 printed in House Report 115-187 to require states to report on the number of individuals who are in a career that matches their training.</purpose>
+        <latestAction>
+          <text>On agreeing to the Krishnamoorthi amendment (A004) Agreed to by recorded vote: 380 - 32 (Roll no. 320).</text>
+          <actionTime>10:43:09</actionTime>
+          <actionDate>2017-06-23</actionDate>
+        </latestAction>
+        <description>Page 5, line 9, before the semicolon, insert "and the percentage of such individuals whose employment is in an area that matches their previous training and work experience".</description>
+        <purpose>An amendment numbered 4 printed in House Report 115-187 to require states to report on the number of individuals who are in a career that matches their training.</purpose>
+        <amendedBill>
+          <type>HR</type>
+          <number>2842</number>
+          <title>Accelerating Individuals into the Workforce Act</title>
+          <congress>115</congress>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>10:43:09</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.145</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/145</url>
+                </link>
+                <link>
+                  <name>Roll no. 320</name>
+                  <url>http://clerk.house.gov/evs/2017/roll320.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>On agreeing to the Krishnamoorthi amendment (A004) Agreed to by recorded vote: 380 - 32 (Roll no. 320).</text>
+            </item>
+            <item>
+              <actionTime>09:54:14</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.145</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/145</url>
+                </link>
+                <link>
+                  <name>H5120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5120</url>
+                </link>
+                <link>
+                  <name>H5122-5123</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5122-5123</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>Amendment (A004) offered by Mr. Krishnamoorthi. (consideration: CR H5120, H5122-5123; text: CR H5120)</text>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>10:43:09</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.145</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/145</url>
+                </link>
+                <link>
+                  <name>Roll no. 320</name>
+                  <url>http://clerk.house.gov/evs/2017/roll320.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Amendment agreed to Committee of the Whole</text>
+            </item>
+            <item>
+              <actionTime>10:43:09</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.145</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/145</url>
+                </link>
+                <link>
+                  <name>Roll no. 320</name>
+                  <url>http://clerk.house.gov/evs/2017/roll320.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment agreed to: On agreeing to the Krishnamoorthi amendment (A004) Agreed to by recorded vote: 380 - 32 (Roll no. 320).</text>
+            </item>
+            <item>
+              <actionTime>10:43:09</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.145</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/145</url>
+                </link>
+                <link>
+                  <name>Roll no. 320</name>
+                  <url>http://clerk.house.gov/evs/2017/roll320.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Roll call votes on amendments in House</text>
+            </item>
+            <item>
+              <actionTime>09:54:14</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.145</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/145</url>
+                </link>
+                <link>
+                  <name>H5120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5120</url>
+                </link>
+                <link>
+                  <name>H5122-5123</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5122-5123</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A004) offered by Mr. Krishnamoorthi.</text>
+            </item>
+            <item>
+              <links />
+              <committee />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered</text>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <count>8</count>
+        </actions>
+        <version>1.0.0</version>
+        <createDate>2017-06-24T07:16:14Z</createDate>
+        <number>145</number>
+        <titles />
+        <congress>115</congress>
+        <updateDate>2018-02-22T15:27:09Z</updateDate>
+        <submittedDate>2017-06-23T04:00:00Z</submittedDate>
+        <proposedDate />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <notes />
+        <description>Page 5, line 9, before the semicolon, insert "and the percentage of such individuals whose employment is in an area that matches their previous training and work experience".</description>
+        <links />
+        <type>HAMDT</type>
+        <chamber>House of Representatives</chamber>
+        <sponsors>
+          <item>
+            <party>D</party>
+            <lastName>Krishnamoorthi</lastName>
+            <firstName>Raja</firstName>
+            <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+            <bioguideId>K000391</bioguideId>
+            <middleName />
+            <identifiers>
+              <bioguideId>K000391</bioguideId>
+              <lisID>2325</lisID>
+              <gpoId />
+            </identifiers>
+            <state>IL</state>
+            <district>8</district>
+          </item>
+        </sponsors>
+        <amendedAmendment />
+        <number>145</number>
+      </amendment>
+      <amendment>
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <purpose>An amendment numbered 3 printed in House Report 115-187 to require states to coordinate the subsidized employment program authorized in the bill with other federal workforce development programs, including the Federal Work Study Program.</purpose>
+        <latestAction>
+          <text>On agreeing to the Bonamici amendment (A003) Agreed to by voice vote.</text>
+          <actionTime>09:53:59</actionTime>
+          <actionDate>2017-06-23</actionDate>
+        </latestAction>
+        <description />
+        <number>144</number>
+        <proposedDate />
+        <purpose>An amendment numbered 3 printed in House Report 115-187 to require states to coordinate the subsidized employment program authorized in the bill with other federal workforce development programs, including the Federal Work Study Program.</purpose>
+        <version>1.0.0</version>
+        <chamber>House of Representatives</chamber>
+        <createDate>2017-06-24T07:16:14Z</createDate>
+        <amendedBill>
+          <title>Accelerating Individuals into the Workforce Act</title>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <congress>115</congress>
+          <originChamberCode>H</originChamberCode>
+          <number>2842</number>
+        </amendedBill>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <updateDate>2018-02-22T15:27:09Z</updateDate>
+        <notes />
+        <description />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedAmendment />
+        <congress>115</congress>
+        <actions>
+          <count>7</count>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>09:53:59</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.144</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/144</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>On agreeing to the Bonamici amendment (A003) Agreed to by voice vote.</text>
+            </item>
+            <item>
+              <actionTime>09:48:05</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.144</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/144</url>
+                </link>
+                <link>
+                  <name>H5119</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5119</url>
+                </link>
+                <link>
+                  <name>H5119-5120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5119-5120</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>Amendment (A003) offered by Ms. Bonamici. (consideration: CR H5119-5120; text: CR H5119)</text>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>09:48:05</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.144</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/144</url>
+                </link>
+                <link>
+                  <name>H5119</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5119</url>
+                </link>
+                <link>
+                  <name>H5119-5120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5119-5120</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A003) offered by Ms. Bonamici.</text>
+            </item>
+            <item>
+              <actionTime>09:53:59</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.144</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/144</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment agreed to: On agreeing to the Bonamici amendment (A003) Agreed to by voice vote.</text>
+            </item>
+            <item>
+              <actionTime>09:53:59</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.144</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/144</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Amendment agreed to Committee of the Whole</text>
+            </item>
+            <item>
+              <links />
+              <committee />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-06-23</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered</text>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <links />
+        <sponsors>
+          <item>
+            <party>D</party>
+            <middleName />
+            <lastName>Bonamici</lastName>
+            <district>1</district>
+            <bioguideId>B001278</bioguideId>
+            <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+            <firstName>Suzanne</firstName>
+            <identifiers>
+              <bioguideId>B001278</bioguideId>
+              <gpoId>8367</gpoId>
+              <lisID>2092</lisID>
+            </identifiers>
+            <state>OR</state>
+          </item>
+        </sponsors>
+        <type>HAMDT</type>
+        <submittedDate>2017-06-23T04:00:00Z</submittedDate>
+        <number>144</number>
+      </amendment>
+      <amendment>
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <purpose>An amendment numbered 2 printed in House Report 115-187 to ensure that states include in their applications how they will use the funds to help individuals who have been displaced or relocated from a public housing authority to an alternative public housing facility or placed on rental assistance.</purpose>
+        <latestAction>
+          <text>On agreeing to the Bost amendment (A002) Agreed to by voice vote.</text>
+          <actionTime>09:47:55</actionTime>
+          <actionDate>2017-06-23</actionDate>
+        </latestAction>
+        <description />
+        <proposedDate />
+        <amendedAmendment />
+        <congress>115</congress>
+        <version>1.0.0</version>
+        <createDate>2017-06-24T07:16:14Z</createDate>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <links />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <titles />
+        <amendedBill>
+          <congress>115</congress>
+          <type>HR</type>
+          <title>Accelerating Individuals into the Workforce Act</title>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+          <number>2842</number>
+        </amendedBill>
+        <submittedDate>2017-06-23T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <notes />
+        <type>HAMDT</type>
+        <description />
+        <sponsors>
+          <item>
+            <lastName>Bost</lastName>
+            <district>12</district>
+            <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+            <middleName />
+            <bioguideId>B001295</bioguideId>
+            <identifiers>
+              <bioguideId>B001295</bioguideId>
+              <lisID>2243</lisID>
+              <gpoId />
+            </identifiers>
+            <state>IL</state>
+            <firstName>Mike</firstName>
+            <party>R</party>
+          </item>
+        </sponsors>
+        <purpose>An amendment numbered 2 printed in House Report 115-187 to ensure that states include in their applications how they will use the funds to help individuals who have been displaced or relocated from a public housing authority to an alternative public housing facility or placed on rental assistance.</purpose>
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.143</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/143</url>
+                </link>
+              </links>
+              <text>On agreeing to the Bost amendment (A002) Agreed to by voice vote.</text>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>09:47:55</actionTime>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.143</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/143</url>
+                </link>
+                <link>
+                  <name>H5119</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5119</url>
+                </link>
+              </links>
+              <text>Amendment (A002) offered by Mr. Bost. (consideration: CR H5119; text: CR H5119)</text>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>09:44:13</actionTime>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.143</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/143</url>
+                </link>
+                <link>
+                  <name>H5119</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5119</url>
+                </link>
+              </links>
+              <text>House amendment offered/reported by : Amendment (A002) offered by Mr. Bost.</text>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>09:44:13</actionTime>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.143</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/143</url>
+                </link>
+              </links>
+              <text>House amendment agreed to: On agreeing to the Bost amendment (A002) Agreed to by voice vote.</text>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>09:47:55</actionTime>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.143</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/143</url>
+                </link>
+              </links>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <actionDate>2017-06-23</actionDate>
+              <actionTime>09:47:55</actionTime>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <committee />
+              <links />
+              <text>House amendment offered</text>
+              <actionDate>2017-06-23</actionDate>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <count>7</count>
+        </actions>
+        <updateDate>2018-02-22T15:27:09Z</updateDate>
+        <number>143</number>
+        <number>143</number>
+      </amendment>
+      <amendment>
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <purpose>An amendment numbered 1 printed in House Report 115-187 to encourage better coordination with state workforce development efforts and adds to the reporting requirements in Section 5 to describe efforts by the State to ensure nondisplacement and establish grievance procedures.</purpose>
+        <latestAction>
+          <text>On agreeing to the Foxx amendment (A001) Agreed to by voice vote.</text>
+          <actionTime>09:44:04</actionTime>
+          <actionDate>2017-06-23</actionDate>
+        </latestAction>
+        <description />
+        <number>142</number>
+        <createDate>2017-06-24T07:16:14Z</createDate>
+        <amendedAmendment />
+        <type>HAMDT</type>
+        <amendedBill>
+          <number>2842</number>
+          <title>Accelerating Individuals into the Workforce Act</title>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <congress>115</congress>
+          <type>HR</type>
+        </amendedBill>
+        <submittedDate>2017-06-23T04:00:00Z</submittedDate>
+        <titles />
+        <updateDate>2018-02-22T15:27:09Z</updateDate>
+        <sponsors>
+          <item>
+            <party>R</party>
+            <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+            <identifiers>
+              <bioguideId>F000450</bioguideId>
+              <lisID>1791</lisID>
+              <gpoId>8028</gpoId>
+            </identifiers>
+            <lastName>Foxx</lastName>
+            <bioguideId>F000450</bioguideId>
+            <state>NC</state>
+            <firstName>Virginia</firstName>
+            <middleName />
+            <district>5</district>
+          </item>
+        </sponsors>
+        <proposedDate />
+        <actions>
+          <actionTypeCounts>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/142</url>
+                  <name>H.Amdt.142</name>
+                </link>
+              </links>
+              <actionTime>09:44:04</actionTime>
+              <text>On agreeing to the Foxx amendment (A001) Agreed to by voice vote.</text>
+              <committee />
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/142</url>
+                  <name>H.Amdt.142</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5118</url>
+                  <name>H5118</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5118-5119</url>
+                  <name>H5118-5119</name>
+                </link>
+              </links>
+              <actionTime>09:40:40</actionTime>
+              <text>Amendment (A001) offered by Ms. Foxx. (consideration: CR H5118-5119; text: CR H5118)</text>
+              <committee />
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/142</url>
+                  <name>H.Amdt.142</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5118</url>
+                  <name>H5118</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5118-5119</url>
+                  <name>H5118-5119</name>
+                </link>
+              </links>
+              <actionTime>09:40:40</actionTime>
+              <text>House amendment offered/reported by : Amendment (A001) offered by Ms. Foxx.</text>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/142</url>
+                  <name>H.Amdt.142</name>
+                </link>
+              </links>
+              <actionTime>09:44:04</actionTime>
+              <text>House amendment agreed to: On agreeing to the Foxx amendment (A001) Agreed to by voice vote.</text>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/142</url>
+                  <name>H.Amdt.142</name>
+                </link>
+              </links>
+              <actionTime>09:44:04</actionTime>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-06-23</actionDate>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <links />
+              <text>House amendment offered</text>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <count>7</count>
+        </actions>
+        <chamber>House of Representatives</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <purpose>An amendment numbered 1 printed in House Report 115-187 to encourage better coordination with state workforce development efforts and adds to the reporting requirements in Section 5 to describe efforts by the State to ensure nondisplacement and establish grievance procedures.</purpose>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <version>1.0.0</version>
+        <notes />
+        <description />
+        <links />
+        <number>142</number>
+      </amendment>
+    </amendments>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00126</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+        </identifiers>
+        <lastName>DAVIS</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <bioguideId>D000096</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <firstName>DANNY</firstName>
+        <middleName>K.</middleName>
+        <district>7</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <lastName>SESSIONS</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <bioguideId>S000250</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <firstName>PETE</firstName>
+        <middleName />
+        <district>32</district>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Accelerating Individuals into the Workforce Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Accelerating Individuals into the Workforce Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Accelerating Individuals into the Workforce Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Accelerating Individuals into the Workforce Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Accelerating Individuals into the Workforce Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>Providing for consideration of the bill (H.R. 2842) to provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients, and providing for consideration of motions to suspend the rules.</latestTitle>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionTime>13:43:52</actionTime>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionDate>2017-06-22</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <number>396</number>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-06-26</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CURBELO of Florida:H.R. 2842.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution, to ``provide for the common Defence and generalWelfare of the United States.''[Page H4819]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>26</district>
+        <state>FL</state>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <bioguideId>C001107</bioguideId>
+        <firstName>Carlos</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+          <lisID>2235</lisID>
+        </identifiers>
+        <lastName>Curbelo</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2842, Accelerating Individuals into the Workforce Act</title>
+        <pubDate>2017-07-14T15:15:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52829</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-06-09T03:11:38Z</createDate>
+    <congress>115</congress>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>322</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-06-23T15:02:26Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll322.xml</url>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <laws />
+    <title>Accelerating Individuals into the Workforce Act</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-185</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>2842</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

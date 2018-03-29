@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>C000141</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <lastName>CARDIN</lastName>
+        <state>MD</state>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000555</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kirsten</firstName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-19T16:35:47Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Frederick Douglass Bicentennial Commission Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to establish the Frederick Douglass Bicentennial Commission.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Frederick Douglass Bicentennial Commission Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Frederick Douglass Bicentennial Commission Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <amendments />
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4083</url>
+            <name>S4083</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S4083)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-07-19</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-07-19</introducedDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Became Public Law No: 115-77.</text>
+          <actionDate>2017-11-02</actionDate>
+        </latestAction>
+        <latestTitle>Frederick Douglass Bicentennial Commission Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>2989</number>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <calendarNumbers />
+    <billNumber>1582</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Frederick Douglass Bicentennial Commission Act </b></p> <p>This bill establishes the Frederick Douglass Bicentennial Commission to:&nbsp;(1) plan, develop, and carry out programs and activities to honor Frederick Douglass for the bicentennial anniversary of his birth; and (2) recommend the federal government entities appropriate to carry out such programs and activities.</p> <p>Not later than August 1, 2018, the commission must recommend appropriate activities to Congress. A final report detailing commission activities and expenditures must be submitted not later than June 1, 2019.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-19</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-10-25T20:00:19Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-19T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2018-02-06T16:45:38Z</updateDate>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S4083)</text>
+      <actionDate>2017-07-19</actionDate>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Frederick Douglass Bicentennial Commission Act</title>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <lastName>Van Hollen</lastName>
+        <middleName />
+        <firstName>Chris</firstName>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <createDate>2017-07-20T00:41:33Z</createDate>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

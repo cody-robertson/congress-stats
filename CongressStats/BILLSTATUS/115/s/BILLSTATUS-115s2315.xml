@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <createDate>2018-01-18T00:26:03Z</createDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <billNumber>2315</billNumber>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <party>R</party>
+        <bioguideId>I000055</bioguideId>
+        <firstName>Johnny</firstName>
+        <byRequestType />
+        <lastName>Isakson</lastName>
+        <identifiers>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+        </identifiers>
+        <state>GA</state>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <cboCostEstimates />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2018-01-17T16:55:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-17</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-01-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Over-the-Counter Monograph User Fee Act of 2018</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Over-the-Counter Drug Safety, Innovation, and Reform Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Federal Food, Drug, and Cosmetic Act to clarify the regulatory framework with respect to certain nonprescription drugs that are marketed without an approved new drug application, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Over-the-Counter Drug Safety, Innovation, and Reform Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced for portions of this bill</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Over-the-Counter Monograph User Fee Act of 2018</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Over-the-Counter Drug Safety, Innovation, and Reform Act</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <title>Over-the-Counter Drug Safety, Innovation, and Reform Act</title>
+    <congress>115</congress>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2018-01-17</actionDate>
+    </latestAction>
+    <introducedDate>2018-01-17</introducedDate>
+    <calendarNumbers />
+    <updateDate>2018-01-30T15:37:32Z</updateDate>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <lastName>Casey</lastName>
+        <firstName>Bob</firstName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

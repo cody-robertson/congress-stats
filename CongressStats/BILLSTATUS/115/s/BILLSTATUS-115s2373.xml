@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2018-02-06T00:26:12Z</createDate>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <bioguideId>H001061</bioguideId>
+        <byRequestType />
+        <middleName />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <state>ND</state>
+        <lastName>Hoeven</lastName>
+        <identifiers>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2018-02-05</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2018-02-05T23:12:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Heidi</firstName>
+        <bioguideId>H001069</bioguideId>
+        <middleName />
+        <state>ND</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <lastName>Heitkamp</lastName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <billNumber>2373</billNumber>
+    <titles>
+      <item>
+        <title>A bill to amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>A bill to amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2018-02-17T09:09:08Z</updateDate>
+    <relatedBills />
+    <committeeReports />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>A bill to amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.</title>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <introducedDate>2018-02-05</introducedDate>
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

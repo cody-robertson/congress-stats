@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>258</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-02-01</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:38Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Germany</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+          <item>
+            <name>Switzerland</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T21:29:15Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-01</introducedDate>
+    <title>Holocaust Insurance Accountability Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-02-02T05:28:48Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <bioguideId>N000032</bioguideId>
+        <middleName>WILLIAM</middleName>
+        <byRequestType />
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <firstName>CLARENCE</firstName>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2017-02-01</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-01-31</actionDate>
+          <text>Referred to House Judiciary</text>
+        </latestAction>
+        <type>HR</type>
+        <number>762</number>
+        <latestTitle>Holocaust Insurance Accountability Act of 2017</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Holocaust Insurance Accountability Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Holocaust Insurance Accountability Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to provide for the restoration of legal rights for claimants under holocaust-era insurance policies.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Holocaust Insurance Accountability Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Holocaust Insurance Accountability Act of 2017</strong></p> <p>This bill allows a beneficiary of a Holocaust-era life, dowry, education, annuity, property, or other insurance policy to bring a civil action in a U.S. district court against the insurer for the covered policy to recover proceeds due or, otherwise, to enforce any rights under the policy. </p> <p> The bill covers any policy that was: (1) in effect at any time from January 31, 1933, to December 31, 1945; and (2) issued to a policy holder domiciled in any area that was occupied or controlled by Nazi Germany, an ally or friendly government, or the territorial jurisdiction of Switzerland.</p> <p> The bill requires the award: (1) to a prevailing beneficiary of the amount of the proceeds due under the policy, plus prejudgment interest at 6% per year, compounded annually, calculated from the date the amount was originally due; and (2) of treble damages against any insurer that acted in bad faith. </p> <p> A civil action under this bill must be filed within 10 years after enactment of this bill.</p> <p> A prior judgment or release entered for any claim arising under a covered policy in any civil action in a federal or state court shall not impair a claim brought under this bill.</p> <p>Any executive agreement between the United States and a foreign government or any executive foreign policy of the U.S. government shall not supercede or preempt any state law or compromise, settle, extinguish, waive, preclude, bar, or foreclose any claim brought under this bill.</p> <p> A claim brought under state law within 10 years after enactment of this billshall not be deemed untimely on the basis of any state or federal statute of limitations or on the basis of any other legal or equitable rule or doctrine governing timeliness. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-01</actionDate>
+          <lastSummaryUpdateDate>2017-02-17T20:57:29Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

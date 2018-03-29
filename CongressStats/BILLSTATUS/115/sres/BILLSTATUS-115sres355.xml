@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>WICKER</lastName>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>HATCH</lastName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ORRIN</firstName>
+        <middleName>GRANT</middleName>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-12-07</introducedDate>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Committee on Rules and Administration. Hearings held.</text>
+      <actionDate>2017-12-19</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <billType>SRES</billType>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <relatedBills />
+    <updateDate>2018-02-27T05:43:56Z</updateDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>James</firstName>
+        <middleName />
+        <lastName>Lankford</lastName>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <bioguideId>L000575</bioguideId>
+        <state>OK</state>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billNumber>355</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution improving procedures for the consideration of nominations in the Senate.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution improving procedures for the consideration of nominations in the Senate.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <createDate>2017-12-08T00:26:07Z</createDate>
+    <title>A resolution improving procedures for the consideration of nominations in the Senate.</title>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-12-19T19:30:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-07T23:33:45Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-19</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Rules and Administration. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-07</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S7934</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7934</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S7934)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2017-12-07</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

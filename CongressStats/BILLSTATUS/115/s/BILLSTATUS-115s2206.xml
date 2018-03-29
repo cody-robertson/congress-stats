@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <notes />
+    <relatedBills />
+    <sponsors>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <firstName>Steve</firstName>
+        <state>MT</state>
+        <party>R</party>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <lastName>Daines</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Protect Public Use of Public Lands Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to release certain wilderness study areas in the State of Montana.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Protect Public Use of Public Lands Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Protect Public Use of Public Lands Act</title>
+      </item>
+    </titles>
+    <introducedDate>2017-12-07</introducedDate>
+    <title>Protect Public Use of Public Lands Act</title>
+    <committeeReports />
+    <createDate>2017-12-08T00:26:08Z</createDate>
+    <updateDate>2018-02-16T05:29:02Z</updateDate>
+    <cosponsors />
+    <calendarNumbers />
+    <billNumber>2206</billNumber>
+    <laws />
+    <latestAction>
+      <actionDate>2018-02-07</actionDate>
+      <links />
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2018-02-07T15:00:58Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <systemCode>sseg03</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <date>2017-12-07T17:38:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee>
+          <systemCode>sseg03</systemCode>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-07</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7930</url>
+            <name>S7930</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7931</url>
+            <name>S7931</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S7930; text of measure as introduced: CR S7931)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-12-07</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

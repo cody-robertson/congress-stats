@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>408</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionDate>2017-01-10</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-01-10</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-01-10</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:45Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <middleName>L. "Buddy"</middleName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>C001103</bioguideId>
+        <lastName>Carter</lastName>
+        <party>R</party>
+        <district>1</district>
+        <firstName>Earl</firstName>
+        <state>GA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2236</lisID>
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>G000552</bioguideId>
+        <lastName>Gohmert</lastName>
+        <party>R</party>
+        <district>1</district>
+        <firstName>Louie</firstName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1801</lisID>
+          <bioguideId>G000552</bioguideId>
+          <gpoId>8157</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>L000564</bioguideId>
+        <lastName>Lamborn</lastName>
+        <party>R</party>
+        <district>5</district>
+        <firstName>Doug</firstName>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1834</lisID>
+          <bioguideId>L000564</bioguideId>
+          <gpoId>7863</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>W000821</bioguideId>
+        <lastName>Westerman</lastName>
+        <party>R</party>
+        <district>4</district>
+        <firstName>Bruce</firstName>
+        <state>AR</state>
+        <identifiers>
+          <lisID>2224</lisID>
+          <gpoId />
+          <bioguideId>W000821</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>W000806</bioguideId>
+        <lastName>Webster</lastName>
+        <party>R</party>
+        <district>11</district>
+        <firstName>Daniel</firstName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2002</lisID>
+          <bioguideId>W000806</bioguideId>
+          <gpoId>7880</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>M001177</bioguideId>
+        <lastName>McClintock</lastName>
+        <party>R</party>
+        <district>4</district>
+        <firstName>Tom</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1908</lisID>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>S001192</bioguideId>
+        <lastName>Stewart</lastName>
+        <party>R</party>
+        <district>2</district>
+        <firstName>Chris</firstName>
+        <state>UT</state>
+        <identifiers>
+          <lisID>2168</lisID>
+          <gpoId />
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <bioguideId>W000804</bioguideId>
+        <lastName>Wittman</lastName>
+        <party>R</party>
+        <district>1</district>
+        <firstName>Robert</firstName>
+        <state>VA</state>
+        <identifiers>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-10T15:00:36Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-10</introducedDate>
+    <title>American Future Healthcare Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2017-01-10</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-11T05:09:43Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>King</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <bioguideId>K000362</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <firstName>Steve</firstName>
+        <district>4</district>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of Iowa:H.R. 408.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H300]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>American Future Healthcare Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>American Future Healthcare Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to expand health savings accounts, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>American Future Healthcare Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>American Future Healthcare Act of 2017</b></p> <p>This bill amends the Internal Revenue Code, with respect to health savings accounts (HSAs), to: </p> <ul> <li> repeal the requirement that an individual making a tax deductible contribution to an HSA be covered by a high deductible health care plan; </li> <li> increase the maximum HSA contribution level; </li> <li> allow Medicare eligible individuals to contribute to an HSA; </li> <li> allow HSAs to be used to purchase health insurance; </li> <li> provide a cost-of-living adjustment for the limits on additional contributions for individuals 55 or older (catch-up contributions); </li> <li> require the cost-of-living adjustments to be indexed to the CPI medical care component (the medical care component for the Consumer Price Index for All Urban Consumers published by the Department of Labor); and </li> <li> allow a rollover of HSA amounts to a Medicare Advantage Medical Savings Account (MSA). </li> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-10</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-27T16:11:08Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-10T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

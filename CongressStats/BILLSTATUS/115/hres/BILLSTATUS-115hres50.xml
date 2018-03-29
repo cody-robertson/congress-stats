@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Recognizing the historical importance of Associate Justice Clarence Thomas.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Recognizing the historical importance of Associate Justice Clarence Thomas.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-01-12</introducedDate>
+    <latestAction>
+      <actionDate>2017-01-31</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <title>Recognizing the historical importance of Associate Justice Clarence Thomas.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Judges</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Supreme Court</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>13</number>
+        <latestTitle>A resolution recognizing the historical importance of Associate Justice Clarence Thomas.</latestTitle>
+        <type>SRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Committee on the Judiciary.</text>
+          <actionDate>2017-01-12</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2018-02-06T16:39:32Z</updateDate>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-31T14:32:23Z</date>
+                </item>
+              </activities>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-12T15:04:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-12T15:04:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>50</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <createDate>2017-01-13T04:55:29Z</createDate>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <committee>
+          <name>Constitution and Civil Justice Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to House Administration</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Referred to House Judiciary</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>S000250</bioguideId>
+        <district>32</district>
+        <firstName>PETE</firstName>
+        <middleName />
+        <state>TX</state>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <lastName>SESSIONS</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that: (1) Associate Justice Clarence Thomas is a historically significant African-American who has made an important contribution to U.S. jurisprudence, and (2) his life and work should have a prominent place in the National Museum of African American History and Culture.</p> <ul> </ul>]]></text>
+          <actionDate>2017-01-12</actionDate>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-02T20:11:19Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <lisID>2236</lisID>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <lastName>Carter</lastName>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <middleName>L. "Buddy"</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001103</bioguideId>
+        <firstName>Earl</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

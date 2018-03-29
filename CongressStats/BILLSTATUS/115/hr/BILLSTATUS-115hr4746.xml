@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionDate>2018-01-09</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-09</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-09</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 5 (Tuesday, January 9, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BEATTY:H.R. 4746.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution which grants Congress the power to regulateCommerce with foreign Nations, and among the several States,and with the Indian Tribes.[Page H82]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2018-01-09</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2018-01-09</introducedDate>
+    <relatedBills />
+    <amendments />
+    <cosponsors />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to specify when bank holding companies may be subject to certain enhanced supervision.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to specify when bank holding companies may be subject to certain enhanced supervision.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to specify when bank holding companies may be subject to certain enhanced supervision.</title>
+    <congress>115</congress>
+    <createDate>2018-01-10T03:11:04Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-09T15:00:46Z</date>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <laws />
+    <recordedVotes />
+    <updateDate>2018-01-16T22:15:07Z</updateDate>
+    <billNumber>4746</billNumber>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>3</district>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <middleName />
+        <lastName>Beatty</lastName>
+        <state>OH</state>
+        <bioguideId>B001281</bioguideId>
+        <firstName>Joyce</firstName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

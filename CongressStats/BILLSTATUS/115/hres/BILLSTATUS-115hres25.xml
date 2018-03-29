@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>25</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionDate>2017-01-05</actionDate>
+      <actionTime>20:12:45</actionTime>
+    </latestAction>
+    <createDate>2017-01-06T04:57:25Z</createDate>
+    <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-05</actionDate>
+          <updateDate>2017-01-05T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Elects a specified Member to the House Committee on Ethics.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-02-04T13:55:13Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDate>2017-01-05</actionDate>
+          <updateDate>2017-01-05T13:37:27Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Elects a specified Member to the House Committee on Ethics.</p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2017-02-04T13:55:27Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-05</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>20:12:45</actionTime>
+        <links />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-05</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H174)</text>
+        <actionTime>20:12:40</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H174</url>
+            <name>H174</name>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-05</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H174)</text>
+        <actionTime>20:12:40</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H174</url>
+            <name>H174</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-05</actionDate>
+        <text>Considered as privileged matter. (consideration: CR H174)</text>
+        <actionTime>20:11:49</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H174</url>
+            <name>H174</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-05</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-05</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2018-02-06T16:39:30Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>C001038</bioguideId>
+        <district>14</district>
+        <middleName />
+        <byRequestType />
+        <firstName>JOSEPH</firstName>
+        <lastName>CROWLEY</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001038</bioguideId>
+          <gpoId>8068</gpoId>
+          <lisID>1604</lisID>
+        </identifiers>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors />
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-01-05</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Ethics</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

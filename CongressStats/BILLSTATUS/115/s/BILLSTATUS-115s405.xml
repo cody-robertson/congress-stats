@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>405</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:47Z</updateDate>
+    <cosponsors>
+      <item>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <bioguideId>K000383</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>ME</state>
+        <firstName>Angus</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <bioguideId>P000449</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>OH</state>
+        <firstName>ROB</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+        <bioguideId>S000770</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <firstName>DEBORAH</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <lastName>Isakson</lastName>
+        <bioguideId>I000055</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>GA</state>
+        <firstName>Johnny</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CT</state>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <lastName>Hoeven</lastName>
+        <bioguideId>H001061</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>ND</state>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <lastName>CARPER</lastName>
+        <bioguideId>C000174</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <state>DE</state>
+        <firstName>THOMAS</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <bioguideId>G000562</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CO</state>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <lastName>Kaine</lastName>
+        <bioguideId>K000384</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>VA</state>
+        <firstName>Timothy</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <firstName>DIANNE</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <lastName>MURRAY</lastName>
+        <bioguideId>M001111</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>WA</state>
+        <firstName>PATTY</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+        <bioguideId>C001035</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MARGARET</middleName>
+        <state>ME</state>
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <state>RI</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <lastName>Ernst</lastName>
+        <bioguideId>E000295</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>IA</state>
+        <firstName>Joni</firstName>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>RI</state>
+        <firstName>Sheldon</firstName>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <bioguideId>W000817</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-16T18:40:53Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-16</introducedDate>
+    <title>Stop Taxing Death and Disability Act</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-02-17T09:06:57Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <bioguideId>C001088</bioguideId>
+        <middleName>A.</middleName>
+        <byRequestType />
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2017-02-16</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestTitle>Stop Taxing Death and Disability Act</latestTitle>
+        <number>1659</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-21</actionDate>
+          <text>Referred to House Education and the Workforce</text>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</latestTitle>
+        <number>1</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-12-22</actionDate>
+          <text>Became Public Law No: 115-97.</text>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Stop Taxing Death and Disability Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Stop Taxing Death and Disability Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 and the Higher Education Act of 1965 to provide an exclusion from income for student loan forgiveness for students who have died or become disabled.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Stop Taxing Death and Disability Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+          <actionDate>2017-02-16</actionDate>
+          <text><![CDATA[<p><b>Stop Taxing Death and Disability Act </b></p> <p>This bill amends the Internal Revenue Code to exclude from the gross income of an individual the discharge of student loans or private education loans due to the death or disability of the student.</p> <p>The bill also amends the Higher Education Act of 1965 to require the Department of Education (ED) to discharge the liability on loans that parents received on behalf of a student who: (1) has become permanently and totally disabled, or (2) is unable to engage in any substantial gainful activity due to a physical or mental impairment that can be expected to result in death or has lasted or is expected to last continuously for at least 60 months. (Under current law, ED is required to discharge the loans to parents if the student dies.) </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-03-01T18:30:53Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

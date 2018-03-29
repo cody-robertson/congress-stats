@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <title>To establish USAccounts, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2018-02-27</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2018-02-27</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2018-02-27</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <updateDate>2018-02-28T16:22:10Z</updateDate>
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>5118</billNumber>
+    <constitutionalAuthorityStatementText />
+    <policyArea />
+    <laws />
+    <congress>115</congress>
+    <relatedBills />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <lastName>CROWLEY</lastName>
+        <byRequestType />
+        <bioguideId>C001038</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>NY</state>
+        <firstName>JOSEPH</firstName>
+        <identifiers>
+          <lisID>1604</lisID>
+          <bioguideId>C001038</bioguideId>
+          <gpoId>8068</gpoId>
+        </identifiers>
+        <district>14</district>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>To establish USAccounts, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>To establish USAccounts, and for other purposes.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2018-02-27</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2018-02-28T08:11:03Z</createDate>
+    <cosponsors>
+      <item>
+        <firstName>Keith</firstName>
+        <lastName>Ellison</lastName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <state>MN</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <bioguideId>E000288</bioguideId>
+        <district>5</district>
+        <middleName />
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-27T15:01:50Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2018-02-27</introducedDate>
+    <billType>HR</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

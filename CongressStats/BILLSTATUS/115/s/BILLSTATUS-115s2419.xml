@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <middleName />
+        <state>CO</state>
+        <bioguideId>G000562</bioguideId>
+        <firstName>Cory</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <introducedDate>2018-02-13</introducedDate>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+      <actionDate>2018-02-13</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <relatedBills>
+      <item>
+        <number>2789</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Support Startup Businesses Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-06-06</actionDate>
+          <text>Referred to House Science, Space, and Technology</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2018-02-28T19:19:17Z</updateDate>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billNumber>2419</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Support Startup Businesses Act of 2018</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend the Small Business Act to improve the technical and business assistance services under the SBIR and STTR programs.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Support Startup Businesses Act of 2018</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Support Startup Businesses Act of 2018</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <createDate>2018-02-14T00:26:01Z</createDate>
+    <title>Support Startup Businesses Act of 2018</title>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sssb00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-13T17:06:28Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-13</actionDate>
+        <committee>
+          <systemCode>sssb00</systemCode>
+          <name>Small Business and Entrepreneurship Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-02-13</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

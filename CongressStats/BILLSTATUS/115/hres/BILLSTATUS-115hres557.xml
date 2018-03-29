@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>557</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:59Z</updateDate>
+    <cosponsors>
+      <item>
+        <district>48</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>R000409</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000409</bioguideId>
+          <gpoId>7851</gpoId>
+          <lisID>979</lisID>
+        </identifiers>
+        <lastName>ROHRABACHER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DANA</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <district>25</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>S000480</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1069</lisID>
+          <bioguideId>S000480</bioguideId>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <lastName>SLAUGHTER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>LOUISE</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>K000009</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8099</gpoId>
+          <lisID>616</lisID>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <lastName>KAPTUR</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MARCY</firstName>
+        <state>OH</state>
+      </item>
+      <item>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>C000714</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <lastName>CONYERS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <state>MI</state>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>G000578</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <lastName>Gaetz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Matt</firstName>
+        <state>FL</state>
+      </item>
+      <item>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>C001078</bioguideId>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <lastName>Connolly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gerald</firstName>
+        <state>VA</state>
+      </item>
+      <item>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <bioguideId>B001296</bioguideId>
+        <middleName>F.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <lastName>Boyle</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Brendan</firstName>
+        <state>PA</state>
+      </item>
+      <item>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <bioguideId>E000215</bioguideId>
+        <middleName>G.</middleName>
+        <identifiers>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <lastName>ESHOO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ANNA</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <bioguideId>P000096</bioguideId>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <lastName>PASCRELL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>WILLIAM</firstName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2017-10-24</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Freedom of information</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>National Archives and Records Administration</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-04T14:00:33Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-10-04</introducedDate>
+    <title>Commending the National Archives and Records Administration and its staff for working to comply with the President John F. Kennedy Assassination Records Collection Act of 1992 and release all records related to the assassination of President John F. Kennedy by October 26, 2017.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+      <actionDate>2017-10-04</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-10-05T03:11:18Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>JONES</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <firstName>WALTER</firstName>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>A resolution commending the National Archives and Records Administration and its staff for working to comply with the President John F. Kennedy Assassination Records Collection Act of 1992 and release all records related to the assassination of President John F. Kennedy by October 26, 2017.</latestTitle>
+        <number>282</number>
+        <type>SRES</type>
+        <latestAction>
+          <text>Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S6323)</text>
+          <actionDate>2017-10-04</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Commending the National Archives and Records Administration and its staff for working to comply with the President John F. Kennedy Assassination Records Collection Act of 1992 and release all records related to the assassination of President John F. Kennedy by October 26, 2017.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Commending the National Archives and Records Administration and its staff for working to comply with the President John F. Kennedy Assassination Records Collection Act of 1992 and release all records related to the assassination of President John F. Kennedy by October 26, 2017.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-10-04T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-01-04T20:27:15Z</lastSummaryUpdateDate>
+          <actionDate>2017-10-04</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Commends the National Archives and Records Administration and its staff for working to comply with the President John F. Kennedy Assassination Records Collection Act of 1992 and release all records related to President Kennedy's assassination by October 26, 2017.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <lastName>Alexander</lastName>
+        <bioguideId>A000360</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>TN</state>
+        <firstName>Lamar</firstName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+          <lisID>1695</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <version>1.0.0</version>
+    <introducedDate>2017-04-27</introducedDate>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Tennessee Wilderness Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Tennessee Wilderness Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to designate as wilderness certain public land in the Cherokee National Forest in the State of Tennessee, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Tennessee Wilderness Act</title>
+      </item>
+    </titles>
+    <amendments />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>2218</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+          <actionDate>2017-05-19</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Tennessee Wilderness Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>1460</number>
+        <type>S</type>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+          <actionDate>2017-09-19</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Energy and Natural Resources Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>115</congress>
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <title>Tennessee Wilderness Act</title>
+    <billNumber>973</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+        <lastName>Corker</lastName>
+        <bioguideId>C001071</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TN</state>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>1825</lisID>
+          <bioguideId>C001071</bioguideId>
+          <gpoId>8294</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-27T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Tennessee Wilderness Act</b></p> <p> This bill designates specified federal lands in Cherokee National Forest in Tennessee as wilderness and as additions to the National Wilderness Preservation System. </p>]]></text>
+          <lastSummaryUpdateDate>2017-05-05T15:42:08Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-27</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2017-04-27</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <updateDate>2018-02-06T16:45:18Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-27T18:24:52Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-04-28T00:41:45Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Tennessee</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

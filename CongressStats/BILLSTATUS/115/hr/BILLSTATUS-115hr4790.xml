@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-17T19:30:09Z</updateDate>
+    <congress>115</congress>
+    <createDate>2018-01-13T03:11:03Z</createDate>
+    <notes />
+    <laws />
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2018-01-12T15:00:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>4790</billNumber>
+    <title>To amend the Volcker rule to give the Board of Governors of the Federal Reserve System sole rulemaking authority, to exclude community banks from the requirements of the Volcker rule, and for other purposes.</title>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2018-01-12</actionDate>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2018-01-12</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2018-01-12</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Volcker rule to give the Board of Governors of the Federal Reserve System sole rulemaking authority, to exclude community banks from the requirements of the Volcker rule, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Volcker rule to give the Board of Governors of the Federal Reserve System sole rulemaking authority, to exclude community banks from the requirements of the Volcker rule, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2018-01-12</actionDate>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <cosponsors />
+    <introducedDate>2018-01-12</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <middleName>French</middleName>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <lastName>Hill</lastName>
+        <party>R</party>
+        <byRequestType />
+        <district>2</district>
+        <firstName>J.</firstName>
+        <state>AR</state>
+        <bioguideId>H001072</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+          <lisID>2223</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

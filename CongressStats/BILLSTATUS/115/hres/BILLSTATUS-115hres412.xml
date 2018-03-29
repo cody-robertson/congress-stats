@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>412</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:58:06</actionTime>
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-06-27</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H5202)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:58:03</actionTime>
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-06-27</actionDate>
+        <links>
+          <link>
+            <name>H5202</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5202</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:58:03</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2017-06-27</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Considered as privileged matter. (consideration: CR H5202)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:58:01</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-06-27</actionDate>
+        <links>
+          <link>
+            <name>H5202</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5202</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-27</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-27</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:51Z</updateDate>
+    <cosponsors />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Armed Services</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees />
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-06-27</introducedDate>
+    <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+    <amendments />
+    <latestAction>
+      <actionTime>13:58:06</actionTime>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionDate>2017-06-27</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-06-28T03:11:33Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>SANCHEZ</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>S001156</bioguideId>
+        <middleName>T.</middleName>
+        <byRequestType />
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <firstName>LINDA</firstName>
+        <district>38</district>
+        <identifiers>
+          <gpoId>7844</gpoId>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-06-27T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-14T19:14:39Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-27</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Elects a specified Member to the House Committee on Armed Services.</p>]]></text>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <updateDate>2017-06-27T19:54:35Z</updateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-09-14T19:14:50Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-27</actionDate>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Elects a specified Member to the House Committee on Armed Services.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

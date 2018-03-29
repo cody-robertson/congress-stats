@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Patient Protection and Affordable Care Act by clarifying that State Exchanges are prohibited from imposing fees or assessments on issuers of excepted benefits and standalone dental plans not sold through an Exchange.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Patient Protection and Affordable Care Act by clarifying that State Exchanges are prohibited from imposing fees or assessments on issuers of excepted benefits and standalone dental plans not sold through an Exchange.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <actionDate>2017-12-14</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>A bill to amend the Patient Protection and Affordable Care Act by clarifying that State Exchanges are prohibited from imposing fees or assessments on issuers of excepted benefits and standalone dental plans not sold through an Exchange.</title>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <number>4225</number>
+        <latestTitle>To amend the Patient Protection and Affordable Care Act by clarifying that State Exchanges are prohibited from imposing fees or assessments on issuers of excepted benefits and standalone dental plans not sold through an Exchange.</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-11-03</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-12-15T09:05:10Z</createDate>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-01-03T05:19:39Z</updateDate>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <firstName>Angus</firstName>
+        <party>I</party>
+        <bioguideId>K000383</bioguideId>
+        <lastName>King</lastName>
+        <byRequestType />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <state>ME</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+          <lisID>2185</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <introducedDate>2017-12-14</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-14T22:21:21Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <cosponsors />
+    <billNumber>2241</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-14</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-12-14</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

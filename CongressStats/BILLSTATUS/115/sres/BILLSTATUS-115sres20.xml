@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S451-452)</text>
+      <links />
+      <actionDate>2017-01-24</actionDate>
+    </latestAction>
+    <createDate>2017-01-25T04:45:56Z</createDate>
+    <title>An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Commerce, Science, and Transportation for the 115th Congress.</p>]]></text>
+          <actionDate>2017-01-24</actionDate>
+          <updateDate>2017-01-24T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-01T20:44:52Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Commerce, Science, and Transportation for the 115th Congress.</p>]]></text>
+          <actionDate>2017-01-24</actionDate>
+          <updateDate>2017-01-24T13:50:55Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-16T18:48:50Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <versionCode>80</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S451-452</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S451-452</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S451-452)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Original measure reported to Senate by Senator Thune. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-24</actionDate>
+        <text>Committee on Commerce, Science, and Transportation. Original measure reported to Senate by Senator Thune. Without written report.</text>
+        <type>Committee</type>
+        <links />
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-24</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <updateDate>2018-02-06T16:43:56Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <firstName>JOHN</firstName>
+        <lastName>THUNE</lastName>
+        <state>SD</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2017-01-24T18:53:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-01-24T18:52:00Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <billNumber>20</billNumber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-01-24</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Commerce, Science, and Transportation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

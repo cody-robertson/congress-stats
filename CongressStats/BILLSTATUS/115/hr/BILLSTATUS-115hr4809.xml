@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2018-01-16</actionDate>
+    </latestAction>
+    <updateDate>2018-02-19T03:12:41Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 9 (Tuesday, January 16, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WALKER:H.R. 4809.Congress has the power to enact this legislation pursuantto the following:in Article I, Section 1, Clause 1; Article 1, Section 8,Clause 18; and Article 1, Section 9, Clause 7.[Page H404]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <amendments />
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-01-16T17:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-16</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-01-16</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-01-16</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-02-14</actionDate>
+          <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>S</type>
+        <number>2296</number>
+        <latestTitle>GOOD Act</latestTitle>
+      </item>
+    </relatedBills>
+    <introducedDate>2018-01-16</introducedDate>
+    <notes />
+    <createDate>2018-01-17T03:11:05Z</createDate>
+    <recordedVotes />
+    <committeeReports />
+    <billNumber>4809</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <laws />
+    <cosponsors>
+      <item>
+        <lastName>Gaetz</lastName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <bioguideId>G000578</bioguideId>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Rouzer</lastName>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <firstName>David</firstName>
+        <bioguideId>R000603</bioguideId>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2256</lisID>
+          <bioguideId>R000603</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <title>GOOD Act</title>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>NC</state>
+        <bioguideId>W000819</bioguideId>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <party>R</party>
+        <lastName>Walker</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2255</lisID>
+          <bioguideId>W000819</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <byRequestType />
+        <firstName>Mark</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>GOOD Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Guidance Out Of Darkness Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To increase access to agency guidance documents.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>GOOD Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>GOOD Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Guidance Out Of Darkness Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

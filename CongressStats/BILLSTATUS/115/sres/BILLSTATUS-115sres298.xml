@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <laws />
+    <billNumber>298</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <firstName>SHELLEY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <state>WV</state>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <lastName>CAPITO</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <createDate>2017-10-20T01:41:17Z</createDate>
+    <introducedDate>2017-10-19</introducedDate>
+    <latestAction>
+      <actionDate>2017-10-19</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6700; text as passed Senate: CR S6656)</text>
+      <links />
+    </latestAction>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-19</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6656</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6656</url>
+          </link>
+          <link>
+            <name>S6700</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6700</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6700; text as passed Senate: CR S6656)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S6700; text as passed Senate: CR S6656)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>S6656</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6656</url>
+          </link>
+          <link>
+            <name>S6700</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6700</url>
+          </link>
+        </links>
+        <actionDate>2017-10-19</actionDate>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-10-19</actionDate>
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <billType>SRES</billType>
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-02-12T20:39:42Z</lastSummaryUpdateDate>
+          <actionDate>2017-10-19</actionDate>
+          <updateDate>2017-10-19T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Recognizes the importance of education, prevention, and treatment&nbsp;of substance use disorder.</p> <p>Honors those in recovery from substance use disorder and the allies who support them.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <lastSummaryUpdateDate>2018-02-12T21:11:59Z</lastSummaryUpdateDate>
+          <actionDate>2017-10-19</actionDate>
+          <updateDate>2017-10-19T12:21:26Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Recognizes the importance of education, prevention, and treatment&nbsp;of substance use disorder.</p> <p>Honors those in recovery from substance use disorder and the allies who support them. </p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution supporting the designation of September 2017 as "National Alcohol and Drug Addiction Recovery Month".</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution supporting the designation of September 2017 as "National Alcohol and Drug Addiction Recovery Month".</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <title>A resolution supporting the designation of September 2017 as "National Alcohol and Drug Addiction Recovery Month".</title>
+    <updateDate>2018-02-20T13:03:31Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>King</lastName>
+        <firstName>Angus</firstName>
+        <byRequestType />
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <middleName />
+        <party>I</party>
+        <state>ME</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

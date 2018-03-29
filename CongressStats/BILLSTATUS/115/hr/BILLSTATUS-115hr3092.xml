@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <systemCode>hswm03</systemCode>
+          <name>Human Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2017-06-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-06-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-06-28</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <updateDate>2018-01-25T21:36:49Z</updateDate>
+    <relatedBills />
+    <title>Permanency for Children Act of 2017</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>Permanency for Children Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend part D of title IV of the Social Security Act to require the Secretary of Health and Human Services to modify the Federal Parent Locator Service to improve search functions and include State responsible father registry search functions, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Permanency for Children Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Permanency for Children Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <createDate>2017-06-29T03:11:35Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Hartzler</lastName>
+        <state>MO</state>
+        <firstName>Vicky</firstName>
+        <party>R</party>
+        <middleName />
+        <bioguideId>H001053</bioguideId>
+        <byRequestType />
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <billNumber>3092</billNumber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. HARTZLER:H.R. 3092.Congress has the power to enact this legislation pursuantto the following:Article, I, Section 8, Clause 1 (The Congress shall havePower To lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defence andgeneral Welfare of the United States) of the United StatesConstitution.[Page H5295]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-06-28</introducedDate>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Human Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-12T19:49:52Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm03</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-28T14:01:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Human Resources.</text>
+      <links />
+      <actionDate>2017-07-12</actionDate>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <firstName>Ann</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Kuster</lastName>
+        <party>D</party>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <state>NH</state>
+        <district>2</district>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Jackie</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Walorski</lastName>
+        <party>R</party>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <state>IN</state>
+        <district>2</district>
+        <bioguideId>W000813</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Pramila</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <lastName>Jayapal</lastName>
+        <party>D</party>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <state>WA</state>
+        <district>7</district>
+        <bioguideId>J000298</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <lastName>Hultgren</lastName>
+        <party>R</party>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <state>IL</state>
+        <district>14</district>
+        <bioguideId>H001059</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001059</bioguideId>
+          <lisID>2015</lisID>
+          <gpoId>7934</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>K.</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <lastName>Conaway</lastName>
+        <party>R</party>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <state>TX</state>
+        <district>11</district>
+        <bioguideId>C001062</bioguideId>
+        <middleName>Michael</middleName>
+        <identifiers>
+          <bioguideId>C001062</bioguideId>
+          <gpoId>8167</gpoId>
+          <lisID>1805</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

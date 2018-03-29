@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>1126</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:41:30Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+          <lisID>1922</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Guthrie</lastName>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000558</bioguideId>
+        <firstName>Brett</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2297</lisID>
+          <bioguideId>C001108</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Comer</lastName>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001108</bioguideId>
+        <firstName>James</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <gpoId>8371</gpoId>
+          <bioguideId>M001184</bioguideId>
+          <lisID>2094</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Massie</lastName>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001184</bioguideId>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>R000395</bioguideId>
+          <lisID>977</lisID>
+          <gpoId>7957</gpoId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>ROGERS</lastName>
+        <fullName>Rep. Rogers, Harold [R-KY-5]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000395</bioguideId>
+        <firstName>HAROLD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <lastName>Yarmuth</lastName>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000062</bioguideId>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alcoholic beverages</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-16T15:11:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-16</introducedDate>
+    <title>Aged Distilled Spirits Competitiveness Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2017-02-16</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-02-17T04:46:13Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Barr</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <bioguideId>B001282</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <firstName>Andy</firstName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BARR:H.R. 1126.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1304]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <number>747</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2017-01-30</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Craft Beverage Modernization and Tax Reform Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>429</number>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S1307)</text>
+          <actionDate>2017-02-16</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>AGED Spirits Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Aged Distilled Spirits Competitiveness Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Aged Distilled Spirits Competitiveness Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To exempt the aging process of distilled spirits from the production period for purposes of capitalization of interest costs.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Aged Distilled Spirits Competitiveness Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-27T15:34:56Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-16</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong></strong><b>Aged Distilled Spirits Competitiveness Act</b></p> <p>This bill amends the Internal Revenue Code to exclude the aging period from the production period for distilled spirits that are fit to be used as a beverage, for purposes of determining whether a taxpayer can expense, rather than capitalize, interest costs paid or incurred during the production period.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

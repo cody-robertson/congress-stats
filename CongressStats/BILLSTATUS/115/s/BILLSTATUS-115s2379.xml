@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-02-06</introducedDate>
+    <updateDate>2018-03-01T13:27:22Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-14</actionDate>
+        <committee>
+          <name>Personnel Subcommittee</name>
+          <systemCode>ssas17</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Armed Services Subcommittee on Personnel. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-02-06</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1247-1248</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1247-1248</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services. (Sponsor introductory remarks on measure: CR S1247-1248)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <notes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>2379</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>3319</number>
+        <type>HR</type>
+        <latestTitle>More for Veterans Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2017-08-21</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <lastName>Kaine</lastName>
+        <byRequestType />
+        <bioguideId>K000384</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>VA</state>
+        <firstName>Timothy</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Military Spouse Employment Act of 2018</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to improve and expand authorities, programs, services, and benefits for military spouses and military families, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Military Spouse Employment Act of 2018</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Military Spouse Employment Act of 2018</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Committee on Armed Services Subcommittee on Personnel. Hearings held.</text>
+      <actionDate>2018-02-14</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2018-02-07T00:26:01Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001111</bioguideId>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>PATTY</firstName>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <middleName>Alfred</middleName>
+        <bioguideId>P000612</bioguideId>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <lastName>Perdue</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssas00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-06T19:49:35Z</date>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>ssas17</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2018-02-14T20:00:34Z</date>
+                </item>
+              </activities>
+              <name>Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Military Spouse Employment Act of 2018</title>
+    <billType>S</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

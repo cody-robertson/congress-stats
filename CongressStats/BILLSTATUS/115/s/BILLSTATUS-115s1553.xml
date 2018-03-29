@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-13T18:18:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <updateDate>2018-02-16T05:26:13Z</updateDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3999-4000</url>
+            <name>S3999-4000</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3999-4000)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-07-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <createDate>2017-07-14T00:41:33Z</createDate>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Stopping Overdoses of Fentanyl Analogues Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Controlled Substances Act to list fentanyl analogues as schedule I controlled substances.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Stopping Overdoses of Fentanyl Analogues Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Stopping Overdoses of Fentanyl Analogues Act</title>
+      </item>
+    </titles>
+    <introducedDate>2017-07-13</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <notes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3999-4000)</text>
+      <links />
+      <actionDate>2017-07-13</actionDate>
+    </latestAction>
+    <billNumber>1553</billNumber>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <number>4922</number>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2018-02-05</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Stopping Overdoses of Fentanyl Analogues Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Stopping Overdoses of Fentanyl Analogues Act</title>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <state>WI</state>
+        <byRequestType />
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <bioguideId>J000293</bioguideId>
+        <party>R</party>
+        <middleName />
+        <firstName>Ron</firstName>
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

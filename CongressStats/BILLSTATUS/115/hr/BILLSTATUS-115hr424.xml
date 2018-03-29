@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-01-10</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2018-01-08T21:14:25Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-10-04T19:06:05Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-19T18:30:40Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2017-01-10T15:03:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <actionStageOverride>2</actionStageOverride>
+        <reportedToHouse>1</reportedToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 361.</text>
+        <actionCode>H12410</actionCode>
+        <actionDate>2018-01-08</actionDate>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/487</url>
+            <name>H. Rept. 115-487</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-487.</text>
+        <actionCode>H12200</actionCode>
+        <actionDate>2018-01-08</actionDate>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/487</url>
+            <name>H. Rept. 115-487</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-487.</text>
+        <actionCode>5000</actionCode>
+        <actionDate>2018-01-08</actionDate>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 24 - 15.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-10</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-10</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-10</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Gray Wolf State Management Act of 2017</b></p> <p>This bill requires the Department of the Interior to reissue two rules that removed protections under the Endangered Species Act of 1973 for the gray wolf populations located in Wyoming and the western Great Lakes (all of Wisconsin, Michigan, and Minnesota, as well as portions of North Dakota, South Dakota, Iowa, Illinois, Indiana, and Ohio). In addition, this bill prohibits judicial review of the reissued rules.</p> <p>]]></text>
+          <lastSummaryUpdateDate>2017-08-03T18:43:50Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-10</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-10T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Gray Wolf State Management Act of 2017</b></p> <p>(Sec. 2) This bill requires the Department of the Interior to reissue two rules that removed protections under the Endangered Species Act of 1973 for the gray wolf populations located in Wyoming and the western Great Lakes (all of Wisconsin, Michigan, and Minnesota, as well as portions of North Dakota, South Dakota, Iowa, Illinois, Indiana, and Ohio). In addition, this bill prohibits judicial review of the reissued rules.</p> <p>]]></text>
+          <lastSummaryUpdateDate>2018-01-11T17:43:12Z</lastSummaryUpdateDate>
+          <versionCode>79</versionCode>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <actionDate>2018-01-08</actionDate>
+          <name>Reported to House without amendment</name>
+          <updateDate>2018-01-08T16:45:17Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:27:16Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Michigan</name>
+          </item>
+          <item>
+            <name>Minnesota</name>
+          </item>
+          <item>
+            <name>Wisconsin</name>
+          </item>
+          <item>
+            <name>Wyoming</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00361</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <identifiers>
+          <bioguideId>D000614</bioguideId>
+          <gpoId>8220</gpoId>
+          <lisID>2072</lisID>
+        </identifiers>
+        <lastName>Duffy</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>D000614</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <firstName>Sean</firstName>
+        <middleName>P.</middleName>
+        <district>7</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001109</bioguideId>
+          <lisID>2356</lisID>
+        </identifiers>
+        <lastName>Cheney</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>C001109</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WY</state>
+        <firstName>Liz</firstName>
+        <middleName />
+        <district>0</district>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <identifiers>
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>NOLAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>N000127</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <firstName>RICHARD</firstName>
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000294</bioguideId>
+          <lisID>2253</lisID>
+        </identifiers>
+        <lastName>Emmer</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>E000294</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <firstName>Tom</firstName>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <identifiers>
+          <bioguideId>L000573</bioguideId>
+          <lisID>2011</lisID>
+          <gpoId>7919</gpoId>
+        </identifiers>
+        <lastName>Labrador</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>L000573</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ID</state>
+        <firstName>Raul</firstName>
+        <middleName>R.</middleName>
+        <district>1</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <lastName>SENSENBRENNER</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>S000244</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <firstName>F.</firstName>
+        <middleName>JAMES</middleName>
+        <district>5</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <identifiers>
+          <gpoId>7920</gpoId>
+          <bioguideId>S001148</bioguideId>
+          <lisID>1590</lisID>
+        </identifiers>
+        <lastName>SIMPSON</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>S001148</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ID</state>
+        <firstName>MICHAEL</firstName>
+        <middleName>K.</middleName>
+        <district>2</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <identifiers>
+          <bioguideId>H001058</bioguideId>
+          <gpoId>7987</gpoId>
+          <lisID>2028</lisID>
+        </identifiers>
+        <lastName>Huizenga</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>H001058</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <firstName>Bill</firstName>
+        <middleName />
+        <district>2</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Gallagher</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>G000579</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <firstName>Mike</firstName>
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <lastName>KIND</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>K000188</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <firstName>RON</firstName>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <identifiers>
+          <bioguideId>M001194</bioguideId>
+          <gpoId />
+          <lisID>2248</lisID>
+        </identifiers>
+        <lastName>Moolenaar</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>M001194</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <firstName>John</firstName>
+        <middleName>R.</middleName>
+        <district>4</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+          <lisID>1855</lisID>
+        </identifiers>
+        <lastName>Walberg</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>W000798</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <firstName>Tim</firstName>
+        <middleName />
+        <district>7</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+          <lisID>2276</lisID>
+        </identifiers>
+        <lastName>Grothman</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>G000576</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <firstName>Glenn</firstName>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <identifiers>
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Bergman</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <bioguideId>B001301</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <firstName>Jack</firstName>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <identifiers>
+          <bioguideId>U000031</bioguideId>
+          <lisID>1177</lisID>
+          <gpoId>7991</gpoId>
+        </identifiers>
+        <lastName>UPTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <bioguideId>U000031</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <firstName>FRED</firstName>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <lastName>Gosar</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <bioguideId>G000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <middleName>A.</middleName>
+        <district>4</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <lastName>SESSIONS</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>S000250</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <firstName>PETE</firstName>
+        <middleName />
+        <district>32</district>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Gray Wolf State Management Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Gray Wolf State Management Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To direct the Secretary of the Interior to reissue final rules relating to listing of the gray wolf in the Western Great Lakes and Wyoming under the Endangered Species Act of 1973, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Gray Wolf State Management Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <title>Gray Wolf State Management Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Gray Wolf State Management Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-01-17</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>A bill to direct the Secretary of the Interior to reissue the final rules relating to the listing of the gray wolf in the Western Great Lakes and the State of Wyoming under the Endangered Species Act of 1973.</latestTitle>
+        <number>164</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-10-05</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>HELP for Wildlife Act</latestTitle>
+        <number>1514</number>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2018-01-08</actionDate>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 361.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 6 (Tuesday, January 10, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PETERSON:H.R. 424.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the U.S. Constitution.[Page H300]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>7</district>
+        <state>MN</state>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <bioguideId>P000258</bioguideId>
+        <firstName>COLLIN</firstName>
+        <byRequestType />
+        <party>D</party>
+        <middleName>C.</middleName>
+        <identifiers>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+        </identifiers>
+        <lastName>PETERSON</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 424, Gray Wolf State Management Act of 2017</title>
+        <pubDate>2017-11-09T18:45:48Z</pubDate>
+        <url>https://www.cbo.gov/publication/53304</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-01-11T05:09:43Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>Gray Wolf State Management Act of 2017</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-487</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>424</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

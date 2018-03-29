@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>61</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>hswm04</systemCode>
+          <name>Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:22Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Connolly</lastName>
+        <state>VA</state>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>Gerald</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>A000369</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Amodei</lastName>
+        <state>NV</state>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>Mark</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+          <lisID>2090</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000255</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>JONES</lastName>
+        <state>NC</state>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>B.</middleName>
+        <firstName>WALTER</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001269</bioguideId>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Barletta</lastName>
+        <state>PA</state>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>Lou</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2054</lisID>
+          <bioguideId>B001269</bioguideId>
+          <gpoId>8129</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000362</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <state>IA</state>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <middleName />
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001067</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hudson</lastName>
+        <state>NC</state>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <middleName />
+        <firstName>Richard</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2140</lisID>
+          <bioguideId>H001067</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000599</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Posey</lastName>
+        <state>FL</state>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <middleName />
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+          <lisID>1915</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000619</bioguideId>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Davis</lastName>
+        <state>IL</state>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <middleName />
+        <firstName>Rodney</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001045</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Harper</lastName>
+        <state>MS</state>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <middleName />
+        <firstName>Gregg</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Perry</lastName>
+        <state>PA</state>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <sponsorshipDate>2017-09-21</sponsorshipDate>
+        <middleName />
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <gpoId />
+          <lisID>2157</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rosen</lastName>
+        <state>NV</state>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <sponsorshipDate>2017-09-21</sponsorshipDate>
+        <middleName />
+        <firstName>Jacky</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001064</bioguideId>
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heck</lastName>
+        <state>WA</state>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <middleName />
+        <firstName>Denny</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001090</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cartwright</lastName>
+        <state>PA</state>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipDate>2017-11-03</sponsorshipDate>
+        <middleName />
+        <firstName>Matt</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000606</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pittenger</lastName>
+        <state>NC</state>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <sponsorshipDate>2017-11-03</sponsorshipDate>
+        <middleName />
+        <firstName>Robert</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2141</lisID>
+          <bioguideId>P000606</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000592</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Poe</lastName>
+        <state>TX</state>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <sponsorshipDate>2017-11-03</sponsorshipDate>
+        <middleName />
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001059</bioguideId>
+        <district>14</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hultgren</lastName>
+        <state>IL</state>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName />
+        <firstName>Randy</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2015</lisID>
+          <gpoId>7934</gpoId>
+          <bioguideId>H001059</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>A000374</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Abraham</lastName>
+        <state>LA</state>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName>Lee</middleName>
+        <firstName>Ralph</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2244</lisID>
+          <bioguideId>A000374</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000567</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lance</lastName>
+        <state>NJ</state>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName />
+        <firstName>Leonard</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>L000567</bioguideId>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000583</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rooney</lastName>
+        <state>FL</state>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000583</bioguideId>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000588</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pearce</lastName>
+        <state>NM</state>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName />
+        <firstName>Stevan</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001179</bioguideId>
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Marino</lastName>
+        <state>PA</state>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <middleName />
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001179</bioguideId>
+          <gpoId>8128</gpoId>
+          <lisID>2053</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000799</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walz</lastName>
+        <state>MN</state>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>Timothy</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <middleName />
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001106</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Costello</lastName>
+        <state>PA</state>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Ryan</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <lisID>2266</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Trade agreements and negotiations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-05-25T16:36:37Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hswm04</systemCode>
+              <name>Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-05-24T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-05-24</introducedDate>
+    <title>Expressing the sense of Congress that all trade agreements the United States enters into, should provide reasonable access and collaboration of each nation involved in such an agreement, for the purpose of search and recovery activities relating to members of the United States Armed Forces missing in action from prior wars or military conflicts.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Trade.</text>
+      <links />
+      <actionDate>2017-05-25</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HCONRES</billType>
+    <createDate>2017-05-25T03:11:37Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Thompson</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <bioguideId>T000467</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <firstName>Glenn</firstName>
+        <district>5</district>
+        <identifiers>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of Congress that all trade agreements the United States enters into, should provide reasonable access and collaboration of each nation involved in such an agreement, for the purpose of search and recovery activities relating to members of the United States Armed Forces missing in action from prior wars or military conflicts.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of Congress that all trade agreements the United States enters into, should provide reasonable access and collaboration of each nation involved in such an agreement, for the purpose of search and recovery activities relating to members of the United States Armed Forces missing in action from prior wars or military conflicts.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-24T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses the sense of Congress that all trade agreements the United States enters into with a foreign country should provide reasonable collaboration with that country for the purpose of search and recovery activities for Armed Forces members missing in action from prior wars or military conflicts.</p>]]></text>
+          <lastSummaryUpdateDate>2017-06-09T20:09:04Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

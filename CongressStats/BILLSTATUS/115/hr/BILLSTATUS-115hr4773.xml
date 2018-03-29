@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2018-01-11</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-01-11</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-01-11</actionDate>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2018-01-11</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>ANTI Viruses Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A Necessary and Targeted Impediment to Viruses Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To require the Administrator for General Services to obtain an antivirus product to make available to Federal agencies in order to provide the product to individuals whose personally identifiable information may have been compromised.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>ANTI Viruses Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>ANTI Viruses Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A Necessary and Targeted Impediment to Viruses Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>4773</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <district>0</district>
+      </item>
+    </cosponsors>
+    <title>ANTI Viruses Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 7 (Thursday, January 11, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARTWRIGHT:H.R. 4773.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18 of the Constitution whichstates ``Congress shall have the power ``to make all lawswhich shall be necessary and proper for carrying intoexecution the foregoing powers, and all other powers vestedby this Constitution in the government of the United States,or in any department or officer thereof''[Page H169]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-11T14:02:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T19:17:11Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Cartwright</lastName>
+        <middleName />
+        <firstName>Matt</firstName>
+        <party>D</party>
+        <bioguideId>C001090</bioguideId>
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>17</district>
+        <state>PA</state>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2018-01-11</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>A Necessary and Targeted Impediment to Viruses Act or the ANTI Viruses Act</strong></p> <p>This bill directs: (1) the General Services Administration to procure an antivirus product suitable for federal agencies to provide to individuals whose personally identifiable information may have been compromised, and (2) a federal agency that experiences a compromise in its computer systems resulting in the loss of personally identifiable information to provide to any individual directly affected a one-year license of such product.</p>]]></text>
+          <lastSummaryUpdateDate>2018-01-18T20:22:27Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2018-01-11T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2018-01-11</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-01-12T03:11:03Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

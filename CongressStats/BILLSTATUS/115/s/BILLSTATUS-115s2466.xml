@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-03-01T05:46:59Z</updateDate>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2018-02-28</actionDate>
+    </latestAction>
+    <billNumber>2466</billNumber>
+    <committeeReports />
+    <title>A bill to encourage and facilitate international participation in the performing arts and for other purposes.</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>S</billType>
+    <relatedBills />
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-28T18:37:58Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2018-03-01T05:41:05Z</createDate>
+    <laws />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <firstName>PATRICK</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEAHY</lastName>
+        <state>VT</state>
+        <party>D</party>
+        <middleName>JOSEPH</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipDate>2018-02-28</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <bioguideId>H000338</bioguideId>
+        <firstName>ORRIN</firstName>
+        <lastName>HATCH</lastName>
+        <state>UT</state>
+        <party>R</party>
+        <middleName>GRANT</middleName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+      </item>
+    </sponsors>
+    <introducedDate>2018-02-28</introducedDate>
+    <amendments />
+    <notes />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to encourage and facilitate international participation in the performing arts and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to encourage and facilitate international participation in the performing arts and for other purposes.</title>
+      </item>
+    </titles>
+    <actions>
+      <item>
+        <actionDate>2018-02-28</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-02-28</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>207</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>hsfa14</systemCode>
+          <name>Europe, Eurasia, and Emerging Threats Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionDate>2017-03-17</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-03-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-03-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:39Z</updateDate>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <bioguideId>N000015</bioguideId>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>854</lisID>
+          <gpoId>7967</gpoId>
+          <bioguideId>N000015</bioguideId>
+        </identifiers>
+        <lastName>NEAL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+        <state>MA</state>
+      </item>
+      <item>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <bioguideId>C001038</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+          <bioguideId>C001038</bioguideId>
+        </identifiers>
+        <lastName>CROWLEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOSEPH</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <bioguideId>M001137</bioguideId>
+        <middleName>W.</middleName>
+        <identifiers>
+          <lisID>1506</lisID>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <lastName>MEEKS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>GREGORY</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <bioguideId>B001296</bioguideId>
+        <middleName>F.</middleName>
+        <identifiers>
+          <lisID>2267</lisID>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <lastName>Boyle</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brendan</firstName>
+        <state>PA</state>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <bioguideId>K000210</bioguideId>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <lastName>KING</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>PETER</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <bioguideId>C001078</bioguideId>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <lastName>Connolly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gerald</firstName>
+        <state>VA</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>European Union</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Ireland</name>
+          </item>
+          <item>
+            <name>Northern Ireland</name>
+          </item>
+          <item>
+            <name>Political parties and affiliation</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>United Kingdom</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-17T13:01:45Z</date>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa14</systemCode>
+              <name>Europe, Eurasia, and Emerging Threats Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-18T15:34:50Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-03-17</introducedDate>
+    <title>Expressing the continued support of the House of Representatives for the Good Friday Agreement (the Belfast Agreement).</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+      <links />
+      <actionDate>2017-05-18</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-03-18T04:55:11Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Keating</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <bioguideId>K000375</bioguideId>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <firstName>William</firstName>
+        <district>9</district>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the continued support of the House of Representatives for the Good Friday Agreement (the Belfast Agreement).</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Expressing the continued support of the House of Representatives for the Good Friday Agreement (the Belfast Agreement).</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Reaffirms support for the Good Friday Agreement as the essential framework for the continued advancement of partnership, reconciliation, tolerance, and mutual trust, in Northern Ireland.</p> <p>Encourages the Irish and British governments, as well as the Northern Ireland political parties, to continue to uphold and respect the provisions of that agreement throughout the forthcoming Brexit negotiations and to ensure that future European Union-United Kingdom and Ireland-United Kingdom negotiations give priority to protecting the gains of the peace process in Northern Ireland.</p> <ul> </ul>]]></text>
+          <actionDate>2017-03-17</actionDate>
+          <updateDate>2017-03-17T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-15T20:27:55Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

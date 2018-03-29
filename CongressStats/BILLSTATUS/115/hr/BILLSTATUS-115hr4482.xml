@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <createDate>2017-11-30T03:11:17Z</createDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <billNumber>4482</billNumber>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <party>R</party>
+        <bioguideId>M001187</bioguideId>
+        <district>11</district>
+        <firstName>Mark</firstName>
+        <byRequestType />
+        <lastName>Meadows</lastName>
+        <identifiers>
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <cboCostEstimates />
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 194 (Wednesday, November 29, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MEADOWS:H.R. 4482.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause I states ``The Congress shallhave Power To . . . provide for the . . . general Welfare ofthe United States . . .'' And, Article I, Section 8, Clause 3states ``The Congress shall have Power To . . . regulateCommerce . . . among the several States . . . ''[Page H9516]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-09T17:00:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-29T15:00:16Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-01T16:50:54Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-29T15:00:11Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2017-12-13</actionDate>
+        </latestAction>
+        <latestTitle>Opioid Addiction Prevention Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>4408</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2017-04-07</actionDate>
+        </latestAction>
+        <latestTitle>Opioid Addiction Prevention Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>892</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2018-01-09</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-01</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Opioid Abuse Deterrence, Research, and Recovery Act of 2017</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>To deter opioid abuse and addiction, to establish additional registration requirements for prescribers of opioids, to encourage the development of abuse-deterrent formulations, to require a study and report on policy changes that may have contributed to the opioid epidemic, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Opioid Abuse Deterrence, Research, and Recovery Act of 2017</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Opioid Abuse Deterrence, Research, and Recovery Act of 2017</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <title>Opioid Abuse Deterrence, Research, and Recovery Act of 2017</title>
+    <congress>115</congress>
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+      <actionDate>2018-01-09</actionDate>
+    </latestAction>
+    <introducedDate>2017-11-29</introducedDate>
+    <calendarNumbers />
+    <updateDate>2018-02-02T20:15:50Z</updateDate>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <firstName>James</firstName>
+        <identifiers>
+          <bioguideId>R000586</bioguideId>
+          <gpoId>8106</gpoId>
+          <lisID>2048</lisID>
+        </identifiers>
+        <district>16</district>
+        <party>R</party>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <state>OH</state>
+        <bioguideId>R000586</bioguideId>
+        <lastName>Renacci</lastName>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <identifiers>
+          <lisID>2336</lisID>
+          <bioguideId>B001305</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <state>NC</state>
+        <bioguideId>B001305</bioguideId>
+        <lastName>Budd</lastName>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

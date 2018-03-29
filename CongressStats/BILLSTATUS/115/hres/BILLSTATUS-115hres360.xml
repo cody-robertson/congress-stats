@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <lastName>Hudson</lastName>
+        <bioguideId>H001067</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>NC</state>
+        <firstName>Richard</firstName>
+        <district>8</district>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>H001067</bioguideId>
+          <lisID>2140</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <version>1.0.0</version>
+    <introducedDate>2017-05-25</introducedDate>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Honoring the 100th anniversary of the 82nd Airborne Division.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Honoring the 100th anniversary of the 82nd Airborne Division.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <recordedVotes />
+    <relatedBills />
+    <constitutionalAuthorityStatementText />
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-16</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Armed Services.</text>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionDate>2017-05-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>360</billNumber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <bioguideId>Z000017</bioguideId>
+        <lastName>Zeldin</lastName>
+        <party>R</party>
+        <district>1</district>
+        <firstName>Lee</firstName>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2261</lisID>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <bioguideId>P000523</bioguideId>
+        <lastName>PRICE</lastName>
+        <party>D</party>
+        <district>4</district>
+        <firstName>DAVID</firstName>
+        <state>NC</state>
+        <identifiers>
+          <lisID>930</lisID>
+          <gpoId>8027</gpoId>
+          <bioguideId>P000523</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <bioguideId>B001304</bioguideId>
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <district>4</district>
+        <firstName>Anthony</firstName>
+        <state>MD</state>
+        <identifiers>
+          <lisID>2331</lisID>
+          <bioguideId>B001304</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-25T16:53:13Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-25</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Honors the soldiers and families of the 82nd Airborne Division for their service and commitment to protecting the United States.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-16</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <updateDate>2018-02-06T16:39:48Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-16T14:22:05Z</date>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:01:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-05-26T03:11:37Z</createDate>
+    <title>Honoring the 100th anniversary of the 82nd Airborne Division.</title>
+    <committeeReports />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionDate>2017-05-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2017-05-11</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To allow servicemembers to terminate their cable, satellite television, and Internet access service contracts while deployed.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To allow servicemembers to terminate their cable, satellite television, and Internet access service contracts while deployed.</title>
+      </item>
+    </titles>
+    <billNumber>2409</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000381</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kilmer</lastName>
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <state>WA</state>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Derek</firstName>
+        <district>6</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCGOVERN</lastName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <district>2</district>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001290</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brat</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2203</lisID>
+          <bioguideId>B001290</bioguideId>
+        </identifiers>
+        <state>VA</state>
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dave</firstName>
+        <district>7</district>
+      </item>
+    </cosponsors>
+    <title>To allow servicemembers to terminate their cable, satellite television, and Internet access service contracts while deployed.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Contracts and agency</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Television and film</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>624</number>
+        <type>S</type>
+        <latestTitle>A bill to allow servicemembers to terminate their cable, satellite television, and Internet access service contracts while deployed.</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2017-03-14</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COSTELLO of Pennsylvania:H.R. 2409.Congress has the power to enact this legislation pursuantto the following:Article l, Section 8 of the U.S. Constitution[Page H4190]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-11T18:00:31Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-11T14:16:27Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr10</systemCode>
+              <name>Economic Opportunity Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-27T08:15:46Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Costello</lastName>
+        <middleName>A.</middleName>
+        <firstName>Ryan</firstName>
+        <party>R</party>
+        <bioguideId>C001106</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+          <lisID>2266</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>6</district>
+        <state>PA</state>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-05-11</actionDate>
+          <text><![CDATA[<p>This bill amends the Servicemembers Civil Relief Act to allow a service member to terminate a commercial mobile, telephone exchange, Internet access, or multichannel video programming service contract at any time after the date the service member receives military orders to relocate for at least 90 days to a location that does not support such service contract. (Currently, such provision applies to a cellular telephone service or telephone exchange service contract.) </p> <p>A service member shall return any provider-owned consumer premises equipment to the service provider not later than 10 days after the service is disconnected.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-05-11T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-06T14:45:59Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-05-11</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-05-12T03:11:39Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

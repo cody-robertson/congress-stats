@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>33</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-05</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-01-05</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:23Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>Dan</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <bioguideId>S001198</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+        </identifiers>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <bioguideId>D000618</bioguideId>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ORRIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <bioguideId>H000338</bioguideId>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <lastName>HATCH</lastName>
+        <party>R</party>
+        <middleName>GRANT</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Dean</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <bioguideId>H001041</bioguideId>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JEFF</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <bioguideId>F000444</bioguideId>
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+        </identifiers>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <bioguideId>L000577</bioguideId>
+        <identifiers>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+        </identifiers>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <lastName>Lee</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <bioguideId>M000303</bioguideId>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <lastName>MCCAIN</lastName>
+        <party>R</party>
+        <middleName>SIDNEY</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>ID</state>
+        <bioguideId>R000584</bioguideId>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>CHARLES</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <bioguideId>G000386</bioguideId>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <middleName>ERNEST</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <bioguideId>T000476</bioguideId>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <middleName>Roland</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>MITCH</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <bioguideId>M000355</bioguideId>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <lastName>MCCONNELL</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Roy</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <bioguideId>B000575</bioguideId>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JIM</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <lastName>INHOFE</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Ron</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <bioguideId>J000293</bioguideId>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+        <bioguideId>C001047</bioguideId>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <lastName>CAPITO</lastName>
+        <party>R</party>
+        <middleName>MOORE</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ROGER</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+        <bioguideId>S001141</bioguideId>
+        <identifiers>
+          <bioguideId>S001141</bioguideId>
+          <gpoId>8281</gpoId>
+          <lisID>1548</lisID>
+        </identifiers>
+        <fullName>Sen. Sessions, Jeff [R-AL]</fullName>
+        <lastName>Sessions</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <bioguideId>C001075</bioguideId>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>ID</state>
+        <bioguideId>C000880</bioguideId>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <lastName>CRAPO</lastName>
+        <party>R</party>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>PAT</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <bioguideId>R000307</bioguideId>
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <lastName>ROBERTS</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Thad</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <bioguideId>C000567</bioguideId>
+        <identifiers>
+          <gpoId>8292</gpoId>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <lastName>Cochran</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <bioguideId>R000605</bioguideId>
+        <identifiers>
+          <lisID>2288</lisID>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <bioguideId>B001261</bioguideId>
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <bioguideId>L000575</bioguideId>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Deb</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <bioguideId>F000463</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+        </identifiers>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Monuments and memorials</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-05T15:46:21Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-05</introducedDate>
+    <title>Improved National Monument Designation Process Act</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-01-06T04:57:27Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <bioguideId>M001153</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+      <actionDate>2017-01-05</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-05-11</actionDate>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>2284</number>
+        <latestTitle>National Monument Designation Transparency and Accountability Act</latestTitle>
+        <congress>115</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-01-12</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <type>S</type>
+        <number>132</number>
+        <latestTitle>National Monument Designation Transparency and Accountability Act of 2017</latestTitle>
+        <congress>115</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-20</actionDate>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>1489</number>
+        <latestTitle>MAST Act</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Improved National Monument Designation Process Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Improved National Monument Designation Process Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for congressional approval of national monuments and restrictions on the use of national monuments, to establish requirements for the declaration of marine national monuments, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Improved National Monument Designation Process Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-05T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-14T20:37:16Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-05</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Improved National Monument Designation Process Act</b> </p> <p>Before a national monument can be designated on public land, the President must obtain congressional approval, certify compliance with the National Environmental Policy Act of 1969 (NEPA), and receive notice from the governor of the state in which the monument is to be located that the state legislature has enacted legislation approving its designation. </p> <p> The President may not declare any area of the exclusive economic zone to be a marine national monument unless: </p> <ul> <li>it is specifically authorized by Congress,</li> <li>the President has certified compliance with NEPA, and</li> <li>each state legislature within 100 nautical miles of the proposed monument has approved it. </li> </ul> <p>Neither the Department of the Interior nor the Department of Commerce may implement a restriction on the public use of a marine national monument until the expiration of an appropriate review period providing for public input and congressional approval. </p> </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

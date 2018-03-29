@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-12T18:12:07Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <title>Amateur Radio Parity Act of 2017</title>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>FCC Reauthorization Act of 2018</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+          <actionDate>2018-02-08</actionDate>
+        </latestAction>
+        <number>4986</number>
+        <congress>115</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Amateur Radio Parity Act of 2017</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2017-01-24</actionDate>
+        </latestAction>
+        <number>555</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-12</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-07-12</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Amateur Radio Parity Act of 2017</b></p> <p><strong></strong>This bill directs the Federal Communications Commission (FCC) to amend station antenna structure regulations to prohibit a private land use restriction from applying to amateur radio stations if the restriction:</p> <ul> <li>precludes communications in an amateur radio service, </li> <li>fails to permit a licensee of amateur radio service to install and maintain an effective outdoor antenna on property under its exclusive use or control, or </li> <li>is not the minimum practicable restriction to accomplish the lawful purposes of a community association seeking to enforce the restriction. </li></ul> <p>Before installing an outdoor antenna, however, an amateur radio licensee must obtain a community association's prior approval. A community association may: (1) prohibit installations on common property not under the exclusive control of the licensee, and (2) establish installation rules for amateur radio antennas and support structures.</p>]]></text>
+          <updateDate>2017-07-12T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-11-02T18:38:19Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-07-12</introducedDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+      <actionDate>2017-07-12</actionDate>
+    </latestAction>
+    <createDate>2017-07-13T00:41:35Z</createDate>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>CT</state>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <middleName />
+        <firstName>Richard</firstName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blumenthal</lastName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <state>MS</state>
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <byRequestType />
+        <lastName>WICKER</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-16T18:14:03Z</updateDate>
+    <titles>
+      <item>
+        <title>Amateur Radio Parity Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to direct the Federal Communications Commission to amend its rules so as to prohibit the application to amateur stations of certain private land use restrictions, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Amateur Radio Parity Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Amateur Radio Parity Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <committeeReports />
+    <billNumber>1534</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>1952</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-04-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-04-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-04-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:42:23Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>A000367</bioguideId>
+          <lisID>2029</lisID>
+          <gpoId>7988</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <lastName>Amash</lastName>
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000367</bioguideId>
+        <firstName>Justin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2149</lisID>
+          <bioguideId>J000294</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <lastName>Jeffries</lastName>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <middleName>S.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000294</bioguideId>
+        <firstName>Hakeem</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <lastName>SENSENBRENNER</lastName>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <middleName>JAMES</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000244</bioguideId>
+        <firstName>F.</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <lastName>NADLER</lastName>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000002</bioguideId>
+        <firstName>JERROLD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>UT</state>
+        <identifiers>
+          <lisID>2271</lisID>
+          <bioguideId>L000584</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <lastName>Love</lastName>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000584</bioguideId>
+        <firstName>Mia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <lastName>BLUMENAUER</lastName>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2172</lisID>
+          <bioguideId>K000379</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <lastName>Kennedy</lastName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <middleName>P.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000379</bioguideId>
+        <firstName>Joseph</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <lastName>Moulton</lastName>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001196</bioguideId>
+        <firstName>Seth</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>DC</state>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OR</state>
+        <identifiers>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000191</bioguideId>
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+          <lisID>2153</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <lastName>Beatty</lastName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001281</bioguideId>
+        <firstName>Joyce</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-06T17:48:05Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:02:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-04-05</introducedDate>
+    <title>Better Drive Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <links />
+      <actionDate>2017-04-06</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-04-06T03:11:56Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>O'Rourke</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>O000170</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <firstName>Beto</firstName>
+        <district>16</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2162</lisID>
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. O'ROURKE:H.R. 1952.Congress has the power to enact this legislation pursuantto the following:Section 4 of Article I of the Constitution:Clause 18 of Section 8 of Article I of the Constitution: Tomake all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by the Constitution in the Government of theUnited States, or in any Department or Office thereof.[Page H2755]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Better Drive Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Better Drive Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 23, United States Code, with respect to the revocation or suspension of drivers' licenses of individuals convicted of drug offenses, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Better Drive Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-07-24T18:11:34Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-05</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Better Drive Act</b></p> <p>This bill repeals provisions requiring the Department of Transportation to withhold a certain amount of a state's apportionment of federal-aid highway funds if the state fails to enact and enforce a law that requires the revocation or suspension of drivers' licenses of individuals convicted of drug offenses.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

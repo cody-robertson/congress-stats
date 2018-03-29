@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-02</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-20</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-20</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-20</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <laws />
+    <createDate>2017-12-21T03:11:08Z</createDate>
+    <billNumber>4697</billNumber>
+    <introducedDate>2017-12-20</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-01-09T08:12:31Z</updateDate>
+    <committeeReports />
+    <amendments />
+    <latestAction>
+      <links />
+      <actionDate>2018-01-02</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </latestAction>
+    <notes />
+    <title>To amend the Wyoming Wilderness Act of 1984 to clarify authorized recreational uses in the Palisades, High Lakes, and Shoal Creek Wilderness Study Areas.</title>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>To amend the Wyoming Wilderness Act of 1984 to clarify authorized recreational uses in the Palisades, High Lakes, and Shoal Creek Wilderness Study Areas.</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Wyoming Wilderness Act of 1984 to clarify authorized recreational uses in the Palisades, High Lakes, and Shoal Creek Wilderness Study Areas.</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-01-02T21:34:29Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-12-20T14:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>C001109</bioguideId>
+        <party>R</party>
+        <byRequestType />
+        <lastName>Cheney</lastName>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <district>0</district>
+        <state>WY</state>
+        <identifiers>
+          <lisID>2356</lisID>
+          <bioguideId>C001109</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Liz</firstName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <cosponsors />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 208 (Wednesday, December 20, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. CHENEY:H.R. 4697.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2 of the U.S. Constitution.[Page H10345]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

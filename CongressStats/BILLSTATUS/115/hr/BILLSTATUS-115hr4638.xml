@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-12-14T03:11:08Z</createDate>
+    <committeeReports />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-12-15</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>National Commission on Scleroderma and Fibrotic Diseases Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To establish a National Commission on Fibrotic Diseases.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>National Commission on Scleroderma and Fibrotic Diseases Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>National Commission on Scleroderma and Fibrotic Diseases Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <updateDate>2018-01-30T15:34:53Z</updateDate>
+    <amendments />
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-12-15</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-12-13</actionDate>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-12-13</actionDate>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-12-13</actionDate>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-12-13</introducedDate>
+    <billType>HR</billType>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <bioguideId>J000298</bioguideId>
+        <firstName>Pramila</firstName>
+        <lastName>Jayapal</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DC</state>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <district>10</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2273</lisID>
+          <bioguideId>C001105</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <bioguideId>C001105</bioguideId>
+        <firstName>Barbara</firstName>
+        <lastName>Comstock</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+        <identifiers>
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <bioguideId>W000812</bioguideId>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+        <middleName>William</middleName>
+        <party>D</party>
+        <bioguideId>L000563</bioguideId>
+        <firstName>Daniel</firstName>
+        <lastName>Lipinski</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <district>28</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <party>D</party>
+        <bioguideId>S001150</bioguideId>
+        <firstName>ADAM</firstName>
+        <lastName>SCHIFF</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <identifiers>
+          <lisID>2133</lisID>
+          <gpoId />
+          <bioguideId>D000620</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <party>D</party>
+        <bioguideId>D000620</bioguideId>
+        <firstName>John</firstName>
+        <lastName>Delaney</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <bioguideId>P000597</bioguideId>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <middleName>P.</middleName>
+        <party>D</party>
+        <bioguideId>M000312</bioguideId>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <bioguideId>K000382</bioguideId>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+          <lisID>2262</lisID>
+        </identifiers>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <bioguideId>R000602</bioguideId>
+        <firstName>Kathleen</firstName>
+        <lastName>Rice</lastName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>National Commission on Scleroderma and Fibrotic Diseases Act of 2017</title>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-13T15:00:30Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-15T17:38:37Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 203 (Wednesday, December 13, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of New York:H.R. 4638.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H9900]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4638</billNumber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <lastName>KING</lastName>
+        <state>NY</state>
+        <bioguideId>K000210</bioguideId>
+        <firstName>PETER</firstName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <middleName>T.</middleName>
+        <party>R</party>
+        <district>2</district>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

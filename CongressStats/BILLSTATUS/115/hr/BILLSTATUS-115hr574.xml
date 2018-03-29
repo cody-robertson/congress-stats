@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <introducedDate>2017-01-13</introducedDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <lastName>Cohen</lastName>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <state>TN</state>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <lastName>NOLAN</lastName>
+        <bioguideId>N000127</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <state>MN</state>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Cuba Reconciliation Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Cuba Reconciliation Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To lift the trade embargo on Cuba, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Cuba Reconciliation Act</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <recordedVotes />
+    <amendments />
+    <laws />
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>3</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>7</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-08</actionDate>
+        <committee>
+          <systemCode>hsju03</systemCode>
+          <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-08</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>hswm04</systemCode>
+          <name>Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to House Agriculture</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Oversight and Government Reform</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Judiciary</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Financial Services</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Foreign Affairs</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Energy and Commerce, Financial Services, the Judiciary, Oversight and Government Reform, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:40:56Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-13T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-09T21:11:15Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-13</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Cuba Reconciliation Act</strong></p> <p>This bill amends: (1) the Foreign Assistance Act of 1961 to repeal the embargo placed upon all trade with Cuba, and (2)the Internal Revenue Code to declare the denial of foreign tax credit inapplicable to Cuba.</p> <p>The bill permits: (1) installation and maintenance of telecommunications equipment and facilities in Cuba, including telecommunications services between the United States and Cuba; and (2) travel to and from Cuba by U.S. citizens or residents. <p>The U.S. Postal Service shall provide direct mail service to and from Cuba.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Cuba Reconciliation Act</title>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SERRANO:H.R. 574.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 3 of the ConstitutionArticle I, Section 8, clause 18 of the Constitution[Page H548]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-08T21:34:50Z</date>
+                </item>
+              </activities>
+              <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+            </item>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-08T21:34:41Z</date>
+                </item>
+              </activities>
+              <name>Immigration and Border Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:08:40Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hswm04</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-01T21:56:30Z</date>
+                </item>
+              </activities>
+              <name>Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:08:25Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:08:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:08:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:08:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:08:30Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:08:20Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+      <actionDate>2017-02-08</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <billNumber>574</billNumber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <state>NY</state>
+        <bioguideId>S000248</bioguideId>
+        <identifiers>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <district>15</district>
+        <lastName>SERRANO</lastName>
+        <firstName>JOSE</firstName>
+        <middleName>E.</middleName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Cuba</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>International exchange and broadcasting</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Taxation of foreign income</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-01-14T04:47:33Z</createDate>
+    <version>1.0.0</version>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

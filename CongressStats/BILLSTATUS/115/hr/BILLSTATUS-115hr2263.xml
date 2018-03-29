@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <state>FL</state>
+        <firstName>Gus</firstName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <bioguideId>B001257</bioguideId>
+        <district>12</district>
+        <party>R</party>
+        <lastName>Bilirakis</lastName>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <byRequestType />
+        <middleName>M.</middleName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-01T16:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-05-05T15:27:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billType>HR</billType>
+    <introducedDate>2017-05-01</introducedDate>
+    <latestAction>
+      <actionDate>2017-05-05</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <updateDate>2018-02-16T05:20:02Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BILIRAKIS:H.R. 2263.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H3003]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2263</billNumber>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-02-08T20:43:31Z</lastSummaryUpdateDate>
+          <updateDate>2017-05-01T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Medicaid and CHIP Territory Transparency and Information Act</b></p> <p>This bill requires the Centers for Medicare &amp; Medicaid Services to publish on its website, and periodically update, specified information related to federal expenditures under Medicaid and the Children's Health Insurance Program (CHIP) in each of the U.S.&nbsp;territories.&nbsp;</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDate>2017-05-01</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-05-02T03:11:49Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-05-05</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <actionDate>2017-05-01</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-05-01</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-05-01</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <recordedVotes />
+    <committeeReports />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <notes />
+    <cosponsors>
+      <item>
+        <state>PR</state>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <bioguideId>G000582</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Gonzalez-Colon</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <middleName />
+        <firstName>Jenniffer</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2347</lisID>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>AS</state>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <bioguideId>R000600</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Radewagen</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <middleName>Coleman</middleName>
+        <firstName>Aumua Amata</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2222</lisID>
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>GU</state>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <bioguideId>B001245</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Bordallo</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <middleName>Z.</middleName>
+        <firstName>Madeleine</firstName>
+        <identifiers>
+          <gpoId>7911</gpoId>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MP</state>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <bioguideId>S001177</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Sablan</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <middleName>Kilili Camacho</middleName>
+        <firstName>Gregorio</firstName>
+        <identifiers>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>VI</state>
+        <fullName>Rep. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <bioguideId>P000610</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Plaskett</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <middleName>E.</middleName>
+        <firstName>Stacey</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2274</lisID>
+          <bioguideId>P000610</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestTitle>Improving the Treatment of the U.S. Territories Under Federal Health Programs Act of 2017</latestTitle>
+        <number>2026</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-10-26</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Improving the Treatment of the U.S. Territories Under Federal Health Programs Act of 2017</latestTitle>
+        <number>2404</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <text>Sponsor introductory remarks on measure. (CR H4418-4419)</text>
+          <actionDate>2017-05-22</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Puerto Rico and Virgin Islands Equitable Rebuild Act of 2017</latestTitle>
+        <number>2165</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-11-28</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Puerto Rico and Virgin Islands Equitable Rebuild Act of 2018</latestTitle>
+        <number>4782</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+          <actionDate>2018-01-16</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Medicaid and CHIP Territory Transparency and Information Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicaid and CHIP Territory Transparency and Information Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for greater transparency and information with respect to Federal expenditures under the Medicaid and CHIP programs in the territories of the United States, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Medicaid and CHIP Territory Transparency and Information Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <title>Medicaid and CHIP Territory Transparency and Information Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

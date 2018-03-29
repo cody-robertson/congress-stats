@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <actions>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2017-12-20</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>CARES Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Creating Access to Rehabilitation for Every Senior Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend title XVIII of the Social Security Act to eliminate the 3-day prior hospitalization requirement for Medicare coverage of skilled nursing facility services in qualified skilled nursing facilities, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>CARES Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>CARES Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Creating Access to Rehabilitation for Every Senior Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <billNumber>4701</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>D000620</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <district>6</district>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>D000620</bioguideId>
+          <gpoId />
+          <lisID>2133</lisID>
+        </identifiers>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <lastName>Delaney</lastName>
+        <sponsorshipDate>2017-12-20</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>K000376</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <district>3</district>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2017-12-20</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000624</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <district>12</district>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <lastName>Dingell</lastName>
+        <sponsorshipDate>2017-12-20</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>P000601</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steven</firstName>
+        <district>4</district>
+        <state>MS</state>
+        <identifiers>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <lastName>Palazzo</lastName>
+        <sponsorshipDate>2017-12-20</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-12-20</introducedDate>
+    <billType>HR</billType>
+    <createDate>2017-12-21T03:11:08Z</createDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <title>CARES Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-20T14:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <updateDate>2018-01-04T20:30:09Z</updateDate>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 178 (Thursday, November 2, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRADY of Texas:H.R. 1.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution of theUnited States.[Page H8444]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <state>OH</state>
+        <bioguideId>R000586</bioguideId>
+        <firstName>James</firstName>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <district>16</district>
+        <lastName>Renacci</lastName>
+        <identifiers>
+          <lisID>2048</lisID>
+          <gpoId>8106</gpoId>
+          <bioguideId>R000586</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

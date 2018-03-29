@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <lastName>Merkley</lastName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <party>D</party>
+        <state>OR</state>
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-12T19:29:26Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A joint resolution condemning the deadly attack on May 26, 2017, in Portland, Oregon, expressing deepest condolences to the families and friends of the victims, and supporting efforts to overcome hatred, bigotry, and violence.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A joint resolution condemning the deadly attack on May 26, 2017, in Portland, Oregon, expressing deepest condolences to the families and friends of the victims, and supporting efforts to overcome hatred, bigotry, and violence.</title>
+      </item>
+    </titles>
+    <billType>SJRES</billType>
+    <amendments />
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <sentToHouse>1</sentToHouse>
+        <billReferrals>1</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>Floor</type>
+        <text>Received in the House.</text>
+        <links />
+        <committee />
+        <actionTime>14:02:05</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+        <actionCode>H14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-06-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S3372-3373</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3372-3373</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR S3372-3373; text as passed Senate: CR S3372-3373)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-06-08</introducedDate>
+    <relatedBills>
+      <item>
+        <number>105</number>
+        <latestTitle>Condemning the deadly attack on May 26, 2017, in Portland, Oregon, expressing deepest condolences to the families and friends of the victims, and supporting community efforts to overcome hatred, bigotry, and violence.</latestTitle>
+        <type>HJRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+          <actionDate>2017-06-06</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>44</number>
+        <latestTitle>A joint resolution condemning the deadly attack on May 26, 2017, in Portland, Oregon, expressing deepest condolences to the families and friends of the victims, and supporting efforts to overcome hatred, bigotry, and violence.</latestTitle>
+        <type>SJRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2017-06-06</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <calendarNumbers />
+    <billNumber>45</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-06-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-28T18:34:13Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-08</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This joint resolution condemns the attack in Portland, Oregon, on May 26, 2017. It offers condolences to the families and friends of the victims who were killed and expresses hope for the recovery of the individual who was injured.</p>]]></text>
+        </item>
+        <item>
+          <updateDate>2017-06-08T14:15:14Z</updateDate>
+          <lastSummaryUpdateDate>2018-01-31T16:31:06Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-08</actionDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>This joint resolution condemns the attack in Portland, Oregon, on May 26, 2017. It offers condolences to the families and friends of the victims who were killed and expresses hope for the recovery of the individual who was injured.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2018-02-06T16:44:21Z</updateDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-06-12</actionDate>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Hate crimes</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>A joint resolution condemning the deadly attack on May 26, 2017, in Portland, Oregon, expressing deepest condolences to the families and friends of the victims, and supporting efforts to overcome hatred, bigotry, and violence.</title>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <state>OR</state>
+        <lastName>WYDEN</lastName>
+        <middleName />
+        <firstName>RON</firstName>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <createDate>2017-06-09T00:26:35Z</createDate>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

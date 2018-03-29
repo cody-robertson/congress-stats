@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <bioguideId>J000288</bioguideId>
+        <firstName>Henry</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Graves</lastName>
+        <bioguideId>G000577</bioguideId>
+        <firstName>Garret</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000577</bioguideId>
+          <lisID>2245</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <middleName />
+        <district>6</district>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gonzalez-Colon</lastName>
+        <bioguideId>G000582</bioguideId>
+        <firstName>Jenniffer</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2347</lisID>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>PR</state>
+        <middleName />
+        <district>0</district>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-11-28</introducedDate>
+    <notes />
+    <title>Disaster Recovery Reform Act</title>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <createDate>2017-11-29T03:11:24Z</createDate>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-11-30T21:51:56Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-29T20:35:51Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw13</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-11-30T22:00:39Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-28T17:01:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-28T17:01:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <version>1.0.0</version>
+    <billNumber>4460</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Dams and canals</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Federal Emergency Management Agency (FEMA)</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Horticulture and plants</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Housing supply and affordability</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Lakes and rivers</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Residential rehabilitation and home repair</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Service animals</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Wildfire Prevention Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+          <actionDate>2017-02-17</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <number>1183</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>SMART Rebuilding Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+          <actionDate>2017-11-22</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <number>4455</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>Making further supplemental appropriations for the fiscal year ending September 30, 2018, for disaster assistance for Hurricanes Harvey, Irma, and Maria, and calendar year 2017 wildfires, and for other purposes.</latestTitle>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.</text>
+          <actionDate>2018-01-04</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <number>4667</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>Wildfire Mitigation Assistance Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2017-10-05</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <number>1932</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>Disaster Recovery Reform Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To improve the provision of disaster and mitigation assistance to eligible individuals and households and to eligible State, local, Tribal, and territorial governments and certain private nonprofit organizations, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Disaster Recovery Reform Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Disaster Recovery Reform Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2018-02-02T20:15:50Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>B001269</bioguideId>
+        <lastName>Barletta</lastName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2054</lisID>
+          <bioguideId>B001269</bioguideId>
+          <gpoId>8129</gpoId>
+        </identifiers>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <byRequestType />
+        <district>11</district>
+        <state>PA</state>
+        <firstName>Lou</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 122 (Wednesday, July 19, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LUETKEMEYER:H.R. 3312.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests liesin Article 1, Section 7, Clause 2 of the Constitution, whichallows for every bill passed by the House of Representativesand the Senate and signed by the President to be codifiedinto law; and therefore implicitly allows Congress to repealany bill that has been passed by both chambers and signedinto law by the President.Additionally, the Constitution grants to Congress theexplicit power to regulate commerce in and among the states,as enumerate in Article 1, Section 8, Clause 3, the CommerceClause.[Page H6042]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2017-11-30</actionDate>
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>3</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-30</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-30</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-30</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

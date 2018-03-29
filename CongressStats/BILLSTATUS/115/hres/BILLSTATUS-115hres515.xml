@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>515</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <text>Referred to the House Committee on Rules.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:58Z</updateDate>
+    <cosponsors>
+      <item>
+        <lastName>Richmond</lastName>
+        <firstName>Cedric</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <middleName>L.</middleName>
+        <state>LA</state>
+        <bioguideId>R000588</bioguideId>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Lujan Grisham</lastName>
+        <firstName>Michelle</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <middleName />
+        <state>NM</state>
+        <bioguideId>L000580</bioguideId>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2146</lisID>
+          <bioguideId>L000580</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Chu</lastName>
+        <firstName>Judy</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>27</district>
+        <party>D</party>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Pocan</lastName>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-13T14:00:48Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-09-13</introducedDate>
+    <title>Establishing the Select Committee on White Supremacy and Domestic Terror Movements.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Rules.</text>
+      <links />
+      <actionDate>2017-09-13</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-09-14T03:11:18Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>CROWLEY</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>C001038</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <firstName>JOSEPH</firstName>
+        <district>14</district>
+        <identifiers>
+          <lisID>1604</lisID>
+          <bioguideId>C001038</bioguideId>
+          <gpoId>8068</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Establishing the Select Committee on White Supremacy and Domestic Terror Movements.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Establishing the Select Committee on White Supremacy and Domestic Terror Movements.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Establishes the House Select Committee on White Supremacy, Nazism, and Domestic Terror Movements to investigate and report on:</p> <ul> <li> the increase in violence and threats carried out by white supremacist and neo-Nazi groups;</li> <li>the dangers presented to Jewish Americans, Muslim Americans, African Americans, Asian Pacific Americans, Latino Americans, LGBTQ Americans, and other Americans;</li> <li>ongoing efforts by the federal government to protect the rights of those targeted by white supremacist and neo-Nazi groups;</li> <li>the impact of such groups' threats to the security, health, and well-being of targeted groups, including children;</li> <li>the availability of funding to prevent violence and other threats to security by white supremacist groups; and </li> <li>the adequacy of laws to address the threats posed by white supremacists and neo-Nazi groups.</li></ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-09-13</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-11-14T22:16:04Z</lastSummaryUpdateDate>
+          <updateDate>2017-09-13T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>85</billNumber>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+        <text>Referred to the House Committee on Appropriations.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:25Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>F000448</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franks</lastName>
+        <state>AZ</state>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <middleName />
+        <firstName>Trent</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001036</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hensarling</lastName>
+        <state>TX</state>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <middleName />
+        <firstName>Jeb</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8161</gpoId>
+          <lisID>1749</lisID>
+          <bioguideId>H001036</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000820</bioguideId>
+        <district>45</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walters</lastName>
+        <state>CA</state>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <middleName />
+        <firstName>Mimi</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000820</bioguideId>
+          <lisID>2232</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gohmert</lastName>
+        <state>TX</state>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <middleName />
+        <firstName>Louie</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1801</lisID>
+          <bioguideId>G000552</bioguideId>
+          <gpoId>8157</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <district>26</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Burgess</lastName>
+        <state>TX</state>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <middleName>C.</middleName>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000607</bioguideId>
+        <district>19</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rooney</lastName>
+        <state>FL</state>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <middleName />
+        <firstName>Francis</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <lisID>2323</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsap00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:10:10Z</date>
+            </item>
+          </activities>
+          <name>Appropriations Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-03</introducedDate>
+    <title>To make 1 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Appropriations.</text>
+      <links />
+      <actionDate>2017-01-03</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-04T07:01:10Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <bioguideId>B001243</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <firstName>Marsha</firstName>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACKBURN:H.R. 85.Congress has the power to enact this legislation pursuantto the following:Article I Section 8, ``necessary and proper'' clause of theConstitution.[Page H49]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestTitle>To make 2 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</latestTitle>
+        <number>86</number>
+        <latestAction>
+          <actionDate>2017-01-03</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <latestTitle>To make 5 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</latestTitle>
+        <number>87</number>
+        <latestAction>
+          <actionDate>2017-01-03</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To make 1 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To make 1 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-12T16:39:13Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-03</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill makes 1% across-the-board rescissions in discretionary spending for FY2017 and FY2018, excluding spending for defense, homeland security, and veterans affairs. It also requires the Office of Management and Budget to submit a report to Congress specifying the account and amount of each rescission made pursuant to this bill. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

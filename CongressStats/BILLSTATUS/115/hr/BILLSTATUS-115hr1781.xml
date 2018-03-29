@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <introducedDate>2017-03-29</introducedDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <lastName>Rooney</lastName>
+        <bioguideId>R000583</bioguideId>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>1916</lisID>
+          <bioguideId>R000583</bioguideId>
+          <gpoId>7888</gpoId>
+        </identifiers>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <state>FL</state>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Claudia</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <lastName>Tenney</lastName>
+        <bioguideId>T000478</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2344</lisID>
+          <bioguideId>T000478</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <state>NY</state>
+        <district>22</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Lee</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>Zeldin</lastName>
+        <bioguideId>Z000017</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <state>NY</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Bradley</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <lastName>Byrne</lastName>
+        <bioguideId>B001289</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2197</lisID>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <state>AL</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Comprehensive Fentanyl Control Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Comprehensive Fentanyl Control Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve the ability of the Federal Government to address synthetic opioids, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Comprehensive Fentanyl Control Act</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <recordedVotes />
+    <amendments />
+    <laws />
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-21</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-31</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Oversight and Government Reform</text>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:42:16Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Comprehensive Fentanyl Control Act</b></p> <p>This bill amends the Controlled Substances Act to modify the drug quantity thresholds that trigger a mandatory minimum prison term for a defendant who manufactures, distributes, or possesses with intent to distribute fentanyl. </p> <p>It also establishes a consecutive mandatory prison term for a defendant who commits a drug offense involving a detectable amount of heroin or fentanyl. </p> <p>The bill establishes a rebuttable presumption that the illegal manufacture of a controlled substance that contains a detectable amount of heroin or fentanyl creates a substantial risk of harm to human life. </p> <p>The Drug Enforcement Administration may temporarily place a drug or substance into schedule I based on a finding: (1) that the drug or substance satisfies the criteria for being a synthetic opioid, and (2) that adding it will prevent abuse or misuse. </p> <p>The bill makes it a crime to knowingly mail to an unauthorized person equipment that may be used to manufacture counterfeit controlled substances. A violator is subject to criminal penalties.</p> <p>Finally, it makes it a crime to import, export, manufacture, distribute, dispense, or possess with intent to manufacture, distribute, or dispense, a synthetic opioid that is not clearly labeled. A violator is subject to criminal and civil penalties.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-10-26T17:48:47Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-29T04:00:00Z</updateDate>
+          <actionDate>2017-03-29</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Comprehensive Fentanyl Control Act</title>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DONOVAN:H.R. 1781.Congress has the power to enact this legislation pursuantto the following:United States Constitution, Article I, Section 8.[Page H2559]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-21T14:43:03Z</date>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T12:02:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-31T14:57:47Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T12:02:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T12:03:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <actionDate>2017-04-21</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <billNumber>1781</billNumber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+        </identifiers>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <district>11</district>
+        <lastName>Donovan</lastName>
+        <firstName>Daniel</firstName>
+        <middleName>M.</middleName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-03-30T04:33:08Z</createDate>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>To restrict the mailability of tableting machines, encapsulating machines, and controlled substance counterfeiting materials, and for other purposes.</latestTitle>
+        <number>3283</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2017-08-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Stop Trafficking in Fentanyl Act of 2017</latestTitle>
+        <number>1354</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-03-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-27</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-09-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <actionDate>2017-10-04</actionDate>
+    </latestAction>
+    <laws />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000032</bioguideId>
+        <middleName>WILLIAM</middleName>
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000575</bioguideId>
+        <middleName />
+        <lastName>Blunt</lastName>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <firstName>Roy</firstName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000127</bioguideId>
+        <middleName />
+        <lastName>CANTWELL</lastName>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+        </identifiers>
+        <firstName>MARIA</firstName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <title>TSA Modernization Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-02-23T15:26:00Z</date>
+              <name>Legislative interest</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-10-04T14:00:02Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-09-27T19:21:09Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <calendarNumbers />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>1872</billNumber>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-11-02T13:15:18Z</pubDate>
+        <url>https://www.cbo.gov/publication/53278</url>
+        <title>S. 1872, TSA Modernization Act</title>
+      </item>
+    </cboCostEstimates>
+    <introducedDate>2017-09-27</introducedDate>
+    <congress>115</congress>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <state>SD</state>
+        <middleName>R.</middleName>
+        <bioguideId>T000250</bioguideId>
+        <firstName>JOHN</firstName>
+        <byRequestType />
+        <lastName>THUNE</lastName>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills />
+    <createDate>2017-09-28T00:26:19Z</createDate>
+    <updateDate>2018-02-24T08:13:03Z</updateDate>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>TSA Modernization Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to authorize the programs of the Transportation Security Administration relating to transportation security, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>TSA Modernization Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>TSA Modernization Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

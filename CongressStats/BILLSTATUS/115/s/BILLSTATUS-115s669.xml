@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>10</senate>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <committee>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2017-11-30</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-30</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Received in the House.</text>
+        <actionDate>2017-11-30</actionDate>
+        <actionTime>14:55:39</actionTime>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-11-29</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7497-7498</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7497-7498</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S7497-7498)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <actionDate>2017-11-29</actionDate>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-29</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7497-7498</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7497-7498</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S7497-7498)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 193.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-143</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/143</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-143.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-143</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/143</url>
+          </link>
+        </links>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-143.</text>
+        <actionDate>2017-08-02</actionDate>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-03-21</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <sentToHouse>1</sentToHouse>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <placeholderTextForH>1</placeholderTextForH>
+        <passedSenate>1</passedSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+      <actionDate>2017-12-05</actionDate>
+    </latestAction>
+    <laws />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <lastName>WYDEN</lastName>
+        <firstName>RON</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <state>OR</state>
+        <party>D</party>
+        <bioguideId>W000779</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <lastName>MURRAY</lastName>
+        <firstName>PATTY</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <state>WA</state>
+        <party>D</party>
+        <bioguideId>M001111</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+        </identifiers>
+        <lastName>CANTWELL</lastName>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <state>WA</state>
+        <party>D</party>
+        <bioguideId>C000127</bioguideId>
+      </item>
+    </cosponsors>
+    <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-11-30T22:26:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-12-05T20:10:32Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii24</systemCode>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+        </item>
+        <item>
+          <type>Other</type>
+          <activities>
+            <item>
+              <date>2017-08-02T21:15:52Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-03-29T18:30:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-21T15:23:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>slia00</systemCode>
+          <subcommittees />
+          <name>Indian Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-143</citation>
+      </committeeReport>
+    </committeeReports>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0193</number>
+      </item>
+    </calendarNumbers>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-21</actionDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-07-10T18:04:32Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</b></p> <p>This bill authorizes the Bureau of Indian Affairs (BIA) to assess sanitation and safety conditions on land set aside to provide Columbia River Treaty tribes access to traditional fishing grounds. The bill applies to land held by the United States for the benefit of the Nez Perce Tribe, the Confederated Tribes of Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, and the Confederated Tribes and Bands of the Yakama Nation.</p> The BIA may enter into contracts with tribes or tribal organizations to improve sanitation, safety conditions, and access to electricity, sewer, and water infrastructure on this land.]]></text>
+          <updateDate>2017-03-21T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2017-08-02</actionDate>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-08-23T16:23:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</b></p> <p>(Sec. 2) This bill authorizes the Bureau of Indian Affairs (BIA) to assess sanitation and safety conditions on land set aside to provide Columbia River Treaty tribes access to traditional fishing grounds. The bill applies to land held by the United States for the benefit of the Nez Perce Tribe, the Confederated Tribes of Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, and the Confederated Tribes and Bands of the Yakama Nation.</p> The BIA may enter into contracts with tribes or tribal organizations to improve sanitation, safety conditions, and access to electricity, sewer, and water infrastructure on this land.]]></text>
+          <updateDate>2017-08-02T14:06:19Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2017-11-29</actionDate>
+          <name>Passed Senate amended</name>
+          <versionCode>35</versionCode>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2017-12-11T17:35:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</b></p> <p>(Sec. 2) This bill authorizes the Bureau of Indian Affairs (BIA) to assess sanitation and safety conditions on land set aside to provide Columbia River Treaty tribes access to traditional fishing grounds. The bill applies to land held by the United States for the benefit of the Nez Perce Tribe, the Confederated Tribes of Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, and the Confederated Tribes and Bands of the Yakama Nation.</p> <p>The BIA may enter into contracts with tribes or tribal organizations to improve sanitation, safety conditions, and access to electricity, sewer, and water infrastructure on this land. </p> <p>(Sec. 3) The Government Accountability Office must evaluate whether the sanitation and safety conditions on the lands have improved as a result of the contracts and report on the results of the evaluation.</p> <ul> </ul>]]></text>
+          <updateDate>2017-11-29T15:18:49Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>669</billNumber>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-07-07T19:34:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52872</url>
+        <title>S. 669, Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+      </item>
+    </cboCostEstimates>
+    <introducedDate>2017-03-21</introducedDate>
+    <congress>115</congress>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <state>OR</state>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <byRequestType />
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <amendments>
+      <amendment>
+        <latestAction>
+          <actionDate>2017-11-29</actionDate>
+          <text>Amendment SA 1638 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <purpose>To authorize a study of the program to assess sanitation and safety conditions at Bureau of Indian Affairs facilities that were constructed to provide affected Columbia River Treaty tribes access to traditional fishing grounds and make related improvements.</purpose>
+        <type>SAMDT</type>
+        <congress>115</congress>
+        <description />
+        <number>1638</number>
+        <proposedDate>2017-11-29T05:00:00Z</proposedDate>
+        <amendedAmendment />
+        <congress>115</congress>
+        <version>1.0.0</version>
+        <createDate>2017-11-30T05:31:27Z</createDate>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <links />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <titles />
+        <amendedBill>
+          <congress>115</congress>
+          <type>S</type>
+          <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+          <originChamberCode>S</originChamberCode>
+          <originChamber>Senate</originChamber>
+          <number>669</number>
+        </amendedBill>
+        <submittedDate>2017-11-29T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <notes />
+        <type>SAMDT</type>
+        <description />
+        <sponsors>
+          <item>
+            <lastName>Hoeven</lastName>
+            <identifiers>
+              <bioguideId>H001061</bioguideId>
+              <lisID>2079</lisID>
+              <gpoId>8331</gpoId>
+            </identifiers>
+            <middleName />
+            <bioguideId>H001061</bioguideId>
+            <firstName>John</firstName>
+            <state>ND</state>
+            <fullName>Sen. Hoeven, John [R-ND]</fullName>
+            <party>R</party>
+          </item>
+        </sponsors>
+        <purpose>To authorize a study of the program to assess sanitation and safety conditions at Bureau of Indian Affairs facilities that were constructed to provide affected Columbia River Treaty tribes access to traditional fishing grounds and make related improvements.</purpose>
+        <actions>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2017-11-29</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.1638</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1638</url>
+                </link>
+                <link>
+                  <name>SA 1638</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1638</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1638 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-11-29</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.1638</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1638</url>
+                </link>
+                <link>
+                  <name>S7497</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7497</url>
+                </link>
+                <link>
+                  <name>S7497-7498</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7497-7498</url>
+                </link>
+                <link>
+                  <name>SA 1638</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1638</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1638 proposed by Senator McConnell for Senator Hoeven. (consideration: CR S7497-7498; text: CR S7497) To authorize a study of the program to assess sanitation and safety conditions at Bureau of Indian Affairs facilities that were constructed to provide affected Columbia River Treaty tribes access to traditional fishing grounds and make related improvements.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-11-29</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2017-11-29</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 1638 proposed by Senator McConnell for Senator Hoeven.</text>
+              <links>
+                <link>
+                  <name>S.Amdt.1638</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1638</url>
+                </link>
+                <link>
+                  <name>S7497</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7497</url>
+                </link>
+                <link>
+                  <name>S7497-7498</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7497-7498</url>
+                </link>
+                <link>
+                  <name>SA 1638</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1638</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+            </item>
+            <item>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2017-11-29</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 1638 agreed to in Senate by Unanimous Consent.</text>
+              <links>
+                <link>
+                  <name>S.Amdt.1638</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1638</url>
+                </link>
+                <link>
+                  <name>SA 1638</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1638</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+            </item>
+            <item>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2017-11-29</actionDate>
+              <text>Senate amendment submitted</text>
+              <links />
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+            </item>
+          </actions>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <count>6</count>
+        </actions>
+        <updateDate>2018-02-22T15:28:46Z</updateDate>
+        <number>1638</number>
+      </amendment>
+    </amendments>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <number>1630</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-03-27</actionDate>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        </latestAction>
+        <latestTitle>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <createDate>2017-03-22T05:45:19Z</createDate>
+    <updateDate>2018-02-22T15:28:46Z</updateDate>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to authorize the Secretary of the Interior to assess sanitation and safety conditions at Bureau of Indian Affairs facilities that were constructed to provide affected Columbia River Treaty tribes access to traditional fishing grounds and expend funds on construction of facilities and structures to improve those conditions, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

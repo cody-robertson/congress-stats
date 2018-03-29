@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 297.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/203</url>
+            <name>report No. 115-203</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-203.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/203</url>
+            <name>report No. 115-203</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-203.</text>
+        <actionCode>14000</actionCode>
+        <actionDate>2018-02-05</actionDate>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 297.</text>
+      <actionDate>2018-02-05</actionDate>
+    </latestAction>
+    <laws />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000463</bioguideId>
+        <middleName />
+        <lastName>Fischer</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+        </identifiers>
+        <firstName>Deb</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000383</bioguideId>
+        <middleName />
+        <lastName>King</lastName>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Angus</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+      </item>
+      <item>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001047</bioguideId>
+        <middleName>MOORE</middleName>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <state>WV</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001035</bioguideId>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <title>Reinforcing American-Made Products Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2018-02-05T20:54:00Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-05-18T14:00:06Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-01-12T19:02:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-203</citation>
+      </committeeReport>
+    </committeeReports>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0297</number>
+      </item>
+    </calendarNumbers>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-02-17T23:07:01Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-12</actionDate>
+          <text><![CDATA[<p><b>Reinforcing American-Made Products Act of</b> <b>2017</b></p> <p>This bill amends the Violent Crime Control and Law Enforcement Act of 1994 to require the Federal Trade Commission's regulation of the labeling of products as &quot;Made in the U.S.A.&quot; or &quot;Made in America&quot; to supersede any state laws regarding the extent to which a product is introduced, delivered, sold, advertised, or offered for sale in interstate or foreign commerce with such a label in order to represent that the product was in whole or substantial part of domestic origin. </p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Buy American requirements</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Federal Trade Commission (FTC)</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>118</billNumber>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-06-13T18:56:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52808</url>
+        <title>S. 118, Reinforcing American-Made Products Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <introducedDate>2017-01-12</introducedDate>
+    <congress>115</congress>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <state>UT</state>
+        <middleName />
+        <bioguideId>L000577</bioguideId>
+        <firstName>Mike</firstName>
+        <byRequestType />
+        <lastName>Lee</lastName>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Reinforcing American-Made Products Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+          <actionDate>2018-02-05</actionDate>
+        </latestAction>
+        <number>4923</number>
+      </item>
+    </relatedBills>
+    <createDate>2017-01-13T04:55:34Z</createDate>
+    <updateDate>2018-02-22T15:29:37Z</updateDate>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <title>Reinforcing American-Made Products Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Reinforcing American-Made Products Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Reinforcing American-Made Products Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to make exclusive the authority of the Federal Government to regulate the labeling of products made in the United States and introduced in interstate or foreign commerce, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Reinforcing American-Made Products Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>368</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to House Foreign Affairs</text>
+      <links />
+      <actionDate>2017-05-25</actionDate>
+    </latestAction>
+    <createDate>2017-05-26T03:11:38Z</createDate>
+    <title>Disapproving of the irresponsible actions and negligence of President Trump which may have caused grave harm to United States national security.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-05-25</actionDate>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that the President's&nbsp;handling of classified information&nbsp;has undermined the confidence of international partners and may have harmed U.S. national security.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-07-17T12:57:55Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Referred to House Foreign Affairs</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent Select) Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Referred to House Intelligence (Permanent)</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2018-02-06T16:39:49Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>T000460</bioguideId>
+        <district>5</district>
+        <middleName />
+        <byRequestType />
+        <firstName>MIKE</firstName>
+        <lastName>THOMPSON</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:01:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:00:50Z</date>
+            </item>
+          </activities>
+          <type>Select</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>E000215</bioguideId>
+        <district>18</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>ESHOO</lastName>
+        <state>CA</state>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <middleName>G.</middleName>
+        <firstName>ANNA</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001145</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <middleName>D.</middleName>
+        <firstName>JANICE</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <district>20</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>HASTINGS</lastName>
+        <state>FL</state>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <middleName>L.</middleName>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000535</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>GUTIERREZ</lastName>
+        <state>IL</state>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <middleName>V.</middleName>
+        <firstName>LUIS</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>478</lisID>
+          <bioguideId>G000535</bioguideId>
+          <gpoId>7924</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000576</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ruppersberger</lastName>
+        <state>MD</state>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <middleName>Dutch</middleName>
+        <firstName>C. A.</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCGOVERN</lastName>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>N000002</bioguideId>
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>NADLER</lastName>
+        <state>NY</state>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName />
+        <firstName>JERROLD</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000298</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jayapal</lastName>
+        <state>WA</state>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName />
+        <firstName>Pramila</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+          <lisID>2354</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001163</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Matsui</lastName>
+        <state>CA</state>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>O.</middleName>
+        <firstName>Doris</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName />
+        <firstName>EARL</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName />
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000294</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jeffries</lastName>
+        <state>NY</state>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>S.</middleName>
+        <firstName>Hakeem</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2149</lisID>
+          <bioguideId>J000294</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000096</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>DAVIS</lastName>
+        <state>IL</state>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>K.</middleName>
+        <firstName>DANNY</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001080</bioguideId>
+        <district>27</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Chu</lastName>
+        <state>CA</state>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName />
+        <firstName>Judy</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001170</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shea-Porter</lastName>
+        <state>NH</state>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName />
+        <firstName>Carol</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Johnson</lastName>
+        <state>GA</state>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>C. "Hank"</middleName>
+        <firstName>Henry</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7901</gpoId>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Soto</lastName>
+        <state>FL</state>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>Darren</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>JACKSON LEE</lastName>
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>SHEILA</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000187</bioguideId>
+        <district>43</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>WATERS</lastName>
+        <state>CA</state>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>MAXINE</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7840</gpoId>
+          <lisID>1205</lisID>
+          <bioguideId>W000187</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>VELAZQUEZ</lastName>
+        <state>NY</state>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <middleName>M.</middleName>
+        <firstName>NYDIA</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-05-25</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Disapproving of the irresponsible actions and negligence of President Trump which may have caused grave harm to United States national security.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Disapproving of the irresponsible actions and negligence of President Trump which may have caused grave harm to United States national security.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

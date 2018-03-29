@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>799</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Referred to House Judiciary</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Referred to House Education and the Workforce</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:41:11Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>LA</state>
+        <identifiers>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <lastName>Richmond</lastName>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000588</bioguideId>
+        <firstName>Cedric</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2255</lisID>
+          <gpoId />
+          <bioguideId>W000819</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <lastName>Walker</lastName>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000819</bioguideId>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AR</state>
+        <identifiers>
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <lastName>Westerman</lastName>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000821</bioguideId>
+        <firstName>Bruce</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>L000584</bioguideId>
+          <gpoId />
+          <lisID>2271</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <lastName>Love</lastName>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000584</bioguideId>
+        <firstName>Mia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2252</lisID>
+          <bioguideId>L000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <lastName>Lawrence</lastName>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000581</bioguideId>
+        <firstName>Brenda</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <lastName>Posey</lastName>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000599</bioguideId>
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000815</bioguideId>
+          <lisID>2152</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <lastName>Wenstrup</lastName>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000815</bioguideId>
+        <firstName>Brad</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>SC</state>
+        <identifiers>
+          <lisID>1688</lisID>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <lastName>Wilson</lastName>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000795</bioguideId>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <gpoId />
+          <lisID>2236</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <lastName>Carter</lastName>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <middleName>L. "Buddy"</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001103</bioguideId>
+        <firstName>Earl</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <lastName>Luetkemeyer</lastName>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000569</bioguideId>
+        <firstName>Blaine</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <lastName>Cohen</lastName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001068</bioguideId>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2269</lisID>
+          <bioguideId>H001073</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <lastName>Hurd</lastName>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001073</bioguideId>
+        <firstName>Will</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <district>32</district>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <lastName>SESSIONS</lastName>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000250</bioguideId>
+        <firstName>PETE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2239</lisID>
+          <bioguideId>A000372</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <lastName>Allen</lastName>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000372</bioguideId>
+        <firstName>Rick</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MO</state>
+        <identifiers>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <lastName>CLAY</lastName>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <middleName>LACY</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001049</bioguideId>
+        <firstName>WM.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MS</state>
+        <identifiers>
+          <lisID>2294</lisID>
+          <bioguideId>K000388</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000388</bioguideId>
+        <firstName>Trent</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <lastName>Stivers</lastName>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001187</bioguideId>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AL</state>
+        <identifiers>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <lastName>Sewell</lastName>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001185</bioguideId>
+        <firstName>Terri</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <gpoId>7899</gpoId>
+          <lisID>91</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <lastName>BISHOP</lastName>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <middleName>D.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000490</bioguideId>
+        <firstName>SANFORD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+          <lisID>1741</lisID>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <lastName>Turner</lastName>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000463</bioguideId>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TN</state>
+        <identifiers>
+          <lisID>2348</lisID>
+          <bioguideId>K000392</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <lastName>Kustoff</lastName>
+        <fullName>Rep. Kustoff, David [R-TN-8]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000392</bioguideId>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001195</bioguideId>
+          <gpoId />
+          <lisID>2277</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <lastName>Mooney</lastName>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <middleName>X.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001195</bioguideId>
+        <firstName>Alexander</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-02T14:55:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T15:01:25Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Education and the Workforce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T15:01:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-01</introducedDate>
+    <title>Shift Back to Society Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+      <actionDate>2017-03-02</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-02-02T05:28:45Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Hill</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <bioguideId>H001072</bioguideId>
+        <middleName>French</middleName>
+        <byRequestType />
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <firstName>J.</firstName>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2223</lisID>
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HILL:H.R. 799.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H878]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Shift Back to Society Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Shift Back to Society Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To authorize the Attorney General, in consultation with the Secretary of Education, to establish a pilot program to make grants to historically Black colleges and universities to provide educational programs to offenders who have recently been, or will soon be, released from incarceration, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Shift Back to Society Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Shift Back to Society Act of </b><b>2017</b></p> <p>This bill directs the Department of Justice to establish a pilot program that awards matching grants to historically black colleges and universities to provide educational programs for eligible offenders to facilitate re-entry into the community. </p> <p>An eligible offender is a convicted criminal offender who has been released from incarceration for less than one year or who is scheduled to be released from incarceration within one year.</p> <p>The Government Accountability Office must report to Congress on the results of the pilot program.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-01</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-02-14T19:16:25Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

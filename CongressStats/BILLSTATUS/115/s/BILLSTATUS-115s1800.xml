@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2017-09-12</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-09-12</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <updateDate>2018-01-25T21:35:37Z</updateDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Securing the Electric Grid to Protect Military Readiness Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-17</actionDate>
+          <text>Referred to the Subcommittee on Readiness.</text>
+        </latestAction>
+        <number>3855</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Securing the Electric Grid to Protect Military Readiness Act of 2017</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Securing the Electric Grid to Protect Military Readiness Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to require a report on significant security risks of the national electric grid and the potential effect of any such security risks on the readiness of the Armed Forces.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Securing the Electric Grid to Protect Military Readiness Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Securing the Electric Grid to Protect Military Readiness Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <notes />
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <createDate>2017-09-13T07:56:22Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Warren</lastName>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <bioguideId>W000817</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <billNumber>1800</billNumber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <introducedDate>2017-09-12</introducedDate>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-12T20:56:04Z</date>
+            </item>
+          </activities>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <links />
+      <actionDate>2017-09-12</actionDate>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <state>NC</state>
+        <party>R</party>
+        <lastName>Tillis</lastName>
+        <bioguideId>T000476</bioguideId>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

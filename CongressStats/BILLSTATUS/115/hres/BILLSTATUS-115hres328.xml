@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>328</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hsfa13</systemCode>
+          <name>Middle East and North Africa Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-17</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H4233-4234)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4233-4234</url>
+            <name>H4233-4234</name>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-16</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-16</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-16</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:46Z</updateDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <lisID>2323</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <district>19</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <party>R</party>
+        <firstName>Francis</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rooney</lastName>
+        <state>FL</state>
+        <bioguideId>R000607</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <gpoId>8078</gpoId>
+          <lisID>344</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <district>16</district>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <party>D</party>
+        <firstName>ELIOT</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ENGEL</lastName>
+        <state>NY</state>
+        <bioguideId>E000179</bioguideId>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arab-Israeli relations</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Egypt</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Jordan</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Middle East and North Africa Subcommittee</name>
+              <systemCode>hsfa13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-27T16:49:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-16T16:05:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-05-16</introducedDate>
+    <title>Commemorating the 50th anniversary of the reunification of Jerusalem, and for other purposes.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+      <links />
+      <actionDate>2017-06-27</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-05-17T03:11:37Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>S001201</bioguideId>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <district>3</district>
+        <identifiers>
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Commemorating the 50th anniversary of the reunification of Jerusalem, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Commemorating the 50th anniversary of the reunification of Jerusalem, and for other purposes.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-05-16T04:00:00Z</updateDate>
+          <actionDate>2017-05-16</actionDate>
+          <text><![CDATA[<p>Recognizes the 50th anniversary of the reunification of Jerusalem. </p> <p>Expresses support for: (1) Israel's commitment to religious freedom and protection of holy sites in Jerusalem, and (2) strengthening the American-Israeli alliance.</p> <p>Commends Egypt and Jordan for embracing a vision of peace and coexistence with Israel and continuing to respect their respective peace agreements.</p> <p>Urges all parties in the Middle East to rededicate themselves to finding a sustainable solution to the Israeli-Palestinian conflict.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-08-14T17:51:46Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

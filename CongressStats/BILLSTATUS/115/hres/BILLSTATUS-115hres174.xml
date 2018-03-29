@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <recordedVotes>
+      <recordedVote>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <rollNumber>133</rollNumber>
+        <date>2017-03-08T20:17:19Z</date>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll133.xml</url>
+        <congress>115</congress>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <rollNumber>131</rollNumber>
+        <date>2017-03-08T19:52:51Z</date>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll131.xml</url>
+        <congress>115</congress>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <updateDate>2018-02-22T15:26:48Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-03-08T00:22:48Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-07T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-03-08T09:03:34Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-07</actionDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017.]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers>
+      <item>
+        <calendar>H00016</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <notes />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2017-03-08T05:28:12Z</createDate>
+    <version>1.0.0</version>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-26</citation>
+      </committeeReport>
+    </committeeReports>
+    <actions>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionTime>15:17:20</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 233 - 185 (Roll no. 133). (text: CR H1604)</text>
+        <actionCode>H37100</actionCode>
+        <actionTime>15:17:19</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1604</url>
+          </link>
+          <link>
+            <name>Roll no. 133</name>
+            <url>http://clerk.house.gov/evs/2017/roll133.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 185 (Roll no. 133).(text: CR H1604)</text>
+        <actionCode>8000</actionCode>
+        <actionTime>15:17:19</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1604</url>
+          </link>
+          <link>
+            <name>Roll no. 133</name>
+            <url>http://clerk.house.gov/evs/2017/roll133.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered as unfinished business. (consideration: CR H1619-1620)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>15:10:28</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1619-1620</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1619-1620</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 232 - 189 (Roll no. 131). (consideration: CR H1618)</text>
+        <actionCode>H35000</actionCode>
+        <actionTime>14:52:51</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1618</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1618</url>
+          </link>
+          <link>
+            <name>Roll no. 131</name>
+            <url>http://clerk.house.gov/evs/2017/roll131.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered as unfinished business. (consideration: CR H1604-1611)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>14:45:57</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1604-1611</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1604-1611</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 174, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>13:29:07</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 174</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/174</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 174.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>12:27:55</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 174</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/174</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered as privileged matter. (consideration: CR H1604)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>12:26:07</actionTime>
+        <committee />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1604</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Placed on the House Calendar, Calendar No. 16.</text>
+        <actionCode>H12420</actionCode>
+        <committee />
+        <actionDate>2017-03-07</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Rule provides for consideration of H.R. 1301</text>
+        <actionCode>H12700</actionCode>
+        <actionTime>19:22:49</actionTime>
+        <committee />
+        <actionDate>2017-03-07</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 1301</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1301</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-26, by Ms. Cheney.</text>
+        <actionCode>H12100</actionCode>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-03-07</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-26</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/26</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-26, by Ms. Cheney.</text>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-03-07</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-26</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/26</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-03-07</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToHouse>1</reportedToHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <considerationByHouse>3</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>2</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2017-03-08</actionDate>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>15:17:20</actionTime>
+    </latestAction>
+    <billNumber>174</billNumber>
+    <amendments />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <title>Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.</title>
+    <introducedDate>2017-03-07</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <lastName>Cheney</lastName>
+        <middleName />
+        <firstName>Liz</firstName>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <bioguideId>C001109</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001109</bioguideId>
+          <lisID>2356</lisID>
+        </identifiers>
+        <state>WY</state>
+        <district>0</district>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestTitle>Continuing Appropriations Amendments Act, 2018</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-02-09</actionDate>
+          <text>Became Public Law No: 115-124.</text>
+        </latestAction>
+        <number>1301</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+          <bioguideId>C001038</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <bioguideId>C001038</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+        <firstName>JOSEPH</firstName>
+        <lastName>CROWLEY</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billNumber>98</billNumber>
+    <title>Ranking a certain Member of a certain standing committee of the House of Representatives.</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on the Budget</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionTime>17:13:34</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H1057)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H1057</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1057</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <actionTime>17:13:20</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1057)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H1057</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1057</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionTime>17:13:20</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Considered as privileged matter. (consideration: CR H1057)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H1057</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1057</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>17:13:08</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Ranking a certain Member of a certain standing committee of the House of Representatives.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Ranking a certain Member of a certain standing committee of the House of Representatives.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Ranks a specified Member on the House Committee on the Budget.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-07</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-06T21:29:54Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Ranks a specified Member on the House Committee on the Budget.</p>]]></text>
+          <versionCode>81</versionCode>
+          <actionDate>2017-02-07</actionDate>
+          <name>Passed House without amendment</name>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-03-06T21:30:03Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-07T15:03:43Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees />
+    </committees>
+    <introducedDate>2017-02-07</introducedDate>
+    <updateDate>2018-02-06T16:39:34Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>HRES</billType>
+    <createDate>2017-02-08T04:45:55Z</createDate>
+    <latestAction>
+      <actionTime>17:13:34</actionTime>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionDate>2017-02-07</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-12-05</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-12-05</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-12-05</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 198 (Tuesday, December 5, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. WAGNER:H.R. 4557.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1____________________[Page H9665]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2017-12-05</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <introducedDate>2017-12-05</introducedDate>
+    <billNumber>4557</billNumber>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-12-05T15:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Reforming Disaster Recovery Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To authorize the Secretary of Housing and Urban Development to provide disaster assistance to States and units of general government under a community development block grant disaster recovery program, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Reforming Disaster Recovery Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Reforming Disaster Recovery Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-12-06T03:11:08Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <updateDate>2017-12-13T11:45:08Z</updateDate>
+    <cosponsors />
+    <laws />
+    <title>Reforming Disaster Recovery Act of 2017</title>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>2137</lisID>
+          <gpoId />
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <lastName>Wagner</lastName>
+        <firstName>Ann</firstName>
+        <state>MO</state>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <middleName />
+        <district>2</district>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

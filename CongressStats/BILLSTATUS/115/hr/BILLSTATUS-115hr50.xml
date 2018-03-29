@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>50</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Rules</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Budget</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Oversight and Government Reform</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on the Budget, Rules, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>4</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:23Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <bioguideId>C001063</bioguideId>
+        <lastName>Cuellar</lastName>
+        <party>D</party>
+        <district>28</district>
+        <firstName>Henry</firstName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+          <lisID>1807</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:08:40Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju05</systemCode>
+              <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-12T15:58:04Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:08:35Z</date>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsbu00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:08:30Z</date>
+            </item>
+          </activities>
+          <name>Budget Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:08:25Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-03</introducedDate>
+    <title>Unfunded Mandates Information and Transparency Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <links />
+      <actionDate>2017-01-12</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-04T07:01:09Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Foxx</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <bioguideId>F000450</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <firstName>Virginia</firstName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>F000450</bioguideId>
+          <lisID>1791</lisID>
+          <gpoId>8028</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H47-H48]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. FOXX:H.R. 50.Congress has the power to enact this legislation pursuantto the following:[[Page H48]]The authority to enact this bill is derived from, but maynot be limited to, Article I, Section 8, Clause 3 of theUnited States Constitution, and Article I, Section 8, Clause18 of the United States Constitution.</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-07-10</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <type>S</type>
+        <number>1523</number>
+        <latestTitle>Unfunded Mandates Information and Transparency Act of 2017</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Unfunded Mandates Information and Transparency Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Unfunded Mandates Information and Transparency Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for additional safeguards with respect to imposing Federal mandates, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Unfunded Mandates Information and Transparency Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Unfunded Mandates Information and Transparency Act of 2017</strong></p> <p> This bill amends the Congressional Budget Act of 1974 to: (1) require the Congressional Budget Office (CBO), at the request of the chairman or ranking member of a congressional committee, to conduct an assessment comparing the authorized level of funding in legislation to the prospective costs of carrying out any changes to a condition of federal assistance being imposed on state, local, or tribal governments participating in the federal assistance program; (2) modify the definition of &quot;direct costs&quot; to require CBO to consider, in accounting for the costs of federal mandates, forgone business profits, costs passed onto consumers and other entities, and behavioral changes; (3) eliminate the exemption of independent regulatory agencies (except the Board of Governors of the Federal Reserve System, the Federal Open Market Committee, or the Consumer Financial Protection Bureau) from reporting requirements under the Unfunded Mandates Reform Act of 1995 (UMRA); and (4) make the raising of points of order in the consideration of congressional legislation applicable to legislation that would increase the direct cost of private sector mandates beyond limits established by UMRA.</p> <p>The bill amends UMRA to: (1) transfer certain responsibilities under it from the Office of Management and Budget to the Office of Information and Regulatory Affairs (OIRA); (2) set forth detailed criteria to guide agencies in assessing the effects of federal regulatory actions on state, local, and tribal governments and the private sector; (3) revise requirements for agency statements accompanying significant regulatory actions to require an analysis of the effects of a proposed final rule on state, local, or tribal governments, the private sector, and private property owners; and (4) extend to the the private sector the requirement for consultation with agencies in the development of regulatory proposals containing significant federal mandates.</p> <p>UMRA reporting requirements are revised to require: (1) the OIRA to provide guidance and oversight so that agency regulations are consistent with the principles and policies of UMRA and do not conflict with the policies or actions of another agency; and (2) agencies to include in their annual compliance statements an appendix detailing consultation activities with state, local, and tribal governments and the private sector.</p> <p>The bill requires an agency, at the request of the chairman or ranking member of a standing or select House or Senate Committee, to conduct a retrospective analysis of an existing regulation promulgated by such agency. </p> <p>Judicial review under UMRA is expanded to include review of provisions of such Act relating to agency assessment of the effects of the regulatory process and agency selection of the least costly or least burdensome alternative to a regulatory mandate. Courts are granted expanded powers to compel agencies to comply with UMRA reporting requirements.</p>]]></text>
+          <lastSummaryUpdateDate>2017-01-10T20:54:48Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

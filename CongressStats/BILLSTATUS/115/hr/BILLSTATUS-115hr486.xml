@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>486</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR H964)</text>
+        <links>
+          <link>
+            <name>H964</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H964</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-03</actionDate>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:50Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>S001183</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schweikert</lastName>
+        <state>AZ</state>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>David</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gosar</lastName>
+        <state>AZ</state>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+          <lisID>2144</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Brooks</lastName>
+        <state>AL</state>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>Mo</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001269</bioguideId>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Barletta</lastName>
+        <state>PA</state>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>Lou</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001269</bioguideId>
+          <gpoId>8129</gpoId>
+          <lisID>2054</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001180</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>McKinley</lastName>
+        <state>WV</state>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName>B.</middleName>
+        <firstName>David</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>CHABOT</lastName>
+        <state>OH</state>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>STEVE</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000609</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Palmer</lastName>
+        <state>AL</state>
+        <fullName>Rep. Palmer, Gary J. [R-AL-6]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>Gary</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2221</lisID>
+          <bioguideId>P000609</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Carter</lastName>
+        <state>GA</state>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName>L. "Buddy"</middleName>
+        <firstName>Earl</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2236</lisID>
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Duncan</lastName>
+        <state>SC</state>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000576</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Grothman</lastName>
+        <state>WI</state>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>Glenn</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2276</lisID>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001290</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Brat</lastName>
+        <state>VA</state>
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>Dave</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2203</lisID>
+          <bioguideId>B001290</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000448</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franks</lastName>
+        <state>AZ</state>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <firstName>Trent</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000607</bioguideId>
+        <district>19</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rooney</lastName>
+        <state>FL</state>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <middleName />
+        <firstName>Francis</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2323</lisID>
+          <bioguideId>R000607</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>E000294</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Emmer</lastName>
+        <state>MN</state>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <middleName />
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2253</lisID>
+          <bioguideId>E000294</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000621</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>DeSantis</lastName>
+        <state>FL</state>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <middleName />
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000621</bioguideId>
+          <lisID>2116</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001187</bioguideId>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meadows</lastName>
+        <state>NC</state>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <middleName />
+        <firstName>Mark</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Perry</lastName>
+        <state>PA</state>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <middleName />
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000580</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Garrett</lastName>
+        <state>VA</state>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000616</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>DesJarlais</lastName>
+        <state>TN</state>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <middleName />
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000616</bioguideId>
+          <lisID>2062</lisID>
+          <gpoId>8151</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <district>36</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Babin</lastName>
+        <state>TX</state>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <middleName />
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2270</lisID>
+          <gpoId />
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001071</bioguideId>
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hice</lastName>
+        <state>GA</state>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <middleName>B.</middleName>
+        <firstName>Jody</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001157</bioguideId>
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaul</lastName>
+        <state>TX</state>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName>T.</middleName>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>N000190</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Norman</lastName>
+        <state>SC</state>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <middleName />
+        <firstName>Ralph</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-01-13T22:35:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-01-12T15:05:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-12</introducedDate>
+    <title>Grant's Law</title>
+    <amendments />
+    <latestAction>
+      <text>Sponsor introductory remarks on measure. (CR H964)</text>
+      <links />
+      <actionDate>2017-02-03</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-13T04:55:31Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Biggs</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <bioguideId>B001302</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <firstName>Andy</firstName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <lisID>2307</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BIGGS:H.R. 486.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 enumerated powers.[Page H472]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Grant’s Law</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Grant's Law</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Secretary of Homeland Security to detain any alien who is unlawfully present in the United States and is arrested for certain criminal offenses.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Grant's Law</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Grant's Law</b></p> <p>This bill amends the Immigration and Nationality Act to require mandatory detention of any alien who is unlawfully present in the United States and arrested for inadmissible or deportable crimes. </p> <p>The bill transfers release authority from the Department of Justice to the Department of Homeland Security (DHS). DHS may release the alien to an appropriate authority for proceedings related to the arrest, but DHS must resume custody for any period that the alien is not in custody of the appropriate authority. If the alien is not convicted of crimes for which the alien was arrested, DHS must continue to detain the alien until removal proceedings are completed. </p> <p>DHS must complete the removal proceedings within 90 days. </p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-02-07T16:36:06Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <actionDate>2017-01-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

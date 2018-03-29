@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4554</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-05T15:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-12-08T16:40:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-05T15:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>B000574</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <district>3</district>
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+        </identifiers>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <lastName>BLUMENAUER</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>S000364</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <district>15</district>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1527</lisID>
+          <bioguideId>S000364</bioguideId>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <lastName>SHIMKUS</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000624</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <district>12</district>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <lastName>Dingell</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>M001181</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Patrick</firstName>
+        <district>7</district>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <lastName>Meehan</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>B001296</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brendan</firstName>
+        <district>13</district>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <lastName>Boyle</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>C001106</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ryan</firstName>
+        <district>6</district>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2266</lisID>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <lastName>Costello</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001078</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gerald</firstName>
+        <district>11</district>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <lastName>Connolly</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001260</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Vern</firstName>
+        <district>16</district>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <lastName>Buchanan</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000096</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>DANNY</firstName>
+        <district>7</district>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <lastName>DAVIS</lastName>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <actionDate>2017-12-08</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 198 (Tuesday, December 5, 2017)][Pages H9664-H9665]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROSKAM:H.R. 4554.Congress has the power to enact this legislation pursuantto the following:(a) Article I, Section 1, to exercise the legislativepowers vested in Congress as granted in the Constitution; and[[Page H9665]](a) Article I, Section 8, Clause 18, which gives Congressthe authority ``To make all Laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States, or in any Department orOfficer thereof''.[Page H5524]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <updateDate>2018-01-03T17:27:36Z</updateDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committeeReports />
+    <introducedDate>2017-12-05</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <billType>HR</billType>
+    <notes />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-12-08</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Common Access Card Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish a smart card pilot program to combat fraud, waste, and abuse and to protect beneficiary identity under the Medicare program.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Medicare Common Access Card Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Medicare Common Access Card Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <relatedBills />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+          <bioguideId>R000580</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <firstName>Peter</firstName>
+        <state>IL</state>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <district>6</district>
+        <byRequestType />
+        <lastName>Roskam</lastName>
+        <party>R</party>
+        <bioguideId>R000580</bioguideId>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-12-06T03:11:08Z</createDate>
+    <title>Medicare Common Access Card Act of 2017</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

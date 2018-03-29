@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4842</billNumber>
+    <createDate>2018-01-19T03:11:04Z</createDate>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-10-19</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <number>1988</number>
+        <latestTitle>SPEED Act</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-18T15:03:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-23T17:41:05Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-18T15:03:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif16</systemCode>
+              <name>Communications and Technology Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-19T21:30:38Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <committeeReports />
+    <congress>115</congress>
+    <notes />
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <cosponsors />
+    <updateDate>2018-02-06T08:13:15Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <title>Streamlining Permitting to Enable Efficient Deployment of Broadband Infrastructure Act of 2018</title>
+    <actions>
+      <item>
+        <actionDate>2018-01-23</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <committee>
+          <systemCode>hsif16</systemCode>
+          <name>Communications and Technology Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-01-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-01-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-01-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2018-01-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2018-01-18</introducedDate>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <byRequestType />
+        <lastName>SHIMKUS</lastName>
+        <bioguideId>S000364</bioguideId>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <middleName>M.</middleName>
+        <district>15</district>
+        <identifiers>
+          <bioguideId>S000364</bioguideId>
+          <lisID>1527</lisID>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <party>R</party>
+        <state>IL</state>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 11 (Thursday, January 18, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SHIMKUS:H.R. 4842.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3: To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes.[Page H554]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2018-01-23</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Streamlining Permitting to Enable Efficient Deployment of Broadband Infrastructure Act of 2018</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Communications Act of 1934 to provide that the Federal Communications Commission is not required to perform any review under the National Environmental Policy Act of 1969 or division A of subtitle III of title 54, United States Code, as a condition of permitting the placement and installation of a communications facility, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Streamlining Permitting to Enable Efficient Deployment of Broadband Infrastructure Act of 2018</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Streamlining Permitting to Enable Efficient Deployment of Broadband Infrastructure Act of 2018</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

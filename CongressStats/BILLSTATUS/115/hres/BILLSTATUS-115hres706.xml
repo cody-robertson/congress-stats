@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-26</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-01-19T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-15T17:28:12Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Expresses support for the designation of a Women's Health Research Day. <br /></p> <p>Supports efforts to: (1) recognize the importance of biomedical and clinical research to women's health, (2) increase awareness of the value of sex- and gender-based biomedical research, and (3) encourage individuals to advocate on behalf of sex- and gender-inclusive research.<br /></p>]]></text>
+          <actionDate>2018-01-19</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>706</billNumber>
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <state>IL</state>
+        <bioguideId>S001145</bioguideId>
+        <byRequestType />
+        <lastName>SCHAKOWSKY</lastName>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <party>D</party>
+        <firstName>JANICE</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2018-01-26</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2018-01-20T03:11:02Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000797</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>23</district>
+        <party>D</party>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Wasserman Schultz</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000032</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>18</district>
+        <party>D</party>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2259</lisID>
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000822</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>12</district>
+        <party>D</party>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <firstName>Bonnie</firstName>
+        <lastName>Watson Coleman</lastName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>Q000023</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <party>D</party>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+        <state>IL</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName>K.</middleName>
+        <bioguideId>D000096</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <firstName>DANNY</firstName>
+        <lastName>DAVIS</lastName>
+        <state>IL</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName>L.</middleName>
+        <bioguideId>R000515</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+        <lastName>RUSH</lastName>
+        <state>IL</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2252</lisID>
+          <gpoId />
+          <bioguideId>L000581</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName>L.</middleName>
+        <bioguideId>L000581</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>14</district>
+        <party>D</party>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <firstName>Brenda</firstName>
+        <lastName>Lawrence</lastName>
+        <state>MI</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7355</gpoId>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000454</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>11</district>
+        <party>D</party>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Foster</lastName>
+        <state>IL</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2246</lisID>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001196</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <party>D</party>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <firstName>Seth</firstName>
+        <lastName>Moulton</lastName>
+        <state>MA</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Expressing support for the designation of a "Women's Health Research Day".</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Expressing support for the designation of a "Women's Health Research Day".</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2018-01-19</introducedDate>
+    <title>Expressing support for the designation of a "Women's Health Research Day".</title>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-01-25</actionDate>
+          <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>SRES</type>
+        <number>383</number>
+        <latestTitle>A resolution expressing support for the designation of a "Women's Health Research Day".</latestTitle>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-26T21:22:13Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-19T14:00:33Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2018-02-19T04:07:42Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

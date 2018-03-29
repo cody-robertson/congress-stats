@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-14</actionDate>
+        <committee>
+          <name>National Parks Subcommittee</name>
+          <systemCode>sseg04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-07</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-12-07</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <state>HI</state>
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <lastName>Schatz</lastName>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2017-12-08T00:26:08Z</createDate>
+    <introducedDate>2017-12-07</introducedDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <updateDate>2018-02-20T13:04:33Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>sseg04</systemCode>
+              <name>National Parks Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-02-14T20:00:36Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-12-07T22:52:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Admiral Lloyd R. `Joe' Vasey Pacific War Commemorative Display Establishment Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to authorize Pacific Historic Parks to establish a commemorative display to honor members of the United States Armed Forces who served in the Pacific Theater of World War II, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Admiral Lloyd R. `Joe' Vasey Pacific War Commemorative Display Establishment Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Admiral Lloyd R. Joe Vasey Pacific War Commemorative Display Establishment Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <title>Admiral Lloyd R. `Joe' Vasey Pacific War Commemorative Display Establishment Act</title>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>HI</state>
+        <lastName>Hirono</lastName>
+        <bioguideId>H001042</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <billNumber>2213</billNumber>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2018-02-14</actionDate>
+          <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        </latestAction>
+        <latestTitle>Admiral Lloyd R. 'Joe' Vasey Pacific War Commemorative Display Establishment Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>4300</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <links />
+      <actionDate>2018-02-14</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

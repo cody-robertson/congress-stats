@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-03-02</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-12-21T19:42:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2018-01-02T21:36:52Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2017-05-03T22:55:32Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-03-30T13:30:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-02T18:25:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <billReferrals>1</billReferrals>
+        <freeText>1</freeText>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <sentToHouse>1</sentToHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>10</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-02</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <links />
+        <actionTime>12:23:06</actionTime>
+        <text>Received in the House.</text>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-12-20</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S8185</url>
+            <name>S8185</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S8185; text: CR S8185)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-12-20</actionDate>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/42</url>
+            <name>report No. 115-42</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>An errata sheet on written report No. 115-42 was printed. (text: &lt;a href="https://www.gpo.gov/fdsys/pkg/CRPT-115srpt42/pdf/CRPT-115srpt42-ERRATA.pdf"&gt;115S.Rept.42 errata&lt;/a&gt;)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/42</url>
+            <name>report No. 115-42</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-42.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/42</url>
+            <name>report No. 115-42</name>
+          </link>
+        </links>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-42.</text>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-15T15:14:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>East Rosebud Wild and Scenic Rivers Act</b></p> <p> This bill amends the Wild and Scenic Rivers Act to designate specified river segments of the East Rosebud Creek in Montana as components of the National Wild and Scenic Rivers System. </p> <p>Nothing in this bill creates a protective perimeter or buffer zone outside of the designated boundary of the designated river segments. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-03-02</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-03-02T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-06-01T20:12:27Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>East Rosebud Wild and Scenic Rivers Act</b></p> <p> (Sec. 3) This bill amends the Wild and Scenic Rivers Act to designate specified river segments of the East Rosebud Creek in Montana as components of the National Wild and Scenic Rivers System. </p> <p>Nothing in this bill creates a protective perimeter or buffer zone outside of the designated boundary of the designated river segments. </p>]]></text>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2017-05-03</actionDate>
+          <name>Reported to Senate without amendment</name>
+          <updateDate>2017-05-03T14:43:54Z</updateDate>
+          <versionCode>80</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:28:45Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number>0056</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <lastName>Daines</lastName>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+          <lisID>2138</lisID>
+        </identifiers>
+        <state>MT</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>East Rosebud Wild and Scenic Rivers Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>East Rosebud Wild and Scenic Rivers Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>East Rosebud Wild and Scenic Rivers Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Wild and Scenic Rivers Act to designate certain segments of East Rosebud Creek in Carbon County, Montana, as components of the Wild and Scenic Rivers System.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>East Rosebud Wild and Scenic Rivers Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>East Rosebud Wild and Scenic Rivers Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>East Rosebud Wild and Scenic Rivers Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>East Rosebud Wild and Scenic Rivers Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>East Rosebud Wild and Scenic Rivers Act</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-12-20</actionDate>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+        </latestAction>
+        <number>4645</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2018-01-02</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <state>MT</state>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <byRequestType />
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <lastName>Tester</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>S. 501, East Rosebud Wild and Scenic Rivers Act</title>
+        <pubDate>2017-04-10T20:14:27Z</pubDate>
+        <url>https://www.cbo.gov/publication/52603</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-03-03T05:11:27Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>East Rosebud Wild and Scenic Rivers Act</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-42</citation>
+      </committeeReport>
+      <committeeReport>
+        <citation>S. Rept. 115-42</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>501</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

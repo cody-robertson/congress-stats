@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-25T21:38:44Z</updateDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>sseg07</systemCode>
+              <name>Water and Power Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-06-14T18:30:02Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T20:39:33Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <title>A bill to amend the Public Utility Regulatory Policies Act of 1978 to exempt certain small hydroelectric power projects that are applying for relicensing under the Federal Power Act from the licensing requirements of that Act.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Public Utility Regulatory Policies Act of 1978 to exempt certain small hydroelectric power projects that are applying for relicensing under the Federal Power Act from the licensing requirements of that Act.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Public Utility Regulatory Policies Act of 1978 to exempt certain small hydroelectric power projects that are applying for relicensing under the Federal Power Act from the licensing requirements of that Act.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <notes />
+    <committeeReports />
+    <recordedVotes />
+    <billNumber>1029</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Dams and canals</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Angus</firstName>
+        <byRequestType />
+        <lastName>King</lastName>
+        <party>I</party>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+          <lisID>2185</lisID>
+        </identifiers>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <name>Water and Power Subcommittee</name>
+          <systemCode>sseg07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-05-03</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-05-04T00:26:48Z</createDate>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName />
+        <bioguideId>F000444</bioguideId>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <state>AZ</state>
+        <firstName>JEFF</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>FLAKE</lastName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-05-03</introducedDate>
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-06-14</actionDate>
+      <links />
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
