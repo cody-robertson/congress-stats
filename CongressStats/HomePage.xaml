@@ -8,10 +8,10 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="HomePage">
 
-    <Grid>
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
         <Label Content="Congress Stats" HorizontalAlignment="Left" Margin="324,80,0,0" VerticalAlignment="Top" Height="39" Width="120" RenderTransformOrigin="0.533,0.003"/>
-        <Button x:Name="Mem_Of_Congress" Content="Members Of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Margin="102,203,0,0" Height="178" Click="Mem_Of_Congress_Click"/>
-        <Button x:Name="Popular_Bills" Content="Popular Bills" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" Margin="541,203,0,0" Height="178" Click="Popular_Bills_Click"/>
+        <Button x:Name="Mem_Of_Congress" Content="Members Of Congress" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="126" Margin="102,203,0,0" Height="178" Click="Mem_Of_Congress_Click"/>
+        <Button x:Name="Popular_Bills" Content="Popular Bills" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="122" Margin="541,203,0,0" Height="178" Click="Popular_Bills_Click"/>
         <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="126" Margin="102,258,0,0"/>
         <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="122" Margin="541,258,0,0" RenderTransformOrigin="0.472,0.285"/>
 

@@ -54,6 +54,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Deserialization\Bill\BillAction.cs" />
+    <Compile Include="Deserialization\SenateVote\SenateVote.cs" />
+    <Compile Include="Deserialization\SenateVote\SenateVoteSummary.cs" />
     <Page Include="Bill_Profile.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -78,8 +81,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Bill.cs" />
-    <Compile Include="BillParser.cs" />
+    <Compile Include="Deserialization\Bill\Bill.cs" />
+    <Compile Include="Deserialization\Bill\BillParser.cs" />
     <Compile Include="Bill_Profile.xaml.cs">
       <DependentUpon>Bill_Profile.xaml</DependentUpon>
     </Compile>
@@ -92,6 +95,7 @@
     <Compile Include="HomePage.xaml.cs">
       <DependentUpon>HomePage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Deserialization\HouseMember\HouseMember.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -136,6 +140,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Deserialization\HouseVote\" />
+    <Folder Include="Deserialization\SenateMember\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
