@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Frame x:Name="frame" Content="Frame" HorizontalAlignment="Left" Height="311" VerticalAlignment="Top" Width="508" NavigationUIVisibility="Hidden"/>
+        <Frame x:Name="frame" Content="Frame" HorizontalAlignment="Left" Height="321" VerticalAlignment="Top" Width="518" NavigationUIVisibility="Hidden" Loaded="MyWindow_Loaded" Margin="0,0,0,-0.2"/>
     </Grid>
 </Window>

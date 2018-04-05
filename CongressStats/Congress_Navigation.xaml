@@ -5,13 +5,13 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:CongressStats"
       mc:Ignorable="d" 
-      d:DesignHeight="300" d:DesignWidth="300"
+      d:DesignHeight="350" d:DesignWidth="525"
       Title="Congress_Navigation">
 
-    <Grid>
-        <Button x:Name="Browse_Representatives" Content="Browse Reprsentatives" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="111" RenderTransformOrigin="0.944,6.505" Margin="27,0,0,56" Height="147" Click="Browse_Representatives_Click"/>
-        <Button x:Name="Browse_Senators" Content="Browse Senators" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="115" RenderTransformOrigin="2.916,7.252" Margin="175,0,0,56" Height="147"/>
-        <Label Content="Members of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.572,1.358" Margin="99,10,0,0" Width="122"/>
+    <Grid Margin="0,0,-0.4,0.2" HorizontalAlignment="Left" Width="538">
+        <Button x:Name="Browse_Representatives" Content="Browse Reprsentatives" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="144" RenderTransformOrigin="0.944,6.505" Margin="54,0,0,90.2" Height="147" Click="Browse_Representatives_Click"/>
+        <Button x:Name="Browse_Senators" Content="Browse Senators" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" RenderTransformOrigin="2.916,7.252" Margin="333,0,0,90.2" Height="147"/>
+        <Label Content="Members of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.572,1.358" Margin="191,10,0,0" Width="158"/>
 
     </Grid>
 </Page>

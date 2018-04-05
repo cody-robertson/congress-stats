@@ -31,5 +31,6 @@ namespace CongressStats
             frame.NavigationService.Navigate(new HomePage());
         }
 
+
     }
 }
