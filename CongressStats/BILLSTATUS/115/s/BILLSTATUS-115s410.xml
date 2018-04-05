@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-02-16</introducedDate>
+    <cosponsors>
+      <item>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>ID</state>
+        <bioguideId>R000584</bioguideId>
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-02-17T09:06:57Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <latestAction>
+      <actionDate>2017-06-15</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+    <title>Shawna Hill Post 9/11 Education Benefits Transferability Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Shawna Hill Post 9/11 Education Benefits Transferability Act</strong></p> <p>This bill authorizes the reassignment a veteran's or Armed Forces member's Post-9/11 education benefits to another eligible dependent in cases where the original designated beneficiary dies without having used all of such benefits.</p> <p>Such provision shall apply to deaths occurring on or after August 1, 2009.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-16</actionDate>
+          <lastSummaryUpdateDate>2017-06-07T22:48:48Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billNumber>410</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>3218</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Became Public Law No: 115-48.</text>
+          <actionDate>2017-08-16</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Harry W. Colmery Veterans Educational Assistance Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>1112</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Opportunity.</text>
+          <actionDate>2017-03-03</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Shauna Hill Post 9/11 Education Benefits Transferability Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-15T14:00:12Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2017-02-16T17:42:34Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Shawna Hill Post 9/11 Education Benefits Transferability Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Shawna Hill Post 9/11 Education Benefits Transferability Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to authorize the transfer of unused Post-9/11 Educational Assistance benefits to additional dependents upon the death of the originally designated dependent.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Shawna Hill Post 9/11 Education Benefits Transferability Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <middleName>D.</middleName>
+        <state>ID</state>
+        <byRequestType />
+        <firstName>MICHAEL</firstName>
+        <bioguideId>C000880</bioguideId>
+        <party>R</party>
+        <lastName>CRAPO</lastName>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-06T16:44:47Z</updateDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-02-24</actionDate>
+          <text>Referred to the Subcommittee on Trade.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Timely Mental Health for Foster Youth Act</latestTitle>
+        <number>1069</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2017-02-17</actionDate>
+    </latestAction>
+    <createDate>2017-02-18T05:14:02Z</createDate>
+    <title>Timely Mental Health for Foster Youth Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-17T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Timely Mental Health for Foster Youth Act</b></p> <p>This bill amends part B (Child and Family Services) of title IV of the Social Security Act with respect to state plans for the ongoing oversight and coordination of health care services for children in a foster care placement.</p> <p>An initial mental health screening of any child in foster care must be completed within 30 days after the child enters into foster care. In the case of any child for whom a mental health issue is identified in such initial screening, a comprehensive assessment of the child's mental health must be completed within 60 days after the child's entry into foster care.</p>]]></text>
+          <lastSummaryUpdateDate>2017-07-19T20:07:44Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-17</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2017-02-17</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-17</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2018-02-06T16:44:49Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <middleName />
+        <byRequestType />
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <state>MO</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2017-02-17T17:36:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>MI</state>
+        <party>D</party>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>ANN</middleName>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <firstName>DEBORAH</firstName>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+      </item>
+      <item>
+        <state>AR</state>
+        <party>R</party>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001236</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>D</party>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <lastName>Casey</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001070</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <cboCostEstimates />
+    <billNumber>439</billNumber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-02-17</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Timely Mental Health for Foster Youth Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Timely Mental Health for Foster Youth Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to amend part B of title IV of the Social Security Act to ensure that mental health screenings and assessments are provided to children and youth upon entry into foster care.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Timely Mental Health for Foster Youth Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

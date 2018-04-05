@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-05-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-05-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-05-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <actionDate>2017-07-12</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Immigrant Veterans Eligibility Tracking System (I–VETS) Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Immigrant Veterans Eligibility Tracking System (I-VETS) Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To require the Secretary of Homeland Security to identify aliens who have served, or are serving, in the Armed Forces of the United States when those aliens apply for an immigration benefit or are placed in an immigration enforcement proceeding, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Immigrant Veterans Eligibility Tracking System (I-VETS) Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <billNumber>2760</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>S000248</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SERRANO</lastName>
+        <identifiers>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOSE</firstName>
+        <district>15</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <middleName>F.</middleName>
+        <bioguideId>N000179</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NAPOLITANO</lastName>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <state>CA</state>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>GRACE</firstName>
+        <district>32</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>D000598</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DAVIS</lastName>
+        <identifiers>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+          <lisID>1641</lisID>
+        </identifiers>
+        <state>CA</state>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+        <district>53</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCGOVERN</lastName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <district>2</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000032</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>JACKSON LEE</lastName>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+        </identifiers>
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHEILA</firstName>
+        <district>18</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <middleName>Luis</middleName>
+        <bioguideId>C001110</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Correa</lastName>
+        <identifiers>
+          <lisID>2312</lisID>
+          <bioguideId>C001110</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>J.</firstName>
+        <district>46</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>V000132</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vela</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+        </identifiers>
+        <state>TX</state>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Filemon</firstName>
+        <district>34</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>V000131</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Veasey</lastName>
+        <identifiers>
+          <lisID>2166</lisID>
+          <gpoId />
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marc</firstName>
+        <district>33</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName>Diaz</middleName>
+        <bioguideId>B001300</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barragan</lastName>
+        <identifiers>
+          <lisID>2311</lisID>
+          <gpoId />
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Nanette</firstName>
+        <district>44</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>T000472</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Takano</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <district>41</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001200</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Soto</lastName>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Darren</firstName>
+        <district>9</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <middleName />
+        <bioguideId>E000288</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ellison</lastName>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+        <district>5</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000580</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lujan Grisham</lastName>
+        <identifiers>
+          <lisID>2146</lisID>
+          <gpoId />
+          <bioguideId>L000580</bioguideId>
+        </identifiers>
+        <state>NM</state>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michelle</firstName>
+        <district>1</district>
+      </item>
+    </cosponsors>
+    <title>Immigrant Veterans Eligibility Tracking System (I-VETS) Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Citizenship and naturalization</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-08-02</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <number>1725</number>
+        <type>S</type>
+        <latestTitle>I-VETS Act</latestTitle>
+      </item>
+    </relatedBills>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VARGAS:H.R. 2760.Congress has the power to enact this legislation pursuantto the following:(1) To establish a uniform Rule of Naturalization, asenumerated in Article I, Section 8, Clause 4 of the U.S.Constitution;(2) To raise and support armies, but no appropriation ofmoney to that use shall be for a longer term than two years,as enumerated in Article I, Section 8, Clause 12 of the U.S.Constitution;(3) To provide and maintain a navy, as enumerated inArticle I, Section 8, Clause 13 of the U.S. Constitution; and(4) To make rules for the government and regulation of theland and naval forces, as enumerated in Article I, Section 8,Clause 14 of the U.S. Constitution.(5) To make all laws which shall be necessary and properfor carrying into execution the foregoing powers, and allother powers vested by this Constitution in the government ofthe United States, or in any department or officer thereof,as enumerated in Article I, Section 8, Clause 18 of the U.S.Constitution.[Page H4615]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-26T14:00:46Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-12T21:19:57Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T19:00:19Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Vargas</lastName>
+        <middleName />
+        <firstName>Juan</firstName>
+        <party>D</party>
+        <bioguideId>V000130</bioguideId>
+        <identifiers>
+          <lisID>2112</lisID>
+          <gpoId />
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>51</district>
+        <state>CA</state>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-26T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-06-17T13:22:42Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Immigrant Veterans Eligibility Tracking System (I-VETS) Act</strong></p> <p> This bill directs the Department of Homeland Security (DHS) to: </p> <ul> <li>identify aliens, when they apply for an immigration benefit or are placed in an immigration enforcement proceeding, who are serving, or have served, as a member of a regular or reserve component of the Armed Forces on active duty or as a member of a reserve component in an active status; and </li> <li> annotate all DHS immigration and naturalization records relating to an identified alien to reflect such identification and afford an opportunity to track the outcomes for such aliens. </li> </ul>]]></text>
+          <actionDate>2017-05-26</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-05-26</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-05-27T03:11:39Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

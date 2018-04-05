@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>A.</middleName>
+        <byRequestType />
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills>
+      <item>
+        <number>969</number>
+        <latestTitle>Gideon Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2017-03-09</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <billNumber>330</billNumber>
+    <title>Gideon Act</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Supreme Court</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Gideon Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Clarence Gideon Full Access to Justice Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Gideon Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Clarence Gideon Full Access to Justice Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend title 18, United States Code, to establish a corporation to advocate on behalf of individuals in noncapital criminal cases before the Supreme Court of the United States, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Gideon Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Clarence Gideon Full Access to Justice Act or the Gideon Act</b></p> <p>This bill amends the federal criminal code to establish a private, nonmembership, nonprofit corporation to assist and advocate on behalf of individuals in certain noncapital criminal cases before the U.S. Supreme Court and the highest state court.</p>]]></text>
+          <actionDate>2017-02-07</actionDate>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-07-24T18:23:58Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-02-07T21:02:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-02-07</introducedDate>
+    <updateDate>2018-02-06T16:44:43Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>S</billType>
+    <createDate>2017-02-08T08:07:49Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2017-02-07</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

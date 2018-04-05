@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>484</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-02-06</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:50Z</updateDate>
+    <cosponsors>
+      <item>
+        <district>25</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <bioguideId>S000480</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <lastName>SLAUGHTER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>LOUISE</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <bioguideId>S001170</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <lastName>Shea-Porter</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Carol</firstName>
+        <state>NH</state>
+      </item>
+      <item>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <bioguideId>L000551</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <lastName>LEE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-06T22:34:55Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-01-12T15:03:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-12</introducedDate>
+    <title>DRAIN the SWAMP Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+      <actionDate>2017-02-06</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-13T04:55:31Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>DEFAZIO</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <byRequestType />
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <firstName>PETER</firstName>
+        <district>4</district>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeFAZIO:H.R. 484.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 (relating to the power tomake all laws necessary and proper for carrying out thepowers vested in Congress)[Page H472]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Deter Revolving-door Appointments In our Nation; Stop Washington Appointees from becoming Manipulative Petitioners Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>DRAIN the SWAMP Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Deter Revolving-door Appointments In our Nation; Stop Washington Appointees from becoming Manipulative Petitioners Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Lobbying Disclosure Act of 1995 and the Foreign Agents Registration Act of 1938 to restrict the lobbying activities of former political appointees, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>DRAIN the SWAMP Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Deter Revolving-door Appointments in our Nation; Stop Washington Appointees from becoming Manipulative Petitioners Act or the DRAIN the SWAMP Act</b></p> <p>This bill amends the federal criminal code to revise post-employment lobbying restrictions on senior executive branch officials and employees.</p> <p>Specifically, it imposes a five-year ban on communications by a former political appointee with the intent to influence officers or employees at their former executive branch agency or department. </p> <p>The term political appointee includes certain senior political officials compensated on the Executive Schedule; limited term, limited emergency, and noncareer appointees in the Senior Executive Service; and employees in confidential or policy-determining positions in the excepted service.</p> <p>Additionally, the bill amends the Foreign Agents Registration Act of 1938 to impose a lifetime ban on lobbying by a former political appointee on behalf of a foreign government or foreign political party.</p>]]></text>
+          <actionDate>2017-01-12</actionDate>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-03T15:20:39Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

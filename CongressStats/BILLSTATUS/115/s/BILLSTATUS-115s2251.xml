@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2251</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-12-19</sponsorshipDate>
+        <firstName>Margaret</firstName>
+        <middleName>Wood</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hassan</lastName>
+        <state>NH</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-19</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-12-19</actionDate>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-12-19</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <createDate>2017-12-20T07:11:06Z</createDate>
+    <introducedDate>2017-12-19</introducedDate>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <state>NH</state>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <middleName />
+        <lastName>Shaheen</lastName>
+        <byRequestType />
+        <bioguideId>S001181</bioguideId>
+      </item>
+    </sponsors>
+    <notes />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-19T20:06:14Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <amendments />
+    <billType>S</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to require the United States Postal Service to designate a single, unique ZIP code for Swanzey, New Hampshire.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to require the United States Postal Service to designate a single, unique ZIP code for Swanzey, New Hampshire.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <title>A bill to require the United States Postal Service to designate a single, unique ZIP code for Swanzey, New Hampshire.</title>
+    <recordedVotes />
+    <committeeReports />
+    <calendarNumbers />
+    <updateDate>2018-01-12T05:33:08Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>4115</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H8151)</text>
+        <committee />
+        <links>
+          <link>
+            <name>H8151</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8151</url>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <relatedBills />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2018-02-19T03:12:19Z</updateDate>
+    <createDate>2017-10-26T03:11:20Z</createDate>
+    <sponsors>
+      <item>
+        <firstName>Suzanne</firstName>
+        <middleName />
+        <byRequestType />
+        <bioguideId>B001278</bioguideId>
+        <identifiers>
+          <lisID>2092</lisID>
+          <gpoId>8367</gpoId>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <lastName>Bonamici</lastName>
+        <district>1</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <actionDate>2017-10-25</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </latestAction>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-10-25T14:55:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-10-25T14:00:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-10-25T14:00:09Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <title>PARTNERS Act</title>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <bioguideId>F000465</bioguideId>
+        <middleName>Drew</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>A.</firstName>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2324</lisID>
+          <bioguideId>F000465</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <lastName>Ferguson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <bioguideId>B001303</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Lisa</firstName>
+        <state>DE</state>
+        <identifiers>
+          <lisID>2313</lisID>
+          <gpoId />
+          <bioguideId>B001303</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <lastName>Blunt Rochester</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <bioguideId>D000598</bioguideId>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>SUSAN</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1641</lisID>
+          <gpoId>7858</gpoId>
+          <bioguideId>D000598</bioguideId>
+        </identifiers>
+        <district>53</district>
+        <lastName>DAVIS</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-11-17</sponsorshipDate>
+        <bioguideId>L000397</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ZOE</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <district>19</district>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2018-01-09</sponsorshipDate>
+        <bioguideId>R000608</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jacky</firstName>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <lastName>Rosen</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <bioguideId>M001201</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Paul</firstName>
+        <state>MI</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2334</lisID>
+          <bioguideId>M001201</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <lastName>Mitchell</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <bioguideId>R000602</bioguideId>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kathleen</firstName>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2262</lisID>
+          <gpoId />
+          <bioguideId>R000602</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <lastName>Rice</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <bioguideId>B001227</bioguideId>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8119</gpoId>
+          <lisID>1469</lisID>
+          <bioguideId>B001227</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <lastName>BRADY</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2018-02-16</sponsorshipDate>
+        <bioguideId>C001072</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Andre</firstName>
+        <state>IN</state>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <district>7</district>
+        <lastName>Carson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 172 (Wednesday, October 25, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BONAMICI:H.R. 4115.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H8225]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>PARTNERS Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Promoting Apprenticeships through Regional Training Networks for Employers' Required Skills Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To promote registered apprenticeships and other work-based learning programs for small and medium-sized businesses within in-demand industry sectors, through the establishment and support of industry or sector partnerships.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>PARTNERS Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>PARTNERS Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Promoting Apprenticeships through Regional Training Networks for Employers’ Required Skills Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <introducedDate>2017-10-25</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

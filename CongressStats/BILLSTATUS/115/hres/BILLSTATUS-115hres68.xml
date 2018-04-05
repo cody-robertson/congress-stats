@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+        <district>20</district>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <bioguideId>H000324</bioguideId>
+        <state>FL</state>
+        <party>D</party>
+        <firstName>ALCEE</firstName>
+        <lastName>HASTINGS</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>End Subsidizing Palestinian Terrorism Act</latestTitle>
+        <number>2497</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+          <actionDate>2017-05-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billNumber>68</billNumber>
+    <title>Condemning Palestinian incitement and reaffirming the special bond between Israel and the United States.</title>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Rob</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-01-27</sponsorshipDate>
+        <lastName>Woodall</lastName>
+        <bioguideId>W000810</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2008</lisID>
+          <bioguideId>W000810</bioguideId>
+          <gpoId>7904</gpoId>
+        </identifiers>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <state>GA</state>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <lastName>Bost</lastName>
+        <bioguideId>B001295</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+        </identifiers>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <state>IL</state>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Glenn</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <lastName>Grothman</lastName>
+        <bioguideId>G000576</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <state>WI</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Arab-Israeli relations</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>Palestinians</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>hsfa13</systemCode>
+          <name>Middle East and North Africa Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-27</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-27</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-27</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Condemning Palestinian incitement and reaffirming the special bond between Israel and the United States.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Condemning Palestinian incitement and reaffirming the special bond between Israel and the United States.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-27T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-17T18:47:54Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-27</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Condemns incitement and acts of violence against Israeli citizens.</p> <p>Calls on: (1) Palestinian Authority President Mahmoud Abbas to publicly condemn incitement and acts of violence against Israeli citizens and to discontinue incitement in Palestinian Authority-controlled media outlets, and (2) the international community to condemn such incitement and acts of violence.</p> <p>Expresses the belief that any chance at lasting peace can only happen through peaceful, bilateral, discussions and sound consultation with peaceful allies.</p> <p>Expresses support for individuals and organizations working to encourage Israeli-Palestinian cooperation and for the many activists within Israel and the Palestinian territories working to bring an end to the conflict. </p> <p>Reaffirms the friendship between Israel and the United States.</p> <ul> </ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-16T22:19:04Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsfa13</systemCode>
+              <name>Middle East and North Africa Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-27T19:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-01-27</introducedDate>
+    <updateDate>2018-02-06T16:39:33Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>HRES</billType>
+    <createDate>2017-01-28T04:53:22Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+      <links />
+      <actionDate>2017-02-16</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

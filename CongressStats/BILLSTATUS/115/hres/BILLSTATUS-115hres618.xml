@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2152</lisID>
+          <gpoId />
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <bioguideId>W000815</bioguideId>
+        <state>OH</state>
+        <party>R</party>
+        <firstName>Brad</firstName>
+        <lastName>Wenstrup</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billNumber>618</billNumber>
+    <title>Expressing support for the designation of the third Wednesday of November as "Utility Scam Awareness Day".</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <district>13</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <party>D</party>
+        <firstName>TIM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>RYAN</lastName>
+        <state>OH</state>
+        <bioguideId>R000577</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-17</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy and Power Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <actionDate>2017-11-13</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-11-13</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-11-13</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Expressing support for the designation of the third Wednesday of November as "Utility Scam Awareness Day".</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Expressing support for the designation of the third Wednesday of November as "Utility Scam Awareness Day".</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses support for the designation of Utility Scam Awareness Day.</p> <p>Encourages the people of the United States to observe Utility Scam Awareness Day.</p> <p>Encourages utilities to use this day to raise awareness and knowledge among themselves and the general public regarding the threat posed by scams against utility customers, and the techniques and tools used to identify and avoid them.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-11-13</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-12-20T19:53:14Z</lastSummaryUpdateDate>
+          <updateDate>2017-11-13T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Energy and Power Subcommittee</name>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-17T21:20:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-13T17:01:20Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-11-13</introducedDate>
+    <updateDate>2018-02-06T16:40:02Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>HRES</billType>
+    <createDate>2017-11-14T03:11:14Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy.</text>
+      <links />
+      <actionDate>2017-11-17</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

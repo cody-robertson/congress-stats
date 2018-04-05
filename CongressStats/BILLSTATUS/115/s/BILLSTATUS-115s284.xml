@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <lastName>BROWN</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>817</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>End Surprise Billing Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-02-14</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <billNumber>284</billNumber>
+    <title>End Surprise Billing Act of 2017</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-02</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>End Surprise Billing Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>End Surprise Billing Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to amend title XVIII of the Social Security Act to prevent surprise billing practices, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>End Surprise Billing Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+          <actionDate>2017-02-02</actionDate>
+          <text><![CDATA[<p><b>End Surprise Billing Act of 2017</b></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to require a critical access hospital or other hospital to comply, as a condition of participation in Medicare, with certain requirements related to billing for out-of-network services.</p> <p>With respect to an individual who has health benefits coverage and is seeking services, a hospital must provide notice as to: (1) whether the hospital, or any of the providers furnishing services to the individual at the hospital, is not within the health care provider network or otherwise a participating provider with respect to the individual's health care coverage; and (2) if so, the estimated out-of-pocket costs of the services to the individual. At least 24 hours prior to providing those services, the hospital must document that the individual: (1) has been provided with the required notice, and (2) consents to be furnished with the services and charged an amount approximate to the estimate provided. Otherwise, the hospital may not charge the individual more than the individual would have been required to pay if the services had been furnished by an in-network or participating provider.</p> <p>With respect to such an individual who is seeking same-day emergency services, a hospital may not charge more than the individual would be required to pay for such services furnished by an in-network or participating provider.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-02-16T19:07:53Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-02T19:24:14Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-02-02</introducedDate>
+    <updateDate>2018-02-06T16:44:40Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>S</billType>
+    <createDate>2017-02-03T05:17:31Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2017-02-02</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

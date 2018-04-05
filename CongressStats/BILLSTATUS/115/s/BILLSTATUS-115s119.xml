@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>119</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S315-316</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S315-316</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S315-316)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:29Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>Roy</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <bioguideId>B000575</bioguideId>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JIM</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <lastName>INHOFE</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Deb</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <bioguideId>F000463</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JEFF</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <bioguideId>F000444</bioguideId>
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ORRIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <bioguideId>H000338</bioguideId>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <lastName>HATCH</lastName>
+        <party>R</party>
+        <middleName>GRANT</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <bioguideId>T000476</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <middleName>Roland</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <bioguideId>C001075</bioguideId>
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Alternative dispute resolution, mediation, arbitration</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-12T19:11:54Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-12</introducedDate>
+    <title>Sunshine for Regulatory Decrees and Settlements Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-01-13T04:55:34Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <bioguideId>G000386</bioguideId>
+        <middleName>ERNEST</middleName>
+        <byRequestType />
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S315-316)</text>
+      <links />
+      <actionDate>2017-01-12</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-26</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Congressional Article I Powers Strengthening Act</latestTitle>
+        <number>469</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Sunshine for Regulatory Decrees and Settlements Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Sunshine for Regulatory Decrees and Settlements Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to impose certain limitations on consent decrees and settlement agreements by agencies that require the agencies to take regulatory action in accordance with the terms thereof, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Sunshine for Regulatory Decrees and Settlements Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-08T19:30:51Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Sunshine for Regulatory Decrees and Settlements Act of 2017</strong></p> <p>This bill establishes public notice and comment procedures and motion to intervene standards for civil actions seeking to compel agency action and alleging that an agency is unlawfully withholding or unreasonably delaying an agency action, and for consent decrees or settlement agreements that require agency action, relating to a regulatory action that would affect the rights of: (1) private persons other than the person bringing the action; or (2) a state, local, or tribal government. </p> <p>The bill sets forth requirements for:</p> <ul> <li>agencies against which such an action is brought to publish online, within 15 days after receipt, the notice of intent to sue and the complaint;</li> <li>courts to consider motions to intervene and allow amicus participation; and </li> <li>any settlement proceedings to include intervening parties and to be conducted pursuant to the mediation or alternative dispute resolution program of the court or by a district judge.</li> </ul> <p>Agencies seeking to enter such a consent decree or settlement agreement must: </p> <ul> <li>publish, and accept and respond to public comment on, the proposed agreement or decree for 60 days before filing it with the court; and </li> <li>make available to the court the administrative record and a summary of public comments and any public hearings. </li> </ul> <p>The Department of Justice, or an agency litigating a matter independently, must certify to the court its approval of such proposed: (1) consent decrees that include terms that convert into a nondiscretionary duty a discretionary authority of an agency to propose, promulgate, revise, or amend regulations, commit an agency to expend funds that have not been appropriated and budgeted or to seek a particular appropriation or budget authorization, divest an agency of discretion committed to it by statute or the Constitution, or otherwise afford any relief that the court could not enter under its own authority; or (2) settlement agreements that include terms that provide a remedy for a failure by the agency to comply with the terms of the agreement other than the revival of the civil action resolved by the agreement, interfere with the authority of an agency to revise, amend, or issue rules, or commit the agency to expend funds that have not been appropriated and budgeted or to exercise in a particular way discretion which was committed to the agency by statute or the Constitution. </p> <p>Courts: (1) shall not approve such consent decrees or settlement agreements unless they allow sufficient time and procedures to comply with the Administrative Procedure Act, rulemaking statutes, and executive orders; and (2) shall grant de novo review if an agency files a motion to modify such a decree or agreement on the basis that its terms are no longer fully in the public interest due to changed facts and circumstances or the agency's obligations to fulfill other duties.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-01-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

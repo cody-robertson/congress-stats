@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <district>4</district>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <bioguideId>K000362</bioguideId>
+        <state>IA</state>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <lastName>King</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billNumber>94</billNumber>
+    <title>Proposing an amendment to the Constitution of the United States to repeal the sixteenth article of amendment.</title>
+    <cosponsors>
+      <item>
+        <lastName>Woodall</lastName>
+        <firstName>Rob</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <party>R</party>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <middleName />
+        <state>GA</state>
+        <bioguideId>W000810</bioguideId>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000810</bioguideId>
+          <lisID>2008</lisID>
+          <gpoId>7904</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>General taxation matters</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-21</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <title>Proposing an amendment to the Constitution of the United States to repeal the sixteenth article of amendment.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Proposing an amendment to the Constitution of the United States to repeal the sixteenth article of amendment.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-04-21T16:56:52Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-05</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Constitutional Amendment</b> </p> <p> This joint resolution proposes a constitutional amendment repealing the Sixteenth Amendment to the Constitution (authorizing taxation of income).</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-21T14:53:56Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:07:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-04-05</introducedDate>
+    <updateDate>2018-02-06T16:40:12Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>HJRES</billType>
+    <createDate>2017-04-06T03:11:46Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+      <actionDate>2017-04-21</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

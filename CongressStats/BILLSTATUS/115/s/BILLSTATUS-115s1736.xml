@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-08-03</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Capital for Farmers and Ranchers Act </b></p> <p> This bill amends the Consolidated Farm and Rural Development Act to increase the amount of unpaid debt permitted per borrower under Department of Agriculture farm ownership and operating loans. </p>]]></text>
+          <lastSummaryUpdateDate>2018-02-26T21:25:31Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-08-03T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-08-03</introducedDate>
+    <updateDate>2018-03-01T05:44:34Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-08-03</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>1736</billNumber>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <lastName>Hoeven</lastName>
+        <byRequestType />
+        <bioguideId>H001061</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>ND</state>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Capital for Farmers and Ranchers Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend the Consolidated Farm and Rural Development Act to adjust limitations on certain Farm Service Agency guaranteed and direct loans.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Capital for Farmers and Ranchers Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Capital for Farmers and Ranchers Act</title>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <actionDate>2017-08-03</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2017-08-04T00:42:20Z</createDate>
+    <cosponsors>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <lastName>Boozman</lastName>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>S001202</bioguideId>
+        <firstName>Luther</firstName>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2357</lisID>
+          <bioguideId>S001202</bioguideId>
+        </identifiers>
+        <lastName>Strange</lastName>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-08-03T15:03:49Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssaf00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Capital for Farmers and Ranchers Act</title>
+    <billType>S</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

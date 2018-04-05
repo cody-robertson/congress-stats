@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-07-06</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-12-21T21:17:13Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-07-06T13:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-20T19:37:47Z</date>
+                  <name>Referred to</name>
+                </item>
+                <item>
+                  <date>2017-07-07T20:05:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hswm02</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-12-21T21:16:26Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-13T18:43:06Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-06T13:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <committeeDischarged>1</committeeDischarged>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 353.</text>
+        <type>Calendars</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <committee />
+        <actionCode>H12410</actionCode>
+      </item>
+      <item>
+        <text>Committee on Energy and Commerce discharged.</text>
+        <type>Discharge</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <text>Committee on Energy and Commerce discharged.</text>
+        <type>Committee</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-478, Part I.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-478</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/478</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-478, Part I.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-478</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/478</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-07</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-06</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-06</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-06</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-06</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-07-06T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This bill&nbsp;allows a Medicare Advantage (MA) plan, until 2024,&nbsp;to restrict plan enrollment to certain special-needs individuals, provided that the plan meets specified applicable requirements. Current law allows an MA plan to do so until 2019. </p> <p>The Federal Coordinated Health Care Office within the Centers for Medicare &amp; Medicaid Services (CMS) shall serve as a dedicated point of contact for states with regard to special-needs MA plans for individuals who are dually eligible for Medicaid and Medicare.&nbsp;The CMS&nbsp;shall establish a unified process for grievances and appeals for individuals enrolled in such plans.</p> <p>The CMS must, with respect to special-needs MA plans for individuals with chronic conditions, convene a panel of clinical advisors to establish and update the list of chronic conditions that make an individual eligible for participation in such a plan.</p> <p>The Government Accountability Office (GAO) must study and report to Congress on health outcomes of individuals enrolled in specialized MA plans.</p> <p>The CMS shall, with respect to special-needs MA plans,&nbsp;consider applying certain quality measures at the plan level rather than at the contract level.</p> <p>The GAO must report to Congress on state-level integration between the Medicaid program and&nbsp;special-needs MA plans for individuals who are dually eligible for Medicaid and Medicare.</p> <p>Beginning in plan year 2020, an MA plan may provide certain supplemental benefits to chronically ill enrollees.</p> <p>The GAO must report to Congress on the provision of such supplemental benefits to MA enrollees.</p>]]></text>
+          <lastSummaryUpdateDate>2018-02-09T17:24:16Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2017-07-06</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <updateDate>2017-12-21T16:19:58Z</updateDate>
+          <actionDesc>Reported to House amended, Part I</actionDesc>
+          <text><![CDATA[<p><strong>Special Needs Plans Reauthorization Act of 2017 or the SNP Reauthorization Act of 2017</strong></p> <p>(Sec. 2) This bill&nbsp;allows a Medicare Advantage (MA) plan, until 2024,&nbsp;to restrict plan enrollment to certain special-needs individuals, provided that the plan meets specified applicable requirements. Current law allows an MA plan to do so until 2019. </p> <p>The Federal Coordinated Health Care Office within the Centers for Medicare &amp; Medicaid Services (CMS) shall serve as a dedicated point of contact for states with regard to special-needs MA plans for individuals who are dually eligible for Medicaid and Medicare.&nbsp;The CMS&nbsp;shall establish a unified process for grievances and appeals for individuals enrolled in such plans.</p> <p>The CMS must, with respect to special-needs MA plans for individuals with chronic conditions, convene a panel of clinical advisors to establish and update the list of chronic conditions that make an individual eligible for participation in such a plan.</p> <p>The Government Accountability Office (GAO) must study and report to Congress on health outcomes of individuals enrolled in specialized MA plans.</p> <p>The CMS shall, with respect to special-needs MA plans,&nbsp;consider applying certain quality measures at the plan level rather than at the contract level.</p> <p>The GAO must report to Congress on state-level integration between the Medicaid program and&nbsp;special-needs MA plans for individuals who are dually eligible for Medicaid and Medicare.</p> <p>(Sec. 3) Beginning in plan year 2020, an MA plan may provide certain supplemental benefits to chronically ill enrollees.</p> <p>The GAO must report to Congress on the provision of such supplemental benefits to MA enrollees. </p>]]></text>
+          <lastSummaryUpdateDate>2018-02-20T21:57:25Z</lastSummaryUpdateDate>
+          <name>Reported to House amended, Part I</name>
+          <actionDate>2017-12-21</actionDate>
+          <versionCode>18</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:28:21Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00353</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <lastName>LEVIN</lastName>
+        <firstName>SANDER</firstName>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <sponsorshipDate>2017-07-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000263</bioguideId>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <identifiers>
+          <bioguideId>L000263</bioguideId>
+          <lisID>683</lisID>
+          <gpoId>7997</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>M.</middleName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>SNP Reauthorization Act of 2017</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Special Needs Plans Reauthorization Act of 2017</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>To amend title XVIII of the Social Security Act to provide continued access to specialized Medicare Advantage plans for special needs individuals, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>SNP Reauthorization Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>SNP Reauthorization Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Special Needs Plans Reauthorization Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-02-09</actionDate>
+          <text>Became Public Law No: 115-123.</text>
+        </latestAction>
+        <latestTitle>Bipartisan Budget Act of 2018</latestTitle>
+        <number>1892</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-01-19</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>ASK Act</latestTitle>
+        <number>4820</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-07-05</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>To amend title XVIII of the Social Security Act to expand supplemental benefits to meet the needs of chronically ill Medicare Advantage enrollees under the Medicare program, and for other purposes.</latestTitle>
+        <number>3044</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-09-29</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017</latestTitle>
+        <number>870</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-12-08</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017</latestTitle>
+        <number>4579</number>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-12-21</actionDate>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 353.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 114 (Thursday, July 6, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TIBERI:H.R. 3168.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests isthe power of Congress to make rules for the government andregulation of the land and naval forces, as enumerated inArticle I, Section 8, Clause 1 of the United StatesConstitution.____________________[Page H5386]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>12</district>
+        <state>OH</state>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <bioguideId>T000462</bioguideId>
+        <firstName>PATRICK</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>T000462</bioguideId>
+          <gpoId>8102</gpoId>
+          <lisID>1664</lisID>
+        </identifiers>
+        <lastName>TIBERI</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 3168, Special Needs Plans Reauthorization Act of 2017</title>
+        <pubDate>2017-08-31T13:23:29Z</pubDate>
+        <url>https://www.cbo.gov/publication/53052</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-07-07T03:11:33Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>SNP Reauthorization Act of 2017</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-478</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>3168</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

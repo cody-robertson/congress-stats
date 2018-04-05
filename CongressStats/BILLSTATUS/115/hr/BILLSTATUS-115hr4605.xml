@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <updateDate>2018-01-25T21:39:00Z</updateDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <name>Energy and Power Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-15T16:45:14Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-11T17:00:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>4605</billNumber>
+    <title>Unlocking Our Domestic LNG Potential Act</title>
+    <createDate>2017-12-12T03:11:11Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8095</gpoId>
+          <lisID>1885</lisID>
+          <bioguideId>L000566</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <lastName>Latta</lastName>
+        <state>OH</state>
+        <firstName>Robert</firstName>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <bioguideId>L000566</bioguideId>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000461</bioguideId>
+          <lisID>2065</lisID>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>17</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Flores</lastName>
+        <state>TX</state>
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <bioguideId>F000461</bioguideId>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+          <bioguideId>C001063</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>28</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Cuellar</lastName>
+        <state>TX</state>
+        <firstName>Henry</firstName>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <bioguideId>C001063</bioguideId>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>RYAN</lastName>
+        <state>OH</state>
+        <firstName>TIM</firstName>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <bioguideId>R000577</bioguideId>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <actionDate>2017-12-15</actionDate>
+        <committee>
+          <name>Energy and Power Subcommittee</name>
+          <systemCode>hsif03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-12-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-12-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-12-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <congress>115</congress>
+    <notes />
+    <titles>
+      <item>
+        <title>Unlocking Our Domestic LNG Potential Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To repeal restrictions on the export and import of natural gas.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Unlocking Our Domestic LNG Potential Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Unlocking Our Domestic LNG Potential Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <links />
+      <actionDate>2017-12-15</actionDate>
+      <text>Referred to the Subcommittee on Energy.</text>
+    </latestAction>
+    <amendments />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 201 (Monday, December 11, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOHNSON of Ohio:H.R. 4605.Congress has the power to enact this legislation pursuantto the following:The Congress enacts this bill pursuant to Article I,Section 8, Clause 3 of the U.S. Constitution[Page H9789]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Johnson</lastName>
+        <bioguideId>J000292</bioguideId>
+        <party>R</party>
+        <byRequestType />
+        <district>6</district>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <introducedDate>2017-12-11</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

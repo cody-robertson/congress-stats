@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000586</bioguideId>
+          <lisID>2048</lisID>
+          <gpoId>8106</gpoId>
+        </identifiers>
+        <district>16</district>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <bioguideId>R000586</bioguideId>
+        <state>OH</state>
+        <party>R</party>
+        <firstName>James</firstName>
+        <lastName>Renacci</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billNumber>47</billNumber>
+    <title>Amending the Rules of the House of Representatives respecting budget-related points of order.</title>
+    <cosponsors>
+      <item>
+        <lastName>Quigley</lastName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <bioguideId>Q000023</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1967</lisID>
+          <bioguideId>Q000023</bioguideId>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <state>IL</state>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+      </item>
+      <item>
+        <lastName>Amodei</lastName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <bioguideId>A000369</bioguideId>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>2090</lisID>
+          <gpoId>8366</gpoId>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <state>NV</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+      </item>
+      <item>
+        <lastName>Westerman</lastName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <bioguideId>W000821</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <state>AR</state>
+        <firstName>Bruce</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+      </item>
+      <item>
+        <lastName>Faso</lastName>
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <bioguideId>F000464</bioguideId>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>2343</lisID>
+          <gpoId />
+          <bioguideId>F000464</bioguideId>
+        </identifiers>
+        <district>19</district>
+        <party>R</party>
+        <state>NY</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Rules.</text>
+        <links />
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Amending the Rules of the House of Representatives respecting budget-related points of order.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Amending the Rules of the House of Representatives respecting budget-related points of order.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Amends Rule XXI (Restrictions on Certain Bills) of the Rules of the House of Representatives to require any Committee on Rules resolution for consideration of a bill or joint resolution waiving, or in effect waiving, a budget-related point of order to specify each such point of order.</p> <p>Declares it in order to offer a privileged, unamendable motion to strike or amend to eliminate any provision of that resolution that waives, or in effect waives, the application of a budget-related point of order.</p> <p>Makes it out of order to move to reconsider the vote by which such a motion is agreed to or disagreed to.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-12</actionDate>
+          <lastSummaryUpdateDate>2017-02-28T23:24:52Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-12T15:02:35Z</date>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-01-12</introducedDate>
+    <updateDate>2018-02-06T16:39:32Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>HRES</billType>
+    <createDate>2017-01-13T04:55:29Z</createDate>
+    <latestAction>
+      <text>Referred to the House Committee on Rules.</text>
+      <links />
+      <actionDate>2017-01-12</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

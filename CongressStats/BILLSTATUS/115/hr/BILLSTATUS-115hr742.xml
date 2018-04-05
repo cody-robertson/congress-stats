@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>742</billNumber>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-01-30</actionDate>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-30</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-30</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:41:09Z</updateDate>
+    <cosponsors>
+      <item>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <bioguideId>S000185</bioguideId>
+        <middleName>C. "Bobby"</middleName>
+        <identifiers>
+          <lisID>1037</lisID>
+          <gpoId>8194</gpoId>
+          <bioguideId>S000185</bioguideId>
+        </identifiers>
+        <lastName>Scott</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Robert</firstName>
+        <state>VA</state>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <bioguideId>H001050</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>7912</gpoId>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+        </identifiers>
+        <lastName>Hanabusa</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Colleen</firstName>
+        <state>HI</state>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <bioguideId>S001170</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <lastName>Shea-Porter</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Carol</firstName>
+        <state>NH</state>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+      </item>
+      <item>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <bioguideId>C001053</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <lastName>Cole</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <state>OK</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-30T17:04:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-30</introducedDate>
+    <title>To prohibit any hiring freeze from affecting any Department of Defense position at, or in support of, a public shipyard.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+      <actionDate>2017-01-30</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-31T05:23:09Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <bioguideId>K000381</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KILMER:H.R. 742.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H746]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <number>250</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A bill to prohibit any hiring freeze from affecting any Department of Defense position at, or in support of, a public shipyard.</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+          <actionDate>2017-02-01</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <title>To prohibit any hiring freeze from affecting any Department of Defense position at, or in support of, a public shipyard.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To prohibit any hiring freeze from affecting any Department of Defense position at, or in support of, a public shipyard.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-30</actionDate>
+          <updateDate>2017-01-30T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill declares that the memorandum titled &quot;Presidential Memorandum Regarding the Hiring Freeze&quot; published on January 23, 2017, or any other action by the President to prevent a department or agency from filling vacant civilian employee positions or creating new such positions, shall have no force or effect with respect to any Department of Defense (DOD) civilian position under which an employee performs a DOD function at a public shipyard or a DOD function that directly supports a public shipyard.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-10-04T21:26:18Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

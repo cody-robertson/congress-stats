@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <sponsorshipDate>2017-01-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <lastName>Lee</lastName>
+        <state>UT</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+        </identifiers>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-20T23:32:19Z</date>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <title>Short on Competition Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Short on Competition Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to allow for expedited approval of generic prescription drugs and temporary importation of prescription drugs in the case of noncompetitive drug markets and drug shortages.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Short on Competition Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <amendments />
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-20</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-20</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <introducedDate>2017-01-20</introducedDate>
+    <relatedBills />
+    <committeeReports />
+    <calendarNumbers />
+    <billNumber>183</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-20T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-14T15:13:02Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-20</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Short on Competition Act</b></p> <p>This bill amends the Federal Food, Drug, and Cosmetic Act to require the Food and Drug Administration (FDA) to authorize importation of life-saving drugs for which there is, or is likely to be, a shortage. For a drug to be imported, the drug's manufacturer must intend to seek FDA approval of the drug as a generic drug. The FDA may deny importation of a drug for reasons related to safety or effectiveness.</p> Drugs in noncompetitive markets must be treated as being in a shortage for purposes of this bill and for purposes of expedited inspections and review. A drug is in a noncompetitive market if: (1) there are fewer than five holders of approved applications for commercially available brand name or generic versions of the drug, (2) the drug has been approved for at least 10 years, and (3) patents on the active ingredient of the drug have expired.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2018-02-06T16:44:34Z</updateDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2017-01-20</actionDate>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Short on Competition Act</title>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <firstName>Amy</firstName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <createDate>2017-01-21T04:55:45Z</createDate>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

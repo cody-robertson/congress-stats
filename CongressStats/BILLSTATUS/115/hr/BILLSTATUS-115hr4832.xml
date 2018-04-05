@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4832</billNumber>
+    <createDate>2018-01-19T03:11:04Z</createDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsif16</systemCode>
+              <activities>
+                <item>
+                  <date>2018-01-19T21:30:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Communications and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2018-01-18T15:03:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <committeeReports />
+    <congress>115</congress>
+    <notes />
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <cosponsors />
+    <updateDate>2018-02-06T08:13:15Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <title>RESTORED Act of 2018</title>
+    <actions>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <committee>
+          <name>Communications and Technology Subcommittee</name>
+          <systemCode>hsif16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2018-01-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2018-01-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2018-01-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2018-01-18</introducedDate>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Kevin</firstName>
+        <byRequestType />
+        <lastName>Cramer</lastName>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <middleName />
+        <district>0</district>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <state>ND</state>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 11 (Thursday, January 18, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CRAMER:H.R. 4832.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests is insection 8 of article I of the Constitution.[Page H554]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2018-01-19</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>RESTORED Act of 2018</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Restoring Economic Strength and Telecommunications Operations by Releasing Expected Dollars Act of 2018</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Communications Act of 1934 to clarify that an eligible telecommunications carrier may use high cost universal service support to aid in the restoration of telecommunications capabilities in an area in which the President has declared a major disaster or emergency and may elect to receive an advance payment of such support.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>RESTORED Act of 2018</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>RESTORED Act of 2018</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Restoring Economic Strength and Telecommunications Operations by Releasing Expected Dollars Act of 2018</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

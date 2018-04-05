@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+        <sponsorshipDate>2018-01-10</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2018-02-28</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-10T18:12:55Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Warren</lastName>
+        <state>MA</state>
+        <byRequestType />
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+      </item>
+    </sponsors>
+    <createDate>2018-01-11T00:26:04Z</createDate>
+    <billNumber>2289</billNumber>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <relatedBills />
+    <title>Data Breach Prevention and Compensation Act of 2018</title>
+    <titles>
+      <item>
+        <title>Data Breach Prevention and Compensation Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Data Breach Prevention and Compensation Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to create an Office of Cybersecurity at the Federal Trade Commission for supervision of data security at consumer reporting agencies, to require the promulgation of regulations establishing standards for effective cybersecurity at consumer reporting agencies, to impose penalties on credit reporting agencies for cybersecurity breaches that put sensitive consumer data at risk, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Data Breach Prevention and Compensation Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2018-01-10</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <updateDate>2018-03-01T06:03:34Z</updateDate>
+    <amendments />
+    <introducedDate>2018-01-10</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-10</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-01-10</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

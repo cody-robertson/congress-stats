@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-02-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-02-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-02-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Armed Services.</text>
+      <actionDate>2018-02-08</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Preparedness Before Parades Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To limit the authority of the President to carry out large-scale military parades.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Preparedness Before Parades Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Preparedness Before Parades Act</title>
+      </item>
+    </titles>
+    <billNumber>4982</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000606</bioguideId>
+        <district>8</district>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jamie</firstName>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <party>D</party>
+        <lastName>Raskin</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000610</bioguideId>
+        <district>22</district>
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Theodore</firstName>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <party>D</party>
+        <lastName>Deutch</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001175</bioguideId>
+        <district>14</district>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jackie</firstName>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <party>D</party>
+        <lastName>Speier</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000197</bioguideId>
+        <district>1</district>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+        </identifiers>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>DIANA</firstName>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <party>D</party>
+        <lastName>DEGETTE</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000597</bioguideId>
+        <district>1</district>
+        <state>ME</state>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Chellie</firstName>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <party>D</party>
+        <lastName>Pingree</lastName>
+      </item>
+    </cosponsors>
+    <title>Preparedness Before Parades Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 25 (Thursday, February 8, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHNEIDER:H.R. 4982.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8.[Page H1075]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-08T14:02:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T19:17:28Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Schneider</lastName>
+        <middleName>Scott</middleName>
+        <firstName>Bradley</firstName>
+        <party>D</party>
+        <bioguideId>S001190</bioguideId>
+        <identifiers>
+          <lisID>2124</lisID>
+          <gpoId />
+          <bioguideId>S001190</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>10</district>
+        <state>IL</state>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-02-08</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-02-09T07:56:05Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <introducedDate>2017-10-26</introducedDate>
+    <billType>S</billType>
+    <billNumber>2020</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <updateDate>2017-12-27T17:48:51Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-26</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-26</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-26T17:41:42Z</date>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <byRequestType />
+        <state>MA</state>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <number>4163</number>
+        <latestAction>
+          <actionDate>2017-11-03</actionDate>
+          <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>Cyber Shield Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2017-10-26</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <title>Cyber Shield Act of 2017</title>
+    <cboCostEstimates />
+    <amendments />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Cyber Shield Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish a voluntary program to identify and promote Internet-connected products that meet industry-leading cybersecurity and data security standards, guidelines, best practices, methodologies, procedures, and processes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Cyber Shield Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Cyber Shield Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2017-10-27T00:41:23Z</createDate>
+    <congress>115</congress>
+    <cosponsors />
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

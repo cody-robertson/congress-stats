@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>127</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-04</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:27Z</updateDate>
+    <cosponsors>
+      <item>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <bioguideId>M001160</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Gwen</firstName>
+        <state>WI</state>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <bioguideId>G000571</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2122</lisID>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <lastName>Gabbard</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Tulsi</firstName>
+        <state>HI</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Public transit</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-01-04T21:47:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+              <name>Highways and Transit Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-01-03T17:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-03</introducedDate>
+    <title>Transportation for Heroes Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <links />
+      <actionDate>2017-01-04</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-04T07:01:11Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Green</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>G000553</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <firstName>Al</firstName>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <gpoId>8165</gpoId>
+          <lisID>1803</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AL GREEN of Texas:H.R. 127.Congress has the power to enact this legislation pursuantto the following:Commerce Clause (Art. 1, Sec. 8, Cl. 3)Necessary and Proper Clause (Art. 1, Sec. 8, Cl. 18)[Page H50]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Transportation for Heroes Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Transportation for Heroes Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 49, United States Code, with respect to urbanized area formula grants, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Transportation for Heroes Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-10T22:32:25Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-03</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Transportation for Heroes Act of 2017</b></p> <p>This bill revises urbanized area formula grant recipient requirements to require a recipient to certify that it will ensure that a fare of no more than 50% of the peak hour fare will be charged to a U.S. veteran during non-peak hours for transportation using or involving a facility or equipment of a project financed by the grant.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

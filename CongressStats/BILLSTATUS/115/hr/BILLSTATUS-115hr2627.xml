@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>2627</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hsfa18</systemCode>
+          <name>Terrorism,  Nonproliferation, and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Counterterrorism and Intelligence Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Homeland Security</text>
+        <links />
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Foreign Affairs</text>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:42:55Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <bioguideId>V000132</bioguideId>
+        <lastName>Vela</lastName>
+        <party>D</party>
+        <district>34</district>
+        <firstName>Filemon</firstName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2167</lisID>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <bioguideId>M001157</bioguideId>
+        <lastName>McCaul</lastName>
+        <party>R</party>
+        <district>10</district>
+        <firstName>Michael</firstName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <bioguideId>K000386</bioguideId>
+        <lastName>Katko</lastName>
+        <party>R</party>
+        <district>24</district>
+        <firstName>John</firstName>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <bioguideId>S001196</bioguideId>
+        <lastName>Stefanik</lastName>
+        <party>R</party>
+        <district>21</district>
+        <firstName>Elise</firstName>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+          <lisID>2263</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-24T14:03:15Z</date>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa18</systemCode>
+              <name>Terrorism,  Nonproliferation, and Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-27T16:51:01Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-24T14:03:20Z</date>
+            </item>
+          </activities>
+          <name>Homeland Security Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hshm05</systemCode>
+              <name>Counterterrorism and Intelligence Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-15T13:09:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-05-24</introducedDate>
+    <title>Enhancing Overseas Traveler Vetting Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+      <links />
+      <actionDate>2017-06-27</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-05-25T03:11:41Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Hurd</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>H001073</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <firstName>Will</firstName>
+        <district>23</district>
+        <identifiers>
+          <bioguideId>H001073</bioguideId>
+          <lisID>2269</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HURD:H.R. 2627.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18--To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[[Page H4570]][Page H4569]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Enhancing Overseas Traveler Vetting Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Enhancing Overseas Traveler Vetting Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To authorize the development of open-source software based on certain systems of the Department of Homeland Security and the Department of State to facilitate the vetting of travelers against terrorist watchlists and law enforcement databases, enhance border management, and improve targeting and analysis, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Enhancing Overseas Traveler Vetting Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-05-24T04:00:00Z</updateDate>
+          <actionDate>2017-05-24</actionDate>
+          <text><![CDATA[<p><strong>Enhancing Overseas Traveler Vetting Act</strong></p> <p>This bill authorizes the Department of Homeland Security and the Department of State to: </p> <ul> <li>develop open-source software based on U.S. Customs and Border Protection's global travel targeting and analysis systems and the State Department's watchlisting, identification, and screening systems to facilitate the vetting of travelers against terrorist watchlists and law enforcement databases, enhance border management, and improve targeting and analysis; and </li> <li>make such software and any related technical assistance or training available to foreign governments or multilateral organizations for such purposes.</li> </ul>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-06-10T14:13:17Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

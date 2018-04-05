@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-15</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-11-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>2129</billNumber>
+    <title>Military Domestic Violence Reporting Enhancement Act</title>
+    <amendments />
+    <version>1.0.0</version>
+    <createDate>2017-11-16T00:26:16Z</createDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Military Domestic Violence Reporting Enhancement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 10, United States Code, to establish a punitive article in the Uniform Code of Military Justice on domestic violence, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Military Domestic Violence Reporting Enhancement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Military Domestic Violence Reporting Enhancement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <state>WI</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>TAMMY</firstName>
+        <bioguideId>B001230</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <lastName>BALDWIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Cory</firstName>
+        <bioguideId>B001288</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <lastName>Booker</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <state>OH</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>SHERROD</firstName>
+        <bioguideId>B000944</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>BROWN</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>NV</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Catherine</firstName>
+        <bioguideId>C001113</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <lastName>Cortez Masto</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>MN</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Al</firstName>
+        <bioguideId>F000457</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <lastName>Franken</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Kirsten</firstName>
+        <bioguideId>G000555</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Kamala</firstName>
+        <bioguideId>H001075</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <lastName>Harris</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001075</bioguideId>
+          <lisID>2301</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Margaret</firstName>
+        <bioguideId>H001076</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <lastName>Hassan</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>Wood</middleName>
+      </item>
+      <item>
+        <state>VA</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Timothy</firstName>
+        <bioguideId>K000384</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <lastName>Kaine</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>MN</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>EDWARD</firstName>
+        <bioguideId>M000133</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <lastName>MARKEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <state>WA</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>PATTY</firstName>
+        <bioguideId>M001111</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <lastName>MURRAY</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>MI</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Gary</firstName>
+        <bioguideId>P000595</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <lastName>Peters</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <state>VT</state>
+        <party>I</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>BERNARD</firstName>
+        <bioguideId>S000033</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <lastName>SANDERS</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Jeanne</firstName>
+        <bioguideId>S001181</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>MD</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <bioguideId>V000128</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <lastName>Van Hollen</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <state>VA</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <bioguideId>W000805</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <lastName>Warner</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <laws />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Committee on Armed Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2017-12-13</actionDate>
+        </latestAction>
+        <latestTitle>Military Domestic Violence Reporting Enhancement Act</latestTitle>
+        <type>HR</type>
+        <number>4639</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2018-01-05T15:45:07Z</updateDate>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <state>HI</state>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-15T20:59:27Z</date>
+            </item>
+          </activities>
+          <systemCode>ssas00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <committeeReports />
+    <introducedDate>2017-11-15</introducedDate>
+    <latestAction>
+      <actionDate>2017-11-15</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

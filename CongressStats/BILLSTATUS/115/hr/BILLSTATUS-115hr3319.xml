@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-21</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-12-18T20:10:58Z</lastSummaryUpdateDate>
+          <actionDate>2017-07-19</actionDate>
+          <text><![CDATA[<p><STRONG>More for Veterans Act</STRONG></p> <p>This bill directs the Department of Defense (DOD) to ensure that retired and honorably discharged members of the Armed Forces, including members medically discharged, separated, or on the temporary disability retirement list, and their immediate family remain eligible for Military OneSource Program services for at least one year after the end of the member's tour of service, retirement date, or separation date.</p> <p>(Military OneSource is a DOD-funded program that provides comprehensive information on aspects of military life at no cost to active duty National Guard and Reserve Component members and their families.) </p>]]></text>
+          <updateDate>2017-07-19T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>3319</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VEASEY:H.R. 3319.Congress has the power to enact this legislation pursuantto the following:Title 10, United States Code[Page H6043]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <state>TX</state>
+        <bioguideId>V000131</bioguideId>
+        <byRequestType />
+        <lastName>Veasey</lastName>
+        <middleName>A.</middleName>
+        <district>33</district>
+        <party>D</party>
+        <firstName>Marc</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2017-08-21</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2017-07-20T03:11:33Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <lastName>Cook</lastName>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <bioguideId>C001094</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <lastName>RYAN</lastName>
+        <party>D</party>
+        <firstName>TIM</firstName>
+        <bioguideId>R000577</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>More for Veterans Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To extend the duration of Military OneSource Program services for members of the Armed Forces upon their separation or retirement from the Armed Forces.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>More for Veterans Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>More for Veterans Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-07-19</introducedDate>
+    <title>More for Veterans Act</title>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Military Spouse Employment Act of 2018</latestTitle>
+        <number>2379</number>
+        <congress>115</congress>
+        <type>S</type>
+        <latestAction>
+          <text>Committee on Armed Services Subcommittee on Personnel. Hearings held.</text>
+          <actionDate>2018-02-14</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-08-21T15:11:36Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-19T14:05:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2018-02-21T20:00:09Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

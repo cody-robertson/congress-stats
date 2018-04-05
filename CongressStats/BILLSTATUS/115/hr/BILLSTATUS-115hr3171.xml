@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1593</lisID>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+        <firstName>MIKE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>THOMPSON</lastName>
+        <state>CA</state>
+        <bioguideId>T000460</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <party>R</party>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Thompson</lastName>
+        <state>PA</state>
+        <bioguideId>T000467</bioguideId>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-10</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-10</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-10</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-10</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <createDate>2017-07-11T03:11:32Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <latestAction>
+      <actionDate>2017-07-14</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <title>To amend title XVIII of the Social Security Act to provide that certain orthotist's and prosthetist's clinical notes under Medicare be treated as part of the patient's medical record.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-10</actionDate>
+          <updateDate>2017-07-10T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill amends title XVIII (Medicare) of the Social Security Act to specify that documentation created by an orthotist or prosthetist shall be considered part of a Medicare beneficiary's medical record for purposes of determining the reasonableness and medical necessity of orthotics and prosthetics.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-09-19T11:50:24Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billNumber>3171</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <introducedDate>2017-07-10</introducedDate>
+    <relatedBills>
+      <item>
+        <number>3178</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Medicare Part B Improvement Act of 2017</latestTitle>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-07-26</actionDate>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-10T14:00:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2017-07-14T16:10:24Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-10T14:00:13Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <date>2017-07-11T19:34:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to provide that certain orthotist's and prosthetist's clinical notes under Medicare be treated as part of the patient's medical record.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To amend title XVIII of the Social Security Act to provide that certain orthotist's and prosthetist's clinical notes under Medicare be treated as part of the patient's medical record.</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <middleName />
+        <district>8</district>
+        <byRequestType />
+        <firstName>Mike</firstName>
+        <bioguideId>B001293</bioguideId>
+        <state>MI</state>
+        <party>R</party>
+        <lastName>Bishop</lastName>
+        <identifiers>
+          <lisID>2249</lisID>
+          <bioguideId>B001293</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-06T16:43:18Z</updateDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

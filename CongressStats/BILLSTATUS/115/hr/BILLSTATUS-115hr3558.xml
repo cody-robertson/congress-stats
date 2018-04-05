@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>3558</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-07T08:15:47Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>N.</middleName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Stephanie</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <lisID>2318</lisID>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <bioguideId>M001202</bioguideId>
+        <lastName>Murphy</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <firstName>Rodney</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <bioguideId>D000619</bioguideId>
+        <lastName>Davis</lastName>
+        <state>IL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <firstName>PETER</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <bioguideId>D000191</bioguideId>
+        <lastName>DEFAZIO</lastName>
+        <state>OR</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <firstName>Ro</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <bioguideId>K000389</bioguideId>
+        <lastName>Khanna</lastName>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <firstName>ZOE</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <bioguideId>L000397</bioguideId>
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <firstName>Ryan</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2266</lisID>
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <bioguideId>C001106</bioguideId>
+        <lastName>Costello</lastName>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-28T21:13:38Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-28T13:00:31Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-07-28</introducedDate>
+    <title>Improve Access to Care for Our Female Veterans Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-07-28</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-07-29T03:11:38Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <bioguideId>B001284</bioguideId>
+        <middleName>W.</middleName>
+        <byRequestType />
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <firstName>Susan</firstName>
+        <district>5</district>
+        <identifiers>
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BROOKS of Indiana:H.R. 3558.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H6578]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Improve Access to Care for Our Female Veterans Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To direct the Secretary of Veterans Affairs to make certain improvements relating to inspections of Department of Veterans Affairs medical facilities and improving care for women.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Improve Access to Care for Our Female Veterans Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Improve Access to Care for Our Female Veterans Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

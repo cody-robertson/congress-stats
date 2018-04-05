@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-25T21:37:52Z</updateDate>
+    <billType>S</billType>
+    <latestAction>
+      <links />
+      <actionDate>2017-12-05</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+    </latestAction>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <lastName>WYDEN</lastName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <byRequestType />
+        <firstName>RON</firstName>
+        <state>OR</state>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <name>Energy Subcommittee</name>
+              <systemCode>sseg01</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-12-05T19:30:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-27T20:09:29Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2017-09-28T00:26:19Z</createDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <committee>
+          <name>Energy Subcommittee</name>
+          <systemCode>sseg01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-27</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6188</url>
+            <name>S6188</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S6188)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-09-27</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <introducedDate>2017-09-27</introducedDate>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <state>RI</state>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>JOHN</firstName>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <bioguideId>C001088</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <title>Reducing the Cost of Energy Storage Act of 2017</title>
+    <cboCostEstimates />
+    <laws />
+    <billNumber>1876</billNumber>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills />
+    <titles>
+      <item>
+        <title>Reducing the Cost of Energy Storage Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to direct the Secretary of Energy to establish a program to advance energy storage deployment by reducing the cost of energy storage through research, development, and demonstration, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Reducing the Cost of Energy Storage Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Reducing the Cost of Energy Storage Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

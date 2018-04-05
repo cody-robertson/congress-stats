@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>273</billNumber>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-04-20</actionDate>
+        <links />
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-20</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-20</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:43Z</updateDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>L000397</bioguideId>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <district>19</district>
+        <firstName>ZOE</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <lastName>LOFGREN</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <bioguideId>L000563</bioguideId>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <district>3</district>
+        <firstName>Daniel</firstName>
+        <middleName>William</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+        <lastName>Lipinski</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <bioguideId>B001278</bioguideId>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <district>1</district>
+        <firstName>Suzanne</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <lastName>Bonamici</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>B001287</bioguideId>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <district>7</district>
+        <firstName>Ami</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2102</lisID>
+          <gpoId />
+          <bioguideId>B001287</bioguideId>
+        </identifiers>
+        <lastName>Bera</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <bioguideId>E000293</bioguideId>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <district>5</district>
+        <firstName>Elizabeth</firstName>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2114</lisID>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Esty</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>V000131</bioguideId>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <district>33</district>
+        <firstName>Marc</firstName>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2166</lisID>
+          <gpoId />
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <lastName>Veasey</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <bioguideId>B001292</bioguideId>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <district>8</district>
+        <firstName>Donald</firstName>
+        <middleName>S.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+          <lisID>2272</lisID>
+        </identifiers>
+        <lastName>Beyer</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <district>3</district>
+        <firstName>Jacky</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <district>9</district>
+        <firstName>Jerry</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <lastName>McNerney</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <bioguideId>P000593</bioguideId>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <district>7</district>
+        <firstName>Ed</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <gpoId>7865</gpoId>
+          <lisID>1835</lisID>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <lastName>Perlmutter</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>T000469</bioguideId>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <district>20</district>
+        <firstName>Paul</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+        </identifiers>
+        <lastName>Tonko</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <bioguideId>F000454</bioguideId>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <district>11</district>
+        <firstName>Bill</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <lastName>Foster</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>T000472</bioguideId>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <district>41</district>
+        <firstName>Mark</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <lastName>Takano</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <bioguideId>H001050</bioguideId>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <district>1</district>
+        <firstName>Colleen</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+          <gpoId>7912</gpoId>
+        </identifiers>
+        <lastName>Hanabusa</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>C001111</bioguideId>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <district>13</district>
+        <firstName>Charlie</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2321</lisID>
+          <bioguideId>C001111</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Crist</lastName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>General science and technology matters</name>
+          </item>
+          <item>
+            <name>Policy sciences</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+          <activities>
+            <item>
+              <date>2017-04-20T20:00:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-04-20</introducedDate>
+    <title>Supporting the principles and goals of the March for Science taking place in Washington, DC, and cities all over the world on Earth Day, April 22, 2017.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+      <links />
+      <actionDate>2017-04-20</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-04-21T03:11:46Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>JOHNSON</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>J000126</bioguideId>
+        <middleName>BERNICE</middleName>
+        <byRequestType />
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <firstName>EDDIE</firstName>
+        <district>30</district>
+        <identifiers>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+          <lisID>599</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Supporting the principles and goals of the March for Science taking place in Washington, DC, and cities all over the world on Earth Day, April 22, 2017.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Supporting the principles and goals of the March for Science taking place in Washington, DC, and cities all over the world on Earth Day, April 22, 2017.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-11T15:30:03Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-20T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Supports the principles and goals of the March for Science and affirms the need for evidence-based policy in the public interest. </p> <p>Urges the government to support scientific research and science, technology, engineering, and math education throughout the country.</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-20</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

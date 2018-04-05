@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <updateDate>2018-02-28T19:19:22Z</updateDate>
+    <notes />
+    <billNumber>2447</billNumber>
+    <introducedDate>2018-02-15</introducedDate>
+    <calendarNumbers />
+    <title>Smart Building Acceleration Act</title>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-15</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-02-15</actionDate>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-15T21:13:51Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2018-02-18T21:46:31Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>1460</number>
+        <latestTitle>Energy and Natural Resources Act of 2017</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+          <actionDate>2017-09-19</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>5069</number>
+        <latestTitle>Smart Building Acceleration Act of 2018</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2018-02-16</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Smart Building Acceleration Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to accelerate smart building development, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Smart Building Acceleration Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Smart Building Acceleration Act</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <lastName>CANTWELL</lastName>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <bioguideId>C000127</bioguideId>
+        <state>WA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2018-02-15</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <amendments />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Smith</lastName>
+        <bioguideId>S001203</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

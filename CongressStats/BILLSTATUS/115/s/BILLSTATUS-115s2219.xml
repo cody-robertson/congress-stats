@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-12</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2018-01-30T15:37:30Z</updateDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Stop Underrides Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to reduce the number of preventable deaths and injuries caused by underride crashes, to improve motor carrier and passenger motor vehicle safety, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Stop Underrides Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Stop Underrides Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2017-12-13T00:26:08Z</createDate>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <title>Stop Underrides Act of 2017</title>
+    <billNumber>2219</billNumber>
+    <congress>115</congress>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <laws />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-12-12</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+        </identifiers>
+        <firstName>CLARENCE</firstName>
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000032</bioguideId>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipDate>2017-12-12</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <firstName>EDWARD</firstName>
+        <lastName>MARKEY</lastName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <lastName>Duckworth</lastName>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000622</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+      <actionDate>2017-12-12</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-12-12T17:00:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-12-12</introducedDate>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <lastName>Gillibrand</lastName>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

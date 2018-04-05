@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>1936</billNumber>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Referred to House Budget</text>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Referred to House Rules</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links>
+          <link>
+            <name>H2733</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2733</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR H2733)</text>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:42:23Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+        <state>PA</state>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <middleName>K.</middleName>
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:05:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:05:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-04-05</introducedDate>
+    <title>Do Your Job Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to House Budget</text>
+      <links />
+      <actionDate>2017-04-05</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-04-06T03:11:55Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Gallagher</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+          <lisID>2355</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H2754-H2755]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GALLAGHER:H.R. 1936.Congress has the power to enact this legislation pursuantto the following:Article I, Section 5: Each House may determine the Rules ofits Proceedings,[[Page H2755]]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Do Your Job Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Do Your Job Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit congressional recesses until Congress adopts a concurrent resolution on the budget that results in a balanced Federal budget by the last fiscal year covered by such resolution, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Do Your Job Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-08T18:55:53Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-05</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Do Your Job Act </b></p> <p>This bill amends the Congressional Budget Act of 1974 to create points of order against resolutions providing for: (1) the adjournment of the House for more than three days during August until the House has approved all of the annual appropriation bills, or (2) the adjournment of either the House or the Senate for more than three days between October 1 and the end of the session of Congress until all of the annual appropriation bills have been presented to the President. </p> <p>The bill also prohibits a congressional recess or adjournment longer than 24 hours during a calendar year until Congress agrees to a budget resolution that projects a balanced budget by the last fiscal year covered by the resolution. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

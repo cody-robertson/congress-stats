@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2017-02-03T05:17:29Z</createDate>
+    <billType>SRES</billType>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2018-02-22T15:29:17Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-02T17:08:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Environment and Public Works Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-02T17:07:06Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssev00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Environment and Public Works for the 115th Congress.</p>]]></text>
+          <actionDate>2017-02-02</actionDate>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-03-06T21:24:29Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <versionCode>80</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Environment and Public Works for the 115th Congress.</p>]]></text>
+          <actionDate>2017-02-02</actionDate>
+          <name>Reported to Senate without amendment</name>
+          <lastSummaryUpdateDate>2017-03-06T21:24:42Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-02T13:10:06Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Environment and Public Works.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Environment and Public Works.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S659-660</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S659-660</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S659-660)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Barrasso. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Barrasso. Without written report.</text>
+        <actionCode>14000</actionCode>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <actionDate>2017-02-02</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2017-02-02</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2017-02-02</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S659-660)</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <billNumber>42</billNumber>
+    <amendments />
+    <recordedVotes />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Environment and Public Works</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>An original resolution authorizing expenditures by the Committee on Environment and Public Works.</title>
+    <introducedDate>2017-02-02</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <lastName>Barrasso</lastName>
+        <firstName>John</firstName>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <bioguideId>B001261</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <state>WY</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

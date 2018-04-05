@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4390</billNumber>
+    <latestAction>
+      <links />
+      <actionDate>2017-11-17</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <congress>115</congress>
+    <notes />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>D000614</bioguideId>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <lastName>Duffy</lastName>
+        <state>WI</state>
+        <firstName>Sean</firstName>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <bioguideId>D000614</bioguideId>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-11-14</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-11-17</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>0</district>
+        <state>MT</state>
+        <middleName />
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <party>R</party>
+        <bioguideId>G000584</bioguideId>
+        <firstName>Greg</firstName>
+        <lastName>Gianforte</lastName>
+        <identifiers>
+          <bioguideId>G000584</bioguideId>
+          <lisID>2359</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-17T16:47:22Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-14T15:00:24Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <laws />
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 186 (Tuesday, November 14, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GIANFORTE:H.R. 4390.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H9254]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-11-15T03:11:20Z</createDate>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <titles>
+      <item>
+        <title>Hometown Heroes Relief Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To reauthorize the rural emergency medical service training and equipment assistance program under section 330J of the Public Health Service Act.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Hometown Heroes Relief Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Hometown Heroes Relief Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2018-01-25T21:29:04Z</updateDate>
+    <recordedVotes />
+    <title>Hometown Heroes Relief Act of 2017</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

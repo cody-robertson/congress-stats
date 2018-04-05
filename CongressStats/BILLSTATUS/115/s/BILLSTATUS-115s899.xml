@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-04-07</introducedDate>
+    <cosponsors>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>JERRY</firstName>
+        <lastName>MORAN</lastName>
+        <state>KS</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <state>MT</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <state>CT</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-07</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-04-08T00:41:49Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <latestAction>
+      <actionDate>2017-05-17</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+    <title>A bill to amend title 38, United States Code, to ensure that the requirements that new Federal employees who are veterans with service-connected disabilities are provided leave for purposes of undergoing medical treatment for such disabilities apply to certain employees of the Veterans Health Administration, and for other purposes.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill extends the policy entitling new federal employees who are veterans with a service-connected disability to a specified amount of leave for medical treatment for such disability to all Veterans Health Administration physicians, dentists, podiatrists, chiropractors, optometrists, registered nurses, physician assistants, and expanded-function dental auxiliaries.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-11-17T20:24:03Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-04-07T04:00:00Z</updateDate>
+          <actionDate>2017-04-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billNumber>899</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Employee leave</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Veterans Transition Improvement Act</latestTitle>
+        <number>2648</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-05-24</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-17T18:30:24Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2017-04-07T16:06:48Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to ensure that the requirements that new Federal employees who are veterans with service-connected disabilities are provided leave for purposes of undergoing medical treatment for such disabilities apply to certain employees of the Veterans Health Administration, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend title 38, United States Code, to ensure that the requirements that new Federal employees who are veterans with service-connected disabilities are provided leave for purposes of undergoing medical treatment for such disabilities apply to certain employees of the Veterans Health Administration, and for other purposes.</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <middleName>K.</middleName>
+        <state>HI</state>
+        <byRequestType />
+        <firstName>Mazie</firstName>
+        <bioguideId>H001042</bioguideId>
+        <party>D</party>
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-06T16:45:14Z</updateDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

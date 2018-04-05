@@ -54,6 +54,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="CongressStatsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CongressStatsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deserialization\Bill\BillAction.cs" />
+    <Compile Include="Deserialization\SenateVote\SenateVote.cs" />
+    <Compile Include="Deserialization\SenateVote\SenateVoteSummary.cs" />
     <Page Include="Bill_Profile.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -78,6 +86,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Deserialization\Bill\Bill.cs" />
+    <Compile Include="Deserialization\Bill\BillParser.cs" />
     <Compile Include="Bill_Profile.xaml.cs">
       <DependentUpon>Bill_Profile.xaml</DependentUpon>
     </Compile>
@@ -90,6 +100,7 @@
     <Compile Include="HomePage.xaml.cs">
       <DependentUpon>HomePage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Deserialization\HouseMember\HouseMember.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -127,6 +138,17 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="CongressStatsDataSet.xsc">
+      <DependentUpon>CongressStatsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CongressStatsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CongressStatsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CongressStatsDataSet.xss">
+      <DependentUpon>CongressStatsDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -134,6 +156,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Deserialization\HouseVote\" />
+    <Folder Include="Deserialization\SenateMember\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CongressStats.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

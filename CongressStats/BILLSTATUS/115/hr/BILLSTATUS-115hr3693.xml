@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <updateDate>2018-02-26T21:45:08Z</updateDate>
+    <notes />
+    <billNumber>3693</billNumber>
+    <introducedDate>2017-09-07</introducedDate>
+    <calendarNumbers />
+    <title>To repeal the debt ceiling.</title>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-09-07</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This bill repeals the public debt limit, which applies to most debt held by the federal government. </p>]]></text>
+          <lastSummaryUpdateDate>2018-02-26T21:31:13Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-09-07T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-07T14:00:46Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-09-08T10:26:37Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRENDAN F. BOYLE of Pennsylvania:H.R. 3693.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution under theGeneral Welfare Clause.[Page H7182]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <number>1846</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>End the Threat of Default Act</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-09-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>To repeal the debt ceiling.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To repeal the debt ceiling.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <lastName>Boyle</lastName>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Brendan</firstName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <district>13</district>
+        <byRequestType />
+        <state>PA</state>
+        <bioguideId>B001296</bioguideId>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-07</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

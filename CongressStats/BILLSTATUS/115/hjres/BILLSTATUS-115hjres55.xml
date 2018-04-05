@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>55</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-08</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <text>Referred to House Natural Resources</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <text>Referred to House Judiciary</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:09Z</updateDate>
+    <cosponsors>
+      <item>
+        <lastName>Gosar</lastName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <bioguideId>G000565</bioguideId>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+      </item>
+      <item>
+        <lastName>Gohmert</lastName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <bioguideId>G000552</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>Louie</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+      </item>
+      <item>
+        <lastName>Radewagen</lastName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <bioguideId>R000600</bioguideId>
+        <middleName>Coleman</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000600</bioguideId>
+          <lisID>2222</lisID>
+        </identifiers>
+        <district>0</district>
+        <party>R</party>
+        <state>AS</state>
+        <firstName>Aumua Amata</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+      </item>
+      <item>
+        <lastName>Cramer</lastName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <party>R</party>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+      </item>
+      <item>
+        <lastName>Biggs</lastName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <bioguideId>B001302</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <lisID>2307</lisID>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>Andy</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+      </item>
+      <item>
+        <lastName>Newhouse</lastName>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <bioguideId>N000189</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+          <lisID>2275</lisID>
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <state>WA</state>
+        <firstName>Dan</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+              <systemCode>hsju05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-08T21:40:41Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-31T15:01:45Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-31T15:01:50Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-31</introducedDate>
+    <title>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Office of Natural Resources Revenue relating to "Amendments to Civil Penalty Regulations".</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <links />
+      <actionDate>2017-02-08</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HJRES</billType>
+    <createDate>2017-02-01T04:48:43Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Stewart</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <bioguideId>S001192</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <firstName>Chris</firstName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+          <lisID>2168</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. STEWART:H.J. Res. 55.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18To make all Laws which shall be necessary and proper forcarrying in Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited State, or in any Department or Officer therof.____________________[Page H821]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Office of Natural Resources Revenue relating to "Amendments to Civil Penalty Regulations".</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Office of Natural Resources Revenue relating to "Amendments to Civil Penalty Regulations".</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This joint resolution nullifies the rule submitted by the Office of Natural Resources Revenue titled &quot;Amendments to Civil Penalty Regulations.&quot;The rule published in the Federal Register on August 1, 2016, expands civil penalties to all federally administered mineral leases. </p>]]></text>
+          <actionDate>2017-01-31</actionDate>
+          <updateDate>2017-01-31T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-28T15:42:49Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

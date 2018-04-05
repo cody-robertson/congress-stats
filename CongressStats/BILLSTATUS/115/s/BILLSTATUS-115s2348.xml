@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <introducedDate>2018-01-25</introducedDate>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2018-01-25</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <relatedBills />
+    <updateDate>2018-02-28T19:19:07Z</updateDate>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>ORRIN</firstName>
+        <middleName>GRANT</middleName>
+        <lastName>HATCH</lastName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billNumber>2348</billNumber>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 49, United States Code, to ensure reliable air service to American Samoa.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend title 49, United States Code, to ensure reliable air service to American Samoa.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <createDate>2018-01-26T00:26:03Z</createDate>
+    <title>A bill to amend title 49, United States Code, to ensure reliable air service to American Samoa.</title>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2018-01-25T21:01:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-01-25</actionDate>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

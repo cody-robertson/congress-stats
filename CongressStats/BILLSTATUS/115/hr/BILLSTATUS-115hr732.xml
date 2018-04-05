@@ -1,0 +1,2735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-01-30</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-25T15:06:55Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-31T20:04:45Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju05</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-03-30T15:11:05Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-30T17:05:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionTime>17:48:52</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>On passage Passed by recorded vote: 238 - 183 (Roll no. 580). (text: CR H8118)</text>
+        <actionCode>H37100</actionCode>
+        <actionTime>17:48:51</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H8118</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8118</url>
+          </link>
+          <link>
+            <name>Roll no. 580</name>
+            <url>http://clerk.house.gov/evs/2017/roll580.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On passage Passed by recorded vote: 238 - 183 (Roll no. 580).</text>
+        <actionCode>8000</actionCode>
+        <actionTime>17:48:51</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>Roll no. 580</name>
+            <url>http://clerk.house.gov/evs/2017/roll580.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.</text>
+        <actionCode>H34400</actionCode>
+        <actionTime>17:42:15</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <actionCode>H35000</actionCode>
+        <actionTime>17:42:02</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 732.</text>
+        <actionCode>H32600</actionCode>
+        <actionTime>17:41:33</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 732</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/732</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Conyers demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:55:34</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>DEBATE - Pursuant to the provisions of H. Res. 577, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment No. 6.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:46:59</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 577</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/577</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Cicilline demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:46:16</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:37:25</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Johnson (LA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:28:33</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Cohen amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Johnson (LA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:18:50</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 732.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>15:04:35</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 732</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/732</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>The Speaker designated the Honorable Frank D. Lucas to act as Chairman of the Committee.</text>
+        <actionCode>H32400</actionCode>
+        <actionTime>15:04:12</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 577 and Rule XVIII.</text>
+        <actionCode>H32020</actionCode>
+        <actionTime>15:04:11</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 577</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/577</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Rule provides for consideration of H.R. 469 and H.R. 732. Measure will be considered read. Specified amendments are in order. Rule provides for one hour of general debate for H.R. 469. The rule also provides for consideration of amendments printed in part A of the report. The rule provides for one hour of general debate for H.R. 732. The rule provides for consideration of amendments printe in part B of the report.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>15:03:46</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 469</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/469</url>
+          </link>
+          <link>
+            <name>H.R. 732</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/732</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered under the provisions of rule H. Res. 577. (consideration: CR H8107-8129)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>15:03:41</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 577</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/577</url>
+          </link>
+          <link>
+            <name>H8107-8129</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8107-8129</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Rule H. Res. 577 passed House.</text>
+        <actionCode>H1L220</actionCode>
+        <actionTime>13:45:22</actionTime>
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 577</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/577</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Rules Committee Resolution H. Res. 577 Reported to House. Rule provides for consideration of H.R. 469 and H.R. 732. Measure will be considered read. Specified amendments are in order. Rule provides for one hour of general debate for H.R. 469. The rule also provides for consideration of amendments printed in part A of the report. The rule provides for one hour of general debate for H.R. 732. The rule provides for consideration of amendments printe in part B of the report.</text>
+        <actionCode>H1L210</actionCode>
+        <actionTime>19:29:18</actionTime>
+        <committee />
+        <actionDate>2017-10-23</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 577</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/577</url>
+          </link>
+          <link>
+            <name>H.R. 469</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/469</url>
+          </link>
+          <link>
+            <name>H.R. 732</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/732</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 43.</text>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <actionDate>2017-03-30</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 115-72.</text>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-03-30</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-72</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/72</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 115-72.</text>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-03-30</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-72</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/72</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-01-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-01-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-01-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>26</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <referredToCommittee>1</referredToCommittee>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <generalDebate>8</generalDebate>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForH>2</placeholderTextForH>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-30T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-02-15T20:00:34Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-30</actionDate>
+          <text><![CDATA[<p><b>Stop Settlement Slush Funds Act of</b> <b>2017</b></p> <p>This bill prohibits government officials from entering into or enforcing a settlement agreement on behalf of the United States (resolving a civil action, a plea agreement, a deferred prosecution agreement, or a nonprosecution agreement) that provides for a payment to any person or entity other than the United States. The bill provides exceptions to allow payments that: (1) remedy actual harm (including to the environment) caused by the party making the payment, or (2) constitute a payment for services rendered in connection with the case or a payment that a court may order for restitution to victims in certain criminal cases or other persons in plea agreements.</p> <p>Government officials or agents who violate this prohibition may be removed from office or required to forfeit to the government any money they hold for such purposes to which they may otherwise be entitled.</p> <p>Federal agencies must report annually for seven years to the Congressional Budget Office about the parties, funding sources, and distribution of funds for their settlement agreements permitted by the exceptions in this bill. </p> <p>Agency inspectors general must report annually to Congress about any of their agency's settlement agreements that violate this bill. </p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDesc>Reported to House with amendment(s)</actionDesc>
+          <updateDate>2017-03-30T13:11:39Z</updateDate>
+          <name>Reported to House with amendment(s)</name>
+          <lastSummaryUpdateDate>2017-05-04T22:05:13Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-30</actionDate>
+          <text><![CDATA[<p><b>Stop Settlement Slush Funds Act of</b> <b>2017</b></p> <p>(Sec. 2) This bill prohibits government officials from entering into or enforcing a settlement agreement on behalf of the United States (resolving a civil action, a plea agreement, a deferred prosecution agreement, or a nonprosecution agreement) that provides for a payment or a loan to any person or entity other than the United States. The bill provides exceptions to allow payments or loans that: (1) remedy actual harm (including to the environment) caused by the party making the payment or loan, or (2) constitute a payment for services rendered in connection with the case or a payment that a court may order for restitution to victims in certain criminal cases or other persons in plea agreements.</p> <p>Government officials or agents who violate this prohibition may be removed from office or required to forfeit to the government any money they hold for such purposes to which they may otherwise be entitled.</p> <p>Federal agencies must report annually for seven years to the Congressional Budget Office about the parties, funding sources, and distribution of funds for their settlement agreements permitted by the exceptions in this bill. </p> <p>Agency inspectors general must report annually to Congress about any of their agency's settlement agreements that violate this bill. </p>]]></text>
+          <versionCode>17</versionCode>
+        </item>
+        <item>
+          <actionDesc>Passed House amended</actionDesc>
+          <updateDate>2017-10-24T14:43:04Z</updateDate>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2018-01-25T21:07:46Z</lastSummaryUpdateDate>
+          <actionDate>2017-10-24</actionDate>
+          <text><![CDATA[<p><b>Stop Settlement Slush Funds Act of</b> <b>2017</b></p> <p>(Sec. 2) This bill prohibits government officials from entering into or enforcing a settlement agreement on behalf of the United States (resolving a civil action, a plea agreement, a deferred prosecution agreement, or a nonprosecution agreement) that provides for a payment or a loan to any person or entity other than the United States. The bill provides exceptions to allow payments or loans that: (1) remedy actual harm (including to the environment) caused by the party making the payment or loan and suffered by the payee, or (2) constitute a payment for services rendered in connection with the case or a payment that a court may order for restitution to victims in certain criminal cases or other persons in plea agreements.</p> <p>Amounts remaining after all claims have been satisfied must be repaid proportionally to each party who contributed to the original payment. </p> <p>Government officials or agents who violate this prohibition may be removed from office or required to forfeit to the government any money they hold for such purposes to which they may otherwise be entitled.</p> <p>Federal agencies must report annually for seven years to the Congressional Budget Office about the parties, funding sources, and distribution of funds for their settlement agreements permitted by the exceptions in this bill. </p> <p>Agency inspectors general must report annually to Congress about any of their agency's settlement agreements that violate this bill. </p>]]></text>
+          <versionCode>36</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:27:20Z</updateDate>
+    <amendments>
+      <amendment>
+        <number>462</number>
+        <createDate>2017-10-25T07:16:18Z</createDate>
+        <amendedAmendment />
+        <type>HAMDT</type>
+        <amendedBill>
+          <number>732</number>
+          <title>Stop Settlement Slush Funds Act of 2017</title>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <congress>115</congress>
+          <type>HR</type>
+        </amendedBill>
+        <submittedDate>2017-10-24T04:00:00Z</submittedDate>
+        <titles />
+        <updateDate>2018-02-22T15:27:20Z</updateDate>
+        <sponsors>
+          <item>
+            <party>D</party>
+            <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+            <identifiers>
+              <bioguideId>C000714</bioguideId>
+              <lisID>229</lisID>
+              <gpoId>7999</gpoId>
+            </identifiers>
+            <lastName>CONYERS</lastName>
+            <bioguideId>C000714</bioguideId>
+            <state>MI</state>
+            <firstName>JOHN</firstName>
+            <middleName />
+            <district>13</district>
+          </item>
+        </sponsors>
+        <proposedDate />
+        <actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>17:41:02</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.462</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/462</url>
+                </link>
+                <link>
+                  <name>Roll no. 579</name>
+                  <url>http://clerk.house.gov/evs/2017/roll579.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-10-24</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>On agreeing to the Conyers amendment (A006) Failed by recorded vote: 191 - 229 (Roll no. 579).</text>
+            </item>
+            <item>
+              <actionTime>16:46:58</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.462</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/462</url>
+                </link>
+                <link>
+                  <name>H8124</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8124</url>
+                </link>
+                <link>
+                  <name>H8124-8125</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8124-8125</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-10-24</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>Amendment (A006) offered by Mr. Conyers. (consideration: CR H8124-8125; text: CR H8124)</text>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>16:46:58</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.462</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/462</url>
+                </link>
+                <link>
+                  <name>H8124</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8124</url>
+                </link>
+                <link>
+                  <name>H8124-8125</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8124-8125</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-10-24</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A006) offered by Mr. Conyers.</text>
+            </item>
+            <item>
+              <actionTime>17:41:02</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.462</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/462</url>
+                </link>
+                <link>
+                  <name>Roll no. 579</name>
+                  <url>http://clerk.house.gov/evs/2017/roll579.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <actionDate>2017-10-24</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Roll call votes on amendments in House</text>
+            </item>
+            <item>
+              <actionTime>17:41:02</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.462</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/462</url>
+                </link>
+                <link>
+                  <name>Roll no. 579</name>
+                  <url>http://clerk.house.gov/evs/2017/roll579.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <actionDate>2017-10-24</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment not agreed to: On agreeing to the Conyers amendment (A006) Failed by recorded vote: 191 - 229 (Roll no. 579).</text>
+            </item>
+            <item>
+              <actionTime>17:41:02</actionTime>
+              <links>
+                <link>
+                  <name>H.Amdt.462</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/462</url>
+                </link>
+                <link>
+                  <name>Roll no. 579</name>
+                  <url>http://clerk.house.gov/evs/2017/roll579.xml</url>
+                </link>
+              </links>
+              <committee />
+              <type>NotUsed</type>
+              <actionCode>77000</actionCode>
+              <actionDate>2017-10-24</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Amendment failed in Committee of the Whole</text>
+            </item>
+            <item>
+              <links />
+              <committee />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-10-24</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered</text>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <count>8</count>
+        </actions>
+        <chamber>House of Representatives</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <purpose />
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <version>1.0.0</version>
+        <notes />
+        <description>Amendment sought to exempt settlements that direct funds to remedy the indirect harms of unlawful conduct resulting in an increase in the amount of lead in public drinking water.</description>
+        <links />
+        <number>462</number>
+        <description>Amendment sought to exempt settlements that direct funds to remedy the indirect harms of unlawful conduct resulting in an increase in the amount of lead in public drinking water.</description>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-24</actionDate>
+          <actionTime>17:41:02</actionTime>
+          <text>On agreeing to the Conyers amendment (A006) Failed by recorded vote: 191 - 229 (Roll no. 579).</text>
+        </latestAction>
+        <purpose />
+        <type>HAMDT</type>
+      </amendment>
+      <amendment>
+        <createDate>2017-10-25T07:16:18Z</createDate>
+        <number>461</number>
+        <type>HAMDT</type>
+        <updateDate>2018-02-22T15:27:20Z</updateDate>
+        <submittedDate>2017-10-24T04:00:00Z</submittedDate>
+        <proposedDate />
+        <sponsors>
+          <item>
+            <district>1</district>
+            <state>RI</state>
+            <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+            <bioguideId>C001084</bioguideId>
+            <firstName>David</firstName>
+            <party>D</party>
+            <middleName>N.</middleName>
+            <identifiers>
+              <bioguideId>C001084</bioguideId>
+              <lisID>2055</lisID>
+              <gpoId>8139</gpoId>
+            </identifiers>
+            <lastName>Cicilline</lastName>
+          </item>
+        </sponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendedAmendment />
+        <amendedBill>
+          <congress>115</congress>
+          <number>732</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>Stop Settlement Slush Funds Act of 2017</title>
+        </amendedBill>
+        <links />
+        <notes />
+        <titles />
+        <actions>
+          <count>8</count>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>On agreeing to the Cicilline amendment (A005) Failed by recorded vote: 189 - 231 (Roll no. 578).</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/461</url>
+                  <name>H.Amdt.461</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll578.xml</url>
+                  <name>Roll no. 578</name>
+                </link>
+              </links>
+              <actionCode>H32111</actionCode>
+              <committee />
+              <type>Floor</type>
+              <actionTime>17:36:56</actionTime>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>Amendment (A005) offered by Mr. Cicilline. (consideration: CR H8123-8124; text: CR H8123)</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/461</url>
+                  <name>H.Amdt.461</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8123</url>
+                  <name>H8123</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8123-8124</url>
+                  <name>H8123-8124</name>
+                </link>
+              </links>
+              <actionCode>H3A100</actionCode>
+              <committee />
+              <type>Floor</type>
+              <actionTime>16:38:23</actionTime>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>Amendment failed in Committee of the Whole</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/461</url>
+                  <name>H.Amdt.461</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll578.xml</url>
+                  <name>Roll no. 578</name>
+                </link>
+              </links>
+              <actionCode>77000</actionCode>
+              <committee />
+              <type>NotUsed</type>
+              <actionTime>17:36:56</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>Roll call votes on amendments in House</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/461</url>
+                  <name>H.Amdt.461</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll578.xml</url>
+                  <name>Roll no. 578</name>
+                </link>
+              </links>
+              <actionCode>75000</actionCode>
+              <committee />
+              <type>Floor</type>
+              <actionTime>17:36:56</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment not agreed to: On agreeing to the Cicilline amendment (A005) Failed by recorded vote: 189 - 231 (Roll no. 578).</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/461</url>
+                  <name>H.Amdt.461</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll578.xml</url>
+                  <name>Roll no. 578</name>
+                </link>
+              </links>
+              <actionCode>73000</actionCode>
+              <committee />
+              <type>Floor</type>
+              <actionTime>17:36:56</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment offered/reported by : Amendment (A005) offered by Mr. Cicilline.</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/461</url>
+                  <name>H.Amdt.461</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8123</url>
+                  <name>H8123</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8123-8124</url>
+                  <name>H8123-8124</name>
+                </link>
+              </links>
+              <actionCode>71500</actionCode>
+              <committee />
+              <type>NotUsed</type>
+              <actionTime>16:38:23</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment offered</text>
+              <links />
+              <actionCode>71000</actionCode>
+              <type>Floor</type>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+          </actionTypeCounts>
+        </actions>
+        <purpose />
+        <description>Amendment sought to exempt settlements in relation to conduct involving residential mortgage-backed securities.</description>
+        <chamber>House of Representatives</chamber>
+        <version>1.0.0</version>
+        <number>461</number>
+        <description>Amendment sought to exempt settlements in relation to conduct involving residential mortgage-backed securities.</description>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-24</actionDate>
+          <actionTime>17:36:56</actionTime>
+          <text>On agreeing to the Cicilline amendment (A005) Failed by recorded vote: 189 - 231 (Roll no. 578).</text>
+        </latestAction>
+        <purpose />
+        <type>HAMDT</type>
+      </amendment>
+      <amendment>
+        <number>460</number>
+        <proposedDate />
+        <purpose />
+        <version>1.0.0</version>
+        <chamber>House of Representatives</chamber>
+        <createDate>2017-10-25T07:16:18Z</createDate>
+        <amendedBill>
+          <title>Stop Settlement Slush Funds Act of 2017</title>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <congress>115</congress>
+          <originChamberCode>H</originChamberCode>
+          <number>732</number>
+        </amendedBill>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <updateDate>2018-02-22T15:27:20Z</updateDate>
+        <notes />
+        <description>Amendment sought to exempt settlement agreements that pertain to providing restitution for a State.</description>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedAmendment />
+        <congress>115</congress>
+        <actions>
+          <count>8</count>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>On agreeing to the Jackson Lee amendment (A004) Failed by recorded vote: 185 - 234 (Roll no. 577).</text>
+              <actionTime>17:31:53</actionTime>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/460</url>
+                  <name>H.Amdt.460</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll577.xml</url>
+                  <name>Roll no. 577</name>
+                </link>
+              </links>
+              <actionCode>H32111</actionCode>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>Amendment (A004) offered by Ms. Jackson Lee. (consideration: CR H8121-8123; text: CR H8121)</text>
+              <actionTime>16:29:09</actionTime>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/460</url>
+                  <name>H.Amdt.460</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8121</url>
+                  <name>H8121</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8121-8123</url>
+                  <name>H8121-8123</name>
+                </link>
+              </links>
+              <actionCode>H3A100</actionCode>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>Amendment failed in Committee of the Whole</text>
+              <actionTime>17:31:53</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/460</url>
+                  <name>H.Amdt.460</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll577.xml</url>
+                  <name>Roll no. 577</name>
+                </link>
+              </links>
+              <actionCode>77000</actionCode>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>Roll call votes on amendments in House</text>
+              <actionTime>17:31:53</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/460</url>
+                  <name>H.Amdt.460</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll577.xml</url>
+                  <name>Roll no. 577</name>
+                </link>
+              </links>
+              <actionCode>75000</actionCode>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment not agreed to: On agreeing to the Jackson Lee amendment (A004) Failed by recorded vote: 185 - 234 (Roll no. 577).</text>
+              <actionTime>17:31:53</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/460</url>
+                  <name>H.Amdt.460</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll577.xml</url>
+                  <name>Roll no. 577</name>
+                </link>
+              </links>
+              <actionCode>73000</actionCode>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment offered/reported by : Amendment (A004) offered by Ms. Jackson Lee.</text>
+              <actionTime>16:29:09</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/460</url>
+                  <name>H.Amdt.460</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8121</url>
+                  <name>H8121</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8121-8123</url>
+                  <name>H8121-8123</name>
+                </link>
+              </links>
+              <actionCode>71500</actionCode>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment offered</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <links />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+        </actions>
+        <links />
+        <sponsors>
+          <item>
+            <party>D</party>
+            <middleName />
+            <lastName>JACKSON LEE</lastName>
+            <district>18</district>
+            <bioguideId>J000032</bioguideId>
+            <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+            <firstName>SHEILA</firstName>
+            <identifiers>
+              <bioguideId>J000032</bioguideId>
+              <gpoId>8174</gpoId>
+              <lisID>588</lisID>
+            </identifiers>
+            <state>TX</state>
+          </item>
+        </sponsors>
+        <type>HAMDT</type>
+        <submittedDate>2017-10-24T04:00:00Z</submittedDate>
+        <number>460</number>
+        <description>Amendment sought to exempt settlement agreements that pertain to providing restitution for a State.</description>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-24</actionDate>
+          <actionTime>17:31:53</actionTime>
+          <text>On agreeing to the Jackson Lee amendment (A004) Failed by recorded vote: 185 - 234 (Roll no. 577).</text>
+        </latestAction>
+        <purpose />
+        <type>HAMDT</type>
+      </amendment>
+      <amendment>
+        <purpose />
+        <amendedBill>
+          <type>HR</type>
+          <number>732</number>
+          <title>Stop Settlement Slush Funds Act of 2017</title>
+          <congress>115</congress>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.459</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/459</url>
+                </link>
+                <link>
+                  <name>Roll no. 576</name>
+                  <url>http://clerk.house.gov/evs/2017/roll576.xml</url>
+                </link>
+              </links>
+              <text>On agreeing to the Johnson (GA) amendment (A003) Failed by recorded vote: 183 - 235, 1 Present (Roll no. 576).</text>
+              <actionDate>2017-10-24</actionDate>
+              <actionTime>17:27:30</actionTime>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.459</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/459</url>
+                </link>
+                <link>
+                  <name>H8120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8120</url>
+                </link>
+                <link>
+                  <name>H8120-8121</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8120-8121</url>
+                </link>
+              </links>
+              <text>Amendment (A003) offered by Mr. Johnson (GA). (consideration: CR H8120-8121; text: CR H8120)</text>
+              <actionDate>2017-10-24</actionDate>
+              <actionTime>16:20:07</actionTime>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.459</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/459</url>
+                </link>
+                <link>
+                  <name>H8120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8120</url>
+                </link>
+                <link>
+                  <name>H8120-8121</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8120-8121</url>
+                </link>
+              </links>
+              <text>House amendment offered/reported by : Amendment (A003) offered by Mr. Johnson (GA).</text>
+              <actionDate>2017-10-24</actionDate>
+              <actionTime>16:20:07</actionTime>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.459</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/459</url>
+                </link>
+                <link>
+                  <name>Roll no. 576</name>
+                  <url>http://clerk.house.gov/evs/2017/roll576.xml</url>
+                </link>
+              </links>
+              <text>Amendment failed in Committee of the Whole</text>
+              <actionDate>2017-10-24</actionDate>
+              <actionTime>17:27:30</actionTime>
+              <actionCode>77000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.459</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/459</url>
+                </link>
+                <link>
+                  <name>Roll no. 576</name>
+                  <url>http://clerk.house.gov/evs/2017/roll576.xml</url>
+                </link>
+              </links>
+              <text>Roll call votes on amendments in House</text>
+              <actionDate>2017-10-24</actionDate>
+              <actionTime>17:27:30</actionTime>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.459</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/459</url>
+                </link>
+                <link>
+                  <name>Roll no. 576</name>
+                  <url>http://clerk.house.gov/evs/2017/roll576.xml</url>
+                </link>
+              </links>
+              <text>House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A003) Failed by recorded vote: 183 - 235, 1 Present (Roll no. 576).</text>
+              <actionDate>2017-10-24</actionDate>
+              <actionTime>17:27:30</actionTime>
+              <actionCode>73000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links />
+              <text>House amendment offered</text>
+              <actionDate>2017-10-24</actionDate>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentOffered>1</amendmentOffered>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+          </actionTypeCounts>
+          <count>8</count>
+        </actions>
+        <version>1.0.0</version>
+        <createDate>2017-10-25T07:16:17Z</createDate>
+        <number>459</number>
+        <titles />
+        <congress>115</congress>
+        <updateDate>2018-02-22T15:27:20Z</updateDate>
+        <submittedDate>2017-10-24T04:00:00Z</submittedDate>
+        <proposedDate />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <notes />
+        <description>Amendment sought to exempt a settlement agreement that directs funds to remediate the indirect harms caused by the manipulation of emission standards on automobiles.</description>
+        <links />
+        <type>HAMDT</type>
+        <chamber>House of Representatives</chamber>
+        <sponsors>
+          <item>
+            <party>D</party>
+            <lastName>Johnson</lastName>
+            <firstName>Henry</firstName>
+            <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+            <bioguideId>J000288</bioguideId>
+            <middleName>C. "Hank"</middleName>
+            <identifiers>
+              <bioguideId>J000288</bioguideId>
+              <gpoId>7901</gpoId>
+              <lisID>1843</lisID>
+            </identifiers>
+            <state>GA</state>
+            <district>4</district>
+          </item>
+        </sponsors>
+        <amendedAmendment />
+        <number>459</number>
+        <description>Amendment sought to exempt a settlement agreement that directs funds to remediate the indirect harms caused by the manipulation of emission standards on automobiles.</description>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-24</actionDate>
+          <actionTime>17:27:30</actionTime>
+          <text>On agreeing to the Johnson (GA) amendment (A003) Failed by recorded vote: 183 - 235, 1 Present (Roll no. 576).</text>
+        </latestAction>
+        <purpose />
+        <type>HAMDT</type>
+      </amendment>
+      <amendment>
+        <purpose />
+        <amendedBill>
+          <type>HR</type>
+          <number>732</number>
+          <title>Stop Settlement Slush Funds Act of 2017</title>
+          <congress>115</congress>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actionTypeCounts>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>17:22:29</actionTime>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.458</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/458</url>
+                </link>
+                <link>
+                  <name>Roll no. 575</name>
+                  <url>http://clerk.house.gov/evs/2017/roll575.xml</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <text>On agreeing to the Cohen amendment (A002) Failed by recorded vote: 187 - 233 (Roll no. 575).</text>
+              <actionCode>H32111</actionCode>
+            </item>
+            <item>
+              <actionTime>16:13:58</actionTime>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.458</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/458</url>
+                </link>
+                <link>
+                  <name>H8119</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8119</url>
+                </link>
+                <link>
+                  <name>H8119-8120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8119-8120</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <text>Amendment (A002) offered by Mr. Cohen. (consideration: CR H8119-8120; text: CR H8119)</text>
+              <actionCode>H3A100</actionCode>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>16:13:58</actionTime>
+              <type>NotUsed</type>
+              <links>
+                <link>
+                  <name>H.Amdt.458</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/458</url>
+                </link>
+                <link>
+                  <name>H8119</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8119</url>
+                </link>
+                <link>
+                  <name>H8119-8120</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8119-8120</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <text>House amendment offered/reported by : Amendment (A002) offered by Mr. Cohen.</text>
+              <actionCode>71500</actionCode>
+            </item>
+            <item>
+              <actionTime>17:22:29</actionTime>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.458</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/458</url>
+                </link>
+                <link>
+                  <name>Roll no. 575</name>
+                  <url>http://clerk.house.gov/evs/2017/roll575.xml</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <text>House amendment not agreed to: On agreeing to the Cohen amendment (A002) Failed by recorded vote: 187 - 233 (Roll no. 575).</text>
+              <actionCode>73000</actionCode>
+            </item>
+            <item>
+              <actionTime>17:22:29</actionTime>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.458</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/458</url>
+                </link>
+                <link>
+                  <name>Roll no. 575</name>
+                  <url>http://clerk.house.gov/evs/2017/roll575.xml</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <text>Roll call votes on amendments in House</text>
+              <actionCode>75000</actionCode>
+            </item>
+            <item>
+              <actionTime>17:22:29</actionTime>
+              <type>NotUsed</type>
+              <links>
+                <link>
+                  <name>H.Amdt.458</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/458</url>
+                </link>
+                <link>
+                  <name>Roll no. 575</name>
+                  <url>http://clerk.house.gov/evs/2017/roll575.xml</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <text>Amendment failed in Committee of the Whole</text>
+              <actionCode>77000</actionCode>
+            </item>
+            <item>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <links />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <actionCode>71000</actionCode>
+            </item>
+          </actions>
+          <count>8</count>
+        </actions>
+        <version>1.0.0</version>
+        <createDate>2017-10-25T07:16:17Z</createDate>
+        <number>458</number>
+        <titles />
+        <congress>115</congress>
+        <updateDate>2018-02-22T15:27:20Z</updateDate>
+        <submittedDate>2017-10-24T04:00:00Z</submittedDate>
+        <proposedDate />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <notes />
+        <description>Amendment sought to exempt settlement agreements based on race, religion, national origin, or any other protected category.</description>
+        <links />
+        <type>HAMDT</type>
+        <chamber>House of Representatives</chamber>
+        <sponsors>
+          <item>
+            <party>D</party>
+            <lastName>Cohen</lastName>
+            <firstName>Steve</firstName>
+            <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+            <bioguideId>C001068</bioguideId>
+            <middleName />
+            <identifiers>
+              <bioguideId>C001068</bioguideId>
+              <gpoId>8156</gpoId>
+              <lisID>1878</lisID>
+            </identifiers>
+            <state>TN</state>
+            <district>9</district>
+          </item>
+        </sponsors>
+        <amendedAmendment />
+        <number>458</number>
+        <description>Amendment sought to exempt settlement agreements based on race, religion, national origin, or any other protected category.</description>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-24</actionDate>
+          <actionTime>17:22:29</actionTime>
+          <text>On agreeing to the Cohen amendment (A002) Failed by recorded vote: 187 - 233 (Roll no. 575).</text>
+        </latestAction>
+        <purpose />
+        <type>HAMDT</type>
+      </amendment>
+      <amendment>
+        <createDate>2017-10-25T07:16:17Z</createDate>
+        <number>457</number>
+        <type>HAMDT</type>
+        <updateDate>2018-02-22T15:27:20Z</updateDate>
+        <submittedDate>2017-10-24T04:00:00Z</submittedDate>
+        <proposedDate />
+        <sponsors>
+          <item>
+            <district>6</district>
+            <state>VA</state>
+            <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+            <bioguideId>G000289</bioguideId>
+            <firstName>ROBERT</firstName>
+            <party>R</party>
+            <middleName>W.</middleName>
+            <identifiers>
+              <bioguideId>G000289</bioguideId>
+              <lisID>446</lisID>
+              <gpoId>8197</gpoId>
+            </identifiers>
+            <lastName>GOODLATTE</lastName>
+          </item>
+        </sponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendedAmendment />
+        <amendedBill>
+          <congress>115</congress>
+          <number>732</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>Stop Settlement Slush Funds Act of 2017</title>
+        </amendedBill>
+        <links />
+        <notes />
+        <titles />
+        <actions>
+          <count>7</count>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/457</url>
+                  <name>H.Amdt.457</name>
+                </link>
+              </links>
+              <actionCode>H32111</actionCode>
+              <committee />
+              <type>Floor</type>
+              <actionTime>16:13:34</actionTime>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>Amendment (A001) offered by Mr. Goodlatte. (consideration: CR H8118-8119; text: CR H8118-8119)</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/457</url>
+                  <name>H.Amdt.457</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8118-8119</url>
+                  <name>H8118-8119</name>
+                </link>
+              </links>
+              <actionCode>H3A100</actionCode>
+              <committee />
+              <type>Floor</type>
+              <actionTime>16:07:01</actionTime>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment agreed to: On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/457</url>
+                  <name>H.Amdt.457</name>
+                </link>
+              </links>
+              <actionCode>72000</actionCode>
+              <committee />
+              <type>Floor</type>
+              <actionTime>16:13:34</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/457</url>
+                  <name>H.Amdt.457</name>
+                </link>
+              </links>
+              <actionCode>76000</actionCode>
+              <committee />
+              <type>NotUsed</type>
+              <actionTime>16:13:34</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment offered/reported by : Amendment (A001) offered by Mr. Goodlatte.</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/457</url>
+                  <name>H.Amdt.457</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8118-8119</url>
+                  <name>H8118-8119</name>
+                </link>
+              </links>
+              <actionCode>71500</actionCode>
+              <committee />
+              <type>NotUsed</type>
+              <actionTime>16:07:01</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-10-24</actionDate>
+              <text>House amendment offered</text>
+              <links />
+              <actionCode>71000</actionCode>
+              <type>Floor</type>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+          </actionTypeCounts>
+        </actions>
+        <purpose />
+        <description>Page 3, line 17, insert "and, to the extent any victim thereof was an identifiable person, suffered by the payee or lendee," before "or constitutes".    Page 3, insert after line 19 the following (and redesignate succeeding subsections accordingly): ***.</description>
+        <chamber>House of Representatives</chamber>
+        <version>1.0.0</version>
+        <number>457</number>
+        <description>Page 3, line 17, insert "and, to the extent any victim thereof was an identifiable person, suffered by the payee or lendee," before "or constitutes".    Page 3, insert after line 19 the following (and redesignate succeeding subsections accordingly): ***.</description>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-24</actionDate>
+          <actionTime>16:13:34</actionTime>
+          <text>On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.</text>
+        </latestAction>
+        <purpose />
+        <type>HAMDT</type>
+      </amendment>
+    </amendments>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00043</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>MN</state>
+        <firstName>COLLIN</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+        </identifiers>
+        <bioguideId>P000258</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <lastName>PETERSON</lastName>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>WI</state>
+        <firstName>F.</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <bioguideId>S000244</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <lastName>SENSENBRENNER</lastName>
+        <middleName>JAMES</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>TX</state>
+        <firstName>LAMAR</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <bioguideId>S000583</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>21</district>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <lastName>SMITH</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>OH</state>
+        <firstName>STEVE</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <bioguideId>C000266</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <lastName>CHABOT</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>CA</state>
+        <firstName>DARRELL</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1640</lisID>
+          <gpoId>7854</gpoId>
+          <bioguideId>I000056</bioguideId>
+        </identifiers>
+        <bioguideId>I000056</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>49</district>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <lastName>ISSA</lastName>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>IA</state>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <bioguideId>K000362</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <lastName>King</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>AZ</state>
+        <firstName>Trent</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <bioguideId>F000448</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <lastName>Franks</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Louie</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+          <gpoId>8157</gpoId>
+          <lisID>1801</lisID>
+        </identifiers>
+        <bioguideId>G000552</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <lastName>Gohmert</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Jim</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8094</gpoId>
+          <bioguideId>J000289</bioguideId>
+          <lisID>1868</lisID>
+        </identifiers>
+        <bioguideId>J000289</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <lastName>Jordan</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <bioguideId>P000592</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <lastName>Poe</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>UT</state>
+        <firstName>Jason</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1956</lisID>
+          <gpoId>8191</gpoId>
+          <bioguideId>C001076</bioguideId>
+        </identifiers>
+        <bioguideId>C001076</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <lastName>Chaffetz</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>PA</state>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001179</bioguideId>
+          <gpoId>8128</gpoId>
+          <lisID>2053</lisID>
+        </identifiers>
+        <bioguideId>M001179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <lastName>Marino</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>SC</state>
+        <firstName>Trey</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8144</gpoId>
+          <bioguideId>G000566</bioguideId>
+          <lisID>2058</lisID>
+        </identifiers>
+        <bioguideId>G000566</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <lastName>Gowdy</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>ID</state>
+        <firstName>Raul</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>L000573</bioguideId>
+          <lisID>2011</lisID>
+          <gpoId>7919</gpoId>
+        </identifiers>
+        <bioguideId>L000573</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <lastName>Labrador</lastName>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Blake</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+        </identifiers>
+        <bioguideId>F000460</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>27</district>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <lastName>Farenthold</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Doug</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001093</bioguideId>
+          <lisID>2121</lisID>
+        </identifiers>
+        <bioguideId>C001093</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <lastName>Collins</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000621</bioguideId>
+          <gpoId />
+          <lisID>2116</lisID>
+        </identifiers>
+        <bioguideId>D000621</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <lastName>DeSantis</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>CO</state>
+        <firstName>Ken</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001297</bioguideId>
+          <gpoId />
+          <lisID>2233</lisID>
+        </identifiers>
+        <bioguideId>B001297</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <lastName>Buck</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>TX</state>
+        <firstName>John</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+        </identifiers>
+        <bioguideId>R000601</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <lastName>Ratcliffe</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>MI</state>
+        <firstName>David</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000475</bioguideId>
+          <lisID>2250</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000475</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>11</district>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <lastName>Trott</lastName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>MI</state>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001293</bioguideId>
+          <lisID>2249</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001293</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <lastName>Bishop</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>AL</state>
+        <firstName>Martha</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000591</bioguideId>
+          <lisID>1986</lisID>
+          <gpoId>7787</gpoId>
+        </identifiers>
+        <bioguideId>R000591</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Roby, Martha [R-AL-2]</fullName>
+        <lastName>Roby</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Matt</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000578</bioguideId>
+          <gpoId />
+          <lisID>2314</lisID>
+        </identifiers>
+        <bioguideId>G000578</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <lastName>Gaetz</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>AZ</state>
+        <firstName>Andy</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+          <lisID>2307</lisID>
+        </identifiers>
+        <bioguideId>B001302</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <lastName>Biggs</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Mimi</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000820</bioguideId>
+          <lisID>2232</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000820</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>45</district>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <lastName>Walters</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <state>VA</state>
+        <firstName>H.</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+          <lisID>2070</lisID>
+        </identifiers>
+        <bioguideId>G000568</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <lastName>Griffith</lastName>
+        <middleName>Morgan</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <state>LA</state>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2330</lisID>
+          <gpoId />
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+        <bioguideId>J000299</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <lastName>Johnson</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <state>LA</state>
+        <firstName>Ralph</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>A000374</bioguideId>
+          <lisID>2244</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>A000374</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <lastName>Abraham</lastName>
+        <middleName>Lee</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <bioguideId>G000565</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Sean</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000614</bioguideId>
+          <gpoId>8220</gpoId>
+          <lisID>2072</lisID>
+        </identifiers>
+        <bioguideId>D000614</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <lastName>Duffy</lastName>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Glenn</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+          <lisID>2276</lisID>
+        </identifiers>
+        <bioguideId>G000576</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <lastName>Grothman</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <state>IA</state>
+        <firstName>David</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2242</lisID>
+          <gpoId />
+          <bioguideId>Y000066</bioguideId>
+        </identifiers>
+        <bioguideId>Y000066</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Young, David [R-IA-3]</fullName>
+        <lastName>Young</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Rick</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <gpoId />
+          <lisID>2239</lisID>
+        </identifiers>
+        <bioguideId>A000372</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <lastName>Allen</lastName>
+        <middleName>W.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Francis</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <lisID>2323</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <lastName>Rooney</lastName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Stop Settlement Slush Funds Act of 2017</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Stop Settlement Slush Funds Act of 2017</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Stop Settlement Slush Funds Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To limit donations made pursuant to settlement agreements to which the United States is a party, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Stop Settlement Slush Funds Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Stop Settlement Slush Funds Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Stop Settlement Slush Funds Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Stop Settlement Slush Funds Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <number>522</number>
+        <latestTitle>Stop Settlement Slush Funds Act of 2017</latestTitle>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-02-08</actionDate>
+          <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        </latestAction>
+      </item>
+      <item>
+        <number>577</number>
+        <latestTitle>Providing for consideration of the bill (H.R. 469) to impose certain limitations on consent decrees and settlement agreements by agencies that require the agencies to take regulatory action in accordance with the terms thereof, and for other purposes, and providing for consideration of the bill (H.R. 732) to limit donations made pursuant to settlement agreements to which the United States is a party, and for other purposes.</latestTitle>
+        <type>HRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-10-24</actionDate>
+          <actionTime>13:45:23</actionTime>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+      </item>
+      <item>
+        <number>333</number>
+        <latestTitle>Stop Settlement Slush Funds Act of 2017</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-02-07</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-10-25</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 15 (Monday, January 30, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOODLATTE:H.R. 732.Congress has the power to enact this legislation pursuantto the following:Article I, Section 9, Clause 7 of the United StatesConstitution, in that the legislation concerns theAppropriations Power granted to Congress by that section;Article I, Section 7, Clause 1 of the United StatesConstitution, in that the legislation concerns thelegislative powers granted to Congress by that section;Article I, Section 8, Clause 18 of the United StatesConstitution, in that the legislation exercises legislativepower granted to Congress by that clause ``to make all Lawswhich shall be necessary and proper for carrying intoExecution the foregoing Powers, and all other Powers vestedin this Constitution in the Government of the United States,or in any Department or Officer thereof.''[Page H745]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>6</district>
+        <state>VA</state>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <bioguideId>G000289</bioguideId>
+        <firstName>ROBERT</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName>W.</middleName>
+        <identifiers>
+          <bioguideId>G000289</bioguideId>
+          <lisID>446</lisID>
+          <gpoId>8197</gpoId>
+        </identifiers>
+        <lastName>GOODLATTE</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 732, Stop Settlement Slush Funds Act of 2017</title>
+        <pubDate>2017-02-24T21:04:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52457</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-01-31T05:23:09Z</createDate>
+    <congress>115</congress>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>580</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-10-24T21:48:51Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll580.xml</url>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <laws />
+    <title>Stop Settlement Slush Funds Act of 2017</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-72</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>732</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

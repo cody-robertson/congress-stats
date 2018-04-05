@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>C001038</bioguideId>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <district>14</district>
+        <firstName>JOSEPH</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <identifiers>
+          <lisID>1604</lisID>
+          <bioguideId>C001038</bioguideId>
+          <gpoId>8068</gpoId>
+        </identifiers>
+        <lastName>CROWLEY</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>T000460</bioguideId>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <district>5</district>
+        <firstName>MIKE</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <identifiers>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-08-11T13:01:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. REED:H.R. 3652.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution____________________[Page H6603]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to make the work opportunity credit permanent.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to make the work opportunity credit permanent.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <amendments />
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-08-11</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-08-11</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-08-11</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <introducedDate>2017-08-11</introducedDate>
+    <relatedBills />
+    <committeeReports />
+    <calendarNumbers />
+    <billNumber>3652</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-08-11T04:00:00Z</updateDate>
+          <actionDate>2017-08-11</actionDate>
+          <text><![CDATA[<p>This bill amends the Internal Revenue Code to repeal the termination date for the work opportunity tax credit, thus making such credit permanent. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-08-18T18:54:13Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2018-02-06T16:43:35Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-08-11</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>To amend the Internal Revenue Code of 1986 to make the work opportunity credit permanent.</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>23</district>
+        <party>R</party>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <lastName>Reed</lastName>
+        <state>NY</state>
+        <bioguideId>R000585</bioguideId>
+        <middleName />
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <createDate>2017-08-12T03:11:32Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

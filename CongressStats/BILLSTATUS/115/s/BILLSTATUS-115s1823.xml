@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>1823</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-09-18</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:49Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+        </identifiers>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <bioguideId>L000575</bioguideId>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <bioguideId>C001075</bioguideId>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JEFF</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <bioguideId>F000444</bioguideId>
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <gpoId>7803</gpoId>
+          <lisID>1633</lisID>
+        </identifiers>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <middleName>MARGARET</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <bioguideId>K000393</bioguideId>
+        <identifiers>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+          <lisID>2303</lisID>
+        </identifiers>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <middleName>Neely</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ROGER</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Luther</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+        <bioguideId>S001202</bioguideId>
+        <identifiers>
+          <lisID>2357</lisID>
+          <bioguideId>S001202</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+        <lastName>Strange</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <lastName>THUNE</lastName>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <bioguideId>D000618</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JIM</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <lastName>INHOFE</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-17</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Claire</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <bioguideId>M001170</bioguideId>
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <lastName>McCaskill</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-17</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Tim</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <bioguideId>S001184</bioguideId>
+        <identifiers>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-11-06</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Community life and organization</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-18T20:03:24Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-09-18</introducedDate>
+    <title>Federal Disaster Assistance Nonprofit Fairness Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-09-19T00:26:19Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <bioguideId>B000575</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+      <actionDate>2017-09-18</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+          <actionDate>2017-05-11</actionDate>
+        </latestAction>
+        <latestTitle>Federal Disaster Assistance Nonprofit Fairness Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>2405</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Federal Disaster Assistance Nonprofit Fairness Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to clarify that houses of worship are eligible for certain disaster relief and emergency assistance on terms equal to other eligible private nonprofit facilities, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Federal Disaster Assistance Nonprofit Fairness Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Federal Disaster Assistance Nonprofit Fairness Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-09-18T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>Federal Disaster Assistance Nonprofit Fairness Act of 2017</strong></p> <p> This bill amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to include community centers, including tax-exempt houses of worship, as &quot;private nonprofit facilities&quot; for purposes of disaster relief and emergency assistance eligibility under such Act.</p> <p>A church, synagogue, mosque, temple, or other house of worship, and a private nonprofit facility operated by a religious organization, are eligible for federal contributions for the repair, restoration, and replacement of facilities damaged or destroyed by a major disaster, without regard to the religious character of the facility or the primary religious use of the facility.</p> <p>This bill is applicable to the provision of assistance in response to a major disaster or emergency declared on or after October 28, 2012.</p>]]></text>
+          <lastSummaryUpdateDate>2017-09-26T20:03:12Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

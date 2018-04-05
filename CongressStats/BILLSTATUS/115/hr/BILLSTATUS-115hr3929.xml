@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>3929</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-10-06</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy and Power Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-10-03</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-10-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-10-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:43:40Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <firstName>Peter</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <bioguideId>W000800</bioguideId>
+        <lastName>Welch</lastName>
+        <state>VT</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <firstName>Chellie</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <bioguideId>P000597</bioguideId>
+        <lastName>Pingree</lastName>
+        <state>ME</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <firstName>Jared</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <bioguideId>H001068</bioguideId>
+        <lastName>Huffman</lastName>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Nuclear power</name>
+          </item>
+          <item>
+            <name>Radioactive wastes and releases</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <name>Energy and Power Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-10-06T15:28:49Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-03T14:02:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-10-03</introducedDate>
+    <title>Stranded Nuclear Waste Accountability Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy.</text>
+      <links />
+      <actionDate>2017-10-06</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-10-04T03:11:23Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Courtney</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <bioguideId>C001069</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <firstName>Joe</firstName>
+        <district>2</district>
+        <identifiers>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+          <lisID>1836</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COURTNEY:H.R. 3929.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 3.[Page H7750]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Stranded Nuclear Waste Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Energy to carry out a program to provide payments to communities in which a nuclear power plant that has ceased generating electricity and that stores spent nuclear fuel onsite is located, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Stranded Nuclear Waste Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Stranded Nuclear Waste Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Stranded Nuclear Waste Accountability Act of 2017</b></p> <p>This bill directs the Department of Energy (DOE) to establish a program to provide compensation to communities in which a nuclear waste storage facility is located.</p> <p>DOE must provide payments equal to $15 per kilogram of spent nuclear fuel stored at the nuclear waste facility.</p> <p>Each local government having a nuclear waste facility within its jurisdictional boundaries must submit an annual application to DOE for compensation.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-10-03</actionDate>
+          <lastSummaryUpdateDate>2018-01-29T21:56:20Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-10-03T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

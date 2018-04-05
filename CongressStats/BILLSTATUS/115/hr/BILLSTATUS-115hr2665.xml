@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <lastName>Bacon</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+        </identifiers>
+        <firstName>Don</firstName>
+        <state>NE</state>
+        <byRequestType />
+        <bioguideId>B001298</bioguideId>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:05:05Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:05:00Z</date>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Accountability for Congressional Pay Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Accountability for Congressional Pay Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To reduce the pay of Members of Congress in any year following a fiscal year for which there was a Federal budget deficit.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Accountability for Congressional Pay Act</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BACON:H.R. 2665.Congress has the power to enact this legislation pursuantto the following:Article I. Section 6[Page H4608]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <text>Referred to House Oversight and Government Reform</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-05-25</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Referred to House Administration</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-05-25</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionDate>2017-05-25</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-25</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-25</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <createDate>2017-05-26T03:11:41Z</createDate>
+    <title>Accountability for Congressional Pay Act</title>
+    <committeeReports />
+    <billType>HR</billType>
+    <introducedDate>2017-05-25</introducedDate>
+    <updateDate>2018-02-28T18:59:43Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-05-25</actionDate>
+          <lastSummaryUpdateDate>2017-07-28T18:37:38Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Accountability for Congressional Pay Act </b></p> <p>This bill amends the Legislative Reorganization Act of 1946 to reduce the pay of Members of Congress for any year following a fiscal year in which the Office of Management and Budget determined that there was a federal budget deficit. </p> <p>During the next calendar year that begins after a fiscal year in which there was a budget deficit: (1) congressional salaries must be reduced by the percentage by which outlays exceeded revenues for that fiscal year, except that the reduction may not exceed 15%; and (2) a cost-of-living adjustment is prohibited.</p>]]></text>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <middleName />
+        <state>MI</state>
+        <bioguideId>B001301</bioguideId>
+        <identifiers>
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Bergman</lastName>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jack</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>8</district>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Gallagher</lastName>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>2665</billNumber>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <amendments />
+    <latestAction>
+      <actionDate>2017-05-25</actionDate>
+      <links />
+      <text>Referred to House Oversight and Government Reform</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

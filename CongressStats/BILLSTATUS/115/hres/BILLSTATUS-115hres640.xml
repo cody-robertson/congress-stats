@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-08</actionDate>
+        <committee>
+          <systemCode>hsif17</systemCode>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2017-12-01</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-12-01</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-12-01</actionDate>
+      </item>
+    </actions>
+    <billType>HRES</billType>
+    <billNumber>640</billNumber>
+    <title>Expressing support for the designation of December 3, 2017, as the "National Day of 3D Printing".</title>
+    <amendments />
+    <version>1.0.0</version>
+    <createDate>2017-12-02T03:11:12Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Expressing support for the designation of December 3, 2017, as the "National Day of 3D Printing".</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Expressing support for the designation of December 3, 2017, as the "National Day of 3D Printing".</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <district>13</district>
+        <firstName>TIM</firstName>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <state>OH</state>
+        <bioguideId>R000577</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <district>1</district>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <state>RI</state>
+        <bioguideId>C001084</bioguideId>
+        <middleName>N.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Cicilline</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <district>41</district>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <bioguideId>T000472</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Takano</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <district>9</district>
+        <firstName>MARCY</firstName>
+        <identifiers>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+        </identifiers>
+        <state>OH</state>
+        <bioguideId>K000009</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>KAPTUR</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <district>3</district>
+        <firstName>Ben</firstName>
+        <identifiers>
+          <lisID>1939</lisID>
+          <gpoId>8058</gpoId>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <state>NM</state>
+        <bioguideId>L000570</bioguideId>
+        <middleName>Ray</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Lujan</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <district>17</district>
+        <firstName>Ro</firstName>
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <bioguideId>K000389</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Khanna</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <district>1</district>
+        <firstName>Colleen</firstName>
+        <identifiers>
+          <gpoId>7912</gpoId>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+        </identifiers>
+        <state>HI</state>
+        <bioguideId>H001050</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Hanabusa</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <district>3</district>
+        <firstName>Daniel</firstName>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <state>IL</state>
+        <bioguideId>L000563</bioguideId>
+        <middleName>William</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Lipinski</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <district>27</district>
+        <firstName>Blake</firstName>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+        </identifiers>
+        <state>TX</state>
+        <bioguideId>F000460</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Farenthold</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <district>29</district>
+        <firstName>Tony</firstName>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <lisID>2107</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <bioguideId>C001097</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <lastName>Cardenas</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <relatedBills />
+    <updateDate>2018-01-03T17:27:35Z</updateDate>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>F000454</bioguideId>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <state>IL</state>
+        <lastName>Foster</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Bill</firstName>
+        <byRequestType />
+        <district>11</district>
+        <identifiers>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+          <gpoId>7355</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-01T14:00:09Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-12-08T16:36:42Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif17</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <committeeReports />
+    <introducedDate>2017-12-01</introducedDate>
+    <latestAction>
+      <actionDate>2017-12-08</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

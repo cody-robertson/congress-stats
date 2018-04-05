@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-10-04</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-10-04</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-10-04</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <updateDate>2018-01-25T21:38:59Z</updateDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>We the People Democracy Reform Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-09-27</actionDate>
+        </latestAction>
+        <number>1880</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <title>Federal Election Administration Act of 2017</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>Federal Election Administration Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Federal Election Campaign Act of 1971 to replace the Federal Election Commission with the Federal Election Administration, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Federal Election Administration Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Federal Election Administration Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <createDate>2017-10-05T03:11:21Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>PRICE</lastName>
+        <state>NC</state>
+        <firstName>DAVID</firstName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <bioguideId>P000523</bioguideId>
+        <byRequestType />
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <identifiers>
+          <gpoId>8027</gpoId>
+          <lisID>930</lisID>
+          <bioguideId>P000523</bioguideId>
+        </identifiers>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <billNumber>3953</billNumber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Election Commission (FEC)</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PRICE of North Carolina:H.R. 3953.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution and Article I,Section 4 of the Constitution, which give Congress power tomake laws governing the time, place, and manner of Federalelections.[Page H7842]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-10-04</introducedDate>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-04T14:02:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2017-10-04</actionDate>
+    </latestAction>
+    <cosponsors />
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

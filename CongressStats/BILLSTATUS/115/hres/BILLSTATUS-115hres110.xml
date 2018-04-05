@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>110</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-02-07</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-02-07</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:35Z</updateDate>
+    <cosponsors />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-07T15:07:05Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-10T21:42:09Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-07</introducedDate>
+    <title>Recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <links />
+      <actionDate>2017-02-10</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-02-08T04:45:55Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>YOUNG</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <bioguideId>Y000033</bioguideId>
+        <middleName>E.</middleName>
+        <byRequestType />
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <firstName>DON</firstName>
+        <district>0</district>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills>
+      <item>
+        <type>SRES</type>
+        <latestAction>
+          <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+          <actionDate>2017-02-17</actionDate>
+        </latestAction>
+        <latestTitle>A resolution recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>55</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <actionDate>2017-02-07</actionDate>
+          <text><![CDATA[<p>Recognizes the centennial anniversary of the establishment of Denali National Park and Preserve, Alaska. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-16T19:31:32Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

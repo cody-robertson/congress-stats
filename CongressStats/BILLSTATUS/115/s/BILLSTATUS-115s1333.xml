@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-20</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-12-20</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-198</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/198</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-198.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-198</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/198</url>
+          </link>
+        </links>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-198.</text>
+        <actionDate>2017-12-20</actionDate>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 115-89.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-12</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-06-12</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.</text>
+      <actionDate>2017-12-20</actionDate>
+    </latestAction>
+    <laws />
+    <cosponsors>
+      <item>
+        <lastName>Hoeven</lastName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001061</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <firstName>John</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>UDALL</lastName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>U000039</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <firstName>TOM</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Isakson</lastName>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <firstName>Johnny</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>CANTWELL</lastName>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>C000127</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-11-06</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Heitkamp</lastName>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <identifiers>
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>H001069</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <firstName>Heidi</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-11-06</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Franken</lastName>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>F000457</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <firstName>Al</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-11-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <title>Tribal HUD-VASH Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Indian Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-20T20:36:17Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-09-13T18:30:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-13T21:49:55Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2017-06-12T20:59:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Other</type>
+          <subcommittees />
+          <systemCode>slia00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-198</citation>
+      </committeeReport>
+    </committeeReports>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0289</number>
+      </item>
+    </calendarNumbers>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-12-27T22:01:20Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Tribal HUD-VASH Act of 2017</b></p> <p>This bill amends the United States Housing Act of 1937 to direct the Department of Housing and Urban Development (HUD) to use at least 5% of the amounts made available for rental assistance under the low-income housing assistance program to carry out a rental assistance and supported housing program, in conjunction with the Department of Veterans Affairs, for the benefit of Indian veterans who are homeless or at risk of homelessness and residing in or near an Indian area. </p> <p>Rental assistance shall be: (1) made available to recipients eligible for housing assistance block grants under the Native American Housing Assistance and Self-Determination Act of 1996; and (2) awarded based on need, administrative capacity, and any other funding criteria established by HUD. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-06-12</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-06-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1333</billNumber>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-11-17T21:00:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/53330</url>
+        <title>S. 1333, Tribal HUD-VASH Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <introducedDate>2017-06-12</introducedDate>
+    <congress>115</congress>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <state>MT</state>
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <byRequestType />
+        <lastName>Tester</lastName>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <number>1895</number>
+        <latestTitle>Native American Housing Assistance and Self-Determination Reauthorization Act of 2017</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-09-28</actionDate>
+          <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        </latestAction>
+      </item>
+      <item>
+        <number>4359</number>
+        <latestTitle>Tribal HUD-VASH Act of 2017</latestTitle>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-11-09</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <createDate>2017-06-13T00:41:36Z</createDate>
+    <updateDate>2018-02-22T15:28:51Z</updateDate>
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Tribal HUD-VASH Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Tribal HUD-VASH Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to provide for rental assistance for homeless or at-risk Indian veterans.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Tribal HUD-VASH Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <title>Tribal HUD-VASH Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Tribal HUD-VASH Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

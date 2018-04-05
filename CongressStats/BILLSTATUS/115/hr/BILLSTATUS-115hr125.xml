@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>125</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:27Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>CAROLYN</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <lastName>MALONEY</lastName>
+        <bioguideId>M000087</bioguideId>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <state>NY</state>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <state>DC</state>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:01:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-03</introducedDate>
+    <title>FHA In-Person Servicing Improvement Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2017-01-03</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-04T07:01:11Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Green</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>G000553</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <firstName>Al</firstName>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <gpoId>8165</gpoId>
+          <lisID>1803</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AL GREEN of Texas:H.R. 125.Congress has the power to enact this legislation pursuantto the following:Necessary and Proper Clause (Art. 1, Sec. 8, Cl. 18)[Page H50]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>FHA In-Person Servicing Improvement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>FHA In-Person Servicing Improvement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize a pilot program to improve asset recovery levels, asset management, and homeownership retention with respect to delinquent single-family mortgages insured under the FHA mortgage insurance programs by providing for in-person contact outreach activities with mortgagors under such mortgages, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>FHA In-Person Servicing Improvement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-03</actionDate>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>FHA In-Person Servicing Improvement Act of</b> <b>2017</b></p> <p> This bill directs the Department of Housing and Urban Development (HUD) to carry out a pilot program to use authority under the National Housing Act to pay insurance benefits to compensate a mortgagee for any costs of taking loss mitigation actions providing an alternative to foreclosure of a mortgage in default or facing imminent default.</p> <p>HUD must make payments to a qualified entity or entities to compensate for their costs of making in-person contact with mortgagors whose payments under covered mortgages are more than 60 days past due.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-01-27T14:49:38Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

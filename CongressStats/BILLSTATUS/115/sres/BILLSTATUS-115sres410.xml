@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <middleName />
+        <state>MD</state>
+        <bioguideId>V000128</bioguideId>
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-15T21:09:21Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <party>D</party>
+        <bioguideId>C000141</bioguideId>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <lastName>CARDIN</lastName>
+        <state>MD</state>
+        <byRequestType />
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <middleName>L.</middleName>
+      </item>
+    </sponsors>
+    <createDate>2018-02-18T21:46:27Z</createDate>
+    <billNumber>410</billNumber>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills />
+    <title>A resolution commemorating the life of Luis Alejandro "Alex" Villamayor and calling for justice and accountability.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution commemorating the life of Luis Alejandro "Alex" Villamayor and calling for justice and accountability.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution commemorating the life of Luis Alejandro "Alex" Villamayor and calling for justice and accountability.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2018-02-15</actionDate>
+      <links />
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1168-1169)</text>
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <updateDate>2018-02-28T19:17:59Z</updateDate>
+    <amendments />
+    <introducedDate>2018-02-15</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-15</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1168-1169</url>
+            <name>S1168-1169</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1168-1169)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-02-15</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

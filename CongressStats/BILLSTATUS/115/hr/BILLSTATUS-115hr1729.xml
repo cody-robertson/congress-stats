@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>1729</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:42:06Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <firstName>Seth</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+          <lisID>2246</lisID>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <bioguideId>M001196</bioguideId>
+        <lastName>Moulton</lastName>
+        <state>MA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <bioguideId>G000565</bioguideId>
+        <lastName>Gosar</lastName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <firstName>Jamie</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <bioguideId>R000606</bioguideId>
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <firstName>Jim</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+          <gpoId>7825</gpoId>
+          <lisID>1774</lisID>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <bioguideId>C001059</bioguideId>
+        <lastName>Costa</lastName>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Ralph</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <bioguideId>N000190</bioguideId>
+        <lastName>Norman</lastName>
+        <state>SC</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional Research Service (CRS)</name>
+          </item>
+          <item>
+            <name>Congressional agencies</name>
+          </item>
+          <item>
+            <name>Government Publishing Office (GPO)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Library of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-03-27T16:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-03-27</introducedDate>
+    <title>Statutes at Large Modernization Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2017-03-27</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-03-28T05:32:32Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Brat</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <bioguideId>B001290</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <firstName>Dave</firstName>
+        <district>7</district>
+        <identifiers>
+          <lisID>2203</lisID>
+          <gpoId />
+          <bioguideId>B001290</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRAT:H.R. 1729.Congress has the power to enact this legislation pursuantto the following:The volumes of the United States Statutes at Large compilethe legal acts of the government of the United States,including legislative measures enacted pursuant to powersthroughout Article I of the Constitution and constitutionalamendments proposed under Article V of the Constitution. Itis both necessary and proper (Article I, Section 8, Clause18) for the legal history of the United States to beaccessible to the People in an accessible format on theInternet.[Page H2464]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Statutes at Large Modernization Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Statutes at Large Modernization Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide the public with access to the laws of the United States, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Statutes at Large Modernization Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Statutes at Large Modernization Act</b></p> <p> This bill directs the Government Publishing Office (GPO) to make the Statutes at Large available to the public at no cost on a website in a searchable, non-proprietary format.</p> <p>The GPO must ensure that the searchable online edition is prepared in coordination with the National Archives and Records Administration and congressional support offices that develop formatting conventions used for enrolled bills and other legislative materials.</p> <p> The bill amends the Legislative Branch Appropriations Act, 1996 to require relevant Statutes at Large electronic information made available by the GPO to be incorporated into the Library of Congress's legislative information retrieval system. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-27</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-04T21:41:03Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-27T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea />
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-27</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1248-1249</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1248-1249</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1248-1249)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-02-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1248-1249)</text>
+      <actionDate>2018-02-27</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to authorize the Attorney General to deny the transfer of firearms and explosives and Federal firearms and explosives licenses and permits to known or suspected terrorists.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to authorize the Attorney General to deny the transfer of firearms and explosives and Federal firearms and explosives licenses and permits to known or suspected terrorists.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>2458</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>H001069</bioguideId>
+        <firstName>Heidi</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heitkamp</lastName>
+        <state>ND</state>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>F000444</bioguideId>
+        <firstName>JEFF</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>FLAKE</lastName>
+        <state>AZ</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7803</gpoId>
+          <lisID>1633</lisID>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <firstName>Martin</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heinrich</lastName>
+        <state>NM</state>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+        </identifiers>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>T000461</bioguideId>
+        <firstName>Pat</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Toomey</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <lisID>1594</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <firstName>TAMMY</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>BALDWIN</lastName>
+        <state>WI</state>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <firstName>Angus</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <state>ME</state>
+        <party>I</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>N000032</bioguideId>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+        </identifiers>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <firstName>Joe</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Manchin</lastName>
+        <state>WV</state>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <firstName>Timothy</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kaine</lastName>
+        <state>VA</state>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <firstName>LINDSEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRAHAM</lastName>
+        <state>SC</state>
+        <party>R</party>
+        <middleName>O.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <title>A bill to authorize the Attorney General to deny the transfer of firearms and explosives and Federal firearms and explosives licenses and permits to known or suspected terrorists.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-27T19:54:29Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-03-02T05:49:01Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>COLLINS</lastName>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>ME</state>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-02-27</introducedDate>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-02-28T05:26:09Z</createDate>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

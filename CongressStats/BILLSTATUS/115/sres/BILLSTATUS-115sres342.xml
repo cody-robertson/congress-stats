@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7306</url>
+            <name>S7306</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S7306)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S7306)</text>
+      <actionDate>2017-11-16</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A resolution expressing the sense of the Senate that States, cities, Tribal nations, businesses, and institutions of higher education in the United States should work towards achieving the goals of the Paris Agreement.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A resolution expressing the sense of the Senate that States, cities, Tribal nations, businesses, and institutions of higher education in the United States should work towards achieving the goals of the Paris Agreement.</title>
+      </item>
+    </titles>
+    <billNumber>342</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <lastName>DURBIN</lastName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <lastName>Gillibrand</lastName>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <bioguideId>W000779</bioguideId>
+        <state>OR</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <lastName>Hirono</lastName>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Shaheen</lastName>
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>TAMMY</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>BALDWIN</lastName>
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>ROBERT</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>MENENDEZ</lastName>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2017-11-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>A resolution expressing the sense of the Senate that States, cities, Tribal nations, businesses, and institutions of higher education in the United States should work towards achieving the goals of the Paris Agreement.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T21:57:05Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-03-02T05:44:14Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <bioguideId>M000133</bioguideId>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>MA</state>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-11-16</actionDate>
+          <text><![CDATA[<p>Expresses the sense of the Senate that the United States should remain a signatory to the Paris Agreement and support policies that promote the reduction of global warming pollution.</p> <ul> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-11-16T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-12-18T20:19:10Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-11-16</introducedDate>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-11-17T00:41:19Z</createDate>
+    <billType>SRES</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

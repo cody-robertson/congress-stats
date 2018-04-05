@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <notes />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1975-1977</url>
+            <name>S1975-1977</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks: CR S1975-1977)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <firstName>Marco</firstName>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <lastName>BROWN</lastName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001047</bioguideId>
+        <middleName>MOORE</middleName>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <state>WV</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000148</bioguideId>
+        <middleName>E.</middleName>
+        <lastName>SCHUMER</lastName>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000449</bioguideId>
+        <middleName />
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+        </identifiers>
+        <firstName>ROB</firstName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001230</bioguideId>
+        <middleName />
+        <lastName>BALDWIN</lastName>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001181</bioguideId>
+        <middleName />
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <firstName>Jeanne</firstName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000383</bioguideId>
+        <middleName />
+        <lastName>King</lastName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <firstName>Angus</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+      </item>
+      <item>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000367</bioguideId>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000555</bioguideId>
+        <middleName>E.</middleName>
+        <lastName>Gillibrand</lastName>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <firstName>Kirsten</firstName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000062</bioguideId>
+        <middleName />
+        <lastName>FEINSTEIN</lastName>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <firstName>DIANNE</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001170</bioguideId>
+        <middleName />
+        <lastName>McCaskill</lastName>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <firstName>Claire</firstName>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000032</bioguideId>
+        <middleName>WILLIAM</middleName>
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <lastName>CARPER</lastName>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <firstName>THOMAS</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>DE</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001076</bioguideId>
+        <middleName>Wood</middleName>
+        <lastName>Hassan</lastName>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Margaret</firstName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001088</bioguideId>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <state>DE</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001070</bioguideId>
+        <middleName />
+        <lastName>Casey</lastName>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2017-11-07</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000384</bioguideId>
+        <middleName />
+        <lastName>Kaine</lastName>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+          <lisID>2176</lisID>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <sponsorshipDate>2017-11-27</sponsorshipDate>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>MARKEY</lastName>
+        <byRequestType />
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <state>MA</state>
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <introducedDate>2017-03-23</introducedDate>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-02-23T15:26:00Z</date>
+              <name>Legislative interest</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-03-23T17:36:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-03-24T05:21:03Z</createDate>
+    <relatedBills>
+      <item>
+        <latestTitle>INTERDICT Act</latestTitle>
+        <congress>115</congress>
+        <number>2142</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Became Public Law No: 115-112.</text>
+          <actionDate>2018-01-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <billNumber>708</billNumber>
+    <title>INTERDICT Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Chemistry</name>
+          </item>
+          <item>
+            <name>Customs enforcement</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <title>INTERDICT Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>INTERDICT Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to improve the ability of U.S. Customs and Border Protection to interdict fentanyl, other synthetic opioids, and other narcotics and psychoactive substances that are illegally imported into the United States, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>INTERDICT Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2018-02-24T08:13:02Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-03-23T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-09-19T20:50:39Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-23</actionDate>
+          <text><![CDATA[<p><b>International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act or the INTERDICT Act</b></p> <p>This bill requires the Department of Homeland Security (DHS) to: (1) increase the number of chemical screening devices available to the U.S. Customs and Border Protection (CBP) to interdict fentanyl, other synthetic opioids, and other narcotics and psychoactive substances that are illegally imported into the United States, including such substances imported through the mail or by an express consignment operator or carrier; and (2) dedicate the appropriate number of personnel, including scientists, to the CBP to interpret data collected by such devices during all operational hours.</p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks: CR S1975-1977)</text>
+      <actionDate>2017-03-23</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

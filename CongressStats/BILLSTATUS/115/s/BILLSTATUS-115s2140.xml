@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <amendments />
+    <congress>115</congress>
+    <billNumber>2140</billNumber>
+    <createDate>2017-11-17T00:41:21Z</createDate>
+    <cosponsors />
+    <notes />
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <title>A bill to provide for an exchange of Federal land and non-Federal land in the State of Idaho, and for other purposes.</title>
+    <updateDate>2018-01-20T09:15:58Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T19:26:05Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <middleName>E.</middleName>
+        <byRequestType />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <state>ID</state>
+        <lastName>Risch</lastName>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-11-29</actionDate>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>4448</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To provide for an exchange of Federal land and non-Federal land in the State of Idaho, and for other purposes.</latestTitle>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-11-16</introducedDate>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S7299)</text>
+      <actionDate>2017-11-16</actionDate>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S7299</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7299</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S7299)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>A bill to provide for an exchange of Federal land and non-Federal land in the State of Idaho, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>A bill to provide for an exchange of Federal land and non-Federal land in the State of Idaho, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

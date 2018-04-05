@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>98</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2115</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2115</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2115)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2115)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2115</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2115</url>
+          </link>
+        </links>
+        <actionCode>14500</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-27</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2000</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2000</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2000)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-27</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:02Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <firstName>Johnny</firstName>
+        <identifiers>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>Isakson</lastName>
+        <bioguideId>I000055</bioguideId>
+        <state>GA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+          <lisID>2138</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>Daines</lastName>
+        <bioguideId>D000618</bioguideId>
+        <state>MT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>DURBIN</lastName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>Merkley</lastName>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>PATRICK</firstName>
+        <identifiers>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <lastName>LEAHY</lastName>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-03-29T22:39:42Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-27T19:43:20Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-03-27</introducedDate>
+    <title>A resolution designating the first week of April 2017 as "National Asbestos Awareness Week".</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>SRES</billType>
+    <createDate>2017-03-28T05:32:32Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <links />
+      <actionDate>2017-03-29</actionDate>
+    </latestAction>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution designating the first week of April 2017 as "National Asbestos Awareness Week".</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution designating the first week of April 2017 as "National Asbestos Awareness Week".</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Designates the first week of April 2017 as National Asbestos Awareness Week. Urges the Surgeon General to warn and educate people about asbestos exposure, which may be hazardous to their health.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-03-27</actionDate>
+          <lastSummaryUpdateDate>2017-04-03T19:40:50Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-03-27T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates the first week of April 2017 as National Asbestos Awareness Week. Urges the Surgeon General to warn and educate people about asbestos exposure, which may be hazardous to their health.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2017-03-29</actionDate>
+          <lastSummaryUpdateDate>2017-04-04T17:18:43Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2017-03-29T13:30:03Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

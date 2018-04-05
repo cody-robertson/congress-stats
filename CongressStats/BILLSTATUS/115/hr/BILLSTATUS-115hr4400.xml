@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-12-05T22:00:59Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsag14</systemCode>
+              <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <date>2017-11-15T15:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>DC</state>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <committee>
+          <systemCode>hsag14</systemCode>
+          <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Agriculture.</text>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-11-15</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-11-15</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-11-15</actionDate>
+      </item>
+    </actions>
+    <amendments />
+    <createDate>2017-11-16T03:11:17Z</createDate>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-02-12T20:28:13Z</lastSummaryUpdateDate>
+          <updateDate>2017-11-15T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Farm to Table Safety Act</b></p> <p> This bill amends the Food, Conservation, and Energy Act of 2008 to modify the food safety education program authorized in the Act. The bill requires the Department of Agriculture to: (1) include farm workers in the program; and (2) expand the scope of the program to include practices that prevent bacterial contamination of food, methods of identifying sources of food contamination, and other means of decreasing food contamination. </p>]]></text>
+          <name>Introduced in House</name>
+          <actionDate>2017-11-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <title>Farm to Table Safety Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To amend the Food, Conservation, and Energy Act of 2008 to make improvements to the food safety education program carried out under such Act, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Farm to Table Safety Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Farm to Table Safety Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <introducedDate>2017-11-15</introducedDate>
+    <title>Farm to Table Safety Act</title>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural education</name>
+          </item>
+          <item>
+            <name>Food supply, safety, and labeling</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Migrant, seasonal, agricultural labor</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <notes />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 187 (Wednesday, November 15, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARDENAS:H.R. 4400.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H9377]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+      <links />
+      <actionDate>2017-12-05</actionDate>
+    </latestAction>
+    <billNumber>4400</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <updateDate>2018-02-16T15:12:42Z</updateDate>
+    <committeeReports />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <byRequestType />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <bioguideId>C001097</bioguideId>
+        <party>D</party>
+        <middleName />
+        <firstName>Tony</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+          <lisID>2107</lisID>
+        </identifiers>
+        <district>29</district>
+        <lastName>Cardenas</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

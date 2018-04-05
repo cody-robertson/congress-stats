@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <lastName>O'Halleran</lastName>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <bioguideId>O000171</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2306</lisID>
+          <gpoId />
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <state>AZ</state>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+      </item>
+      <item>
+        <lastName>SENSENBRENNER</lastName>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <bioguideId>S000244</bioguideId>
+        <middleName>JAMES</middleName>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <state>WI</state>
+        <firstName>F.</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+      </item>
+      <item>
+        <lastName>Davis</lastName>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <bioguideId>D000619</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <party>R</party>
+        <state>IL</state>
+        <firstName>Rodney</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+      </item>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipDate>2017-08-15</sponsorshipDate>
+        <bioguideId>F000466</bioguideId>
+        <middleName>K.</middleName>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+          <lisID>2345</lisID>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <state>PA</state>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hswm04</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-05T19:42:58Z</date>
+                </item>
+              </activities>
+              <name>Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-23T13:02:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Help All Americans Save for College Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Help All Americans Save for College Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to exclude employer contributions to 529 plans from gross income and employment taxes and to allow a deduction for individual contributions to such plans.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Help All Americans Save for College Act of 2017</title>
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <amendments />
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-05</actionDate>
+        <committee>
+          <systemCode>hswm04</systemCode>
+          <name>Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2017-06-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-06-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-06-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-06-23</introducedDate>
+    <relatedBills />
+    <committeeReports />
+    <calendarNumbers />
+    <billNumber>3046</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Help All Americans Save for College Act of 201</b><b>7</b></p> <p>This bill amends the Internal Revenue Code to modify the tax treatment of qualified tuition programs (known as 529 plans) and ABLE accounts. (Tax-favored ABLE [Achieving a Better Life Experience] accounts are designed to enable individuals with disabilities to save for and pay for disability-related expenses.) </p> <p>The bill excludes employer contributions to an employee's 529 plan or ABLE account from the gross income of an individual, certain employment taxes, and taxes on self-employment earnings. </p> <p>The exclusions are limited to the lesser of: (1) the compensation includible in the individual's gross income for the year, or (2) $5,000 ($10,000 in the case of a joint return) for each dependent of the taxpayer who is the designated beneficiary of a 529 plan. </p> <p>The bill also allows an individual to deduct up to $5,000 of the aggregate contributions of the individual to a 529 plan and an ABLE account. </p> <p>The bill revises the 10% additional tax for distributions from a 529 plan or an ABLE account that are not used for qualified purposes to change the rate to the greater of: (1) 10%, or (2) the highest rate of income tax applicable to the taxpayer. </p>]]></text>
+          <actionDate>2017-06-23</actionDate>
+          <updateDate>2017-06-23T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-07-05T19:58:06Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2018-02-06T16:43:13Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <latestAction>
+      <text>Referred to the Subcommittee on Trade.</text>
+      <actionDate>2017-07-05</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Help All Americans Save for College Act of 2017</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <lastName>Poliquin</lastName>
+        <state>ME</state>
+        <bioguideId>P000611</bioguideId>
+        <middleName />
+        <firstName>Bruce</firstName>
+        <identifiers>
+          <lisID>2247</lisID>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <createDate>2017-06-24T03:11:35Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

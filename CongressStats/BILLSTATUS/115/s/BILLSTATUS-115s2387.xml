@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-02-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2018-02-07</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Concentrating on High-value Alzheimer's Needs to Get to an End (CHANGE) Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide better care and outcomes for Americans living with Alzheimer's disease and related dementias and their caregivers while accelerating progress toward prevention strategies, disease modifying treatments, and, ultimately, a cure.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Concentrating on High-value Alzheimer's Needs to Get to an End (CHANGE) Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Concentrating on High-value Alzheimer's Needs to Get to an End (CHANGE) Act of 2018</title>
+      </item>
+    </titles>
+    <billNumber>2387</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>STABENOW</lastName>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DEBORAH</firstName>
+        <middleName>ANN</middleName>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>WICKER</lastName>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MENENDEZ</lastName>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <middleName />
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Van Hollen</lastName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+        <middleName />
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+      </item>
+    </cosponsors>
+    <title>Concentrating on High-value Alzheimer's Needs to Get to an End (CHANGE) Act of 2018</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Concentrating on High-Value Alzheimer's Needs to Get to an End (CHANGE) Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>4957</number>
+        <latestAction>
+          <actionDate>2018-02-07</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-07T17:17:26Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T19:19:12Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <bioguideId>C001047</bioguideId>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>WV</state>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-02-07</introducedDate>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-02-08T02:26:01Z</createDate>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

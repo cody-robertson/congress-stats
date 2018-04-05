@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-14</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-07</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-12-06</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-12-06</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-12-06</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <firstName>Chris</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>2168</lisID>
+          <bioguideId>S001192</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001192</bioguideId>
+        <district>2</district>
+        <state>UT</state>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Stewart</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2017-12-14</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Grand Staircase Escalante Enhancement Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide greater conservation, recreation, economic development and local management of Federal lands in Garfield and Kane Counties, Utah.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Grand Staircase Escalante Enhancement Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Grand Staircase Escalante Enhancement Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Grand Staircase Escalante Enhancement Act</title>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <identifiers>
+          <gpoId>8189</gpoId>
+          <bioguideId>B001250</bioguideId>
+          <lisID>1753</lisID>
+        </identifiers>
+        <bioguideId>B001250</bioguideId>
+        <state>UT</state>
+        <lastName>Bishop</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <firstName>Rob</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>L000584</bioguideId>
+          <lisID>2271</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>L000584</bioguideId>
+        <state>UT</state>
+        <lastName>Love</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <firstName>Mia</firstName>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <identifiers>
+          <lisID>2363</lisID>
+          <gpoId />
+          <bioguideId>C001114</bioguideId>
+        </identifiers>
+        <bioguideId>C001114</bioguideId>
+        <state>UT</state>
+        <lastName>Curtis</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Curtis, John R. [R-UT-3]</fullName>
+        <firstName>John</firstName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>4558</billNumber>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-12-14T16:09:43Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-07T16:07:48Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-06T15:00:24Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 199 (Wednesday, December 6, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. STEWART:H.R. 4558.Congress has the power to enact this legislation pursuantto the following:Article IV, Section III[Page H9709]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Monuments and memorials</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Utah</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-12-07T03:11:09Z</createDate>
+    <amendments />
+    <introducedDate>2017-12-06</introducedDate>
+    <laws />
+    <updateDate>2017-12-29T08:12:18Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

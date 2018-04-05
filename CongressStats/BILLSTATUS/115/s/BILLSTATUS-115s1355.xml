@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>1355</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:32Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <lastName>Hassan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>Wood</middleName>
+        <identifiers>
+          <lisID>2302</lisID>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <firstName>Margaret</firstName>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-14T19:04:43Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-06-14</introducedDate>
+    <title>Combating the Heroin Epidemic Through Forensic Drug Testing Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-06-15T00:26:36Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <bioguideId>S001181</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2017-06-14</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestTitle>Combating the Opioid Epidemic Through Forensic Drug Testing Act of 2017</latestTitle>
+        <number>2008</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-25</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <title>Combating the Heroin Epidemic Through Forensic Drug Testing Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to combat the heroin epidemic and drug sample backlogs.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Combating the Heroin Epidemic Through Forensic Drug Testing Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Combating the Heroin Epidemic Through Forensic Drug Testing Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-06-14</actionDate>
+          <updateDate>2017-06-14T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Combating the Heroin Epidemic Through Forensic Drug Testing Act of 2017</b></p> <p>This bill amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Department of Justice's Bureau of Justice Assistance to award grants to states to address the distribution, sale, and use of heroin, fentanyl, and associated synthetic drugs. </p> <p> Grants may be used to:</p> <ul> <li>reimburse forensic science laboratories for efforts to address and prevent testing backlogs;</li> <li>reimburse law enforcement agencies for equipment to identify or detect heroin, fentanyl, and associated synthetic drugs;</li> <li>investigate, arrest, and prosecute distributors or sellers; and</li> <li>support health department services for users.<br /> </li> </ul>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-07-10T21:27:11Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>2852</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to House Administration</text>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-09T13:00:46Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>WALTER</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <bioguideId>J000255</bioguideId>
+        <lastName>JONES</lastName>
+        <state>NC</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+        </identifiers>
+        <district>52</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <bioguideId>P000608</bioguideId>
+        <lastName>Peters</lastName>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Carol</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <bioguideId>S001170</bioguideId>
+        <lastName>Shea-Porter</lastName>
+        <state>NH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <bioguideId>K000188</bioguideId>
+        <lastName>KIND</lastName>
+        <state>WI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <firstName>MICHAEL</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <bioguideId>C001037</bioguideId>
+        <lastName>CAPUANO</lastName>
+        <state>MA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <firstName>Denny</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <bioguideId>H001064</bioguideId>
+        <lastName>Heck</lastName>
+        <state>WA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2018-02-08</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <lisID>2306</lisID>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <bioguideId>O000171</bioguideId>
+        <lastName>O'Halleran</lastName>
+        <state>AZ</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Political parties and affiliation</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-08T14:00:31Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-08T14:00:26Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-06-08</introducedDate>
+    <title>EPIC Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to House Administration</text>
+      <links />
+      <actionDate>2017-06-08</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-06-09T03:11:39Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <bioguideId>K000381</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KILMER:H.R. 2852.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H4820]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>EPIC Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Election Protection &amp; Integrity Certification Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>EPIC Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Election Protection &amp; Integrity Certification Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to require certain tax exempt organizations to certify that foreign funds will not be used to make any contribution or expenditure in connection with any election in the United States, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>EPIC Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-06-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-16T12:51:51Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-08</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Election Protection &amp; Integrity Certification Act or the EPIC Act </b></p> <p>This bill amends the Internal Revenue Code to require an organization applying for tax-exempt status to certify that it will not: (1) use foreign funds to make certain expenditures in connection with an election, a political party, or an electioneering communication; or (2) solicit, accept, or receive a contribution or donation from a foreign national for an election or a political party. </p> <p>A tax-exempt organization must certify in its annual tax return that it has not violated the requirements described above. </p> <p>The Government Accountability Office must study the political activities of corporations to determine whether foreign money is being used in U.S elections. </p> <p>The bill amends the Federal Election Campaign Act of 1971 to require tax-exempt organizations filing certain reports regarding disbursements for independent expenditures or electioneering communications to certify that foreign funds were not used for the disbursements. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

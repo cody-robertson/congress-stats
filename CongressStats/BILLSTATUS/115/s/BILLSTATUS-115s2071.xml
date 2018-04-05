@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-02</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-11-02</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <createDate>2017-11-03T00:41:18Z</createDate>
+    <congress>115</congress>
+    <introducedDate>2017-11-02</introducedDate>
+    <committeeReports />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>Sustainable Fishing Workforce Protection Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to authorize the temporary entry into the United States of alien crewmen employed on longline fishing vessels originating in Hawaii, to ensure that such aliens receive reasonable wages and working conditions, and to provide for appropriate enforcement and oversight of fishing companies employing such aliens.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Sustainable Fishing Workforce Protection Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Sustainable Fishing Workforce Protection Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2017-11-02</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <recordedVotes />
+    <updateDate>2017-11-30T20:27:43Z</updateDate>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <number>4224</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>Sustainable Fishing Workforce Protection Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+          <actionDate>2017-11-21</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <billNumber>2071</billNumber>
+    <laws />
+    <title>Sustainable Fishing Workforce Protection Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Schatz</lastName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <state>HI</state>
+        <bioguideId>S001194</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName>K.</middleName>
+        <bioguideId>H001042</bioguideId>
+        <firstName>Mazie</firstName>
+        <party>D</party>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <lastName>Hirono</lastName>
+        <state>HI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-02T20:17:14Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

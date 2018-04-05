@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-01-25T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-15T17:33:03Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Designates the week of January 21-January 27, 2018, as National School Choice Week. Encourages all parents to learn more about the educational options available.</p>]]></text>
+          <actionDate>2018-01-25</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <updateDate>2018-01-25T16:26:17Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-16T19:29:54Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates the week of January 21-January 27, 2018, as National School Choice Week. Encourages all parents to learn more about the educational options available.</p>]]></text>
+          <actionDate>2018-01-25</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2018-01-25</introducedDate>
+    <updateDate>2018-02-27T05:28:32Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S524</url>
+            <name>S524</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S526</url>
+            <name>S526</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S526; text: CR S524)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S524</url>
+            <name>S524</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S526</url>
+            <name>S526</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S526; text: CR S524)</text>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>381</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>703</number>
+        <type>HRES</type>
+        <latestTitle>Designating the week of January 21 through January 27, 2018, as "National School Choice Week".</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2018-01-18</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <number>26</number>
+        <type>SRES</type>
+        <latestTitle>A resolution designating the week of January 22 through January 28, 2017, as "National School Choice Week".</latestTitle>
+        <latestAction>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S456; text as passed Senate: CR S455)</text>
+          <actionDate>2017-01-24</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <byRequestType />
+        <bioguideId>S001184</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>SC</state>
+        <firstName>Tim</firstName>
+        <identifiers>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>A resolution designating the week of January 21 through January 27, 2018, as "National School Choice Week".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A resolution designating the week of January 21 through January 27, 2018, as "National School Choice Week".</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S526; text: CR S524)</text>
+      <actionDate>2018-01-25</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2018-01-26T00:26:02Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>A000360</bioguideId>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <middleName />
+        <state>TN</state>
+        <bioguideId>A000360</bioguideId>
+        <firstName>Lamar</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <lastName>Alexander</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+        </identifiers>
+        <middleName />
+        <state>AR</state>
+        <bioguideId>B001236</bioguideId>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>NC</state>
+        <bioguideId>B001135</bioguideId>
+        <firstName>RICHARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <lastName>BURR</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <middleName />
+        <state>LA</state>
+        <bioguideId>C001075</bioguideId>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>C001056</bioguideId>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2175</lisID>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>C001098</bioguideId>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <lisID>2138</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>MT</state>
+        <bioguideId>D000618</bioguideId>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <state>WY</state>
+        <bioguideId>E000285</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>F000062</bioguideId>
+        <firstName>DIANNE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <middleName />
+        <state>CO</state>
+        <bioguideId>G000562</bioguideId>
+        <firstName>Cory</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+        </identifiers>
+        <middleName />
+        <state>GA</state>
+        <bioguideId>I000055</bioguideId>
+        <firstName>Johnny</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <lastName>Isakson</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <middleName>GRANT</middleName>
+        <state>UT</state>
+        <bioguideId>H000338</bioguideId>
+        <firstName>ORRIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <lastName>HATCH</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>J000293</bioguideId>
+        <firstName>Ron</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <middleName />
+        <state>OK</state>
+        <bioguideId>L000575</bioguideId>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <middleName>SIDNEY</middleName>
+        <state>AZ</state>
+        <bioguideId>M000303</bioguideId>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <lastName>MCCAIN</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8308</gpoId>
+          <bioguideId>P000603</bioguideId>
+          <lisID>2082</lisID>
+        </identifiers>
+        <middleName />
+        <state>KY</state>
+        <bioguideId>P000603</bioguideId>
+        <firstName>Rand</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <lastName>Paul</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>Alfred</middleName>
+        <state>GA</state>
+        <bioguideId>P000612</bioguideId>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <firstName>Marco</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+        </identifiers>
+        <middleName>Roland</middleName>
+        <state>NC</state>
+        <bioguideId>T000476</bioguideId>
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>PA</state>
+        <bioguideId>T000461</bioguideId>
+        <firstName>Pat</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <lastName>Toomey</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <state>MS</state>
+        <bioguideId>W000437</bioguideId>
+        <firstName>ROGER</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <state>IN</state>
+        <bioguideId>Y000064</bioguideId>
+        <firstName>Todd</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <lastName>Young</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+        <middleName>O.</middleName>
+        <state>SC</state>
+        <bioguideId>G000359</bioguideId>
+        <firstName>LINDSEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <lastName>GRAHAM</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees />
+    </committees>
+    <title>A resolution designating the week of January 21 through January 27, 2018, as "National School Choice Week".</title>
+    <billType>SRES</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

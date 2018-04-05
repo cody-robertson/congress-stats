@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-10-04</introducedDate>
+    <recordedVotes />
+    <cboCostEstimates />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <bioguideId>T000250</bioguideId>
+        <lastName>THUNE</lastName>
+        <byRequestType />
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <state>SD</state>
+        <middleName>R.</middleName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>American Prairie Conservation Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>A bill to amend the Federal Crop Insurance Act and the Federal Agriculture Improvement and Reform Act of 1996 to make the native sod provisions applicable to the United States and to modify those provisions, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>American Prairie Conservation Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>American Prairie Conservation Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <title>American Prairie Conservation Act</title>
+    <calendarNumbers />
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssaf00</systemCode>
+          <activities>
+            <item>
+              <date>2017-10-04T14:34:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-10-05T00:26:19Z</createDate>
+    <billNumber>1913</billNumber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-10-04</actionDate>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>3939</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-10-26</actionDate>
+          <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>American Prairie Conservation Act</latestTitle>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <updateDate>2017-12-08T05:36:39Z</updateDate>
+    <notes />
+    <billType>S</billType>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Rounds</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>SD</state>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <lastName>Bennet</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <state>CO</state>
+        <party>D</party>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001267</bioguideId>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Heinrich</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+        </identifiers>
+        <state>NM</state>
+        <party>D</party>
+        <firstName>Martin</firstName>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

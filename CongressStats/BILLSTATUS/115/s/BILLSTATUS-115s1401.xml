@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1401</billNumber>
+    <congress>115</congress>
+    <laws />
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-06-22T08:44:35Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Get the Lead Out of Schools Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Safe Drinking Water Act to address lead contamination in school drinking water.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Get the Lead Out of Schools Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Get the Lead Out of Schools Act</title>
+      </item>
+    </titles>
+    <introducedDate>2017-06-21</introducedDate>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <state>NJ</state>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <lastName>Booker</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <firstName>Cory</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Tammy</firstName>
+        <middleName />
+        <state>IL</state>
+        <lastName>Duckworth</lastName>
+        <byRequestType />
+        <bioguideId>D000622</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <actionDate>2017-06-21</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </latestAction>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-06-21T22:26:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2018-01-11T05:29:59Z</updateDate>
+    <relatedBills />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2017-06-21</actionDate>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <amendments />
+    <calendarNumbers />
+    <title>Get the Lead Out of Schools Act</title>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

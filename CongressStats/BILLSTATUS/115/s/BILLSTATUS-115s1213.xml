@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to require the Secretary of Transportation to post a copy of the most recent response plan for each onshore oil pipeline on a publicly accessible website.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A bill to require the Secretary of Transportation to post a copy of the most recent response plan for each onshore oil pipeline on a publicly accessible website.</title>
+      </item>
+    </titles>
+    <introducedDate>2017-05-24</introducedDate>
+    <latestAction>
+      <actionDate>2017-05-24</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <title>A bill to require the Secretary of Transportation to post a copy of the most recent response plan for each onshore oil pipeline on a publicly accessible website.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <updateDate>2018-02-06T16:45:27Z</updateDate>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <createDate>2017-05-25T00:26:39Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-24T16:42:36Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>1213</billNumber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <middleName>C.</middleName>
+        <byRequestType />
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <lastName>Peters</lastName>
+        <state>MI</state>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill requires the Department of Transportation (DOT)to publish a copy of the most recent pipeline response plan for each onshore oil pipeline on a public website maintained by DOT.</p> <UL> <UL> </UL> </UL>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-12-26T22:11:09Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-05-24T04:00:00Z</updateDate>
+          <actionDate>2017-05-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <cosponsors>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>ANN</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>DEBORAH</firstName>
+        <lastName>STABENOW</lastName>
+        <state>MI</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

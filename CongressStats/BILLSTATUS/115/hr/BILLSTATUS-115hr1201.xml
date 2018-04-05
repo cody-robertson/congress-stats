@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1201</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2017-02-17</actionDate>
+    </latestAction>
+    <createDate>2017-02-18T05:14:00Z</createDate>
+    <title>EACH Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Equitable Access to Care and Health Act or the EACH Act</strong></p> <p>This bill amends the Internal Revenue Code to expand the religious conscience exemption under the Patient Protection and Affordable Care Act to exempt individuals who rely solely on a religious method of healing and for whom the acceptance of medical health services would be inconsistent with their religious beliefs from the requirement to purchase and maintain minimum essential health care coverage. </p>]]></text>
+          <actionDate>2017-02-17</actionDate>
+          <updateDate>2017-02-17T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-01T18:56:01Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-02-17</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <updateDate>2018-02-06T16:41:33Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>D000619</bioguideId>
+        <district>13</district>
+        <middleName />
+        <byRequestType />
+        <firstName>Rodney</firstName>
+        <lastName>Davis</lastName>
+        <state>IL</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-17T18:00:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+        <bioguideId>K000375</bioguideId>
+        <lastName>Keating</lastName>
+        <party>D</party>
+        <district>9</district>
+        <firstName>William</firstName>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <bioguideId>P000594</bioguideId>
+        <lastName>Paulsen</lastName>
+        <party>R</party>
+        <district>3</district>
+        <firstName>Erik</firstName>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <bioguideId>G000576</bioguideId>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <district>6</district>
+        <firstName>Glenn</firstName>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2276</lisID>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <bioguideId>R000599</bioguideId>
+        <lastName>Ruiz</lastName>
+        <party>D</party>
+        <district>36</district>
+        <firstName>Raul</firstName>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RODNEY DAVIS of Illinois:H.R. 1201.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests isthe power of Congress as stated in Article I, Section 8,Clause 1 of the United States Constitution.[Page H1313]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-02-17</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>EACH Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Equitable Access to Care and Health Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>EACH Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Equitable Access to Care and Health Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend section 5000A of the Internal Revenue Code of 1986 to provide an additional religious exemption from the individual health coverage mandate, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>EACH Act</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

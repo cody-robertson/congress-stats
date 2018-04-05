@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-09</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-09</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-09</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-09</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <createDate>2017-11-10T03:11:20Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billNumber>4346</billNumber>
+    <updateDate>2017-12-08T08:13:03Z</updateDate>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <lastName>McMorris Rodgers</lastName>
+        <identifiers>
+          <lisID>1809</lisID>
+          <bioguideId>M001159</bioguideId>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <firstName>Cathy</firstName>
+        <party>R</party>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <bioguideId>M001159</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <lastName>Takano</lastName>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <district>41</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <bioguideId>T000472</bioguideId>
+      </item>
+    </cosponsors>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 183 (Thursday, November 9, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FOSTER:H.R. 4346.Congress has the power to enact this legislation pursuantto the following:Clauses 12, 13, 14, and 18 of Section 8 of Article 1 of theU.S. Constitution.[Page H8698]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-11-09</introducedDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <actionDate>2017-11-09</actionDate>
+      <links />
+    </latestAction>
+    <laws />
+    <amendments />
+    <committeeReports />
+    <title>GI Education Benefits Fairness Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-09T19:21:30Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-09T14:02:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <bioguideId>F000454</bioguideId>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <state>IL</state>
+        <identifiers>
+          <gpoId>7355</gpoId>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Bill</firstName>
+        <lastName>Foster</lastName>
+        <byRequestType />
+        <party>D</party>
+        <district>11</district>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <title>GI Education Benefits Fairness Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend title 38, United States Code, to provide for clarification regarding the children to whom entitlement to educational assistance may be transferred under the Post-9/11 Educational Assistance Program.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>GI Education Benefits Fairness Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>GI Education Benefits Fairness Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

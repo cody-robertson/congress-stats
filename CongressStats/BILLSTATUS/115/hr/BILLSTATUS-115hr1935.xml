@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+          <lisID>2355</lisID>
+        </identifiers>
+        <district>8</district>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <bioguideId>G000579</bioguideId>
+        <state>WI</state>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <lastName>Gallagher</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills>
+      <item>
+        <latestTitle>CLEAN Act</latestTitle>
+        <number>145</number>
+        <latestAction>
+          <actionDate>2017-01-23</actionDate>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <latestTitle>EPIC Act</latestTitle>
+        <number>322</number>
+        <latestAction>
+          <actionDate>2017-01-05</actionDate>
+          <text>Referred to House Oversight and Government Reform</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <notes />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billNumber>1935</billNumber>
+    <title>Congressional Pension Reform Act</title>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <bioguideId>F000466</bioguideId>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <district>8</district>
+        <firstName>Brian</firstName>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GALLAGHER:H.R. 1935.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 6, Clause 1: The Senators andRepresentatives shall receive a Compensation for theirServices, to be ascertained by Law, and paid out of theTreaasury of the United State.[Page H2754]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Referred to House Oversight and Government Reform</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Referred to House Administration</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Congressional Pension Reform Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Congressional Pension Reform Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 5, United States Code, to provide for the termination of further retirement coverage for Members of Congress under the Federal Employees' Retirement System, except for the right to continue participating in the Thrift Savings Plan, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Congressional Pension Reform Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Congressional Pension Reform Act </b></p> <p>This bill modifies the Federal Employees Retirement System (FERS) to exclude Members of Congress, except the Vice President, from FERS retirement coverage after the enactment of this bill.</p> <p>The bill prohibits further government contributions or deductions from a Member's basic pay for deposit in the Treasury to the credit of the Civil Service Retirement and Disability Fund.</p> <p>The bill does not affect the rights or benefits of any Member for the period prior to the enactment of this bill, nor does it affect the eligibility of a member to participate in the Thrift Savings Plan.</p> <p>Members may elect to remain subject to FERS by filing a written election within 90 days after the enactment of this bill.</p>]]></text>
+          <actionDate>2017-04-05</actionDate>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-11-20T22:38:56Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-04-05T14:06:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-04-05T14:06:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-04-05</introducedDate>
+    <updateDate>2018-02-06T16:42:23Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>HR</billType>
+    <createDate>2017-04-06T03:11:55Z</createDate>
+    <latestAction>
+      <text>Referred to House Oversight and Government Reform</text>
+      <links />
+      <actionDate>2017-04-05</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

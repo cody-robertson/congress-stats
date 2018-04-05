@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionDate>2017-10-24</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-10-24</actionDate>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-10-24</actionDate>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 171 (Tuesday, October 24, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DONOVAN:H.R. 4108.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H8144]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2017-10-24</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <introducedDate>2017-10-24</introducedDate>
+    <billNumber>4108</billNumber>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-10-24T14:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Danny's Law</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish an Anti-Bullying Roundtable to study bullying in elementary and secondary schools in the United States, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Danny's Law</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Danny’s Law</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <amendments />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-10-25T03:11:21Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-12-04</actionDate>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>4536</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To establish an Anti-Bullying Roundtable to study bullying in elementary and secondary schools in the United States, and for other purposes.</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports />
+    <updateDate>2017-12-12T19:00:10Z</updateDate>
+    <cosponsors />
+    <laws />
+    <title>Danny's Law</title>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+        </identifiers>
+        <lastName>Donovan</lastName>
+        <firstName>Daniel</firstName>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <middleName>M.</middleName>
+        <district>11</district>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

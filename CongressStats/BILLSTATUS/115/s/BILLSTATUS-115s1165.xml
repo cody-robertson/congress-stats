@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>1165</billNumber>
+    <actions>
+      <item>
+        <links />
+        <actionDate>2017-09-07</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-09-07</actionDate>
+        <type>Floor</type>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:44:27</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5078</url>
+            <name>S5078</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S5078)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-09-07</actionDate>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5078</url>
+            <name>S5078</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5078)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-09-07</actionDate>
+        <type>Committee</type>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-05-17</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <sentToHouse>1</sentToHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+        <placeholderTextForH>1</placeholderTextForH>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <passedSenate>1</passedSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:25Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <middleName>MOORE</middleName>
+        <state>WV</state>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <firstName>SHELLEY</firstName>
+        <bioguideId>C001047</bioguideId>
+        <party>R</party>
+        <lastName>CAPITO</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>West Virginia</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-09-07T15:50:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-09-08T00:19:34Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-09-07T20:55:22Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-05-17T20:18:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-05-17</introducedDate>
+    <title>A bill to designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel "Woody" Williams VA Medical Center.</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-05-18T00:26:39Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <state>WV</state>
+        <bioguideId>M001183</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joe</firstName>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <links />
+      <actionDate>2017-09-07</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestTitle>To designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel "Woody" Williams VA Medical Center.</latestTitle>
+        <number>3663</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-08-22</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel "Woody" Williams VA Medical Center.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel "Woody" Williams VA Medical Center.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-17T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This bill designates the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the &quot;Hershel `Woody' Williams VA Medical Center.&quot;</p>]]></text>
+          <lastSummaryUpdateDate>2017-08-23T18:53:14Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-17</actionDate>
+        </item>
+        <item>
+          <updateDate>2017-09-07T14:29:21Z</updateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <versionCode>82</versionCode>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) This bill designates the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the &quot;Hershel `Woody' Williams VA Medical Center.&quot;</p>]]></text>
+          <lastSummaryUpdateDate>2017-09-15T20:21:42Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

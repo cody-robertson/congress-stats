@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-12-19T20:45:11Z</updateDate>
+    <version>1.0.0</version>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-10-03T14:00:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-10-06T15:27:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-10-04T03:11:23Z</createDate>
+    <recordedVotes />
+    <notes />
+    <committeeReports />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-06</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <lastName>Ruiz</lastName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <firstName>Raul</firstName>
+        <district>36</district>
+        <bioguideId>R000599</bioguideId>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>DEGETTE</lastName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>DIANA</firstName>
+        <district>1</district>
+        <bioguideId>D000197</bioguideId>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <firstName>ZOE</firstName>
+        <district>19</district>
+        <bioguideId>L000397</bioguideId>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>WATERS</lastName>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <firstName>MAXINE</firstName>
+        <district>43</district>
+        <bioguideId>W000187</bioguideId>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000187</bioguideId>
+          <lisID>1205</lisID>
+          <gpoId>7840</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>CHAMPION KIDS Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>4541</number>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2017-12-04</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>CHAMPIONING HEALTHY KIDS Act</latestTitle>
+        <congress>115</congress>
+        <number>3922</number>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-11-06</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2017-10-06</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>3917</billNumber>
+    <introducedDate>2017-10-03</introducedDate>
+    <title>To amend the Public Health Service Act to extend funding for the special diabetes program for Indians.</title>
+    <sponsors>
+      <item>
+        <lastName>Mullin</lastName>
+        <state>OK</state>
+        <party>R</party>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <middleName />
+        <firstName>Markwayne</firstName>
+        <district>2</district>
+        <bioguideId>M001190</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Public Health Service Act to extend funding for the special diabetes program for Indians.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Public Health Service Act to extend funding for the special diabetes program for Indians.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MULLIN:H.R. 3917.Congress has the power to enact this legislation pursuantto the following:Article 1: Section 8: Clause 3[Page H7750]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

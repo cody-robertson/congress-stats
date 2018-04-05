@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T17:52:13Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2018-02-07T15:00:52Z</date>
+                </item>
+              </activities>
+              <systemCode>sseg03</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Dan</firstName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AK</state>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Sullivan</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2018-02-16T05:28:46Z</updateDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+          <systemCode>sseg03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-29</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <createDate>2017-06-30T00:41:34Z</createDate>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <title>Alaska Native Claims Settlement Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>A bill to make technical corrections to the Alaska Native Claims Settlement Act, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Alaska Native Claims Settlement Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Alaska Native Claims Settlement Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <introducedDate>2017-06-29</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <notes />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+      <links />
+      <actionDate>2018-02-07</actionDate>
+    </latestAction>
+    <billNumber>1481</billNumber>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>211</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+          <actionDate>2017-02-16</actionDate>
+        </latestAction>
+        <latestTitle>Chugach Region Lands Study Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1482</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Shishmaref Emergency Access Easement Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1486</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Barrow Sand and Gravel Access Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1492</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Thirteenth Regional Corporation Reincorporation Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1494</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Dividend Exclusion Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1495</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Fractional Shares Consolidation Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>231</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Subcommittee Hearings Held.</text>
+          <actionDate>2018-02-06</actionDate>
+        </latestAction>
+        <latestTitle>Canyon Village Land Conveyance Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1496</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Corporation Reinstatement Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>229</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+          <actionDate>2017-02-10</actionDate>
+        </latestAction>
+        <latestTitle>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>230</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+          <actionDate>2017-02-10</actionDate>
+        </latestAction>
+        <latestTitle>SALE Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>1867</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+          <actionDate>2017-04-11</actionDate>
+        </latestAction>
+        <latestTitle>Alaska Native Veterans Land Allotment Equity Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>785</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+          <actionDate>2017-07-26</actionDate>
+        </latestAction>
+        <latestTitle>Alaska Native Veterans Land Allotment Equity Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1483</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Shee Atika Land Exchange Settlement Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1484</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Admiralty Island Land Exchange Finalization Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1485</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Cook Inlet Region Land Conveyance Finalization Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1490</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Nagamut Group Land Conveyance Settlement Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1491</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Unrecognized Community Landless Natives Authorization Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1493</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Chugach Alaska Land Exchange Study Act of 2017</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1487</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <latestTitle>ANCSA Kaktovik and Canyon Village Land Conveyance Settlement Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <title>Alaska Native Claims Settlement Improvement Act of 2017</title>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <state>AK</state>
+        <byRequestType />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <middleName />
+        <firstName>Lisa</firstName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <lastName>Murkowski</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

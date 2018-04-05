@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <latestTitle>Reverse Mass Incarceration Act of 2017</latestTitle>
+        <number>1458</number>
+        <latestAction>
+          <actionDate>2017-06-28</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <title>Reverse Mass Incarceration Act of 2017</title>
+    <introducedDate>2017-09-27</introducedDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-09-27</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-09-27</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-09-27</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <laws />
+    <createDate>2017-09-28T03:11:21Z</createDate>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-01-12T18:15:07Z</updateDate>
+    <billNumber>3845</billNumber>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>C000984</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELIJAH</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+          <lisID>256</lisID>
+        </identifiers>
+        <lastName>CUMMINGS</lastName>
+        <state>MD</state>
+        <party>D</party>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>D000627</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Val</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <identifiers>
+          <lisID>2320</lisID>
+          <gpoId />
+          <bioguideId>D000627</bioguideId>
+        </identifiers>
+        <lastName>Demings</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <middleName>Butler</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>E000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <identifiers>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <lastName>Ellison</lastName>
+        <state>MN</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>J000298</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pramila</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+          <lisID>2354</lisID>
+        </identifiers>
+        <lastName>Jayapal</lastName>
+        <state>WA</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>J000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Henry</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+          <lisID>1843</lisID>
+        </identifiers>
+        <lastName>Johnson</lastName>
+        <state>GA</state>
+        <party>D</party>
+        <middleName>C. "Hank"</middleName>
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>P000604</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Donald</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <lastName>Payne</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>Q000023</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <gpoId>7925</gpoId>
+          <lisID>1967</lisID>
+        </identifiers>
+        <lastName>Quigley</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>R000515</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BOBBY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <lastName>RUSH</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JANICE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>S000185</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <identifiers>
+          <lisID>1037</lisID>
+          <gpoId>8194</gpoId>
+          <bioguideId>S000185</bioguideId>
+        </identifiers>
+        <lastName>Scott</lastName>
+        <state>VA</state>
+        <party>D</party>
+        <middleName>C. "Bobby"</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>S001165</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Albio</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>S001165</bioguideId>
+          <gpoId>8055</gpoId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <lastName>Sires</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <bioguideId>W000822</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bonnie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+          <lisID>2259</lisID>
+        </identifiers>
+        <lastName>Watson Coleman</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <bioguideId>D000623</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <identifiers>
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>DeSaulnier</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <bioguideId>M001185</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sean</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+        <identifiers>
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Maloney</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <middleName>Patrick</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipDate>2017-11-30</sponsorshipDate>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gwen</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <lastName>Moore</lastName>
+        <state>WI</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <sponsorshipDate>2017-11-30</sponsorshipDate>
+        <bioguideId>W000808</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Frederica</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>24</district>
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <lastName>Wilson</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <middleName>S.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <bioguideId>C001097</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <byRequestType />
+        <district>29</district>
+        <middleName />
+        <lastName>Cardenas</lastName>
+        <firstName>Tony</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Reverse Mass Incarceration Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish a grant program to incentivize States to reduce prison populations, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Reverse Mass Incarceration Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Reverse Mass Incarceration Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-10-04T13:29:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-09-27T19:00:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-10-04</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

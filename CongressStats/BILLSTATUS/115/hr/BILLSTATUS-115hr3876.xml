@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionDate>2017-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7622</url>
+            <name>H7622</name>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR H7622)</text>
+        <actionDate>2017-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <congress>115</congress>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <bioguideId>G000574</bioguideId>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ruben</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>7</district>
+        <lastName>Gallego</lastName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000606</bioguideId>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jamie</firstName>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>8</district>
+        <lastName>Raskin</lastName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000298</bioguideId>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pramila</firstName>
+        <identifiers>
+          <lisID>2354</lisID>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>7</district>
+        <lastName>Jayapal</lastName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000581</bioguideId>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brenda</firstName>
+        <identifiers>
+          <lisID>2252</lisID>
+          <gpoId />
+          <bioguideId>L000581</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>14</district>
+        <lastName>Lawrence</lastName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000577</bioguideId>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>TIM</firstName>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>13</district>
+        <lastName>RYAN</lastName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>NYDIA</firstName>
+        <identifiers>
+          <gpoId>8073</gpoId>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>7</district>
+        <lastName>VELAZQUEZ</lastName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>0</district>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001188</bioguideId>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Grace</firstName>
+        <identifiers>
+          <lisID>2148</lisID>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>6</district>
+        <lastName>Meng</lastName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001300</bioguideId>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Nanette</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2311</lisID>
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>44</district>
+        <lastName>Barragan</lastName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>Diaz</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001050</bioguideId>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Colleen</firstName>
+        <identifiers>
+          <lisID>2010</lisID>
+          <gpoId>7912</gpoId>
+          <bioguideId>H001050</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>1</district>
+        <lastName>Hanabusa</lastName>
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jacky</firstName>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+          <lisID>2339</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>3</district>
+        <lastName>Rosen</lastName>
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000585</bioguideId>
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jimmy</firstName>
+        <identifiers>
+          <lisID>2362</lisID>
+          <gpoId />
+          <bioguideId>G000585</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>34</district>
+        <lastName>Gomez</lastName>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-28T13:00:40Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <title>SWAMP FLYERS Act</title>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <number>1880</number>
+        <latestAction>
+          <actionDate>2017-09-27</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>We the People Democracy Reform Act of 2017</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-09-28</introducedDate>
+    <billNumber>3876</billNumber>
+    <amendments />
+    <updateDate>2017-12-14T13:15:11Z</updateDate>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>SWAMP FLYERS Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Stop Waste And Misuse by Presidential Flyers Landing Yet Evading Rules and Standards Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit the use of Federal funds for the official travel of any senior political appointee on private aircraft, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>SWAMP FLYERS Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>SWAMP FLYERS Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Stop Waste And Misuse by Presidential Flyers Landing Yet Evading Rules and Standards Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2017-09-28</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Ted</firstName>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <middleName />
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <bioguideId>L000582</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2230</lisID>
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <createDate>2017-09-29T03:11:25Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-02-14T17:44:41Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that Robert Mueller is compromised and should resign from his special counsel position. </p>]]></text>
+          <actionDate>2017-11-03</actionDate>
+          <updateDate>2017-11-03T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HRES</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-07</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H8584-8585)</text>
+        <committee />
+        <links>
+          <link>
+            <name>H8584-8585</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8584-8585</url>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-03</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-03</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-03</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2307</lisID>
+          <gpoId />
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-03</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001302</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Biggs</lastName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8157</gpoId>
+          <lisID>1801</lisID>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-03</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000552</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000448</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <firstName>Trent</firstName>
+        <lastName>Franks</lastName>
+        <state>AZ</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <createDate>2017-11-04T03:11:18Z</createDate>
+    <introducedDate>2017-11-03</introducedDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <updateDate>2018-02-19T04:07:42Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-03T13:00:25Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Expressing the sense of the House of Representatives that Robert Mueller should resign from his special counsel position.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Expressing the sense of the House of Representatives that Robert Mueller should resign from his special counsel position.</title>
+      </item>
+    </titles>
+    <title>Expressing the sense of the House of Representatives that Robert Mueller should resign from his special counsel position.</title>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>G000578</bioguideId>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <firstName>Matt</firstName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <state>FL</state>
+        <lastName>Gaetz</lastName>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <billNumber>606</billNumber>
+    <laws />
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <latestAction>
+      <text>Sponsor introductory remarks on measure. (CR H8584-8585)</text>
+      <links />
+      <actionDate>2017-11-07</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

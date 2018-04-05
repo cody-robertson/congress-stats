@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2017-11-17T00:41:21Z</createDate>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2018-02-24T08:13:04Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <name>Legislative interest</name>
+              <date>2018-02-23T15:26:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T22:20:06Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <title>USA Liberty Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Uniting and Strengthening American Liberty Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to amend the Foreign Intelligence Surveillance Act of 1978 to clarify and improve the procedures and accountability for authorizing certain acquisitions of foreign intelligence, to extend title VII of such Act, to ensure that the barriers to sharing critical foreign intelligence among the intelligence community that existed before September 11, 2001, are not reimposed, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>USA Liberty Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>USA Liberty Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Uniting and Strengthening American Liberty Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2017-11-16</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <billNumber>2158</billNumber>
+    <amendments />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEAHY</lastName>
+        <firstName>PATRICK</firstName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000174</bioguideId>
+        <middleName>JOSEPH</middleName>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <state>VT</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>USA Liberty Act of 2017</title>
+    <introducedDate>2017-11-16</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <lastName>Lee</lastName>
+        <firstName>Mike</firstName>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <bioguideId>L000577</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <state>UT</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

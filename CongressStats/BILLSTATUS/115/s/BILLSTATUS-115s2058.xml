@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-25T21:38:10Z</updateDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-01T22:44:14Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <title>A bill to amend title 38, United States Code, to increase the thresholds by which medical facility projects and medical facility leases of the Department of Veterans Affairs are considered major medical facility projects and major medical facility leases, respectively, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend title 38, United States Code, to increase the thresholds by which medical facility projects and medical facility leases of the Department of Veterans Affairs are considered major medical facility projects and major medical facility leases, respectively, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend title 38, United States Code, to increase the thresholds by which medical facility projects and medical facility leases of the Department of Veterans Affairs are considered major medical facility projects and major medical facility leases, respectively, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <notes />
+    <committeeReports />
+    <recordedVotes />
+    <billNumber>2058</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>RON</firstName>
+        <byRequestType />
+        <lastName>WYDEN</lastName>
+        <party>D</party>
+        <bioguideId>W000779</bioguideId>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-01</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-11-02T00:41:16Z</createDate>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-11-01</introducedDate>
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-11-01</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

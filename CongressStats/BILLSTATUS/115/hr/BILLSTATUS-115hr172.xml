@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>172</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:29Z</updateDate>
+    <cosponsors>
+      <item>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <bioguideId>H001067</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2140</lisID>
+          <gpoId />
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+        <lastName>Hudson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Richard</firstName>
+        <state>NC</state>
+      </item>
+      <item>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <bioguideId>M001184</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2094</lisID>
+          <bioguideId>M001184</bioguideId>
+          <gpoId>8371</gpoId>
+        </identifiers>
+        <lastName>Massie</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <state>KY</state>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <bioguideId>G000552</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <lastName>Gohmert</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Louie</firstName>
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>First Amendment rights</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-01-03T17:06:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-03</introducedDate>
+    <title>To restore the Free Speech and First Amendment rights of churches and exempt organizations by repealing the 1954 Johnson Amendment.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2017-01-03</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-04T07:01:12Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>JONES</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <firstName>WALTER</firstName>
+        <district>3</district>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JONES:H.R. 172.Congress has the power to enact this legislation pursuantto the following:The First Amendment of the United States Constitution,which states that Congress shall make no law prohibiting thefree exercise of religion.[Page H51]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To restore the Free Speech and First Amendment rights of churches and exempt organizations by repealing the 1954 Johnson Amendment.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>To restore the Free Speech and First Amendment rights of churches and exempt organizations by repealing the 1954 Johnson Amendment.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-01-12T14:30:38Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill amends the Internal Revenue Code to repeal the prohibition against churches and other tax-exempt organizations participating in political campaigns or supporting or opposing candidates for public office. The bill specifies that provisions of the Federal Election Campaign Act of 1971 are not invalidated or limited by the repeal. </p>]]></text>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

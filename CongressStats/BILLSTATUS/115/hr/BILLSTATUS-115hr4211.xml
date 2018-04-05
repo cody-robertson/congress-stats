@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <systemCode>hsag29</systemCode>
+          <name>Livestock and Foreign Agriculture Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-11-01</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Agriculture.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-11-01</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-11-01</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>4211</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 177 (Wednesday, November 1, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MARSHALL:H.R. 4211.Congress has the power to enact this legislation pursuantto the following:The ability to regulate interstate commerce pursuant toArticle 1, Section 8, Clause 3.[Page H8386]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <state>KS</state>
+        <bioguideId>M001198</bioguideId>
+        <byRequestType />
+        <lastName>Marshall</lastName>
+        <middleName>W.</middleName>
+        <district>1</district>
+        <party>R</party>
+        <firstName>Roger</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2017-11-16</actionDate>
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2017-11-02T03:11:20Z</createDate>
+    <cosponsors />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Agricultural Act of 2014 to provide to producers partial payments under the livestock indemnity program for livestock sold for salvage.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Agricultural Act of 2014 to provide to producers partial payments under the livestock indemnity program for livestock sold for salvage.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-11-01</introducedDate>
+    <title>To amend the Agricultural Act of 2014 to provide to producers partial payments under the livestock indemnity program for livestock sold for salvage.</title>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-02-09</actionDate>
+          <text>Became Public Law No: 115-123.</text>
+        </latestAction>
+        <number>1892</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestTitle>Bipartisan Budget Act of 2018</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2017-11-01</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        </latestAction>
+        <number>2050</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>115</congress>
+        <latestTitle>Health Care Market Certainty and Mandate Relief Act</latestTitle>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <date>2017-11-01T14:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Livestock and Foreign Agriculture Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-11-16T18:13:52Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsag29</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <updateDate>2018-02-21T13:15:08Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

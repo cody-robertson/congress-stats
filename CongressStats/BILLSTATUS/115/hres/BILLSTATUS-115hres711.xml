@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <state>VA</state>
+        <firstName>Scott</firstName>
+        <fullName>Rep. Taylor, Scott [R-VA-2]</fullName>
+        <bioguideId>T000477</bioguideId>
+        <district>2</district>
+        <party>R</party>
+        <lastName>Taylor</lastName>
+        <identifiers>
+          <lisID>2351</lisID>
+          <gpoId />
+          <bioguideId>T000477</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Education and the Workforce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <date>2018-01-22T17:00:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <billType>HRES</billType>
+    <introducedDate>2018-01-22</introducedDate>
+    <latestAction>
+      <actionDate>2018-01-22</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <links />
+    </latestAction>
+    <updateDate>2018-02-16T18:00:40Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billNumber>711</billNumber>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2018-01-23T09:42:50Z</createDate>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2018-01-22</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2018-01-22</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2018-01-22</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <recordedVotes />
+    <committeeReports />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <notes />
+    <cosponsors>
+      <item>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <firstName>Dina</firstName>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NV</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8194</gpoId>
+          <bioguideId>S000185</bioguideId>
+          <lisID>1037</lisID>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <bioguideId>S000185</bioguideId>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <middleName>C. "Bobby"</middleName>
+      </item>
+      <item>
+        <lastName>McEachin</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2352</lisID>
+          <bioguideId>M001200</bioguideId>
+        </identifiers>
+        <firstName>A.</firstName>
+        <bioguideId>M001200</bioguideId>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <middleName>Donald</middleName>
+      </item>
+      <item>
+        <lastName>Comstock</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+        </identifiers>
+        <firstName>Barbara</firstName>
+        <bioguideId>C001105</bioguideId>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <firstName>Gerald</firstName>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <lastName>CHABOT</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Garrett</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2353</lisID>
+          <gpoId />
+          <bioguideId>G000580</bioguideId>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <bioguideId>G000580</bioguideId>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <lastName>Wittman</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8192</gpoId>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <bioguideId>W000804</bioguideId>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2318</lisID>
+          <gpoId />
+          <bioguideId>M001202</bioguideId>
+        </identifiers>
+        <firstName>Stephanie</firstName>
+        <bioguideId>M001202</bioguideId>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <middleName>N.</middleName>
+      </item>
+      <item>
+        <lastName>GOODLATTE</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>446</lisID>
+          <gpoId>8197</gpoId>
+          <bioguideId>G000289</bioguideId>
+        </identifiers>
+        <firstName>ROBERT</firstName>
+        <bioguideId>G000289</bioguideId>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <middleName>W.</middleName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Celebrating the 325th anniversary of the founding of the College of William &amp; Mary in Virginia by British Royal Charter and congratulating President W. Taylor Reveley, III, after a decade of tremendous leadership as the 27th President of William &amp; Mary.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Celebrating the 325th anniversary of the founding of the College of William &amp; Mary in Virginia by British Royal Charter and congratulating President W. Taylor Reveley, III, after a decade of tremendous leadership as the 27th President of William &amp; Mary.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <title>Celebrating the 325th anniversary of the founding of the College of William &amp; Mary in Virginia by British Royal Charter and congratulating President W. Taylor Reveley, III, after a decade of tremendous leadership as the 27th President of William &amp; Mary.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

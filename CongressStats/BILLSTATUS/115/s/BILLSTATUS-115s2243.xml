@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <bioguideId>B001267</bioguideId>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <state>CO</state>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <party>R</party>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <byRequestType />
+        <lastName>Daines</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>MT</state>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <cboCostEstimates />
+    <updateDate>2018-02-21T13:00:08Z</updateDate>
+    <title>Voluntary Public Access Improvement Act of 2017</title>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2017-12-18</actionDate>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (Sponsor introductory remarks on measure: CR S8071; text of measure as introduced: CR S8071)</text>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <number>5022</number>
+        <latestAction>
+          <text>Referred to the House Committee on Agriculture.</text>
+          <actionDate>2018-02-14</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Voluntary Public Access Improvement Act of 2018</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-18</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S8071</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S8071</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (Sponsor introductory remarks on measure: CR S8071; text of measure as introduced: CR S8071)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-12-18</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <createDate>2017-12-19T00:26:06Z</createDate>
+    <laws />
+    <amendments />
+    <billNumber>2243</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-18T22:04:20Z</date>
+            </item>
+          </activities>
+          <systemCode>ssaf00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Voluntary Public Access Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Voluntary Public Access Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Food Security Act of 1985 to authorize funding for the voluntary public access and habitat incentive program.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Voluntary Public Access Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-12-18</introducedDate>
+    <calendarNumbers />
+    <congress>115</congress>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

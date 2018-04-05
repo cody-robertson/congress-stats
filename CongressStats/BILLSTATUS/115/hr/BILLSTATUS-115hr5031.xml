@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <actionDate>2018-02-15</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-02-15</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-02-15</actionDate>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+      <actionDate>2018-02-15</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Challenges &amp; Prizes for Climate Act of 2018</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Energy to provide for prize competitions relating to climate and energy, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Challenges &amp; Prizes for Climate Act of 2018</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Challenges &amp; Prizes for Climate Act of 2018</title>
+      </item>
+    </titles>
+    <billNumber>5031</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Faso</lastName>
+        <identifiers>
+          <lisID>2343</lisID>
+          <gpoId />
+          <bioguideId>F000464</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <state>NY</state>
+        <party>R</party>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <bioguideId>F000464</bioguideId>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <firstName>John</firstName>
+        <district>19</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Crist</lastName>
+        <identifiers>
+          <lisID>2321</lisID>
+          <bioguideId>C001111</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+        <party>D</party>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <bioguideId>C001111</bioguideId>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <firstName>Charlie</firstName>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Curbelo</lastName>
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+          <lisID>2235</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+        <party>R</party>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <bioguideId>C001107</bioguideId>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <firstName>Carlos</firstName>
+        <district>26</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Murphy</lastName>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <lisID>2318</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>N.</middleName>
+        <state>FL</state>
+        <party>D</party>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <bioguideId>M001202</bioguideId>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <firstName>Stephanie</firstName>
+        <district>7</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>ROS-LEHTINEN</lastName>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <gpoId>7890</gpoId>
+          <lisID>985</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+        <party>R</party>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <bioguideId>R000435</bioguideId>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <firstName>ILEANA</firstName>
+        <district>27</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>ESHOO</lastName>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <bioguideId>E000215</bioguideId>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <firstName>ANNA</firstName>
+        <district>18</district>
+      </item>
+    </cosponsors>
+    <title>Challenges &amp; Prizes for Climate Act of 2018</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Energy research</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 30 (Thursday, February 15, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LIPINSKI:H.R. 5031.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the U.S. Constitution.[Page H1212]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-15T14:01:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T19:17:36Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Lipinski</lastName>
+        <middleName>William</middleName>
+        <firstName>Daniel</firstName>
+        <party>D</party>
+        <bioguideId>L000563</bioguideId>
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <byRequestType />
+        <district>3</district>
+        <state>IL</state>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-02-15</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-02-18T21:46:26Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

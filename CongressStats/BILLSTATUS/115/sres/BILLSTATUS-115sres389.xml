@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-01-30</introducedDate>
+    <updateDate>2018-03-02T05:44:15Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-30</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S586</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S586</url>
+          </link>
+          <link>
+            <name>S591</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S591</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S591; text: CR S586)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S591; text: CR S586)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <name>S586</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S586</url>
+          </link>
+          <link>
+            <name>S591</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S591</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2018-01-30</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-01-30</actionDate>
+      </item>
+    </actions>
+    <notes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>389</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <byRequestType />
+        <bioguideId>F000463</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>NE</state>
+        <firstName>Deb</firstName>
+        <identifiers>
+          <lisID>2179</lisID>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A resolution commemorating the commissioning of the USS Omaha.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A resolution commemorating the commissioning of the USS Omaha.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S591; text: CR S586)</text>
+      <actionDate>2018-01-30</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2018-01-31T01:11:01Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>S001197</bioguideId>
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ben</firstName>
+        <lastName>Sasse</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NE</state>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees />
+    </committees>
+    <title>A resolution commemorating the commissioning of the USS Omaha.</title>
+    <billType>SRES</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

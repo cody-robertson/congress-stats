@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <actions>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionDate>2018-01-02</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-02</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-02</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+      <actionDate>2018-01-02</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <titles>
+      <item>
+        <title>Honoring the life and legacy of Alan Rabinowitz for his immeasurable contributions to the city of Seattle as a leading philanthropist, educator, community organizer, and public servant.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Honoring the life and legacy of Alan Rabinowitz for his immeasurable contributions to the city of Seattle as a leading philanthropist, educator, community organizer, and public servant.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <billNumber>674</billNumber>
+    <cosponsors />
+    <introducedDate>2018-01-02</introducedDate>
+    <billType>HRES</billType>
+    <createDate>2018-01-03T03:11:03Z</createDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <title>Honoring the life and legacy of Alan Rabinowitz for his immeasurable contributions to the city of Seattle as a leading philanthropist, educator, community organizer, and public servant.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-02T17:00:07Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <updateDate>2018-01-04T21:00:07Z</updateDate>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <state>WA</state>
+        <bioguideId>J000298</bioguideId>
+        <firstName>Pramila</firstName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <district>7</district>
+        <lastName>Jayapal</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

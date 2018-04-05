@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>R000585</bioguideId>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <identifiers>
+          <lisID>1982</lisID>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <state>NY</state>
+        <lastName>Reed</lastName>
+        <district>23</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <introducedDate>2017-09-05</introducedDate>
+    <updateDate>2017-11-14T20:00:13Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-09-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-09-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <amendments />
+    <latestAction>
+      <links />
+      <actionDate>2017-09-05</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <laws />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2017-10-31</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Give A HAND Act</latestTitle>
+        <congress>115</congress>
+        <number>4172</number>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. REED:H.R. 3679.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article I and Amendment XVI of theUnited States Constitution.[Page H6654]</pre>]]></constitutionalAuthorityStatementText>
+    <title>National Disaster Tax Relief Act of 2017</title>
+    <cboCostEstimates />
+    <billNumber>3679</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>National Disaster Tax Relief Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to provide tax relief for major disasters declared in any of calendar years 2012 through 2015, to make certain tax relief provisions permanent, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>National Disaster Tax Relief Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>National Disaster Tax Relief Act of 2017</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Charitable contributions</name>
+          </item>
+          <item>
+            <name>Credit and credit markets</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Residential rehabilitation and home repair</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Tax treatment of families</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <committeeReports />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-09-05T18:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>WILLIAM</firstName>
+        <middleName>J.</middleName>
+        <district>9</district>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <lastName>PASCRELL</lastName>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <bioguideId>P000096</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RON</firstName>
+        <middleName />
+        <district>3</district>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <lastName>KIND</lastName>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <bioguideId>K000188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>CT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <middleName>B.</middleName>
+        <district>1</district>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <lastName>LARSON</lastName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <bioguideId>L000557</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Vicente</firstName>
+        <middleName />
+        <district>15</district>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <lastName>Gonzalez</lastName>
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+          <lisID>2349</lisID>
+        </identifiers>
+        <bioguideId>G000581</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>FRANK</firstName>
+        <middleName />
+        <district>6</district>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <lastName>PALLONE</lastName>
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <bioguideId>P000034</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>CHRISTOPHER</firstName>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <lastName>SMITH</lastName>
+        <identifiers>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <bioguideId>S000522</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Patrick</firstName>
+        <middleName />
+        <district>7</district>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <lastName>Meehan</lastName>
+        <identifiers>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <bioguideId>M001181</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>FRANK</firstName>
+        <middleName>A.</middleName>
+        <district>2</district>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <lastName>LOBIONDO</lastName>
+        <identifiers>
+          <gpoId>8044</gpoId>
+          <bioguideId>L000554</bioguideId>
+          <lisID>699</lisID>
+        </identifiers>
+        <bioguideId>L000554</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <middleName />
+        <district>9</district>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <lastName>Green</lastName>
+        <identifiers>
+          <lisID>1803</lisID>
+          <bioguideId>G000553</bioguideId>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <bioguideId>G000553</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <createDate>2017-09-06T03:11:34Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

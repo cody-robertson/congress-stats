@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <lastName>Booker</lastName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <firstName>Cory</firstName>
+        <byRequestType />
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-05T20:25:53Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssbu00</systemCode>
+          <name>Budget Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Census Funding Cap Adjustment Act of 2018</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to provide an adjustment to the discretionary spending limits for appropriations for the 2020 decennial census.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Census Funding Cap Adjustment Act of 2018</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Census Funding Cap Adjustment Act of 2018</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>ssbu00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Budget.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-02-05</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <createDate>2018-02-06T00:26:12Z</createDate>
+    <title>Census Funding Cap Adjustment Act of 2018</title>
+    <committeeReports />
+    <billType>S</billType>
+    <introducedDate>2018-02-05</introducedDate>
+    <updateDate>2018-02-28T19:19:09Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schatz</lastName>
+        <state>HI</state>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billNumber>2366</billNumber>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <amendments />
+    <latestAction>
+      <actionDate>2018-02-05</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

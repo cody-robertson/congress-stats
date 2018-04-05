@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-04-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-04-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-04-06</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>R000586</bioguideId>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <identifiers>
+          <gpoId>8106</gpoId>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>16</district>
+        <lastName>Renacci</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000602</bioguideId>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kathleen</firstName>
+        <identifiers>
+          <lisID>2262</lisID>
+          <gpoId />
+          <bioguideId>R000602</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>4</district>
+        <lastName>Rice</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000369</bioguideId>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <identifiers>
+          <lisID>2090</lisID>
+          <gpoId>8366</gpoId>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>2</district>
+        <lastName>Amodei</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <district>52</district>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001275</bioguideId>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Larry</firstName>
+        <identifiers>
+          <lisID>2018</lisID>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>8</district>
+        <lastName>Bucshon</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000255</bioguideId>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <party>R</party>
+        <district>3</district>
+        <lastName>JONES</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000598</bioguideId>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jared</firstName>
+        <identifiers>
+          <lisID>1910</lisID>
+          <gpoId>7860</gpoId>
+          <bioguideId>P000598</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>2</district>
+        <lastName>Polis</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001269</bioguideId>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lou</firstName>
+        <identifiers>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>11</district>
+        <lastName>Barletta</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001202</bioguideId>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Stephanie</firstName>
+        <identifiers>
+          <lisID>2318</lisID>
+          <gpoId />
+          <bioguideId>M001202</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>7</district>
+        <lastName>Murphy</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>N.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001297</bioguideId>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ken</firstName>
+        <identifiers>
+          <lisID>2233</lisID>
+          <gpoId />
+          <bioguideId>B001297</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>4</district>
+        <lastName>Buck</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001168</bioguideId>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>S001168</bioguideId>
+          <lisID>1854</lisID>
+          <gpoId>7978</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>3</district>
+        <lastName>Sarbanes</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000449</bioguideId>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <bioguideId>F000449</bioguideId>
+          <lisID>1793</lisID>
+          <gpoId>8038</gpoId>
+        </identifiers>
+        <party>R</party>
+        <district>1</district>
+        <lastName>Fortenberry</lastName>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Julia</firstName>
+        <identifiers>
+          <lisID>2106</lisID>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>26</district>
+        <lastName>Brownley</lastName>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2017-04-06</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Election Commission (FEC)</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Political parties and affiliation</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <committeeReports />
+    <version>1.0.0</version>
+    <createDate>2017-04-07T03:11:59Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-04-06T13:12:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Restoring Integrity to America’s Elections Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Restoring Integrity to America's Elections Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Federal Election Campaign Act of 1971 to reduce the number of members of the Federal Election Commission from 6 to 5, to revise the method of selection and terms of service of members of the Commission, to distribute the powers of the Commission between the Chair and the remaining members, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Restoring Integrity to America's Elections Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <updateDate>2017-12-14T14:30:14Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Restoring Integrity to America's Elections Act</latestTitle>
+        <congress>115</congress>
+        <number>1683</number>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Rules and Administration.</text>
+          <actionDate>2017-08-01</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>We the People Democracy Reform Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>1880</number>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-09-27</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <title>Restoring Integrity to America's Elections Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KILMER:H.R. 2034.Congress has the power to enact this legislation pursuantto the following:Article I, Section 4 of the U.S. Constitution grantingCongress the authority to make laws governing the time,place, and manner of holding Federal elections.[Page H2791]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2034</billNumber>
+    <introducedDate>2017-04-06</introducedDate>
+    <laws />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <middleName />
+        <district>6</district>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <bioguideId>K000381</bioguideId>
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <firstName>Derek</firstName>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Kilmer</lastName>
+        <state>WA</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-01-25T21:37:50Z</updateDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssas00</systemCode>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-02T20:36:49Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>321</billNumber>
+    <title>A resolution honoring the career of Major General Richard C. Nash and recognizing his service to the United States and the State of Minnesota.</title>
+    <createDate>2017-11-03T00:41:16Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-02</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S7003</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7003</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Armed Services. (text of measure as introduced: CR S7003)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-11-02</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <congress>115</congress>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution honoring the career of Major General Richard C. Nash and recognizing his service to the United States and the State of Minnesota.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution honoring the career of Major General Richard C. Nash and recognizing his service to the United States and the State of Minnesota.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <links />
+      <actionDate>2017-11-02</actionDate>
+      <text>Referred to the Committee on Armed Services. (text of measure as introduced: CR S7003)</text>
+    </latestAction>
+    <amendments />
+    <billType>SRES</billType>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Franken</lastName>
+        <bioguideId>F000457</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <byRequestType />
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <introducedDate>2017-11-02</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

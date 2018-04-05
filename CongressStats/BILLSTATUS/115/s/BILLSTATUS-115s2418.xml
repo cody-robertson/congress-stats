@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cosponsors>
+      <item>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-13T16:49:21Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <firstName>Margaret</firstName>
+        <party>D</party>
+        <bioguideId>H001076</bioguideId>
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Hassan</lastName>
+        <state>NH</state>
+        <byRequestType />
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <middleName>Wood</middleName>
+      </item>
+    </sponsors>
+    <createDate>2018-02-14T00:26:01Z</createDate>
+    <billNumber>2418</billNumber>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <number>2903</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Rural Reasonable and Comparable Wireless Access Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-06-16</actionDate>
+          <text>Referred to the Subcommittee on Communications and Technology.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <title>Rural Reasonable and Comparable Wireless Access Act of 2018</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Rural Reasonable and Comparable Wireless Access Act of 2018</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to direct the Federal Communications Commission to promulgate regulations that establish a national standard for determining whether mobile and broadband services available in rural areas are reasonably comparable to those services provided in urban areas.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Rural Reasonable and Comparable Wireless Access Act of 2018</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Rural Reasonable and Comparable Wireless Access Act of 2018</title>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2018-02-13</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <updateDate>2018-02-28T19:19:17Z</updateDate>
+    <amendments />
+    <introducedDate>2018-02-13</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-13</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2018-02-13</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

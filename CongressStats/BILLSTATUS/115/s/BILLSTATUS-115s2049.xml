@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-25T21:37:37Z</updateDate>
+    <billType>S</billType>
+    <latestAction>
+      <links />
+      <actionDate>2017-11-01</actionDate>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </latestAction>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <lastName>MORAN</lastName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <byRequestType />
+        <firstName>JERRY</firstName>
+        <state>KS</state>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-01T17:36:31Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2017-11-02T00:41:16Z</createDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-11-01</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-11-01</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2017-11-01</introducedDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <cosponsors />
+    <congress>115</congress>
+    <title>A bill to amend the Agricultural Credit Act of 1978 to increase support for conservation practices under the emergency conservation program, and for other purposes.</title>
+    <cboCostEstimates />
+    <laws />
+    <billNumber>2049</billNumber>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>To amend the Agricultural Credit Act of 1978 to increase support for conservation practices under the emergency conservation program, and for other purposes.</latestTitle>
+        <latestAction>
+          <actionDate>2017-11-16</actionDate>
+          <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        </latestAction>
+        <number>4212</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend the Agricultural Credit Act of 1978 to increase support for conservation practices under the emergency conservation program, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend the Agricultural Credit Act of 1978 to increase support for conservation practices under the emergency conservation program, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

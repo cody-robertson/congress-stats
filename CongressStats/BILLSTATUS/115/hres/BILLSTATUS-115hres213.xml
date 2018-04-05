@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>213</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-03-24</actionDate>
+    </latestAction>
+    <createDate>2017-03-22T05:45:11Z</createDate>
+    <title>Expressing support for designation of October 17, 2017, as the "National Vitiligo Awareness Day".</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-03-21T04:00:00Z</updateDate>
+          <actionDate>2017-03-21</actionDate>
+          <text><![CDATA[<p>Expresses support for the designation of National Vitiligo Awareness Day. (Vitiligo is a condition in which skin color is lost in patches.)</p> <p>Recognizes the importance of providing support for individuals diagnosed with vitiligo.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-31T20:36:56Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-24</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:39:40Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <district>4</district>
+        <middleName>C. "Hank"</middleName>
+        <byRequestType />
+        <firstName>Henry</firstName>
+        <lastName>Johnson</lastName>
+        <state>GA</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-21T14:00:07Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-24T17:40:31Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>MEEKS</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>M001137</bioguideId>
+        <middleName>W.</middleName>
+        <identifiers>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+          <lisID>1506</lisID>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <state>NY</state>
+        <firstName>GREGORY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+      </item>
+      <item>
+        <lastName>Grijalva</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>G000551</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <state>AZ</state>
+        <firstName>Raul</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+      </item>
+      <item>
+        <lastName>Dingell</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>D000624</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <party>D</party>
+        <state>MI</state>
+        <firstName>Debbie</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+      </item>
+      <item>
+        <lastName>Bilirakis</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>B001257</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <state>FL</state>
+        <firstName>Gus</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+      </item>
+      <item>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <party>D</party>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>J000032</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <district>18</district>
+        <party>D</party>
+        <state>TX</state>
+        <firstName>SHEILA</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+      <item>
+        <lastName>Scott</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>S001157</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1722</lisID>
+          <bioguideId>S001157</bioguideId>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <district>13</district>
+        <party>D</party>
+        <state>GA</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+      </item>
+      <item>
+        <lastName>Beatty</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <bioguideId>B001281</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <state>OH</state>
+        <firstName>Joyce</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+      </item>
+      <item>
+        <lastName>Blunt Rochester</lastName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <bioguideId>B001303</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001303</bioguideId>
+          <gpoId />
+          <lisID>2313</lisID>
+        </identifiers>
+        <district>0</district>
+        <party>D</party>
+        <state>DE</state>
+        <firstName>Lisa</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+      </item>
+      <item>
+        <lastName>Ellison</lastName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>E000288</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <state>MN</state>
+        <firstName>Keith</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-03-21</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for designation of October 17, 2017, as the "National Vitiligo Awareness Day".</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Expressing support for designation of October 17, 2017, as the "National Vitiligo Awareness Day".</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Musculoskeletal and skin diseases</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <lastName>NELSON</lastName>
+        <middleName>WILLIAM</middleName>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+        </identifiers>
+        <firstName>CLARENCE</firstName>
+        <byRequestType />
+        <bioguideId>N000032</bioguideId>
+        <state>FL</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-02-15T00:36:26Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-19T16:17:14Z</date>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-12-19</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To designate the health care center of the Department of Veterans Affairs in Tallahassee, Florida, as the Sergeant Ernest I. "Boots" Thomas VA Clinic, and for other purposes.</latestTitle>
+        <congress>115</congress>
+        <number>4687</number>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to designate the health care center of the Department of Veterans Affairs in Tallahassee, Florida, as the Sergeant Ernest I. "Boots" Thomas VA Clinic, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to designate the health care center of the Department of Veterans Affairs in Tallahassee, Florida, as the Sergeant Ernest I. "Boots" Thomas VA Clinic, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <billReferrals>1</billReferrals>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <sentToHouse>1</sentToHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <passedSenate>1</passedSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <receivedInTheHouse>1</receivedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-02-16</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionDate>2018-02-16</actionDate>
+        <links />
+        <actionCode>H14000</actionCode>
+        <actionTime>09:03:05</actionTime>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-02-15</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-14</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1130</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1130</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S1130)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1130)</text>
+        <type>Floor</type>
+        <actionDate>2018-02-14</actionDate>
+        <links>
+          <link>
+            <name>S1130</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1130</url>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-02-14</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1130</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1130</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1130)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1130)</text>
+        <type>Committee</type>
+        <actionDate>2018-02-14</actionDate>
+        <links>
+          <link>
+            <name>S1130</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1130</url>
+          </link>
+        </links>
+        <actionCode>14500</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-12-19</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-19</actionDate>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <createDate>2017-12-20T07:11:06Z</createDate>
+    <title>A bill to designate the health care center of the Department of Veterans Affairs in Tallahassee, Florida, as the Sergeant Ernest I. "Boots" Thomas VA Clinic, and for other purposes.</title>
+    <committeeReports />
+    <billType>S</billType>
+    <introducedDate>2017-12-19</introducedDate>
+    <updateDate>2018-02-27T05:27:59Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-12-19</actionDate>
+          <text><![CDATA[<p>This bill designates the Department of Veterans Affairs health care center located at 2181 Orange Avenue in Tallahassee, Florida, as the "Sergeant Ernest I. `Boots' Thomas VA Clinic.&quot; </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-12-19T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-12-27T21:40:14Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2018-02-14</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p> (Sec. 1) This bill designates the Department of Veterans Affairs health care center located at 2181 Orange Avenue in Tallahassee, Florida, as the "Sergeant Ernest I. `Boots' Thomas VA Clinic.&quot; </p>]]></text>
+          <versionCode>82</versionCode>
+          <updateDate>2018-02-14T14:44:19Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-22T16:12:00Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipDate>2017-12-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billNumber>2246</billNumber>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <amendments />
+    <latestAction>
+      <actionDate>2018-02-16</actionDate>
+      <links />
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

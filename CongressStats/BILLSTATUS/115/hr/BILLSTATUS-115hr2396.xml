@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-05-04</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-12-18T20:43:04Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2017-12-04T22:01:48Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-10-12T21:37:35Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-05-04T13:04:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-12T17:14:07Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>Financial Institutions and Consumer Credit Subcommittee</name>
+              <systemCode>hsba15</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-12-18</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2396.</text>
+        <actionCode>H38900</actionCode>
+        <actionTime>11:27:54</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 2396</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2396</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionTime>11:10:25</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>On passage Passed by the Yeas and Nays: 275 - 146 (Roll no. 682).</text>
+        <actionCode>H37100</actionCode>
+        <actionTime>11:10:23</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>Roll no. 682</name>
+            <url>http://clerk.house.gov/evs/2017/roll682.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 275 - 146 (Roll no. 682).</text>
+        <actionCode>8000</actionCode>
+        <actionTime>11:10:23</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>Roll no. 682</name>
+            <url>http://clerk.house.gov/evs/2017/roll682.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>On motion to recommit with instructions Failed by the Yeas and Nays: 185 - 235 (Roll no. 681).</text>
+        <actionCode>H36110</actionCode>
+        <actionTime>11:03:05</actionTime>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>Roll no. 681</name>
+            <url>http://clerk.house.gov/evs/2017/roll681.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+        <actionCode>H8A000</actionCode>
+        <actionTime>10:36:16</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit the vehicle financial company term from including a financial institution that is engaging or has engaged in a pattern or practice of unsafe or unsound banking practices and other violations related to consumer harm.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>10:30:41</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Ms. Waters, Maxine moved to recommit with instructions to the Committee on Financial Services. (text: CR H9914)</text>
+        <actionCode>H36100</actionCode>
+        <actionTime>10:30:30</actionTime>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H9914</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9914</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 657, the House proceeded with 10 minutes of debate on the Clay No. 1.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>10:22:01</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.Res. 657</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/657</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 2396.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>09:16:54</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 2396</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2396</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule provides for one hour of general debate for each bill. The amendment in the nature of a substitute printed in H.R. 2396 shall be considered as adopted. The rule also makes in order the amendment printed in the report. An amendment in the nature of a substitute to H.R. 4015 consisting of Rules Committee Print 115-46, shall be considered as adopted.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>09:15:40</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 2396</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2396</url>
+          </link>
+          <link>
+            <name>H.R. 4015</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4015</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered under the provisions of rule H. Res. 657. (consideration: CR H9905-9916; text of amendment in the nature of a substitute: CR H9905)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>09:15:35</actionTime>
+        <committee />
+        <actionDate>2017-12-14</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 657</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/657</url>
+          </link>
+          <link>
+            <name>H9905</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9905</url>
+          </link>
+          <link>
+            <name>H9905-9916</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9905-9916</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Rules Committee Resolution H. Res. 657 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule provides for one hour of general debate for each bill. The amendment in the nature of a substitute printed in H.R. 2396 shall be considered as adopted. The rule also makes in order the amendment printed in the report. An amendment in the nature of a substitute to H.R. 4015 consisting of Rules Committee Print 115-46, shall be considered as adopted.</text>
+        <actionCode>H1L210</actionCode>
+        <actionTime>16:48:39</actionTime>
+        <committee />
+        <actionDate>2017-12-12</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 657</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/657</url>
+          </link>
+          <link>
+            <name>H.R. 2396</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2396</url>
+          </link>
+          <link>
+            <name>H.R. 4015</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4015</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 321.</text>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <actionDate>2017-12-04</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-434.</text>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-12-04</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-434</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/434</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-434.</text>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-12-04</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-434</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/434</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 20.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <systemCode>hsba15</systemCode>
+          <name>Financial Institutions and Consumer Credit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-05-04</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-05-04</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-05-04</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>23</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <referredToCommittee>1</referredToCommittee>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <clerkAuthorizationConsiderationThruPassage>1</clerkAuthorizationConsiderationThruPassage>
+        <considerationByHouse>1</considerationByHouse>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <generalDebate>4</generalDebate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForH>2</placeholderTextForH>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <actionStageOverride>2</actionStageOverride>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2018-02-22T15:27:43Z</updateDate>
+    <amendments>
+      <amendment>
+        <latestAction>
+          <actionDate>2017-12-14</actionDate>
+          <text>On agreeing to the Clay amendment Agreed to by voice vote.</text>
+          <actionTime>10:30:14</actionTime>
+        </latestAction>
+        <purpose />
+        <type>HAMDT</type>
+        <congress>115</congress>
+        <description>Page 3, line 11, strike "financial institution" and insert "vehicle financial company".    Page 3, line 18, strike "financial institution" and insert "vehicle financial company". ***.</description>
+        <number>503</number>
+        <createDate>2017-12-15T08:16:10Z</createDate>
+        <proposedDate />
+        <links />
+        <titles />
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <amendedAmendment />
+        <version>1.0.0</version>
+        <number>503</number>
+        <description>Page 3, line 11, strike "financial institution" and insert "vehicle financial company".    Page 3, line 18, strike "financial institution" and insert "vehicle financial company". ***.</description>
+        <sponsors>
+          <item>
+            <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+            <party>D</party>
+            <bioguideId>C001049</bioguideId>
+            <lastName>CLAY</lastName>
+            <middleName>LACY</middleName>
+            <identifiers>
+              <lisID>1654</lisID>
+              <gpoId>8009</gpoId>
+              <bioguideId>C001049</bioguideId>
+            </identifiers>
+            <firstName>WM.</firstName>
+            <state>MO</state>
+            <district>1</district>
+          </item>
+        </sponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedBill>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+          <title>Privacy Notification Technical Clarification Act</title>
+          <congress>115</congress>
+          <type>HR</type>
+          <number>2396</number>
+        </amendedBill>
+        <purpose />
+        <notes />
+        <type>HAMDT</type>
+        <congress>115</congress>
+        <chamber>House of Representatives</chamber>
+        <updateDate>2018-02-22T15:27:43Z</updateDate>
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.503</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/503</url>
+                </link>
+              </links>
+              <text>On agreeing to the Clay amendment Agreed to by voice vote.</text>
+              <actionDate>2017-12-14</actionDate>
+              <actionTime>10:30:14</actionTime>
+              <actionCode>H34111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.503</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/503</url>
+                </link>
+              </links>
+              <text>The previous question was ordered on the amendment and the bill pursuant to the rule.</text>
+              <actionDate>2017-12-14</actionDate>
+              <actionTime>10:30:10</actionTime>
+              <actionCode>H34180</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.503</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/503</url>
+                </link>
+                <link>
+                  <name>H9913</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9913</url>
+                </link>
+                <link>
+                  <name>H9913-9914</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9913-9914</url>
+                </link>
+              </links>
+              <text>Amendment (A002) offered by Mr. Clay. (consideration: CR H9913-9914; text: CR H9913)</text>
+              <actionDate>2017-12-14</actionDate>
+              <actionTime>10:22:00</actionTime>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-12-14</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.503</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/503</url>
+                </link>
+                <link>
+                  <name>H9913</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9913</url>
+                </link>
+                <link>
+                  <name>H9913-9914</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9913-9914</url>
+                </link>
+              </links>
+              <text>House amendment offered/reported by : Amendment (A002) offered by Mr. Clay.</text>
+              <actionDate>2017-12-14</actionDate>
+              <actionTime>10:22:00</actionTime>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.503</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/503</url>
+                </link>
+              </links>
+              <text>House amendment agreed to: On agreeing to the Clay amendment Agreed to by voice vote.</text>
+              <actionDate>2017-12-14</actionDate>
+              <actionTime>10:30:14</actionTime>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.503</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/503</url>
+                </link>
+              </links>
+              <text>Amendment agreed to by House: On agreeing to the Clay amendment Agreed to by voice vote.</text>
+              <actionDate>2017-12-14</actionDate>
+              <actionTime>10:30:14</actionTime>
+              <actionCode>79000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <committee />
+              <links />
+              <text>House amendment offered</text>
+              <actionDate>2017-12-14</actionDate>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <agreeingToTheAmendmentResults>1</agreeingToTheAmendmentResults>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToByHouse>1</amendmentAgreedToByHouse>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <motionForThePreviousQuestionOffered>1</motionForThePreviousQuestionOffered>
+          </actionTypeCounts>
+          <count>8</count>
+        </actions>
+        <submittedDate>2017-12-14T05:00:00Z</submittedDate>
+      </amendment>
+      <amendment>
+        <latestAction />
+        <purpose>Amendment in the nature of a substitute.</purpose>
+        <type>HAMDT</type>
+        <congress>115</congress>
+        <description />
+        <number>502</number>
+        <createDate>2017-12-15T08:16:10Z</createDate>
+        <number>502</number>
+        <type>HAMDT</type>
+        <updateDate>2018-02-22T15:27:43Z</updateDate>
+        <submittedDate>2017-12-14T05:00:00Z</submittedDate>
+        <proposedDate />
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendedAmendment />
+        <amendedBill>
+          <congress>115</congress>
+          <number>2396</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>Privacy Notification Technical Clarification Act</title>
+        </amendedBill>
+        <links />
+        <notes />
+        <titles />
+        <actions>
+          <count>2</count>
+          <actionByCounts>
+            <houseOfRepresentatives>1</houseOfRepresentatives>
+          </actionByCounts>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2017-12-14</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <links />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionDate>2017-12-14</actionDate>
+              <committee />
+              <actionCode>71000</actionCode>
+            </item>
+          </actions>
+        </actions>
+        <purpose>Amendment in the nature of a substitute.</purpose>
+        <description />
+        <chamber>House of Representatives</chamber>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00321</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <identifiers>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+        </identifiers>
+        <lastName>CLAY</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <bioguideId>C001049</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+        <firstName>WM.</firstName>
+        <middleName>LACY</middleName>
+        <district>1</district>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <lastName>SHERMAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <bioguideId>S000344</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <firstName>BRAD</firstName>
+        <middleName />
+        <district>30</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <identifiers>
+          <gpoId>8017</gpoId>
+          <bioguideId>L000569</bioguideId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <lastName>Luetkemeyer</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <bioguideId>L000569</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <firstName>Blaine</firstName>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <identifiers>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+          <lisID>1506</lisID>
+        </identifiers>
+        <lastName>MEEKS</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <bioguideId>M001137</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>GREGORY</firstName>
+        <middleName>W.</middleName>
+        <district>5</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <identifiers>
+          <bioguideId>M001189</bioguideId>
+          <gpoId />
+          <lisID>2130</lisID>
+        </identifiers>
+        <lastName>Messer</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <bioguideId>M001189</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <firstName>Luke</firstName>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000598</bioguideId>
+          <lisID>2158</lisID>
+        </identifiers>
+        <lastName>Rothfus</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-15</sponsorshipDate>
+        <bioguideId>R000598</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <firstName>Keith</firstName>
+        <middleName>J.</middleName>
+        <district>12</district>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+          <lisID>2349</lisID>
+        </identifiers>
+        <lastName>Gonzalez</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-15</sponsorshipDate>
+        <bioguideId>G000581</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <firstName>Vicente</firstName>
+        <middleName />
+        <district>15</district>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Privacy Notification Technical Clarification Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>Privacy Notification Technical Clarification Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Privacy Notification Technical Clarification Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Gramm-Leach-Bliley Act to update the exception for certain annual notices provided by financial institutions.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Privacy Notification Technical Clarification Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Privacy Notification Technical Clarification Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Privacy Notification Technical Clarification Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Privacy Notification Technical Clarification Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>Providing for consideration of the bill (H.R. 2396) to amend the Gramm-Leach-Bliley Act to update the exception for certain annual notices provided by financial institutions, and providing for consideration of the bill (H.R. 4015) to improve the quality of proxy advisory firms for the protection of investors and the U.S. economy, and in the public interest, by fostering accountability, transparency, responsiveness, and competition in the proxy advisory firm industry.</latestTitle>
+        <latestAction>
+          <actionTime>17:20:48</actionTime>
+          <actionDate>2017-12-13</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>657</number>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-12-18</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 77 (Thursday, May 4, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TROTT:H.R. 2396.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H4180]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>11</district>
+        <state>MI</state>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <bioguideId>T000475</bioguideId>
+        <firstName>David</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>T000475</bioguideId>
+          <gpoId />
+          <lisID>2250</lisID>
+        </identifiers>
+        <lastName>Trott</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2396, Privacy Notification Technical Clarification Act</title>
+        <pubDate>2017-11-30T23:06:23Z</pubDate>
+        <url>https://www.cbo.gov/publication/53358</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-05-05T03:11:55Z</createDate>
+    <congress>115</congress>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>682</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-12-14T16:10:23Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll682.xml</url>
+        <chamber>House</chamber>
+      </recordedVote>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>681</rollNumber>
+        <fullActionName>Motion to Commit/Recommit With Instructions Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-12-14T16:03:05Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll681.xml</url>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <laws />
+    <title>Privacy Notification Technical Clarification Act</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-434</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>2396</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

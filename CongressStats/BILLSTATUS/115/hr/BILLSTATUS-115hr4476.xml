@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4476</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy.</text>
+      <links />
+      <actionDate>2017-12-01</actionDate>
+    </latestAction>
+    <createDate>2017-11-30T03:11:17Z</createDate>
+    <title>PURPA Modernization Act of 2017</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2017-12-01</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy and Power Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2018-02-09T13:00:56Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>W000798</bioguideId>
+        <district>7</district>
+        <middleName />
+        <byRequestType />
+        <firstName>Tim</firstName>
+        <lastName>Walberg</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <lisID>1855</lisID>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <name>Energy and Power Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-01T16:50:45Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-29T15:00:21Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <bioguideId>B001294</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2241</lisID>
+          <bioguideId>B001294</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Blum</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Rod</firstName>
+        <state>IA</state>
+      </item>
+      <item>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Cramer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kevin</firstName>
+        <state>ND</state>
+      </item>
+      <item>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <bioguideId>B001275</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+          <lisID>2018</lisID>
+        </identifiers>
+        <lastName>Bucshon</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Larry</firstName>
+        <state>IN</state>
+      </item>
+      <item>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <sponsorshipDate>2018-02-08</sponsorshipDate>
+        <bioguideId>B001284</bioguideId>
+        <middleName>W.</middleName>
+        <identifiers>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+          <lisID>2129</lisID>
+        </identifiers>
+        <lastName>Brooks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Susan</firstName>
+        <state>IN</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 193 (Tuesday, November 28, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRADY of Texas:H.R. 4461.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution, to ``provide for the common Defence and generalWelfare of the United States.''[Page H9468]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-11-29</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>PURPA Modernization Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To modernize the Public Utility Regulatory Policies Act of 1978, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>PURPA Modernization Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>PURPA Modernization Act of 2017</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

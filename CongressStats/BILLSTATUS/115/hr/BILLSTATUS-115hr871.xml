@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>871</billNumber>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-06</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-06</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-06</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:41:14Z</updateDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>L000557</bioguideId>
+          <lisID>1583</lisID>
+          <gpoId>7866</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <district>1</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LARSON</lastName>
+        <state>CT</state>
+        <bioguideId>L000557</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000487</bioguideId>
+          <lisID>998</lisID>
+          <gpoId>7845</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <district>39</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <party>R</party>
+        <firstName>ED</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>ROYCE</lastName>
+        <state>CA</state>
+        <bioguideId>R000487</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000464</bioguideId>
+          <gpoId />
+          <lisID>2343</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <district>19</district>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Faso</lastName>
+        <state>NY</state>
+        <bioguideId>F000464</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <party>R</party>
+        <firstName>Erik</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Paulsen</lastName>
+        <state>MN</state>
+        <bioguideId>P000594</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2327</lisID>
+          <gpoId />
+          <bioguideId>H001074</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>9</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hollingsworth, Trey [R-IN-9]</fullName>
+        <party>R</party>
+        <firstName>Trey</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Hollingsworth</lastName>
+        <state>IN</state>
+        <bioguideId>H001074</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <district>13</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <party>R</party>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Budd</lastName>
+        <state>NC</state>
+        <bioguideId>B001305</bioguideId>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-02-06T17:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-06</introducedDate>
+    <title>To amend the Internal Revenue Code of 1986 to exempt premiums paid on non-cash-value property and casualty insurance from the taxes to enforce reporting on certain foreign accounts.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2017-02-06</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-02-07T04:46:14Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Smith</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <bioguideId>S001195</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <firstName>Jason</firstName>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+          <lisID>2191</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of Missouri:H.R. 871.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 1 provides Congress with thepower to ``lay and collect Taxes, Duties, Imposts andExcises.''[Page H1012]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to exempt premiums paid on non-cash-value property and casualty insurance from the taxes to enforce reporting on certain foreign accounts.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to exempt premiums paid on non-cash-value property and casualty insurance from the taxes to enforce reporting on certain foreign accounts.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-06</actionDate>
+          <updateDate>2017-02-06T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill amends the Internal Revenue Code to exempt premiums paid on non-cash-value property and casualty insurance policies from taxes to enforce reporting on certain foreign accounts.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-02-14T14:26:23Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

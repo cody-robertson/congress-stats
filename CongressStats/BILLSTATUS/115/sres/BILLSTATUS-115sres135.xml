@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-04-24</introducedDate>
+    <cosponsors>
+      <item>
+        <bioguideId>M001170</bioguideId>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Claire</firstName>
+        <lastName>McCaskill</lastName>
+        <state>MO</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+      </item>
+    </cosponsors>
+    <billType>SRES</billType>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+        <actionDate>2017-05-01</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S2653</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2653</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S2653)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S2653)</text>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <actionCode>14500</actionCode>
+        <actionDate>2017-05-01</actionDate>
+        <links>
+          <link>
+            <name>S2653</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2653</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-04-24</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S2495</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2495</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Armed Services. (text of measure as introduced: CR S2495)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-04-24</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-04-25T00:26:47Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <latestAction>
+      <actionDate>2017-05-01</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <links />
+    </latestAction>
+    <title>A resolution expressing support for the designation of May 1, 2017, as "Silver Star Service Banner Day".</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-04-24T04:00:00Z</updateDate>
+          <actionDate>2017-04-24</actionDate>
+          <text><![CDATA[<p> Expresses support for the designation of May 1, 2017, as Silver Star Service Banner Day.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-05-02T18:58:00Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <updateDate>2017-05-01T14:24:26Z</updateDate>
+          <actionDate>2017-05-01</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p> Expresses support for the designation of May 1, 2017, as Silver Star Service Banner Day.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-05-02T18:58:12Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billNumber>135</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>917</number>
+        <latestTitle>Silver Star Service Banner Day Act</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Held at the desk.</text>
+          <actionTime>11:06:09</actionTime>
+          <actionDate>2017-05-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-01T22:36:08Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-04-24T20:34:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution expressing support for the designation of May 1, 2017, as "Silver Star Service Banner Day".</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution expressing support for the designation of May 1, 2017, as "Silver Star Service Banner Day".</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <middleName />
+        <state>MO</state>
+        <byRequestType />
+        <firstName>Roy</firstName>
+        <bioguideId>B000575</bioguideId>
+        <party>R</party>
+        <lastName>Blunt</lastName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-06T16:44:05Z</updateDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

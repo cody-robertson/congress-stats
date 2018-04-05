@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-11-29</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-12-19T22:23:37Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-11-29T15:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Select</type>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2017-11-29T15:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hshm09</systemCode>
+              <activities>
+                <item>
+                  <date>2017-12-05T16:43:41Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Oversight and Management Efficiency Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2017-11-29T15:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2017-11-29T15:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>4</billReferrals>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Reported (Amended) by the Committee on Intelligence. H. Rept. 115-475, Part I.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-475</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/475</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-19</actionDate>
+        <committee>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Intelligence. H. Rept. 115-475, Part I.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-475</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/475</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-19</actionDate>
+        <committee>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <committee>
+          <name>Oversight and Management Efficiency Subcommittee</name>
+          <systemCode>hshm09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight and Management Efficiency.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Oversight and Government Reform, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Oversight and Government Reform, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Oversight and Government Reform, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Oversight and Government Reform, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-11-29</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2018-02-22T15:28:36Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>Michael</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Conaway</lastName>
+        <district>11</district>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <firstName>K.</firstName>
+        <identifiers>
+          <bioguideId>C001062</bioguideId>
+          <lisID>1805</lisID>
+          <gpoId>8167</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001062</bioguideId>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>KING</lastName>
+        <district>2</district>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>LOBIONDO</lastName>
+        <district>2</district>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <firstName>FRANK</firstName>
+        <identifiers>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+          <bioguideId>L000554</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000554</bioguideId>
+        <state>NJ</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Rooney</lastName>
+        <district>17</district>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <bioguideId>R000583</bioguideId>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000583</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>ROS-LEHTINEN</lastName>
+        <district>27</district>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <firstName>ILEANA</firstName>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <lisID>985</lisID>
+          <gpoId>7890</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000435</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Turner</lastName>
+        <district>10</district>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000463</bioguideId>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Wenstrup</lastName>
+        <district>2</district>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <firstName>Brad</firstName>
+        <identifiers>
+          <bioguideId>W000815</bioguideId>
+          <lisID>2152</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000815</bioguideId>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Stewart</lastName>
+        <district>2</district>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <firstName>Chris</firstName>
+        <identifiers>
+          <lisID>2168</lisID>
+          <gpoId />
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001192</bioguideId>
+        <state>UT</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>A. "Rick"</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Crawford</lastName>
+        <district>1</district>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <firstName>Eric</firstName>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+          <gpoId>7793</gpoId>
+          <lisID>1989</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001087</bioguideId>
+        <state>AR</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Gowdy</lastName>
+        <district>4</district>
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <firstName>Trey</firstName>
+        <identifiers>
+          <bioguideId>G000566</bioguideId>
+          <gpoId>8144</gpoId>
+          <lisID>2058</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000566</bioguideId>
+        <state>SC</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Stefanik</lastName>
+        <district>21</district>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <firstName>Elise</firstName>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+          <lisID>2263</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001196</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>Hurd</lastName>
+        <district>23</district>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <firstName>Will</firstName>
+        <identifiers>
+          <bioguideId>H001073</bioguideId>
+          <gpoId />
+          <lisID>2269</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001073</bioguideId>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>CALVERT</lastName>
+        <district>42</district>
+        <fullName>Rep. Calvert, Ken [R-CA-42]</fullName>
+        <firstName>KEN</firstName>
+        <identifiers>
+          <lisID>165</lisID>
+          <gpoId>7849</gpoId>
+          <bioguideId>C000059</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000059</bioguideId>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>THORNBERRY</lastName>
+        <district>13</district>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <firstName>WILLIAM</firstName>
+        <identifiers>
+          <bioguideId>T000238</bioguideId>
+          <lisID>1155</lisID>
+          <gpoId>8755</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000238</bioguideId>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>GRANGER</lastName>
+        <district>12</district>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <firstName>KAY</firstName>
+        <identifiers>
+          <bioguideId>G000377</bioguideId>
+          <lisID>1487</lisID>
+          <gpoId>8168</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000377</bioguideId>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <lastName>FRELINGHUYSEN</lastName>
+        <district>11</district>
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <firstName>RODNEY</firstName>
+        <identifiers>
+          <bioguideId>F000372</bioguideId>
+          <gpoId>8053</gpoId>
+          <lisID>414</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000372</bioguideId>
+        <state>NJ</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <title>FISA Amendments Reauthorization Act of 2017</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>FISA Amendments Reauthorization Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend the Foreign Intelligence Surveillance Act of 1978 to improve foreign intelligence collection and the safeguards, accountability, and oversight of acquisitions of foreign intelligence, to extend title VII of such Act, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>FISA Amendments Reauthorization Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>FISA Amendments Reauthorization Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-12-19</actionDate>
+      <links />
+      <text>Reported (Amended) by the Committee on Intelligence. H. Rept. 115-475, Part I.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 194 (Wednesday, November 29, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NUNES:H.R. 4478.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the Constitution of the UnitedStates provides, in pertinent part, that ``Congress shallhave power . . . to . . . provide for the common Defense andgeneral Welfare of the United States'' and ``To make all lawswhich shall be necessary and proper for carrying intoExecution the foregoing Powers and all other Powers vested inthis Constitution in the Government of the United States, orin any Department or Officer thereof.''Article III of the United States Constitution, in that thelegislation defines or affects powers of the Judiciary thatare subject to legislation by Congress.[Page H9516]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>22</district>
+        <state>CA</state>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <bioguideId>N000181</bioguideId>
+        <firstName>Devin</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000181</bioguideId>
+          <lisID>1710</lisID>
+          <gpoId>7826</gpoId>
+        </identifiers>
+        <lastName>Nunes</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4478, FISA Amendments Reauthorization Act of 2017</title>
+        <pubDate>2017-12-20T21:20:45Z</pubDate>
+        <url>https://www.cbo.gov/publication/53425</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-11-30T03:11:17Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>FISA Amendments Reauthorization Act of 2017</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-475</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>4478</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

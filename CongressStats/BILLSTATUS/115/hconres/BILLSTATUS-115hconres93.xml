@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <actionDate>2017-11-14</actionDate>
+    </latestAction>
+    <updateDate>2018-02-19T04:07:42Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billType>HCONRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Arts, Culture, Religion</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <amendments />
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-13T17:00:08Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-14T17:21:59Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-14</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-13</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-13</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-11-13</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-11-28</actionDate>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+        </latestAction>
+        <number>94</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HCONRES</type>
+        <congress>115</congress>
+        <latestTitle>Recognizing the opening of the nonsectarian Museum of the Bible in Washington, D.C., the only museum of its size and scope in the world devoted exclusively to the Bible.</latestTitle>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-11-13</introducedDate>
+    <notes />
+    <createDate>2017-11-14T03:11:13Z</createDate>
+    <recordedVotes />
+    <committeeReports />
+    <billNumber>93</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-11-13T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-16T20:38:09Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Celebrates the opening of the Museum of the Bible in Washington, DC. </p>]]></text>
+          <actionDate>2017-11-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <laws />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <firstName>Doug</firstName>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <lisID>2100</lisID>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <lastName>LaMalfa</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>CA</state>
+        <bioguideId>L000578</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <firstName>ROBERT</firstName>
+        <middleName>B.</middleName>
+        <district>4</district>
+        <identifiers>
+          <lisID>1460</lisID>
+          <gpoId>7789</gpoId>
+          <bioguideId>A000055</bioguideId>
+        </identifiers>
+        <lastName>ADERHOLT</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>AL</state>
+        <bioguideId>A000055</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <firstName>Tim</firstName>
+        <middleName />
+        <district>7</district>
+        <identifiers>
+          <lisID>1855</lisID>
+          <gpoId>7992</gpoId>
+          <bioguideId>W000798</bioguideId>
+        </identifiers>
+        <lastName>Walberg</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MI</state>
+        <bioguideId>W000798</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <firstName>WALTER</firstName>
+        <middleName>B.</middleName>
+        <district>3</district>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NC</state>
+        <bioguideId>J000255</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <firstName>Bill</firstName>
+        <middleName />
+        <district>17</district>
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <lastName>Flores</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>F000461</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <firstName>Richard</firstName>
+        <middleName />
+        <district>8</district>
+        <identifiers>
+          <lisID>2140</lisID>
+          <gpoId />
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+        <lastName>Hudson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NC</state>
+        <bioguideId>H001067</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <firstName>Gregg</firstName>
+        <middleName />
+        <district>3</district>
+        <identifiers>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+        <lastName>Harper</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MS</state>
+        <bioguideId>H001045</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <firstName>Bruce</firstName>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <lisID>2247</lisID>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+        </identifiers>
+        <lastName>Poliquin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>ME</state>
+        <bioguideId>P000611</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <firstName>Emanuel</firstName>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <lisID>1790</lisID>
+          <gpoId>8013</gpoId>
+          <bioguideId>C001061</bioguideId>
+        </identifiers>
+        <lastName>Cleaver</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MO</state>
+        <bioguideId>C001061</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <firstName>Mike</firstName>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2330</lisID>
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>LA</state>
+        <bioguideId>J000299</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <firstName>Doug</firstName>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <lisID>1834</lisID>
+          <bioguideId>L000564</bioguideId>
+          <gpoId>7863</gpoId>
+        </identifiers>
+        <lastName>Lamborn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>CO</state>
+        <bioguideId>L000564</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <firstName>Stevan</firstName>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+        </identifiers>
+        <lastName>Pearce</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NM</state>
+        <bioguideId>P000588</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <firstName>Vicky</firstName>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <lastName>Hartzler</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MO</state>
+        <bioguideId>H001053</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <identifiers>
+          <lisID>2161</lisID>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <lastName>Weber</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>W000814</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <firstName>Trent</firstName>
+        <middleName />
+        <district>8</district>
+        <identifiers>
+          <gpoId>7799</gpoId>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <lastName>Franks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>AZ</state>
+        <bioguideId>F000448</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2276</lisID>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <lastName>Grothman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>WI</state>
+        <bioguideId>G000576</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <firstName>Randy</firstName>
+        <middleName />
+        <district>14</district>
+        <identifiers>
+          <lisID>2015</lisID>
+          <bioguideId>H001059</bioguideId>
+          <gpoId>7934</gpoId>
+        </identifiers>
+        <lastName>Hultgren</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>IL</state>
+        <bioguideId>H001059</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <middleName />
+        <district>36</district>
+        <identifiers>
+          <lisID>2270</lisID>
+          <gpoId />
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <lastName>Babin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>B001291</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <firstName>JOHN</firstName>
+        <middleName>M.</middleName>
+        <district>15</district>
+        <identifiers>
+          <lisID>1527</lisID>
+          <bioguideId>S000364</bioguideId>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <lastName>SHIMKUS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>IL</state>
+        <bioguideId>S000364</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <firstName>Andy</firstName>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <lisID>2026</lisID>
+          <bioguideId>H001052</bioguideId>
+          <gpoId>7976</gpoId>
+        </identifiers>
+        <lastName>Harris</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MD</state>
+        <bioguideId>H001052</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <firstName>Bruce</firstName>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+        </identifiers>
+        <lastName>Westerman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>AR</state>
+        <bioguideId>W000821</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <firstName>Trent</firstName>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <lisID>2294</lisID>
+          <gpoId />
+          <bioguideId>K000388</bioguideId>
+        </identifiers>
+        <lastName>Kelly</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MS</state>
+        <bioguideId>K000388</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <lastName>Cole</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OK</state>
+        <bioguideId>C001053</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <firstName>Dennis</firstName>
+        <middleName>A.</middleName>
+        <district>15</district>
+        <identifiers>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+          <bioguideId>R000593</bioguideId>
+        </identifiers>
+        <lastName>Ross</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>R000593</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <firstName>Ron</firstName>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <lisID>2358</lisID>
+          <gpoId />
+          <bioguideId>E000298</bioguideId>
+        </identifiers>
+        <lastName>Estes</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>KS</state>
+        <bioguideId>E000298</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <firstName>Barry</firstName>
+        <middleName />
+        <district>11</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2238</lisID>
+          <bioguideId>L000583</bioguideId>
+        </identifiers>
+        <lastName>Loudermilk</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>GA</state>
+        <bioguideId>L000583</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+        <middleName />
+        <district>8</district>
+        <identifiers>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <lastName>Posey</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>P000599</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <lastName>CHABOT</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OH</state>
+        <bioguideId>C000266</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <firstName>Pete</firstName>
+        <middleName />
+        <district>22</district>
+        <identifiers>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+        <lastName>Olson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>O000168</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <firstName>Jim</firstName>
+        <middleName />
+        <district>3</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2326</lisID>
+          <bioguideId>B001299</bioguideId>
+        </identifiers>
+        <lastName>Banks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>IN</state>
+        <bioguideId>B001299</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <firstName>Joe</firstName>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <lastName>Wilson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>SC</state>
+        <bioguideId>W000795</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <firstName>Jody</firstName>
+        <middleName>B.</middleName>
+        <district>10</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <lastName>Hice</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>GA</state>
+        <bioguideId>H001071</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <firstName>Ralph</firstName>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <lastName>Norman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>SC</state>
+        <bioguideId>N000190</bioguideId>
+      </item>
+    </cosponsors>
+    <title>Recognizing the opening of the Museum of the Bible in Washington, D.C., the only museum of its size and scope in the world devoted exclusively to the Bible.</title>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>NC</state>
+        <bioguideId>P000606</bioguideId>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <party>R</party>
+        <lastName>Pittenger</lastName>
+        <identifiers>
+          <lisID>2141</lisID>
+          <gpoId />
+          <bioguideId>P000606</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <byRequestType />
+        <firstName>Robert</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the opening of the Museum of the Bible in Washington, D.C., the only museum of its size and scope in the world devoted exclusively to the Bible.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Recognizing the opening of the Museum of the Bible in Washington, D.C., the only museum of its size and scope in the world devoted exclusively to the Bible.</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

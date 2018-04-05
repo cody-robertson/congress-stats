@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-09</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-11-09</actionDate>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-11-10T00:26:24Z</createDate>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <firstName>ORRIN</firstName>
+        <bioguideId>H000338</bioguideId>
+        <byRequestType />
+        <middleName>GRANT</middleName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <state>UT</state>
+        <lastName>HATCH</lastName>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-11-09</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-09T16:05:13Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <lastName>WYDEN</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000779</bioguideId>
+        <state>OR</state>
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billNumber>2108</billNumber>
+    <titles>
+      <item>
+        <title>Miscellaneous Tariff Bill Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>A bill to amend the Harmonized Tariff Schedule of the United States to modify temporarily certain rates of duty.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Miscellaneous Tariff Bill Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Miscellaneous Tariff Bill Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <updateDate>2018-02-17T08:58:12Z</updateDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-01-17</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Miscellaneous Tariff Bill Act of 2018</latestTitle>
+        <type>HR</type>
+        <number>4318</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-11-09T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-02-06T20:30:13Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Miscellaneous Tariff Bill Act of 2017</b></p> <p>This bill amends the Harmonized Tariff Schedule of the United States (HTS) to: (1) repeal expired reductions in rates of duty for specified chemicals and other items; and (2) provide for duty suspensions and reductions through December 31, 2020, for specified chemicals and other items.</p>]]></text>
+          <actionDate>2017-11-09</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Miscellaneous Tariff Bill Act of 2017</title>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <introducedDate>2017-11-09</introducedDate>
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

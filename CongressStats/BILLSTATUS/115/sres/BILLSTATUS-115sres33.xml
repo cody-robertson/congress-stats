@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Energy and Natural Resources.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Energy and Natural Resources.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-02-01</introducedDate>
+    <latestAction>
+      <actionDate>2017-02-01</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S598-599)</text>
+      <links />
+    </latestAction>
+    <title>An original resolution authorizing expenditures by the Committee on Energy and Natural Resources.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Energy and Natural Resources</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <updateDate>2018-02-06T16:43:57Z</updateDate>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <createDate>2017-02-02T05:28:46Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T22:04:29Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-02-01T22:04:11Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>33</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <billType>SRES</billType>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S598-599</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S598-599</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S598-599)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Murkowski. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <text>Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Murkowski. Without written report.</text>
+        <links />
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <lastName>Murkowski</lastName>
+        <state>AK</state>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Energy and Natural Resources for the 115th Congress.</p>]]></text>
+          <actionDate>2017-02-01</actionDate>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-02T22:55:30Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Energy and Natural Resources for the 115th Congress.</p>]]></text>
+          <actionDate>2017-02-01</actionDate>
+          <updateDate>2017-02-01T14:41:31Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-02T22:55:39Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <versionCode>80</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

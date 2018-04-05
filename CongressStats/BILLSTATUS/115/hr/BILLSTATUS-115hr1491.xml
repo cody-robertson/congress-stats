@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-03-10</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>slia00</systemCode>
+          <activities>
+            <item>
+              <date>2017-11-29T19:37:04Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2017-09-21T16:14:09Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-26T17:06:43Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-10T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <date>2017-03-20T20:46:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-11-29</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9443-9444)</text>
+        <actionCode>H37300</actionCode>
+        <actionTime>16:51:54</actionTime>
+        <committee />
+        <actionDate>2017-11-28</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H9443-9444</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9443-9444</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <actionCode>8000</actionCode>
+        <actionTime>16:51:54</actionTime>
+        <committee />
+        <actionDate>2017-11-28</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1491.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:41:59</actionTime>
+        <committee />
+        <actionDate>2017-11-28</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 1491</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1491</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H9443-9445)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>16:41:57</actionTime>
+        <committee />
+        <actionDate>2017-11-28</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H9443-9445</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9443-9445</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Mr. Tipton moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <actionTime>16:41:46</actionTime>
+        <committee />
+        <actionDate>2017-11-28</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 229.</text>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <actionDate>2017-09-21</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-319.</text>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2017-09-21</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-319</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/319</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-319.</text>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2017-09-21</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-319</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/319</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-20</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2017-03-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-03-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-03-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-10T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-01-08T21:02:34Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-10</actionDate>
+          <text><![CDATA[<p><b>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</b></p> <p>This bill ratifies and confirms the actions of the Department of the Interior to: (1) take approximately 1,427 acres of land in Santa Barbara County, California, into trust for the benefit of the Santa Ynez Band of Chumash Indians, (2) assume jurisdiction over the appeals relating to the acquisition of this land, and (3) dismiss those appeals. The land is made part of the Santa Ynez Indian Reservation.</p> <p>The bill removes restrictions on the land pursuant to certain state laws.</p> Gaming is prohibited on this land.]]></text>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDesc>Reported to House with amendment(s)</actionDesc>
+          <updateDate>2017-09-21T14:05:08Z</updateDate>
+          <name>Reported to House with amendment(s)</name>
+          <lastSummaryUpdateDate>2018-01-08T15:31:32Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-21</actionDate>
+          <text><![CDATA[<p><b>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</b></p> <p>(Sec. 2) This bill ratifies and confirms the actions of the Department of the Interior to: (1) take approximately 1,427 acres of land in Santa Barbara County, California, into trust for the benefit of the Santa Ynez Band of Chumash Indians; (2) assume jurisdiction over the appeals relating to the acquisition of this land; and (3) dismiss those appeals. The land is made part of the Santa Ynez Indian Reservation.</p> <p>The bill removes restrictions on the land pursuant to certain state laws.</p> Gaming is prohibited on this land.]]></text>
+          <versionCode>17</versionCode>
+        </item>
+        <item>
+          <actionDesc>Passed House amended</actionDesc>
+          <updateDate>2017-11-28T14:08:14Z</updateDate>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2018-01-08T21:01:25Z</lastSummaryUpdateDate>
+          <actionDate>2017-11-28</actionDate>
+          <text><![CDATA[<p><b>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</b></p> <p>(Sec. 2) This bill ratifies and confirms the actions of the Department of the Interior to: (1) take approximately 1,427 acres of land in Santa Barbara County, California, into trust for the benefit of the Santa Ynez Band of Chumash Indians, (2) assume jurisdiction over the appeals relating to the acquisition of this land, and (3) dismiss those appeals. The land is made part of the Santa Ynez Indian Reservation.</p> <p>The bill removes restrictions on the land pursuant to certain state laws.</p> Gaming is prohibited on this land.]]></text>
+          <versionCode>36</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:27:31Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Gambling</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00229</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <lastName>Torres</lastName>
+        <firstName>Norma</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>35</district>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>T000474</bioguideId>
+          <gpoId />
+          <lisID>2231</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <bioguideId>T000474</bioguideId>
+      </item>
+      <item>
+        <lastName>Cook</lastName>
+        <firstName>Paul</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001094</bioguideId>
+          <lisID>2103</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <bioguideId>C001094</bioguideId>
+      </item>
+      <item>
+        <lastName>McClintock</lastName>
+        <firstName>Tom</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+          <gpoId>7809</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <bioguideId>M001177</bioguideId>
+      </item>
+      <item>
+        <lastName>Denham</lastName>
+        <firstName>Jeff</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000612</bioguideId>
+          <gpoId>7824</gpoId>
+          <lisID>1995</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <fullName>Rep. Denham, Jeff [R-CA-10]</fullName>
+        <bioguideId>D000612</bioguideId>
+      </item>
+      <item>
+        <lastName>Ruiz</lastName>
+        <firstName>Raul</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>36</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <gpoId />
+          <lisID>2109</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <bioguideId>R000599</bioguideId>
+      </item>
+      <item>
+        <lastName>Vargas</lastName>
+        <firstName>Juan</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>51</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+          <lisID>2112</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <bioguideId>V000130</bioguideId>
+      </item>
+      <item>
+        <lastName>Cardenas</lastName>
+        <firstName>Tony</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>29</district>
+        <middleName />
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <bioguideId>C001097</bioguideId>
+      </item>
+      <item>
+        <lastName>Knight</lastName>
+        <firstName>Stephen</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>25</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000387</bioguideId>
+          <lisID>2228</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <bioguideId>K000387</bioguideId>
+      </item>
+      <item>
+        <lastName>Cole</lastName>
+        <firstName>Tom</firstName>
+        <state>OK</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <bioguideId>C001053</bioguideId>
+      </item>
+      <item>
+        <lastName>Nunes</lastName>
+        <firstName>Devin</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>22</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000181</bioguideId>
+          <gpoId>7826</gpoId>
+          <lisID>1710</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <bioguideId>N000181</bioguideId>
+      </item>
+      <item>
+        <lastName>Correa</lastName>
+        <firstName>J.</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>46</district>
+        <middleName>Luis</middleName>
+        <identifiers>
+          <bioguideId>C001110</bioguideId>
+          <lisID>2312</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <bioguideId>C001110</bioguideId>
+      </item>
+      <item>
+        <lastName>Valadao</lastName>
+        <firstName>David</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+        <middleName>G.</middleName>
+        <identifiers>
+          <lisID>2105</lisID>
+          <gpoId />
+          <bioguideId>V000129</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <bioguideId>V000129</bioguideId>
+      </item>
+      <item>
+        <lastName>Walters</lastName>
+        <firstName>Mimi</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>45</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000820</bioguideId>
+          <gpoId />
+          <lisID>2232</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <bioguideId>W000820</bioguideId>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To reaffirm the action of the Secretary of the Interior to take land into trust for the benefit of the Santa Ynez Band of Chumash Mission Indians, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <title>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <title>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-11-29</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 42 (Friday, March 10, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LaMALFA:H.R. 1491.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution provides Congresswith the authority to regulate commerce with Indians in theUnited States.[Page H2052]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>1</district>
+        <state>CA</state>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <bioguideId>L000578</bioguideId>
+        <firstName>Doug</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>LaMalfa</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <createDate>2017-03-11T04:51:01Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-319</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>1491</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

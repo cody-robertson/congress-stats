@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>87</billNumber>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+        <text>Referred to the House Committee on Appropriations.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:25Z</updateDate>
+    <cosponsors />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:10:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-03</introducedDate>
+    <title>To make 5 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Appropriations.</text>
+      <links />
+      <actionDate>2017-01-03</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-04T07:01:10Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <bioguideId>B001243</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <firstName>Marsha</firstName>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACKBURN:H.R. 87.Congress has the power to enact this legislation pursuantto the following:Article I Section 8, ``necessary and proper'' clause of theConstitution.[Page H49]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestTitle>To make 1 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</latestTitle>
+        <number>85</number>
+        <latestAction>
+          <actionDate>2017-01-03</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <latestTitle>To make 2 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</latestTitle>
+        <number>86</number>
+        <latestAction>
+          <actionDate>2017-01-03</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To make 5 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To make 5 percent across-the-board rescissions in non-defense, non-homeland-security, and non-veterans-affairs discretionary spending for each of the fiscal years 2017 and 2018.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill makes 5% across-the-board rescissions in discretionary spending for FY2017 and FY2018, excluding spending for defense, homeland security, and veterans affairs. It also requires the Office of Management and Budget to submit a report to Congress specifying the account and amount of each rescission made pursuant to this bill. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-03</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-01-12T16:43:38Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

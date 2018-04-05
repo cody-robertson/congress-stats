@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <introducedDate>2017-12-21</introducedDate>
+    <billType>HR</billType>
+    <billNumber>4707</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <updateDate>2017-12-26T18:15:09Z</updateDate>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-12-21</actionDate>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-12-21</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-12-21</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-12-21</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-21T14:00:42Z</date>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <subcommittees />
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-21T14:00:37Z</date>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <district>13</district>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <firstName>Brendan</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+        </identifiers>
+        <middleName>F.</middleName>
+        <lastName>Boyle</lastName>
+        <bioguideId>B001296</bioguideId>
+        <party>D</party>
+        <byRequestType />
+        <state>PA</state>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <committeeReports />
+    <latestAction>
+      <actionDate>2017-12-21</actionDate>
+      <links />
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Military readiness</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Procure PGMS For Israel Act</title>
+    <cboCostEstimates />
+    <amendments />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Procure PGMS For Israel Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To authorize a joint assessment of quantity of precision guided munitions for use by Israel, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Procure PGMS For Israel Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Procure PGMS For Israel Act</title>
+      </item>
+    </titles>
+    <createDate>2017-12-22T03:11:11Z</createDate>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>G000560</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <district>14</district>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>1979</lisID>
+          <gpoId>7906</gpoId>
+          <bioguideId>G000560</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Graves</lastName>
+        <state>GA</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 209 (Thursday, December 21, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRENDAN F. BOYLE of Pennsylvania:H.R. 4707.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution under theGeneral Welfare Clause.[Page H10420]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

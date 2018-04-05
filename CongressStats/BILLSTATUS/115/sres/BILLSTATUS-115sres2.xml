@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <lastName>MCCONNELL</lastName>
+        <bioguideId>M000355</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>KY</state>
+        <firstName>MITCH</firstName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8254</gpoId>
+          <bioguideId>M000355</bioguideId>
+          <lisID>1395</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <version>1.0.0</version>
+    <introducedDate>2017-01-03</introducedDate>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution informing the House of Representatives that a quorum of the Senate is assembled.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution informing the House of Representatives that a quorum of the Senate is assembled.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <recordedVotes />
+    <relatedBills />
+    <congress>115</congress>
+    <billType>SRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text as passed Senate: CR S6)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6; text as passed Senate: CR S6)</text>
+        <links>
+          <link>
+            <name>S6</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <title>A resolution informing the House of Representatives that a quorum of the Senate is assembled.</title>
+    <billNumber>2</billNumber>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Informs the House of Representatives that a quorum of the Senate is assembled.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-03</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-02-04T14:03:11Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Informs the House of Representatives that a quorum of the Senate is assembled.</p>]]></text>
+          <versionCode>82</versionCode>
+          <actionDate>2017-01-03</actionDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-02-04T14:03:21Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-03T14:31:36Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2017-01-03</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text as passed Senate: CR S6)</text>
+    </latestAction>
+    <updateDate>2018-02-06T16:43:55Z</updateDate>
+    <committees>
+      <billCommittees />
+    </committees>
+    <createDate>2017-01-04T04:47:42Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-11-17</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-11-17</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To provide temporary direct hire authority for certain emergency response positions.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To provide temporary direct hire authority for certain emergency response positions.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2017-09-26</actionDate>
+        </latestAction>
+        <latestTitle>A bill to provide temporary direct hire authority for certain emergency response positions.</latestTitle>
+        <type>S</type>
+        <number>1865</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>4430</billNumber>
+    <cosponsors>
+      <item>
+        <state>FL</state>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001066</bioguideId>
+        <lastName>Castor</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>14</district>
+        <firstName>Kathy</firstName>
+      </item>
+      <item>
+        <state>TX</state>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>O000168</bioguideId>
+        <lastName>Olson</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>22</district>
+        <firstName>Pete</firstName>
+      </item>
+      <item>
+        <state>TX</state>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000410</bioguideId>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000410</bioguideId>
+        <lastName>GREEN</lastName>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>29</district>
+        <firstName>GENE</firstName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-11-16</introducedDate>
+    <billType>HR</billType>
+    <createDate>2017-11-17T03:11:18Z</createDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <title>To provide temporary direct hire authority for certain emergency response positions.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-17T16:48:22Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T14:02:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T14:02:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <updateDate>2018-01-03T17:27:35Z</updateDate>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 188 (Thursday, November 16, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BILIRAKIS:H.R. 4430.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to Article I, Section 8,Clause 18 of the Constitution of the United States.[Page H9426]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <state>FL</state>
+        <bioguideId>B001257</bioguideId>
+        <firstName>Gus</firstName>
+        <middleName>M.</middleName>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <district>12</district>
+        <lastName>Bilirakis</lastName>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

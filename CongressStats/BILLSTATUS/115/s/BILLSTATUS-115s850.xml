@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>850</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2367-2368</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2367-2368</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text as introduced in Senate: CR S2367-2368)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:12Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>LA</state>
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <bioguideId>C001075</bioguideId>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <lastName>Cassidy</lastName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-04-05T21:29:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-04-05</introducedDate>
+    <title>Foreign Medical School Accountability Fairness Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-04-06T02:11:54Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>DURBIN</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <bioguideId>D000563</bioguideId>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text as introduced in Senate: CR S2367-2368)</text>
+      <links />
+      <actionDate>2017-04-05</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>1922</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2017-04-05</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Foreign Medical School Accountability Fairness Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Foreign Medical School Accountability Fairness Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Foreign Medical School Accountability Fairness Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Higher Education Act of 1965 to establish fair and consistent eligibility requirements for graduate medical schools operating outside the United States and Canada.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Foreign Medical School Accountability Fairness Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Foreign Medical School Accountability Fairness Act of 2017</b> <p>This bill amends title I (General Provisions) of the Higher Education Act of 1965 to revise institutional eligibility criteria for a foreign graduate medical school to participate in federal student aid programs.</p> <p>Current law requires a foreign graduate medical school to meet certain requirements&#8212;a minimum pass rate threshold on the medical licensing exam and a minimum percentage of foreign students&#8212;to participate in the Federal Direct Loan (DL) program, unless the Department of Education (ED) establishes alternative standards or the school has a grandfathered clinical training program. This bill terminates ED's authority to establish alternative standards and eliminates the exemption for a school with a grandfathered clinical training program (i.e., it requires all foreign graduate medical schools to meet minimum requirements to participate in the DL program).</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-04-05</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-10-03T21:14:11Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

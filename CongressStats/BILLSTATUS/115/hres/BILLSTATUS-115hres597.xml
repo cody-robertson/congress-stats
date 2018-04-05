@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>597</billNumber>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-31</actionDate>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-31</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-31</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:01Z</updateDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <bioguideId>S000364</bioguideId>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <district>15</district>
+        <firstName>JOHN</firstName>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <identifiers>
+          <lisID>1527</lisID>
+          <bioguideId>S000364</bioguideId>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <lastName>SHIMKUS</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <bioguideId>H001071</bioguideId>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <district>10</district>
+        <firstName>Jody</firstName>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <lastName>Hice</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <bioguideId>L000564</bioguideId>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <district>5</district>
+        <firstName>Doug</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <identifiers>
+          <lisID>1834</lisID>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+        </identifiers>
+        <lastName>Lamborn</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <bioguideId>H001058</bioguideId>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <district>2</district>
+        <firstName>Bill</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001058</bioguideId>
+          <lisID>2028</lisID>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <lastName>Huizenga</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <bioguideId>K000362</bioguideId>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <district>4</district>
+        <firstName>Steve</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <lastName>King</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>H001048</bioguideId>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <district>50</district>
+        <firstName>Duncan</firstName>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001048</bioguideId>
+          <lisID>1909</lisID>
+          <gpoId>7857</gpoId>
+        </identifiers>
+        <lastName>Hunter</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <bioguideId>S001199</bioguideId>
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <district>16</district>
+        <firstName>Lloyd</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2346</lisID>
+          <bioguideId>S001199</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Smucker</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <bioguideId>N000188</bioguideId>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <district>1</district>
+        <firstName>Donald</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000188</bioguideId>
+          <gpoId />
+          <lisID>2202</lisID>
+        </identifiers>
+        <lastName>Norcross</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <district>52</district>
+        <firstName>Scott</firstName>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Peters</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <bioguideId>K000188</bioguideId>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <district>3</district>
+        <firstName>RON</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <lastName>KIND</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <bioguideId>W000821</bioguideId>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <district>4</district>
+        <firstName>Bruce</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <identifiers>
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Westerman</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <district>36</district>
+        <firstName>Brian</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-11-10</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+        </identifiers>
+        <lastName>Babin</lastName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Arts, Culture, Religion</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-31T16:03:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-10-31</introducedDate>
+    <title>Recognizing 500 years since the Protestant Reformation and its significance for many Americans.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+      <actionDate>2017-10-31</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-11-01T03:11:18Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <bioguideId>G000576</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2276</lisID>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing 500 years since the Protestant Reformation and its significance for many Americans.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing 500 years since the Protestant Reformation and its significance for many Americans.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-10-31</actionDate>
+          <updateDate>2017-10-31T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Recognizes the 500 years since the Protestant Reformation and its significance for many Americans. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-02-02T20:10:01Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

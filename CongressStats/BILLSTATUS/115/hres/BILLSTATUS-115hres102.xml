@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>102</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H1017-1018)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1017-1018</url>
+            <name>H1017-1018</name>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-07</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:35Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <firstName>LLOYD</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>303</lisID>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+        </identifiers>
+        <district>35</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <bioguideId>D000399</bioguideId>
+        <lastName>DOGGETT</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <firstName>JERROLD</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <bioguideId>N000002</bioguideId>
+        <lastName>NADLER</lastName>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <firstName>Darren</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <bioguideId>S001200</bioguideId>
+        <lastName>Soto</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <firstName>Ruben</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <bioguideId>G000574</bioguideId>
+        <lastName>Gallego</lastName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <firstName>Filemon</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+          <gpoId />
+        </identifiers>
+        <district>34</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <bioguideId>V000132</bioguideId>
+        <lastName>Vela</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <firstName>Marc</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>33</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <bioguideId>V000131</bioguideId>
+        <lastName>Veasey</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <bioguideId>M000312</bioguideId>
+        <lastName>MCGOVERN</lastName>
+        <state>MA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <firstName>Raul</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <bioguideId>G000551</bioguideId>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>N.</middleName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <firstName>David</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <bioguideId>C001084</bioguideId>
+        <lastName>Cicilline</lastName>
+        <state>RI</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Executive Office of the President</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Libya</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Somalia</name>
+          </item>
+          <item>
+            <name>Sudan</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+          <item>
+            <name>Yemen</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-07T20:09:01Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-07T15:12:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-07</introducedDate>
+    <title>Expressing the sense of the House of Representatives regarding the appointment of an independent counsel to investigate actions by United States Customs and Border Protection in apparent violation of judicial orders.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2017-02-07</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-02-08T04:45:55Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Castro</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>C001091</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <firstName>Joaquin</firstName>
+        <district>20</district>
+        <identifiers>
+          <lisID>2163</lisID>
+          <gpoId />
+          <bioguideId>C001091</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Expressing the sense of the House of Representatives regarding the appointment of an independent counsel to investigate actions by United States Customs and Border Protection in apparent violation of judicial orders.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Expressing the sense of the House of Representatives regarding the appointment of an independent counsel to investigate actions by United States Customs and Border Protection in apparent violation of judicial orders.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that the Department of Justice should appoint an independent counsel to investigate whether the President or his staff directed, or knew about and failed to prevent, U.S. Customs and Border Protection activities that violated, or consciously circumvented and nullified the efficacy of, judicial orders designed to stay Executive Order 13769. Among the order's major provisions are restrictions on the entry of immigrants and nonimmigrants from seven countries (Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen) and additional limitations on refugee admissions to the United States.</p>]]></text>
+          <lastSummaryUpdateDate>2017-02-21T16:42:56Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

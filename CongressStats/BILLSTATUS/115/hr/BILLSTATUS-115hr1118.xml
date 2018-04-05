@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>1118</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-06</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-17</actionDate>
+        <committee>
+          <systemCode>hsif17</systemCode>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-16</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:41:29Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <bioguideId>D000533</bioguideId>
+        <lastName>DUNCAN</lastName>
+        <party>R</party>
+        <district>2</district>
+        <firstName>JOHN</firstName>
+        <state>TN</state>
+        <identifiers>
+          <lisID>322</lisID>
+          <bioguideId>D000533</bioguideId>
+          <gpoId>8149</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <bioguideId>S000583</bioguideId>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <district>21</district>
+        <firstName>LAMAR</firstName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <bioguideId>T000467</bioguideId>
+        <lastName>Thompson</lastName>
+        <party>R</party>
+        <district>5</district>
+        <firstName>Glenn</firstName>
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <bioguideId>N000184</bioguideId>
+        <lastName>Noem</lastName>
+        <party>R</party>
+        <district>0</district>
+        <firstName>Kristi</firstName>
+        <state>SD</state>
+        <identifiers>
+          <gpoId>8147</gpoId>
+          <lisID>2060</lisID>
+          <bioguideId>N000184</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Product safety and quality</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-06T21:04:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-16T15:13:15Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+              <systemCode>hsif17</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-17T18:57:15Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-16T15:13:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-16</introducedDate>
+    <title>Innocent Sellers Fairness Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+      <actionDate>2017-03-06</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-02-17T04:46:13Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Farenthold</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>F000460</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <firstName>Blake</firstName>
+        <district>27</district>
+        <identifiers>
+          <lisID>2067</lisID>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FARENTHOLD:H.R. 1118.Congress has the power to enact this legislation pursuantto the following:Clauses 3, 9, and 18 of section 8 of article I of theConstitution of the United States, and the 14th Amendment tothe Constitution of the United States[Page H1303]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Innocent Sellers Fairness Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Innocent Sellers Fairness Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To prevent undue disruption of interstate commerce by limiting civil actions brought against persons whose only role with regard to a product in the stream of commerce is as a lawful seller of the product.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Innocent Sellers Fairness Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-15T15:00:04Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-16</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Innocent Sellers Fairness Act</b></p> <p>This bill exempts a seller from liability for personal injury, monetary loss, or damage to property arising out of an accident or transaction involving a seller's products during the regular course of trade or business, unless the claimant proves that the seller: </p> <ul> <li>was the manufacturer or participated in the design or installation of the product; </li> <li>altered, modified, or expressly warranted the product in a manner not authorized by the manufacturer; </li> <li>had actual knowledge of the defect in the product as a result of a recall from the manufacturer or governmental entity authorized to make such recall or actual inspection at the time the seller sold the product to the claimant; </li> <li>had actual knowledge of the defect in the product at the time the seller supplied the product; </li> <li>intentionally altered or modified a product warranty, warning, or instruction from the manufacturer in a way not authorized by the manufacturer; or </li> <li>knowingly made a false representation about an aspect of the product not authorized by the manufacturer. </li></ul> <p>The bill limits the seller's liability to the personal injury, monetary loss, or damage to property directly caused by such activity where a claimant proves one or more of such activities was negligent.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>351</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>hsfa07</systemCode>
+          <name>Western Hemisphere Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-06</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-06</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-06</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:41Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <middleName>P.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000312</bioguideId>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2029</lisID>
+          <gpoId>7988</gpoId>
+          <bioguideId>A000367</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>Amash</lastName>
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000367</bioguideId>
+        <firstName>Justin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>Poe</lastName>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000592</bioguideId>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <lisID>2094</lisID>
+          <gpoId>8371</gpoId>
+          <bioguideId>M001184</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>Massie</lastName>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001184</bioguideId>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <lisID>2253</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>Emmer</lastName>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000294</bioguideId>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>LEE</lastName>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000551</bioguideId>
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>Scott</lastName>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001189</bioguideId>
+        <firstName>Austin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+          <bioguideId>C001066</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>Castor</lastName>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001066</bioguideId>
+        <firstName>Kathy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+        <lastName>Paulsen</lastName>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000594</bioguideId>
+        <firstName>Erik</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NC</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2336</lisID>
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Budd</lastName>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001305</bioguideId>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <lastName>BLUMENAUER</lastName>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>L000585</bioguideId>
+          <lisID>2295</lisID>
+          <gpoId />
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <lastName>LaHood</lastName>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000585</bioguideId>
+        <firstName>Darin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2324</lisID>
+          <bioguideId>F000465</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <lastName>Ferguson</lastName>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <middleName>Drew</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000465</bioguideId>
+        <firstName>A.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <lastName>VELAZQUEZ</lastName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000081</bioguideId>
+        <firstName>NYDIA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KS</state>
+        <identifiers>
+          <lisID>2328</lisID>
+          <gpoId />
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <lastName>Marshall</lastName>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001198</bioguideId>
+        <firstName>Roger</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <lastName>Banks</lastName>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001299</bioguideId>
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000597</bioguideId>
+        <firstName>Chellie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+        <lastName>Tonko</lastName>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000469</bioguideId>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+        <lastName>Cohen</lastName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001068</bioguideId>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2010</lisID>
+          <bioguideId>H001050</bioguideId>
+          <gpoId>7912</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+        <lastName>Hanabusa</lastName>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001050</bioguideId>
+        <firstName>Colleen</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>867</lisID>
+          <gpoId />
+          <bioguideId>N000127</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+        <lastName>NOLAN</lastName>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000127</bioguideId>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <lastName>CONYERS</lastName>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000714</bioguideId>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <lastName>JONES</lastName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <firstName>WALTER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <lisID>316</lisID>
+          <bioguideId>D000482</bioguideId>
+          <gpoId>8132</gpoId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <lastName>DOYLE</lastName>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000482</bioguideId>
+        <firstName>MIKE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AR</state>
+        <identifiers>
+          <lisID>1989</lisID>
+          <bioguideId>C001087</bioguideId>
+          <gpoId>7793</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <lastName>Crawford</lastName>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <middleName>A. "Rick"</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001087</bioguideId>
+        <firstName>Eric</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <lastName>Ellison</lastName>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000288</bioguideId>
+        <firstName>Keith</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Cuba</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2017-01-06T17:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa07</systemCode>
+              <activities>
+                <item>
+                  <date>2017-02-16T22:23:11Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Western Hemisphere Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-06</introducedDate>
+    <title>Freedom to Travel to Cuba Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+      <links />
+      <actionDate>2017-02-16</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-07T04:48:26Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Sanford</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <bioguideId>S000051</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <firstName>Mark</firstName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1012</lisID>
+          <gpoId />
+          <bioguideId>S000051</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SANFORD:H.R. 351.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, of the U.S. Constitution[Page H195]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <number>1287</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Freedom for Americans to Travel to Cuba Act of 2017</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Foreign Relations. (Sponsor introductory remarks on measure: CR S3222-3223)</text>
+          <actionDate>2017-05-25</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Freedom to Travel to Cuba Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Freedom to Travel to Cuba Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To allow travel between the United States and Cuba.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Freedom to Travel to Cuba Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Freedom to Travel to Cuba Act of 2017</strong></p> <p>This bill states that: </p> <ul> <li>the President may not prohibit or otherwise regulate travel to or from Cuba by U.S. citizens or legal residents, or any of the transactions incident to such travel, including banking transactions; </li> <li>any regulation in effect on the date of enactment of this Act prohibiting or otherwise regulating such travel or transactions incident to such travel shall cease to have any force or effect; but </li> <li>the prohibitions and requirements of this Act shall not apply if the United States is at war with Cuba, armed hostilities between the two countries are in progress, or there is imminent danger to the public health or the physical safety of U.S. travelers.</li> </ul>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-06</actionDate>
+          <lastSummaryUpdateDate>2017-07-25T15:43:40Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-06T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

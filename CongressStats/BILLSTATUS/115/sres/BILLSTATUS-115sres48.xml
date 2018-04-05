@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S747)</text>
+      <links />
+      <actionDate>2017-02-06</actionDate>
+    </latestAction>
+    <createDate>2017-02-07T09:43:10Z</createDate>
+    <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-06T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-03-06T21:08:33Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-06</actionDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Authorizes expenditures by the Select Committee on Intelligence for the 115th Congress.</p>]]></text>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <updateDate>2017-02-06T14:09:29Z</updateDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-03-06T21:08:44Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-06</actionDate>
+          <name>Reported to Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Select Committee on Intelligence for the 115th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-06</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S747</url>
+            <name>S747</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S747)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-06</actionDate>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.</text>
+        <links />
+        <actionDate>2017-02-06</actionDate>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-02-06</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:43:58Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <middleName />
+        <byRequestType />
+        <firstName>RICHARD</firstName>
+        <lastName>BURR</lastName>
+        <state>NC</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+        </identifiers>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-06T17:38:26Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+          <type>Select</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-02-06T17:38:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <billNumber>48</billNumber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-02-06</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Select Committee on Intelligence</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

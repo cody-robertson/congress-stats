@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <bioguideId>S001184</bioguideId>
+        <state>SC</state>
+        <party>R</party>
+        <firstName>Tim</firstName>
+        <lastName>Scott</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2018-02-06</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>1551</number>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities.</latestTitle>
+        <congress>115</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-12-22</actionDate>
+          <text>Became Public Law No: 115-97.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>1</number>
+        <latestTitle>An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <billNumber>666</billNumber>
+    <title>A bill to amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities.</title>
+    <cosponsors>
+      <item>
+        <lastName>GRAHAM</lastName>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <party>R</party>
+        <state>SC</state>
+        <bioguideId>G000359</bioguideId>
+        <middleName>O.</middleName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <firstName>LINDSEY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Isakson</lastName>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <party>R</party>
+        <state>GA</state>
+        <bioguideId>I000055</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <firstName>Johnny</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Booker</lastName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <party>D</party>
+        <state>NJ</state>
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Nuclear power</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-15</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-15</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill amends the Internal Revenue Code, with respect to the tax credit for the production of electricity from advanced nuclear power facilities, to: (1) establish requirements for the allocation of unutilized portions of the national megawatt capacity limitation, and (2) allow public entities to transfer the credit to project partners.</p> <p>If a portion of the 6,000 national megawatt capacity limitation for the credit is unutilized after December 31, 2020, the Internal Revenue Service must allocate the unutilized capacity: (1) first to facilities that were placed in service on or before December 31, 2020, and did not receive an allocation equal to their full nameplate capacity; and (2) then to facilities placed in service after December 31, 2020, in the order in which the facilities are placed in service. The placed-in-service sunset date of January 1, 2021, does not apply to the allocations of unutilized national megawatt capacity. </p> <p>Qualified public entities may transfer the credit to an eligible project partner. A &quot;qualified public entity&quot; is: (1) a federal, state, or local government or any political subdivision, agency, or instrumentality thereof; (2) a mutual or cooperative electric company; or (3) a not-for-profit electric utility which has or had received a loan or loan guarantee under the Rural Electrification Act of 1936. </p> <p>An &quot;eligible project partner&quot; includes any person who: (1) is responsible for, or is participating in, the design or construction of the facility; (2) participates in the provision of nuclear steam or nuclear fuel to the facility; or (3) has an ownership interest in the facility.</p>]]></text>
+          <actionDate>2017-03-15</actionDate>
+          <updateDate>2017-03-15T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-24T19:05:13Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-15T21:59:15Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-03-15</introducedDate>
+    <updateDate>2018-02-06T16:45:02Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>S</billType>
+    <createDate>2017-03-16T05:28:17Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2017-03-15</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

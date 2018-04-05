@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2017-04-17T15:00:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <billType>HR</billType>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-17</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on House Administration.</text>
+      </item>
+      <item>
+        <actionDate>2017-04-17</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-04-17</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <relatedBills />
+    <calendarNumbers />
+    <introducedDate>2017-04-17</introducedDate>
+    <title>Prior Approval Reform Act</title>
+    <billNumber>2101</billNumber>
+    <laws />
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>S001199</bioguideId>
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <firstName>Lloyd</firstName>
+        <identifiers>
+          <lisID>2346</lisID>
+          <gpoId />
+          <bioguideId>S001199</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Smucker</lastName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>B001269</bioguideId>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <firstName>Lou</firstName>
+        <identifiers>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+          <lisID>2054</lisID>
+        </identifiers>
+        <middleName />
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barletta</lastName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>W000809</bioguideId>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <bioguideId>W000809</bioguideId>
+          <lisID>1991</lisID>
+          <gpoId>7795</gpoId>
+        </identifiers>
+        <middleName />
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Womack</lastName>
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Grothman</lastName>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>P000605</bioguideId>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+        </identifiers>
+        <middleName />
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Perry</lastName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>G000579</bioguideId>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gallagher</lastName>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>B001282</bioguideId>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barr</lastName>
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>B001289</bioguideId>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <firstName>Bradley</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2197</lisID>
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Byrne</lastName>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>R000582</bioguideId>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <firstName>David</firstName>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Roe</lastName>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>E000294</bioguideId>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2253</lisID>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Emmer</lastName>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-24</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+        </identifiers>
+        <middleName />
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-24</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>B001305</bioguideId>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <firstName>Ted</firstName>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Budd</lastName>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-24</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <firstName>Kevin</firstName>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>O000168</bioguideId>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <firstName>Pete</firstName>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <middleName />
+        <district>22</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Olson</lastName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>J000290</bioguideId>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <firstName>Lynn</firstName>
+        <identifiers>
+          <gpoId>7950</gpoId>
+          <lisID>1921</lisID>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Jenkins</lastName>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-07</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>A000372</bioguideId>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <firstName>Rick</firstName>
+        <identifiers>
+          <lisID>2239</lisID>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Allen</lastName>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Mark</firstName>
+        <state>NV</state>
+        <middleName>E.</middleName>
+        <bioguideId>A000369</bioguideId>
+        <district>2</district>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8366</gpoId>
+          <bioguideId>A000369</bioguideId>
+          <lisID>2090</lisID>
+        </identifiers>
+        <lastName>Amodei</lastName>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+      </item>
+    </sponsors>
+    <updateDate>2017-11-08T08:15:38Z</updateDate>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2017-04-17</actionDate>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AMODEI:H.R. 2101.Congress has the power to enact this legislation pursuantto the following:Amendment 1: Congress shall make no law respecting anestablishment of religion, or prohibiting the free exercisethereof; or abridging the freedom of speech, or of the press;or the right of the people peaceably to assemble, and topetition the Government for a redress of grievances.[Page H2808]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-04-18T03:11:46Z</createDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Prior Approval Reform Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Prior Approval Reform Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Federal Election Campaign Act of 1971 to expand the ability of trade associations to solicit contributions from the stockholders and executive or administrative personnel of their member corporations, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Prior Approval Reform Act</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

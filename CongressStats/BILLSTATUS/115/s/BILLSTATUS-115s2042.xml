@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-10-31</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-31</actionDate>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <createDate>2017-11-01T00:41:24Z</createDate>
+    <congress>115</congress>
+    <introducedDate>2017-10-31</introducedDate>
+    <committeeReports />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Reducing Drug Waste Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to authorize a joint action plan and report on drug waste.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Reducing Drug Waste Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Reducing Drug Waste Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-10-31</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <recordedVotes />
+    <updateDate>2017-11-30T20:27:42Z</updateDate>
+    <billType>S</billType>
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <billNumber>2042</billNumber>
+    <laws />
+    <title>Reducing Drug Waste Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>ERNEST</middleName>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <lastName>DURBIN</lastName>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <firstName>Jeanne</firstName>
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <firstName>ROBERT</firstName>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>MENENDEZ</lastName>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <state>MN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-10-31T19:50:57Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

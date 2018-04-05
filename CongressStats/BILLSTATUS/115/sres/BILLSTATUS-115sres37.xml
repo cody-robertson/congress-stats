@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>An original resolution authorizing expenditures by the Committee on Foreign Relations.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>An original resolution authorizing expenditures by the Committee on Foreign Relations.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>Bob</firstName>
+        <identifiers>
+          <bioguideId>C001071</bioguideId>
+          <gpoId>8294</gpoId>
+          <lisID>1825</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>C001071</bioguideId>
+        <lastName>Corker</lastName>
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+        <byRequestType />
+        <middleName />
+        <state>TN</state>
+      </item>
+    </sponsors>
+    <title>An original resolution authorizing expenditures by the Committee on Foreign Relations.</title>
+    <actions>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S601-602</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S601-602</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S601-602)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Original measure reported to Senate by Senator Corker. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Committee on Foreign Relations. Original measure reported to Senate by Senator Corker. Without written report.</text>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Foreign Relations for the 115th Congress.</p>]]></text>
+          <actionDate>2017-02-01</actionDate>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-03T23:43:27Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Foreign Relations for the 115th Congress.</p>]]></text>
+          <actionDate>2017-02-01</actionDate>
+          <updateDate>2017-02-01T14:44:55Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-03T23:43:37Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <versionCode>80</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <billNumber>37</billNumber>
+    <calendarNumbers />
+    <cosponsors />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Foreign Relations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S601-602)</text>
+      <links />
+      <actionDate>2017-02-01</actionDate>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <notes />
+    <createDate>2017-02-02T05:28:46Z</createDate>
+    <billType>SRES</billType>
+    <updateDate>2018-02-06T16:43:57Z</updateDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-01</introducedDate>
+    <amendments />
+    <relatedBills />
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T23:07:32Z</date>
+            </item>
+          </activities>
+          <name>Rules and Administration Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-02-01T23:07:19Z</date>
+            </item>
+          </activities>
+          <name>Foreign Relations Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

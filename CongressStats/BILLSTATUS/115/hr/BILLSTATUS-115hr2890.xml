@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>2890</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:43:08Z</updateDate>
+    <cosponsors>
+      <item>
+        <lastName>Moore</lastName>
+        <firstName>Gwen</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Messer</lastName>
+        <firstName>Luke</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <middleName />
+        <state>IN</state>
+        <bioguideId>M001189</bioguideId>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+          <lisID>2130</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Roskam</lastName>
+        <firstName>Peter</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <middleName>J.</middleName>
+        <state>IL</state>
+        <bioguideId>R000580</bioguideId>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000580</bioguideId>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>KIND</lastName>
+        <firstName>RON</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>D</party>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>K000188</bioguideId>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Foster</lastName>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <party>D</party>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>F000454</bioguideId>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+          <gpoId>7355</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>SENSENBRENNER</lastName>
+        <firstName>F.</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <middleName>JAMES</middleName>
+        <state>WI</state>
+        <bioguideId>S000244</bioguideId>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Bost</lastName>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <party>R</party>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>B001295</bioguideId>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <firstName>Robin</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <middleName>L.</middleName>
+        <state>IL</state>
+        <bioguideId>K000385</bioguideId>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Davis</lastName>
+        <firstName>Rodney</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <party>R</party>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Pocan</lastName>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Gallagher</lastName>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Schneider</lastName>
+        <firstName>Bradley</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <party>D</party>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <middleName>Scott</middleName>
+        <state>IL</state>
+        <bioguideId>S001190</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001190</bioguideId>
+          <lisID>2124</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Perlmutter</lastName>
+        <firstName>Ed</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <middleName />
+        <state>CO</state>
+        <bioguideId>P000593</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000593</bioguideId>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>DAVIS</lastName>
+        <firstName>DANNY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <middleName>K.</middleName>
+        <state>IL</state>
+        <bioguideId>D000096</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>LaHood</lastName>
+        <firstName>Darin</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+        <party>R</party>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>L000585</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2295</lisID>
+          <bioguideId>L000585</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Grothman</lastName>
+        <firstName>Glenn</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>G000576</bioguideId>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2276</lisID>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>GUTIERREZ</lastName>
+        <firstName>LUIS</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <middleName>V.</middleName>
+        <state>IL</state>
+        <bioguideId>G000535</bioguideId>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <identifiers>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Tipton</lastName>
+        <firstName>Scott</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <middleName>R.</middleName>
+        <state>CO</state>
+        <bioguideId>T000470</bioguideId>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <identifiers>
+          <gpoId>7861</gpoId>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Quigley</lastName>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <party>D</party>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>Q000023</bioguideId>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>RUSH</lastName>
+        <firstName>BOBBY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <middleName>L.</middleName>
+        <state>IL</state>
+        <bioguideId>R000515</bioguideId>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>SHIMKUS</lastName>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>15</district>
+        <party>R</party>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <middleName>M.</middleName>
+        <state>IL</state>
+        <bioguideId>S000364</bioguideId>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>7939</gpoId>
+          <bioguideId>S000364</bioguideId>
+          <lisID>1527</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Bustos</lastName>
+        <firstName>Cheri</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <party>D</party>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>B001286</bioguideId>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <identifiers>
+          <lisID>2127</lisID>
+          <bioguideId>B001286</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Krishnamoorthi</lastName>
+        <firstName>Raja</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>D</party>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>K000391</bioguideId>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000391</bioguideId>
+          <lisID>2325</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Kinzinger</lastName>
+        <firstName>Adam</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>16</district>
+        <party>R</party>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>K000378</bioguideId>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <identifiers>
+          <gpoId>7931</gpoId>
+          <bioguideId>K000378</bioguideId>
+          <lisID>2014</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Lipinski</lastName>
+        <firstName>Daniel</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>D</party>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <middleName>William</middleName>
+        <state>IL</state>
+        <bioguideId>L000563</bioguideId>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <identifiers>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>SCHAKOWSKY</lastName>
+        <firstName>JANICE</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <middleName>D.</middleName>
+        <state>IL</state>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-13T14:00:46Z</date>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-06-13</introducedDate>
+    <title>Housing Opportunity Mortgage Expansion Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2017-06-13</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-06-14T03:11:37Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Hultgren</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <bioguideId>H001059</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <firstName>Randy</firstName>
+        <district>14</district>
+        <identifiers>
+          <gpoId>7934</gpoId>
+          <bioguideId>H001059</bioguideId>
+          <lisID>2015</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HULTGREN:H.R. 2890.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18: To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.Article 1, Section 8, Clause 3: To regulate commerce withforeign nations, and among the several states, and with theIndian tribes[Page H4913]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Housing Opportunity Mortgage Expansion Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Federal Home Loan Bank Act to permit captive insurance companies that were members of a Federal Home Loan Bank prior to September 12, 2014, to continue to be eligible to be members of such a Bank, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Housing Opportunity Mortgage Expansion Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Housing Opportunity Mortgage Expansion Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-06-13T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-01-09T21:33:25Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-13</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Housing Opportunity Mortgage Expansion Act</b></p> <p>This bill amends the Federal Home Loan Bank Act to continue Federal Home Loan Bank (FHLB) membership for captive insurance companies that became members prior to publication of the proposed (now final) Federal Housing Finance Agency rule ending their FHLB membership. (A captive insurance company underwrites insurance for its parent company and does not provide insurance to the public.) The parent company must support residential mortgage activities.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

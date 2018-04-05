@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2018-01-11T16:06:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <title>FAIR Act</title>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <number>757</number>
+        <type>HR</type>
+        <latestTitle>FAIR Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government.</text>
+          <actionDate>2017-01-31</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+      <item>
+        <number>4775</number>
+        <type>HR</type>
+        <latestTitle>FAIR Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+          <actionDate>2018-01-11</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+      <item>
+        <number>255</number>
+        <type>S</type>
+        <latestTitle>FAIR Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2017-02-01</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-11</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2018-01-11</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-02-05T21:56:36Z</lastSummaryUpdateDate>
+          <actionDate>2018-01-11</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2018-01-11T05:00:00Z</updateDate>
+          <text><![CDATA[<p><STRONG>Federal Adjustment of Income Rates Act of 2018 or the FAIR Act</STRONG></p> <p>This bill increases by 3% in FY2019 the rates of basic pay for federal employees under the statutory pay systems (i.e., the General Schedule, the Foreign Service Schedule, and various schedules related to the Veterans Health Administration) and for prevailing rate employees. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2018-01-11</introducedDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+      <actionDate>2018-01-11</actionDate>
+    </latestAction>
+    <createDate>2018-01-12T00:26:02Z</createDate>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MD</state>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000141</bioguideId>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>HI</state>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001042</bioguideId>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>VA</state>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000805</bioguideId>
+        <lastName>Warner</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>OR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001176</bioguideId>
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>WA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001111</bioguideId>
+        <lastName>MURRAY</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <firstName>PATTY</firstName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MD</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000128</bioguideId>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MA</state>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-01-16</sponsorshipDate>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>VA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000384</bioguideId>
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <state>HI</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <middleName />
+        <bioguideId>S001194</bioguideId>
+        <byRequestType />
+        <lastName>Schatz</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-16T05:29:06Z</updateDate>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>FAIR Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Federal Adjustment of Income Rates Act of 2018</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>FAIR Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Federal Adjustment of Income Rates Act of 2018</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to increase the rates of pay under the General Schedule and other statutory pay systems and for prevailing rate employees by 3.0 percent, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>FAIR Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <committeeReports />
+    <billNumber>2295</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

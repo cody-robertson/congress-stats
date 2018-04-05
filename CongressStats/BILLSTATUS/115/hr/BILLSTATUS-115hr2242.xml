@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <committee>
+          <name>Energy and Mineral Resources Subcommittee</name>
+          <systemCode>hsii06</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2017-04-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-04-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-04-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <actionDate>2017-05-11</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Keep It in the Ground Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Keep It in the Ground Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>To prohibit drilling in the outer Continental Shelf, to prohibit coal leases on Federal land, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Keep It in the Ground Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>2242</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cartwright</lastName>
+        <identifiers>
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>PA</state>
+        <party>D</party>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <bioguideId>C001090</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <district>17</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>NADLER</lastName>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <bioguideId>N000002</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>JERROLD</firstName>
+        <district>10</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEE</lastName>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>BARBARA</firstName>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCOLLUM</lastName>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MN</state>
+        <party>D</party>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <bioguideId>M001143</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>BETTY</firstName>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Quigley</lastName>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>IL</state>
+        <party>D</party>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <bioguideId>Q000023</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <state>IL</state>
+        <party>D</party>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>JANICE</firstName>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCGOVERN</lastName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <party>D</party>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Raskin</lastName>
+        <identifiers>
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MD</state>
+        <party>D</party>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>Jamie</firstName>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>THOMPSON</lastName>
+        <identifiers>
+          <lisID>1593</lisID>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <bioguideId>T000460</bioguideId>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <firstName>MIKE</firstName>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lieu</lastName>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <bioguideId>L000582</bioguideId>
+        <sponsorshipDate>2017-09-01</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <district>33</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Khanna</lastName>
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipDate>2017-09-01</sponsorshipDate>
+        <firstName>Ro</firstName>
+        <district>17</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>BLUMENAUER</lastName>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>OR</state>
+        <party>D</party>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <firstName>EARL</firstName>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Chu</lastName>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <firstName>Judy</firstName>
+        <district>27</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clark</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2196</lisID>
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <state>MA</state>
+        <party>D</party>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <bioguideId>C001101</bioguideId>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <firstName>Katherine</firstName>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Titus</lastName>
+        <identifiers>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>NV</state>
+        <party>D</party>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <bioguideId>T000468</bioguideId>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <firstName>Dina</firstName>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Keating</lastName>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <state>MA</state>
+        <party>D</party>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <bioguideId>K000375</bioguideId>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <firstName>William</firstName>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pocan</lastName>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+          <lisID>2171</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>WI</state>
+        <party>D</party>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipDate>2018-02-08</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>DAVIS</lastName>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <state>IL</state>
+        <party>D</party>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <bioguideId>D000096</bioguideId>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <firstName>DANNY</firstName>
+        <district>7</district>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>MALONEY</lastName>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <bioguideId>M000087</bioguideId>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <firstName>CAROLYN</firstName>
+        <district>12</district>
+      </item>
+    </cosponsors>
+    <title>Keep It in the Ground Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Arctic Ocean</name>
+          </item>
+          <item>
+            <name>Atlantic Ocean</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Gulf of Mexico</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pacific Ocean</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>750</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Keep It in the Ground Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-03-28</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H2972-H2973]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUFFMAN:H.R. 2242.[[Page H2973]]Congress has the power to enact this legislation pursuantto the following:Article 4, Section 3, Clause 2: The Congress shall havePower to dispose of and make all needful Rules andRegulations respecting the Territory or other Propertybelonging to the United States; and nothing in thisConstitution shall be so construed as to Prejudice any Claimsof the United States, or of any particular State. [Page H775]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-28T13:02:00Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Energy and Mineral Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-11T20:20:49Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii06</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T18:59:37Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Huffman</lastName>
+        <middleName />
+        <firstName>Jared</firstName>
+        <party>D</party>
+        <bioguideId>H001068</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>2</district>
+        <state>CA</state>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-28</actionDate>
+          <text><![CDATA[<p><strong>Keep It in the Ground Act of </strong><b>201</b><b>7</b></p> <p>This bill amends the Outer Continental Shelf Lands Act to prohibit the Bureau of Ocean Energy Management (BOEM) from issuing, renewing, reinstating, or extending any nonproducing lease, or issuing any authorization for the exploration or production of oil, natural gas, or any other fossil fuel in the Arctic Ocean, Atlantic Ocean, Pacific Ocean, Gulf of Mexico, or any other area of the Outer Continental Shelf. BOEM shall also cancel within 60 days any lease issued in the Beaufort Sea, Cook Inlet, or Chukchi Sea (three of the five bodies of water that encompass the Alaska Outer Continental Shelf). <p>The Bureau of Land Management (BLM) must not issue, renew, reinstate, or extend any nonproducing lease for the exploration or production of any onshore fossil fuels, including coal, oil, tar sands, oil shale, and gas, on land subject to the Mineral Leasing Act.</p> <p>The bill provides for exceptions if there is an imminent national security threat that would be significantly reduced by granting an exception. </p> <p>In addition, BOEM and the BLM may allow a nonproducing lease to be renewed or extended if the lease contract was signed before this bill, and giving effect to any provision of this bill is likely to lead to a material breach of contract.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-04-28T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-08-09T14:44:39Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-04-28</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-04-29T03:11:49Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-17T17:32:07Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <title>Addiction Treatment Access Improvement Act of 2018</title>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-02-06</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, Ways and Means, Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <number>4938</number>
+        <type>HR</type>
+        <latestTitle>Respond NOW Act</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2017-09-21</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <number>3692</number>
+        <type>HR</type>
+        <latestTitle>Addiction Treatment Access Improvement Act of 2017</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-17</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-01-17</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-01-17</introducedDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2018-01-17</actionDate>
+    </latestAction>
+    <createDate>2018-01-18T00:26:03Z</createDate>
+    <laws />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Paul</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <firstName>Rand</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>KY</state>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <bioguideId>P000603</bioguideId>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Margaret</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <bioguideId>H001076</bioguideId>
+        <middleName>Wood</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ME</state>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <bioguideId>C001035</bioguideId>
+        <middleName>MARGARET</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>BALDWIN</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>TAMMY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <bioguideId>B001230</bioguideId>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <bioguideId>M000133</bioguideId>
+        <byRequestType />
+        <lastName>MARKEY</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-16T15:14:48Z</updateDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Addiction Treatment Access Improvement Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Addiction Treatment Access Improvement Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Controlled Substances Act to provide for additional flexibility with respect to medication-assisted treatment for opioid use disorders, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Addiction Treatment Access Improvement Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <committeeReports />
+    <billNumber>2317</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

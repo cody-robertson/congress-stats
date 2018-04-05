@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-02-02</introducedDate>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>H001046</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Martin</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <lastName>Heinrich</lastName>
+        <state>NM</state>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>G000562</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <lastName>Gardner</lastName>
+        <state>CO</state>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>T000464</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jon</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <lastName>Tester</lastName>
+        <state>MT</state>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>R000584</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>James</firstName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <lastName>Risch</lastName>
+        <state>ID</state>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>D000618</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <lastName>Daines</lastName>
+        <state>MT</state>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>B001267</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <lastName>Bennet</lastName>
+        <state>CO</state>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>U000039</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>TOM</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <lastName>UDALL</lastName>
+        <state>NM</state>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-02</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-02-03T05:17:31Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <latestAction>
+      <actionDate>2017-02-02</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+    </latestAction>
+    <title>Public Land Renewable Energy Development Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-08-10T20:45:55Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Public Land Renewable Energy Development Act</b></p> <p>This bill amends the Energy Policy Act of 2005 to extend through FY2022 the authorization for deposit and use of lease revenues under the Geothermal Steam Act of 1970. Such funds shall be available to the Department of the Interior for FY2017 and afterwards to implement both the Energy Policy Act of 2005 and the Geothermal Steam Act of 1970. </p> <p> Interior shall establish priority areas on covered land (i.e., public land administered by Interior and not excluded under law from the development of geothermal, solar, or wind energy) for geothermal, solar, and wind energy projects. Variance areas shall also be considered for the development of renewable energy projects under this bill, consistent with the principles of multiple use (as defined under the Federal Land Policy and Management Act of 1976). </p> <p>The bill defines &quot;variance area&quot; as covered land that is neither an exclusion area (not suitable for development of renewable energy projects) nor a priority area. </p> <p> Interior shall establish a program to improve federal permit coordination with respect to renewable energy projects carried out on covered land.</p> <p> The bill establishes the Renewable Energy Resource Conservation Fund to make funds available to federal, state, and tribal agencies for distribution in regions in which renewable energy projects are located on federal land for: (1) restoring and protecting fish and wildlife habitat and corridors for affected species and water resources in areas affected by wind, geothermal, or solar energy development; and (2) preserving and improving recreational access to federal land and water in an affected region. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <billNumber>282</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Energy revenues and royalties</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Outdoor recreation</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestTitle>Public Land Renewable Energy Development Act of 2017</latestTitle>
+        <number>825</number>
+        <latestAction>
+          <actionDate>2017-09-21</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 231.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-02T18:35:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <title>Public Land Renewable Energy Development Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Public Land Renewable Energy Development Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to promote the development of renewable energy on public land, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Public Land Renewable Energy Development Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <middleName />
+        <state>NV</state>
+        <byRequestType />
+        <firstName>Dean</firstName>
+        <bioguideId>H001041</bioguideId>
+        <party>R</party>
+        <lastName>Heller</lastName>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-06T16:44:40Z</updateDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

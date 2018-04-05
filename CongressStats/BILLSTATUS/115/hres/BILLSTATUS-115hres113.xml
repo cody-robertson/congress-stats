@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000409</bioguideId>
+          <lisID>979</lisID>
+          <gpoId>7851</gpoId>
+        </identifiers>
+        <district>48</district>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <bioguideId>R000409</bioguideId>
+        <state>CA</state>
+        <party>R</party>
+        <firstName>DANA</firstName>
+        <lastName>ROHRABACHER</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <billNumber>113</billNumber>
+    <title>Expressing the sense of the House of Representatives that the United States should continue to authorize cash flow financing to Egypt and expand other areas of cooperation.</title>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>King</lastName>
+        <bioguideId>K000362</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <state>IA</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Egypt</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>International exchange and broadcasting</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Tariffs</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <systemCode>hswm04</systemCode>
+          <name>Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-09</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-09</actionDate>
+        <text>Referred to House Foreign Affairs</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-09</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-09</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-09</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Expressing the sense of the House of Representatives that the United States should continue to authorize cash flow financing to Egypt and expand other areas of cooperation.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Expressing the sense of the House of Representatives that the United States should continue to authorize cash flow financing to Egypt and expand other areas of cooperation.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Declares that the House of Representatives:</p> <ul> <li> reaffirms its commitment to the U.S.-Egypt alliance and to the importance of the United States providing a $10 billion loan guarantee for five years,</li> <li> sends its thoughts and prayers to the victims of terrorism in Egypt,</li> <li> stands with the people and the government of Egypt in the face of terrorism,</li> <li> stresses the importance of continuing to provide Egypt with the current levels of military assistance, and </li> <li>supports greater academic cooperation between the United States and Egypt.</li> </ul> <p>Calls for:</p> <ul> <li> an increase to pre-FY2009 levels of U.S. economic aid to Egypt; </li> <li> the President to reinstate cash flow financing to Egypt in 2018 and afterwards; and </li> <li> the expansion of the Qualified Industrial Zones Program.</li> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-09</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-04-24T18:52:23Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-09T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-09T19:31:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-10T21:57:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hswm04</systemCode>
+              <name>Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-09T19:31:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-02-09</introducedDate>
+    <updateDate>2018-02-06T16:39:35Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>HRES</billType>
+    <createDate>2017-02-10T04:45:50Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Trade.</text>
+      <links />
+      <actionDate>2017-02-10</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

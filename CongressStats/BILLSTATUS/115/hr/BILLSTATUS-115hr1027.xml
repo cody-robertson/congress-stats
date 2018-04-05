@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>1027</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-17</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-13</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-13</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-13</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:41:24Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <bioguideId>D000624</bioguideId>
+        <lastName>Dingell</lastName>
+        <party>D</party>
+        <district>12</district>
+        <firstName>Debbie</firstName>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <bioguideId>S001193</bioguideId>
+        <lastName>Swalwell</lastName>
+        <party>D</party>
+        <district>15</district>
+        <firstName>Eric</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2104</lisID>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <bioguideId>D000216</bioguideId>
+        <lastName>DELAURO</lastName>
+        <party>D</party>
+        <district>3</district>
+        <firstName>ROSA</firstName>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+          <lisID>281</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <bioguideId>L000557</bioguideId>
+        <lastName>LARSON</lastName>
+        <party>D</party>
+        <district>1</district>
+        <firstName>JOHN</firstName>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <bioguideId>C000714</bioguideId>
+        <lastName>CONYERS</lastName>
+        <party>D</party>
+        <district>13</district>
+        <firstName>JOHN</firstName>
+        <state>MI</state>
+        <identifiers>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <bioguideId>M001160</bioguideId>
+        <lastName>Moore</lastName>
+        <party>D</party>
+        <district>4</district>
+        <firstName>Gwen</firstName>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <middleName>O.</middleName>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <bioguideId>M001163</bioguideId>
+        <lastName>Matsui</lastName>
+        <party>D</party>
+        <district>6</district>
+        <firstName>Doris</firstName>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <bioguideId>K000389</bioguideId>
+        <lastName>Khanna</lastName>
+        <party>D</party>
+        <district>17</district>
+        <firstName>Ro</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <bioguideId>B001281</bioguideId>
+        <lastName>Beatty</lastName>
+        <party>D</party>
+        <district>3</district>
+        <firstName>Joyce</firstName>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <bioguideId>T000469</bioguideId>
+        <lastName>Tonko</lastName>
+        <party>D</party>
+        <district>20</district>
+        <firstName>Paul</firstName>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <bioguideId>B001296</bioguideId>
+        <lastName>Boyle</lastName>
+        <party>D</party>
+        <district>13</district>
+        <firstName>Brendan</firstName>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>S001157</bioguideId>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <district>13</district>
+        <firstName>David</firstName>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <middleName />
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <bioguideId>G000585</bioguideId>
+        <lastName>Gomez</lastName>
+        <party>D</party>
+        <district>34</district>
+        <firstName>Jimmy</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2362</lisID>
+          <gpoId />
+          <bioguideId>G000585</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-13T17:00:54Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-17T18:54:50Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-13</introducedDate>
+    <title>Hallways to Health Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-02-17</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-02-14T05:20:35Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Sarbanes</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <bioguideId>S001168</bioguideId>
+        <middleName>P.</middleName>
+        <byRequestType />
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <firstName>John</firstName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1854</lisID>
+          <gpoId>7978</gpoId>
+          <bioguideId>S001168</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SARBANES:H.R. 1027.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution.[Page H1126]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>356</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Hallways to Health Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-02-13</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Hallways to Health Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Hallways to Health Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XXI of the Social Security Act to improve access to, and the delivery of, children's health services through school-based health centers, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Hallways to Health Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-13T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-01T16:53:30Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-13</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Hallways to Health Act</strong></p> <p>This bill amends titles XIX (Medicaid) and&nbsp;XXI (Children's Health Insurance Program [CHIP]) of the Social Security Act to:</p> <ul> <li>establish a grant program for school-based health centers to, with respect to children who are eligible for&nbsp;Medicaid and CHIP,&nbsp;facilitate access to services and&nbsp;encourage the adoption of&nbsp;healthy behaviors; </li> <li>establish a demonstration program for the provision or expansion of telehealth services in school-based health centers; and </li> <li>require state Medicaid and CHIP programs to cover services furnished by school-based health centers.</li></ul> <p>In addition, the bill amends the Public Health Service Act to reauthorize through FY2022 and revise school-based health center programs.&nbsp;</p> <p>The bill also amends the Patient Protection and Affordable Care Act to specify that&nbsp;school-based health centers are essential community providers for purposes of inclusion in a qualified health plan.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

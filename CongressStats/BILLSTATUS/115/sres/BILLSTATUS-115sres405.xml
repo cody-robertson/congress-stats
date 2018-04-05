@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001236</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-13T21:47:50Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <state>MN</state>
+        <byRequestType />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+      </item>
+    </sponsors>
+    <createDate>2018-02-14T00:25:59Z</createDate>
+    <billNumber>405</billNumber>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <relatedBills />
+    <title>A resolution designating the third week of March 2018 as "National CACFP Week".</title>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution designating the third week of March 2018 as "National CACFP Week".</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution designating the third week of March 2018 as "National CACFP Week".</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-02-13T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2018-02-20T23:38:09Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Recognizes the role of the Child and Adult Care Food Program (CACFP) in improving the health of the country's most vulnerable children and adults in child care centers, adult day care homes, and after-school care by providing nutritious meals and snacks. </p> <p>Designates the week beginning on March 11, 2018, as National CACFP Week. </p>]]></text>
+          <actionDate>2018-02-13</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2018-02-13</actionDate>
+      <links />
+      <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S909-910)</text>
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <updateDate>2018-02-28T19:17:57Z</updateDate>
+    <amendments />
+    <introducedDate>2018-02-13</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-13</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S909-910</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S909-910</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S909-910)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-02-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

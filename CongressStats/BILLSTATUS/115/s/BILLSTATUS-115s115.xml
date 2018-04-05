@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-01-12</introducedDate>
+    <cosponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <lastName>Cornyn</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <recordedVotes />
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-01-13T04:55:34Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <latestAction>
+      <actionDate>2017-07-11</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+    <title>Veterans Transplant Coverage Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-02-11T16:51:51Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-12</actionDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>Veterans Transplant Coverage Act</strong></p> <p>This bill authorizes the Department of Veterans Affairs to provide for an operation on a live donor to carry out a transplant procedure for an eligible veteran, notwithstanding that the live donor may not be eligible for VA health care.</p> <p>The VA shall furnish to such a donor any care or services that may be required before and after such procedure.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billNumber>115</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Organ and tissue donation and transplantation</name>
+          </item>
+          <item>
+            <name>Surgery and anesthesia</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>1133</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Veterans Transplant Coverage Act of 2017</latestTitle>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2017-11-08</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-07-11T18:30:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-12T18:58:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Veterans Transplant Coverage Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Veterans Transplant Coverage Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide for an operation on a live donor for purposes of conducting a transplant procedure for a veteran, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Veterans Transplant Coverage Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <middleName />
+        <state>NV</state>
+        <byRequestType />
+        <firstName>Dean</firstName>
+        <bioguideId>H001041</bioguideId>
+        <party>R</party>
+        <lastName>Heller</lastName>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-06T16:44:28Z</updateDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

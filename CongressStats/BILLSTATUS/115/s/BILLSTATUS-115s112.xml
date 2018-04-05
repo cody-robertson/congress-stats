@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2017-01-12</introducedDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <firstName>PATTY</firstName>
+        <identifiers>
+          <gpoId>8237</gpoId>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <lastName>MURRAY</lastName>
+        <bioguideId>M001111</bioguideId>
+        <state>WA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <recordedVotes />
+    <amendments />
+    <laws />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <actionDate>2017-05-17</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Creating a Reliable Environment for Veterans' Dependents Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Creating a Reliable Environment for Veterans' Dependents Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend title 38, United States Code, to authorize per diem payments under comprehensive service programs for homeless veterans to furnish care to dependents of homeless veterans, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Creating a Reliable Environment for Veterans' Dependents Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <actionDate>2017-01-12</actionDate>
+          <text><![CDATA[<p><strong></strong><b>Creating a Reliable Environment for Veterans' Dependents Act</b></p> <p> This bill provides that the services for which a recipient of a grant under the Department of Veterans Affairs comprehensive service program for homeless veterans may receive per diem payments may include furnishing care for a dependent under the care of a veteran who is receiving services. </p> <p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-09-06T20:43:50Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Creating a Reliable Environment for Veterans' Dependents Act</title>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-02-06T16:44:28Z</updateDate>
+    <notes />
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-05-17T18:30:04Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-12T19:10:09Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2017-05-09</actionDate>
+        </latestAction>
+        <latestTitle>Homeless Veterans Prevention Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>1072</number>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <billNumber>112</billNumber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <state>NV</state>
+        <bioguideId>H001041</bioguideId>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <firstName>Dean</firstName>
+        <middleName />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <createDate>2017-01-13T04:55:34Z</createDate>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

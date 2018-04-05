@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-01-25T21:32:16Z</updateDate>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2017-03-23</actionDate>
+      <text>Referred to the Subcommittee on Social Security.</text>
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <bioguideId>H001072</bioguideId>
+        <district>2</district>
+        <lastName>Hill</lastName>
+        <middleName>French</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001072</bioguideId>
+          <lisID>2223</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <byRequestType />
+        <firstName>J.</firstName>
+        <state>AR</state>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-15T20:34:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hswm01</systemCode>
+              <name>Social Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-23T13:38:57Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2017-03-16T05:28:12Z</createDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Social Security Administration</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HILL:H.R. 1540.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution[Page H2083]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <systemCode>hswm01</systemCode>
+          <name>Social Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-15</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-03-15</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-03-15</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <bioguideId>P000606</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <firstName>Robert</firstName>
+        <middleName />
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <district>9</district>
+        <lastName>Pittenger</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000576</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2276</lisID>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <middleName />
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <district>6</district>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001282</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <firstName>Andy</firstName>
+        <middleName />
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <district>6</district>
+        <lastName>Barr</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <firstName>Marsha</firstName>
+        <middleName />
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <district>7</district>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>I000056</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1640</lisID>
+          <gpoId>7854</gpoId>
+          <bioguideId>I000056</bioguideId>
+        </identifiers>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <firstName>DARRELL</firstName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <district>49</district>
+        <lastName>ISSA</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000603</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+          <gpoId />
+          <lisID>2256</lisID>
+        </identifiers>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <firstName>David</firstName>
+        <middleName />
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <district>7</district>
+        <lastName>Rouzer</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000375</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+          <lisID>2350</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <firstName>Jodey</firstName>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <district>19</district>
+        <lastName>Arrington</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000372</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <firstName>Rick</firstName>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <district>12</district>
+        <lastName>Allen</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <amendments />
+    <introducedDate>2017-03-15</introducedDate>
+    <title>Social Security Disability Insurance Return to Work Act</title>
+    <cboCostEstimates />
+    <billNumber>1540</billNumber>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Social Security Disability Insurance Return to Work Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-03-15</actionDate>
+        </latestAction>
+        <number>656</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>Social Security Disability Insurance Return to Work Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Social Security Disability Insurance Return to Work Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To help individuals receiving disability insurance benefits under title II of the Social Security Act obtain rehabilitative services and return to the workforce, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Social Security Disability Insurance Return to Work Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

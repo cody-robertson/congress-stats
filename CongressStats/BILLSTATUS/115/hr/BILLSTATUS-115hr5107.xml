@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <introducedDate>2018-02-27</introducedDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <relatedBills />
+    <policyArea />
+    <createDate>2018-02-28T08:11:02Z</createDate>
+    <billNumber>5107</billNumber>
+    <titles>
+      <item>
+        <title>To direct the Secretary of Education to carry out a grant program to secure elementary schools and secondary schools.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To direct the Secretary of Education to carry out a grant program to secure elementary schools and secondary schools.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <title>To direct the Secretary of Education to carry out a grant program to secure elementary schools and secondary schools.</title>
+    <sponsors>
+      <item>
+        <district>25</district>
+        <firstName>Roger</firstName>
+        <middleName />
+        <lastName>Williams</lastName>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <bioguideId>W000816</bioguideId>
+        <state>TX</state>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <lisID>2165</lisID>
+          <bioguideId>W000816</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <actionDate>2018-02-27</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <updateDate>2018-02-28T16:22:09Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Education and the Workforce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-27T15:04:30Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-02-27</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-02-27</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-02-27</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

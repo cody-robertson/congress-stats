@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <introducedDate>2018-01-23</introducedDate>
+    <createDate>2018-01-24T00:26:02Z</createDate>
+    <congress>115</congress>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2018-01-23</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2018-01-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2018-01-23</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </latestAction>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>MO</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001170</bioguideId>
+        <lastName>McCaskill</lastName>
+        <firstName>Claire</firstName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>PA</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000461</bioguideId>
+        <lastName>Toomey</lastName>
+        <firstName>Pat</firstName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>AZ</state>
+        <middleName>SIDNEY</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000303</bioguideId>
+        <lastName>MCCAIN</lastName>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>UT</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000577</bioguideId>
+        <lastName>Lee</lastName>
+        <firstName>Mike</firstName>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>OH</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000449</bioguideId>
+        <lastName>PORTMAN</lastName>
+        <firstName>ROB</firstName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>WI</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000293</bioguideId>
+        <lastName>Johnson</lastName>
+        <firstName>Ron</firstName>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>FL</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000595</bioguideId>
+        <lastName>Rubio</lastName>
+        <firstName>Marco</firstName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>IA</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000295</bioguideId>
+        <lastName>Ernst</lastName>
+        <firstName>Joni</firstName>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>NE</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000463</bioguideId>
+        <lastName>Fischer</lastName>
+        <firstName>Deb</firstName>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>NE</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001197</bioguideId>
+        <lastName>Sasse</lastName>
+        <firstName>Ben</firstName>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>TX</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001098</bioguideId>
+        <lastName>Cruz</lastName>
+        <firstName>Ted</firstName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <state>KY</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000603</bioguideId>
+        <lastName>Paul</lastName>
+        <firstName>Rand</firstName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-01-24</sponsorshipDate>
+        <state>OK</state>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000575</bioguideId>
+        <lastName>Lankford</lastName>
+        <firstName>James</firstName>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <relatedBills />
+    <billNumber>2330</billNumber>
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-23T20:51:40Z</date>
+            </item>
+          </activities>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2018-01-30T15:46:22Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>Earmark Elimination Act of 2018</title>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <gpoId>7803</gpoId>
+          <lisID>1633</lisID>
+        </identifiers>
+        <firstName>JEFF</firstName>
+        <lastName>FLAKE</lastName>
+        <state>AZ</state>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <bioguideId>F000444</bioguideId>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+          <item>
+            <name>Tariffs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Earmark Elimination Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to prohibit earmarks.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Earmark Elimination Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Earmark Elimination Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

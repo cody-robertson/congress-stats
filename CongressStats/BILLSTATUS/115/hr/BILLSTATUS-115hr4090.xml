@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-10-23</introducedDate>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Organized crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 170 (Monday, October 23, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JENKINS of West Virginia:H.R. 4090.Congress has the power to enact this legislation pursuantto the following:Article I section 8 of the United States Constitution.[Page H8076]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <district>3</district>
+        <firstName>Evan</firstName>
+        <state>WV</state>
+        <lastName>Jenkins</lastName>
+        <bioguideId>J000297</bioguideId>
+        <middleName>H.</middleName>
+        <identifiers>
+          <lisID>2278</lisID>
+          <gpoId />
+          <bioguideId>J000297</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Fentanyl and Heroin Task Force Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Controlled Substances Act to establish a task force to address fentanyl and heroin trafficking.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Fentanyl and Heroin Task Force Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Fentanyl and Heroin Task Force Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <createDate>2017-10-24T03:11:22Z</createDate>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-10-23T16:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-11-01T19:29:53Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-10-23T16:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-10-27T20:22:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-01</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-27</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-10-23</actionDate>
+      </item>
+    </actions>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <amendments />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2196</lisID>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <middleName>M.</middleName>
+        <bioguideId>C001101</bioguideId>
+        <firstName>Katherine</firstName>
+        <district>5</district>
+        <lastName>Clark</lastName>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <state>MA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2247</lisID>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000611</bioguideId>
+        <firstName>Bruce</firstName>
+        <district>2</district>
+        <lastName>Poliquin</lastName>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <state>ME</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>977</lisID>
+          <gpoId>7957</gpoId>
+          <bioguideId>R000395</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000395</bioguideId>
+        <firstName>HAROLD</firstName>
+        <district>5</district>
+        <lastName>ROGERS</lastName>
+        <fullName>Rep. Rogers, Harold [R-KY-5]</fullName>
+        <state>KY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000577</bioguideId>
+        <firstName>TIM</firstName>
+        <district>13</district>
+        <lastName>RYAN</lastName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+          <lisID>1741</lisID>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <middleName>R.</middleName>
+        <bioguideId>T000463</bioguideId>
+        <firstName>Michael</firstName>
+        <district>10</district>
+        <lastName>Turner</lastName>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2053</lisID>
+          <bioguideId>M001179</bioguideId>
+          <gpoId>8128</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001179</bioguideId>
+        <firstName>Tom</firstName>
+        <district>10</district>
+        <lastName>Marino</lastName>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <state>PA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName>JAMES</middleName>
+        <bioguideId>S000244</bioguideId>
+        <firstName>F.</firstName>
+        <district>5</district>
+        <lastName>SENSENBRENNER</lastName>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <state>WI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName>B.</middleName>
+        <bioguideId>M001180</bioguideId>
+        <firstName>David</firstName>
+        <district>1</district>
+        <lastName>McKinley</lastName>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <state>WV</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1991</lisID>
+          <gpoId>7795</gpoId>
+          <bioguideId>W000809</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000809</bioguideId>
+        <firstName>Steve</firstName>
+        <district>3</district>
+        <lastName>Womack</lastName>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <state>AR</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2230</lisID>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000582</bioguideId>
+        <firstName>Ted</firstName>
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000009</bioguideId>
+        <firstName>MARCY</firstName>
+        <district>9</district>
+        <lastName>KAPTUR</lastName>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000448</bioguideId>
+        <firstName>Trent</firstName>
+        <district>8</district>
+        <lastName>Franks</lastName>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2277</lisID>
+          <bioguideId>M001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName>X.</middleName>
+        <bioguideId>M001195</bioguideId>
+        <firstName>Alexander</firstName>
+        <district>2</district>
+        <lastName>Mooney</lastName>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <state>WV</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1986</lisID>
+          <gpoId>7787</gpoId>
+          <bioguideId>R000591</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000591</bioguideId>
+        <firstName>Martha</firstName>
+        <district>2</district>
+        <lastName>Roby</lastName>
+        <fullName>Rep. Roby, Martha [R-AL-2]</fullName>
+        <state>AL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001293</bioguideId>
+          <lisID>2249</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001293</bioguideId>
+        <firstName>Mike</firstName>
+        <district>8</district>
+        <lastName>Bishop</lastName>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <state>MI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001243</bioguideId>
+        <firstName>Marsha</firstName>
+        <district>7</district>
+        <lastName>Blackburn</lastName>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <state>TN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001068</bioguideId>
+        <firstName>Steve</firstName>
+        <district>9</district>
+        <lastName>Cohen</lastName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <state>TN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1885</lisID>
+          <gpoId>8095</gpoId>
+          <bioguideId>L000566</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-11-13</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>L000566</bioguideId>
+        <firstName>Robert</firstName>
+        <district>5</district>
+        <lastName>Latta</lastName>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <state>OH</state>
+      </item>
+    </cosponsors>
+    <updateDate>2017-11-28T08:12:37Z</updateDate>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <actionDate>2017-11-01</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <billNumber>4090</billNumber>
+    <cboCostEstimates />
+    <recordedVotes />
+    <title>Fentanyl and Heroin Task Force Act</title>
+    <laws />
+    <committeeReports />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-06</actionDate>
+        <committee>
+          <systemCode>hsif18</systemCode>
+          <name>Environment and the Economy Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <bioguideId>M001166</bioguideId>
+          <lisID>1832</lisID>
+        </identifiers>
+        <firstName>Jerry</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001166</bioguideId>
+        <party>D</party>
+        <lastName>McNerney</lastName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <district>9</district>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <firstName>Keith</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000288</bioguideId>
+        <party>D</party>
+        <lastName>Ellison</lastName>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <district>5</district>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <state>MN</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARTWRIGHT:H.R. 3967.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 (To regulate commerce withforeign nations, and among the several states, and with theIndian tribes).[Page H7888]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3967</billNumber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>TRASH Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Trash Reduction And Sensible Handling Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Solid Waste Disposal Act to authorize States to restrict interstate waste imports and impose a higher fee on out-of-State waste.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>TRASH Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>TRASH Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Trash Reduction And Sensible Handling Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-03-28</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <number>746</number>
+        <congress>115</congress>
+        <type>S</type>
+        <latestTitle>TRASH Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <billType>HR</billType>
+    <updateDate>2017-11-09T16:45:16Z</updateDate>
+    <createDate>2017-10-06T03:11:19Z</createDate>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <bioguideId>C001090</bioguideId>
+        <firstName>Matt</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <middleName />
+        <party>D</party>
+        <state>PA</state>
+        <byRequestType />
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <lastName>Cartwright</lastName>
+      </item>
+    </sponsors>
+    <laws />
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-06</actionDate>
+      <text>Referred to the Subcommittee on Environment.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-10-05T13:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsif18</systemCode>
+              <activities>
+                <item>
+                  <date>2017-10-06T15:30:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Environment and the Economy Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-10-05</introducedDate>
+    <title>TRASH Act</title>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

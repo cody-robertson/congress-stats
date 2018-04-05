@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-29T15:01:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 194 (Wednesday, November 29, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. STEWART:H.R. 4484.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H9516]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <title>Victims' Voice and Transparency Act</title>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <state>OR</state>
+        <bioguideId>B001278</bioguideId>
+        <firstName>Suzanne</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <district>1</district>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <lastName>Bonamici</lastName>
+        <identifiers>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <introducedDate>2017-11-29</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>S001192</bioguideId>
+        <lastName>Stewart</lastName>
+        <firstName>Chris</firstName>
+        <identifiers>
+          <lisID>2168</lisID>
+          <bioguideId>S001192</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <state>UT</state>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Victims' Voice and Transparency Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Congressional Accountability Act of 1995 to prohibit the imposition of a nondisclosure agreement as a condition of the payment of any award or settlement in connection with a violation of such Act.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Victims' Voice and Transparency Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Victims' Voice and Transparency Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2017-11-30T03:11:17Z</createDate>
+    <updateDate>2017-12-04T15:45:07Z</updateDate>
+    <billNumber>4484</billNumber>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-11-29</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-11-29</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-11-29</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <laws />
+    <latestAction>
+      <actionDate>2017-11-29</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

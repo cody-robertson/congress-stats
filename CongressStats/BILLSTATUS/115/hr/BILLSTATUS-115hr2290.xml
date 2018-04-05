@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <createDate>2017-05-03T03:11:48Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-05</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-05-02</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-05-02</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-05-02</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <state>CT</state>
+        <firstName>ROSA</firstName>
+        <middleName />
+        <bioguideId>D000216</bioguideId>
+        <district>3</district>
+        <lastName>DELAURO</lastName>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+          <lisID>281</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <notes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>S</type>
+        <number>1357</number>
+        <latestAction>
+          <actionDate>2017-06-14</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Family-Based Care Services Act</latestTitle>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-05-02</introducedDate>
+    <cboCostEstimates />
+    <committeeReports />
+    <billNumber>2290</billNumber>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-02T14:02:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-05T20:19:10Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2017-05-05</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DeLAURO:H.R. 2290.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the United StatesConstitution.[Page H3068]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Family services</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OK</state>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <lastName>Cole</lastName>
+        <bioguideId>C001053</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Markwayne</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OK</state>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <lastName>Mullin</lastName>
+        <bioguideId>M001190</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2156</lisID>
+          <gpoId />
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>DIANA</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CO</state>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <lastName>DEGETTE</lastName>
+        <bioguideId>D000197</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7859</gpoId>
+          <lisID>1479</lisID>
+          <bioguideId>D000197</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Chellie</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>ME</state>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <bioguideId>P000597</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Joseph</firstName>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MA</state>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Kennedy</lastName>
+        <bioguideId>K000379</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Yvette</firstName>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Clarke</lastName>
+        <bioguideId>C001067</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Dwight</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>PA</state>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Evans</lastName>
+        <bioguideId>E000296</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>LUCILLE</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <bioguideId>R000486</bioguideId>
+        <district>40</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7839</gpoId>
+          <lisID>997</lisID>
+          <bioguideId>R000486</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>SHEILA</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>JACKSON LEE</lastName>
+        <bioguideId>J000032</bioguideId>
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>FRANK</firstName>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OK</state>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>LUCAS</lastName>
+        <bioguideId>L000491</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>711</lisID>
+          <gpoId>8111</gpoId>
+          <bioguideId>L000491</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Takano</lastName>
+        <bioguideId>T000472</bioguideId>
+        <district>41</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>RI</state>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <lastName>LANGEVIN</lastName>
+        <bioguideId>L000559</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>BOBBY</firstName>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IL</state>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <lastName>RUSH</lastName>
+        <bioguideId>R000515</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>LLOYD</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>TX</state>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <lastName>DOGGETT</lastName>
+        <bioguideId>D000399</bioguideId>
+        <district>35</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8181</gpoId>
+          <bioguideId>D000399</bioguideId>
+          <lisID>303</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <lastName>Tonko</lastName>
+        <bioguideId>T000469</bioguideId>
+        <district>20</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IA</state>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <lastName>Loebsack</lastName>
+        <bioguideId>L000565</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>PA</state>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <lastName>Kelly</lastName>
+        <bioguideId>K000376</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Bruce</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>ME</state>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <lastName>Poliquin</lastName>
+        <bioguideId>P000611</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+          <lisID>2247</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Family-Based Care Services Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Family-Based Care Services Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XIX of the Social Security Act to provide a standard definition of therapeutic family care services in Medicaid.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Family-Based Care Services Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2017-12-05T08:15:40Z</updateDate>
+    <calendarNumbers />
+    <title>Family-Based Care Services Act of 2017</title>
+    <congress>115</congress>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

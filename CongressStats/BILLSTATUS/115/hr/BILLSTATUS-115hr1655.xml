@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2017-03-21</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-21</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-21</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-03-21</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Capitalizing on American Methane Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Capitalizing on American Methane Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to allow a credit against income tax for facilities using a qualified methane conversion technology to provide transportation fuels and chemicals.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Capitalizing on American Methane Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>1655</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>T000467</bioguideId>
+        <firstName>Glenn</firstName>
+        <lastName>Thompson</lastName>
+        <state>PA</state>
+        <district>5</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <state>TX</state>
+        <district>36</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2270</lisID>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+      </item>
+      <item>
+        <bioguideId>L000557</bioguideId>
+        <firstName>JOHN</firstName>
+        <lastName>LARSON</lastName>
+        <state>CT</state>
+        <district>1</district>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1583</lisID>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+      </item>
+      <item>
+        <bioguideId>R000585</bioguideId>
+        <firstName>Tom</firstName>
+        <lastName>Reed</lastName>
+        <state>NY</state>
+        <district>23</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+        </identifiers>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+        <district>3</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>C001053</bioguideId>
+        <firstName>Tom</firstName>
+        <lastName>Cole</lastName>
+        <state>OK</state>
+        <district>4</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+      </item>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <firstName>PETE</firstName>
+        <lastName>SESSIONS</lastName>
+        <state>TX</state>
+        <district>32</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+      </item>
+      <item>
+        <bioguideId>K000386</bioguideId>
+        <firstName>John</firstName>
+        <lastName>Katko</lastName>
+        <state>NY</state>
+        <district>24</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+      </item>
+    </cosponsors>
+    <title>Capitalizing on American Methane Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>230</number>
+        <type>S</type>
+        <latestTitle>Capitalizing on American Methane Act of 2017</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-01-24</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MEEHAN:H.R. 1655.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8 of the United StatesConstitution which gives Congress the power to ``regulateCommerce with foreign Nations, and among the several statesand within the Indian Tribes.''[Page H2288]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-03-21T14:03:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-28T18:59:24Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Meehan</lastName>
+        <middleName />
+        <firstName>Patrick</firstName>
+        <party>R</party>
+        <bioguideId>M001181</bioguideId>
+        <identifiers>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>7</district>
+        <state>PA</state>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-21</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-24T18:26:13Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Capitalizing on American Methane Act of 201</strong><b>7</b></p> <p> This bill amends the Internal Revenue Code to: (1) include in the tax credit for investment in a qualifying gasification project any qualified methane conversion technology, and (2) allow an alternative fuel excise tax credit for liquid fuel produced through qualified methane conversion technology at a facility the construction of which begins before October 1, 2027. The bill defines &quot;qualified methane conversion technology&quot; as a process for the molecular conversion of a fuel consisting principally of methane into hydrocarbons and the use of such hydrocarbons to replace or reduce the quantity of petroleum present in motor vehicle fuel and for the production of chemicals.</p>]]></text>
+          <updateDate>2017-03-21T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-03-21</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-03-22T05:45:15Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-28</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-28</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-11-28</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2017-11-28</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Condemning the senseless attacks on hospitals and medical personnel in Syria, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Condemning the senseless attacks on hospitals and medical personnel in Syria, and for other purposes.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>632</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <district>16</district>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <middleName />
+        <state>IL</state>
+        <bioguideId>K000378</bioguideId>
+        <identifiers>
+          <bioguideId>K000378</bioguideId>
+          <lisID>2014</lisID>
+          <gpoId>7931</gpoId>
+        </identifiers>
+        <lastName>Kinzinger</lastName>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Adam</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>26</district>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <middleName />
+        <state>FL</state>
+        <bioguideId>C001107</bioguideId>
+        <identifiers>
+          <lisID>2235</lisID>
+          <gpoId />
+          <bioguideId>C001107</bioguideId>
+        </identifiers>
+        <lastName>Curbelo</lastName>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Carlos</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>6</district>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <middleName />
+        <state>CO</state>
+        <bioguideId>C001077</bioguideId>
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <lastName>Coffman</lastName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <middleName>J.</middleName>
+        <state>IN</state>
+        <bioguideId>V000108</bioguideId>
+        <identifiers>
+          <lisID>1188</lisID>
+          <bioguideId>V000108</bioguideId>
+          <gpoId>7940</gpoId>
+        </identifiers>
+        <lastName>VISCLOSKY</lastName>
+        <fullName>Rep. Visclosky, Peter J. [D-IN-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PETER</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>5</district>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <middleName>T.</middleName>
+        <state>MI</state>
+        <bioguideId>K000380</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+        </identifiers>
+        <lastName>Kildee</lastName>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Daniel</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>15</district>
+        <sponsorshipDate>2018-01-09</sponsorshipDate>
+        <middleName />
+        <state>OH</state>
+        <bioguideId>S001187</bioguideId>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <lastName>Stivers</lastName>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <middleName />
+        <state>OH</state>
+        <bioguideId>C000266</bioguideId>
+        <identifiers>
+          <lisID>186</lisID>
+          <bioguideId>C000266</bioguideId>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <lastName>CHABOT</lastName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>STEVE</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>6</district>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <middleName />
+        <state>KY</state>
+        <bioguideId>B001282</bioguideId>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Barr</lastName>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>Condemning the senseless attacks on hospitals and medical personnel in Syria, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-11-28T17:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-27T08:15:17Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Boyle</lastName>
+        <middleName>F.</middleName>
+        <firstName>Brendan</firstName>
+        <party>D</party>
+        <bioguideId>B001296</bioguideId>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <district>13</district>
+        <state>PA</state>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-11-28T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-07T22:28:13Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Condemns the attacks on hospitals, medical personnel, and emergency responders by the government of Syria and the Russian Federation, and calls on all parties to: (1) end the attacks on medical facilities; (2) cease targeting medical workers; and (3) allow unhindered medical assistance, humanitarian assistance, and medical evacuation of urgent cases to besieged areas.</p> <p>Calls on the Department of State to work with the international community to conduct full, prompt, impartial, and effective investigations of violations of international humanitarian law related to attacks on medical personnel and facilities. </p>]]></text>
+          <actionDate>2017-11-28</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-11-28</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2017-11-29T03:11:20Z</createDate>
+    <billType>HRES</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

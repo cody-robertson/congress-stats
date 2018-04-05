@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <introducedDate>2017-09-08</introducedDate>
+    <cosponsors />
+    <titles>
+      <item>
+        <title>Amending the Rules of the House of Representatives to reinstate the "Gephardt rule".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Amending the Rules of the House of Representatives to reinstate the "Gephardt rule".</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <recordedVotes />
+    <amendments />
+    <laws />
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Rules.</text>
+        <links />
+        <actionDate>2017-09-08</actionDate>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-09-08</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-09-08</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:39:58Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-09-08</actionDate>
+          <updateDate>2017-09-08T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Amends the Rules of the House of Representatives to: (1) redesignate Rule XXIX (General Provisions) as Rule XXX; and (2) insert after Rule XXVIII (Reserved) new Rule XXIX (Statutory Limit on Public Debt) to reinstate the &quot;Gephardt rule,&quot; repealed by H.Res. 5 (adopting the Rules of the House for the 112th Congress).</p> <p>The Gephardt rule: (1) provided for an automatic engrossment and transmittal to the Senate of a joint resolution changing the public debt limit, upon the adoption of a budget resolution; and (2) avoided a separate vote in the House on public debt-limit legislation.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-11-14T22:13:31Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Amending the Rules of the House of Representatives to reinstate the "Gephardt rule".</title>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-09-08T13:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Referred to the House Committee on Rules.</text>
+      <actionDate>2017-09-08</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <billNumber>512</billNumber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <state>VT</state>
+        <bioguideId>W000800</bioguideId>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <district>0</district>
+        <lastName>Welch</lastName>
+        <firstName>Peter</firstName>
+        <middleName />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-09-09T03:11:30Z</createDate>
+    <version>1.0.0</version>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

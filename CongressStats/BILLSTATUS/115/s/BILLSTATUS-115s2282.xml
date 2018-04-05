@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <notes />
+    <billNumber>2282</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <firstName>John</firstName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <title>Bankruptcy Venue Reform Act of 2018</title>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-08</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S68</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S68</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S68)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-01-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2018-01-08</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S68)</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Bankruptcy Venue Reform Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to amend title 28, United States Code, to modify venue requirements relating to bankruptcy proceedings.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Bankruptcy Venue Reform Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Bankruptcy Venue Reform Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <amendments />
+    <updateDate>2018-02-02T20:15:22Z</updateDate>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-08T20:41:40Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2018-01-08</introducedDate>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <createDate>2018-01-09T00:26:03Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

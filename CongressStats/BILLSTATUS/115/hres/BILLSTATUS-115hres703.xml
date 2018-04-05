@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-01-18</actionDate>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-01-18</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-01-18</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-01-18T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses support for the designation of as National School Choice Week, and encourages all parents to learn more about the educational options available. </p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-02-15T17:24:09Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2018-01-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>703</billNumber>
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2307</lisID>
+          <gpoId />
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <state>AZ</state>
+        <bioguideId>B001302</bioguideId>
+        <byRequestType />
+        <lastName>Biggs</lastName>
+        <middleName />
+        <district>5</district>
+        <party>R</party>
+        <firstName>Andy</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2018-01-18</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2018-01-19T03:11:02Z</createDate>
+    <cosponsors />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Designating the week of January 21 through January 27, 2018, as "National School Choice Week".</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Designating the week of January 21 through January 27, 2018, as "National School Choice Week".</title>
+      </item>
+    </titles>
+    <billType>HRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2018-01-18</introducedDate>
+    <title>Designating the week of January 21 through January 27, 2018, as "National School Choice Week".</title>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2018-01-25</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S526; text: CR S524)</text>
+        </latestAction>
+        <latestTitle>A resolution designating the week of January 21 through January 27, 2018, as "National School Choice Week".</latestTitle>
+        <congress>115</congress>
+        <type>SRES</type>
+        <number>381</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-01-24</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S456; text as passed Senate: CR S455)</text>
+        </latestAction>
+        <latestTitle>A resolution designating the week of January 22 through January 28, 2017, as "National School Choice Week".</latestTitle>
+        <congress>115</congress>
+        <type>SRES</type>
+        <number>26</number>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-18T15:03:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <updateDate>2018-02-19T04:07:42Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

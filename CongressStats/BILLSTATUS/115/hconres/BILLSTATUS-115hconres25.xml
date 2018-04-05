@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>25</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-03-09</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-15</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-15</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-15</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:20Z</updateDate>
+    <cosponsors>
+      <item>
+        <lastName>VELAZQUEZ</lastName>
+        <firstName>NYDIA</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <bioguideId>V000081</bioguideId>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Moore</lastName>
+        <firstName>Gwen</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <firstName>Yvette</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <middleName>D.</middleName>
+        <state>NY</state>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>HASTINGS</lastName>
+        <firstName>ALCEE</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>20</district>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Soto</lastName>
+        <firstName>Darren</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <middleName />
+        <state>FL</state>
+        <bioguideId>S001200</bioguideId>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>DeSaulnier</lastName>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <party>D</party>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>D000623</bioguideId>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <identifiers>
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Libya</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Somalia</name>
+          </item>
+          <item>
+            <name>Sudan</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+          <item>
+            <name>Yemen</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-15T15:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-03-09T20:32:38Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-15</introducedDate>
+    <title>Expressing the sense of Congress on the admission of refugees and immigrants to the United States.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2017-03-09</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HCONRES</billType>
+    <createDate>2017-02-16T04:45:59Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Adams</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <bioguideId>A000370</bioguideId>
+        <middleName>S.</middleName>
+        <byRequestType />
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <firstName>Alma</firstName>
+        <district>12</district>
+        <identifiers>
+          <lisID>2201</lisID>
+          <bioguideId>A000370</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of Congress on the admission of refugees and immigrants to the United States.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of Congress on the admission of refugees and immigrants to the United States.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Expresses the sense of Congress that Executive Order 13769, entitled "Protecting the Nation from Foreign Terrorist Entry into the United States," is not a testament to the United States as a nation that is welcoming to all regardless of race, religion, or country of origin. Among the order's major provisions are restrictions on the entry of immigrants and nonimmigrants from seven countries (Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen) and additional limitations on refugee admissions to the United States. </p> <p>Declares that:</p> <ul> <li>the President must immediately allow for the continued entry of refugees that have already been granted admission to the United States by the U.S. Refugee Admissions Program; </li> <li>the United States should continue to resettle refugees that need protection, and lawful permanent residents should be granted entry into the United States, regardless of their country of origin; and </li> <li>the Visa Interview Waiver Program should not be suspended while the Department of State conducts a review of all nonimmigrant visa reciprocity agreements to ensure that there are no disruptions to communities, institutions of education, and interstate commerce. </li></ul> <ul></ul>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-02-15</actionDate>
+          <lastSummaryUpdateDate>2017-04-18T15:14:38Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-02-15T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

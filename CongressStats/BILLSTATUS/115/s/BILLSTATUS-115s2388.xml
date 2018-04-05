@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <updateDate>2018-02-28T19:19:12Z</updateDate>
+    <notes />
+    <billNumber>2388</billNumber>
+    <introducedDate>2018-02-07</introducedDate>
+    <calendarNumbers />
+    <title>Nuclear Plant Decommissioning Act of 2018</title>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2018-02-07</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-07T17:51:33Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Environment and Public Works Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2018-02-08T02:26:01Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <number>4975</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Nuclear Plant Decommissioning Act of 2018</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-02-07</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Nuclear Plant Decommissioning Act of 2018</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Atomic Energy Act of 1954 to provide for consultation with State, tribal, and local governments, the consideration of State, tribal, and local concerns, and the approval of post-shutdown decommissioning activities reports by the Nuclear Regulatory Commission.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Nuclear Plant Decommissioning Act of 2018</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Nuclear Plant Decommissioning Act of 2018</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <lastName>SANDERS</lastName>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <party>I</party>
+        <firstName>BERNARD</firstName>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2018-02-07</actionDate>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </latestAction>
+    <amendments />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>Kamala</firstName>
+        <middleName>D.</middleName>
+        <lastName>Harris</lastName>
+        <bioguideId>H001075</bioguideId>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <state>CA</state>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+          <lisID>2301</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <state>MA</state>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Kirsten</firstName>
+        <middleName>E.</middleName>
+        <lastName>Gillibrand</lastName>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <state>NY</state>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

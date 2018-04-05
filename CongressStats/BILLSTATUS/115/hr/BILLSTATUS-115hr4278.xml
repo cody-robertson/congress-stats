@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <lastName>Hill</lastName>
+        <middleName>French</middleName>
+        <identifiers>
+          <lisID>2223</lisID>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <firstName>J.</firstName>
+        <state>AR</state>
+        <byRequestType />
+        <bioguideId>H001072</bioguideId>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-11-14T22:28:09Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-07T15:03:35Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Monetary Policy and Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-11-07T14:11:52Z</date>
+                </item>
+              </activities>
+              <systemCode>hsba20</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>Independence from Credit Policy Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To ensure that the operations of the Board of Governors of the Federal Reserve System remain independent from the credit policy of the United States, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Independence from Credit Policy Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Independence from Credit Policy Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 181 (Tuesday, November 7, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HILL:H.R. 4278.Congress has the power to enact this legislation pursuantto the following :Article I, Section 8, Clause 1[Page H8597]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-14</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 33 - 26.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-14</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-07</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-11-07</actionDate>
+        <committee>
+          <systemCode>hsba20</systemCode>
+          <name>Monetary Policy and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Monetary Policy and Trade Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-07</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-07</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <createDate>2017-11-08T03:11:17Z</createDate>
+    <title>Independence from Credit Policy Act of 2017</title>
+    <committeeReports />
+    <billType>HR</billType>
+    <introducedDate>2017-11-07</introducedDate>
+    <updateDate>2018-02-27T08:13:00Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <lastName>Barr</lastName>
+        <bioguideId>B001282</bioguideId>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>KY</state>
+        <firstName>Andy</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+      </item>
+    </cosponsors>
+    <billNumber>4278</billNumber>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <amendments />
+    <latestAction>
+      <actionDate>2017-11-14</actionDate>
+      <links />
+      <text>Ordered to be Reported by the Yeas and Nays: 33 - 26.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

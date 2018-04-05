@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>A000360</bioguideId>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <bioguideId>A000360</bioguideId>
+        <state>TN</state>
+        <party>R</party>
+        <firstName>Lamar</firstName>
+        <lastName>Alexander</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <billNumber>39</billNumber>
+    <title>An original resolution authorizing expenditures by the Committee on Health, Education, Labor, and Pensions.</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Health, Education, Labor, and Pensions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S603</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S603</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S603)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Original measure reported to Senate by Senator Alexander. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Committee on Health, Education, Labor, and Pensions. Original measure reported to Senate by Senator Alexander. Without written report.</text>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>An original resolution authorizing expenditures by the Committee on Health, Education, Labor, and Pensions.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>An original resolution authorizing expenditures by the Committee on Health, Education, Labor, and Pensions.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Health, Education, Labor, and Pensions for the 115th Congress.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-01</actionDate>
+          <lastSummaryUpdateDate>2017-03-03T23:44:21Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Health, Education, Labor, and Pensions for the 115th Congress.</p>]]></text>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2017-02-01</actionDate>
+          <lastSummaryUpdateDate>2017-03-03T23:44:29Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <updateDate>2017-02-01T14:45:28Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2017-02-01T23:09:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2017-02-01T23:08:27Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-02-01</introducedDate>
+    <updateDate>2018-02-06T16:43:57Z</updateDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billType>SRES</billType>
+    <createDate>2017-02-02T05:28:46Z</createDate>
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S603)</text>
+      <links />
+      <actionDate>2017-02-01</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

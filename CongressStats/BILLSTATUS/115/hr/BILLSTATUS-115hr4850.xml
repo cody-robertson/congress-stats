@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-24</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2018-01-19</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-01-19</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-01-19</actionDate>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <actionDate>2018-01-24</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Asylum Protection Act of 2018</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Immigration and Nationality Act to alter the deadlines by which an application for asylum must be made, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Asylum Protection Act of 2018</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Asylum Protection Act of 2018</title>
+      </item>
+    </titles>
+    <billNumber>4850</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000583</bioguideId>
+        <district>21</district>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1075</lisID>
+          <bioguideId>S000583</bioguideId>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>LAMAR</firstName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <party>R</party>
+        <lastName>SMITH</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001274</bioguideId>
+        <district>5</district>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mo</firstName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <party>R</party>
+        <lastName>Brooks</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000460</bioguideId>
+        <district>27</district>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Blake</firstName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <party>R</party>
+        <lastName>Farenthold</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000616</bioguideId>
+        <district>4</district>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>D000616</bioguideId>
+          <lisID>2062</lisID>
+          <gpoId>8151</gpoId>
+        </identifiers>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <party>R</party>
+        <lastName>DesJarlais</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001305</bioguideId>
+        <district>13</district>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <party>R</party>
+        <lastName>Budd</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000190</bioguideId>
+        <district>5</district>
+        <state>SC</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000190</bioguideId>
+          <lisID>2361</lisID>
+        </identifiers>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Ralph</firstName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <party>R</party>
+        <lastName>Norman</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001290</bioguideId>
+        <district>7</district>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2203</lisID>
+          <gpoId />
+          <bioguideId>B001290</bioguideId>
+        </identifiers>
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Dave</firstName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <party>R</party>
+        <lastName>Brat</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000606</bioguideId>
+        <district>9</district>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2141</lisID>
+          <gpoId />
+          <bioguideId>P000606</bioguideId>
+        </identifiers>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <party>R</party>
+        <lastName>Pittenger</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001269</bioguideId>
+        <district>11</district>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>B001269</bioguideId>
+          <gpoId>8129</gpoId>
+          <lisID>2054</lisID>
+        </identifiers>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Lou</firstName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <party>R</party>
+        <lastName>Barletta</lastName>
+      </item>
+    </cosponsors>
+    <title>Asylum Protection Act of 2018</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 12 (Friday, January 19, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FRANCIS ROONEY of Florida:H.R. 4850.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clauses 4[Page H582]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-19T14:00:28Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-24T22:15:45Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-27T08:16:09Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Rooney</lastName>
+        <middleName />
+        <firstName>Francis</firstName>
+        <party>R</party>
+        <bioguideId>R000607</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2323</lisID>
+          <bioguideId>R000607</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>19</district>
+        <state>FL</state>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-01-19</introducedDate>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-01-20T03:11:05Z</createDate>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

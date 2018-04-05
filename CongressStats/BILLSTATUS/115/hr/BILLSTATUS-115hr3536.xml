@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-07-28T13:07:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-08-04T15:02:01Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <billType>HR</billType>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-08-04</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>A bill to require persons who undertake Federally funded research and development of drugs to enter into reasonable pricing agreements with the Secretary of Health and Human Services.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1681</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-07-31</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <introducedDate>2017-07-28</introducedDate>
+    <title>To require persons who undertake Federally funded research and development of drugs to enter into reasonable pricing agreements with the Secretary of Health and Human Services.</title>
+    <billNumber>3536</billNumber>
+    <laws />
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>C000714</bioguideId>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <middleName />
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CONYERS</lastName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>S001145</bioguideId>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>K000009</bioguideId>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <firstName>MARCY</firstName>
+        <identifiers>
+          <gpoId>8099</gpoId>
+          <lisID>616</lisID>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KAPTUR</lastName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>C000984</bioguideId>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <firstName>ELIJAH</firstName>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CUMMINGS</lastName>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <firstName>Raul</firstName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>S000480</bioguideId>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <firstName>LOUISE</firstName>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>25</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SLAUGHTER</lastName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>PETER</firstName>
+        <state>OR</state>
+        <middleName>A.</middleName>
+        <bioguideId>D000191</bioguideId>
+        <district>4</district>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+      </item>
+    </sponsors>
+    <updateDate>2017-11-09T08:15:48Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-08-04</actionDate>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeFAZIO:H.R. 3536.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 (relating to the power tomake all laws necessary and proper for carrying out thepowers vested in Congress)[Page H6577]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-29T03:11:37Z</createDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require persons who undertake Federally funded research and development of drugs to enter into reasonable pricing agreements with the Secretary of Health and Human Services.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To require persons who undertake Federally funded research and development of drugs to enter into reasonable pricing agreements with the Secretary of Health and Human Services.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

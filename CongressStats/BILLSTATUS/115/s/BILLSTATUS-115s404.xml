@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <lastName>Isakson</lastName>
+        <bioguideId>I000055</bioguideId>
+        <party>R</party>
+        <middleName />
+        <state>GA</state>
+        <firstName>Johnny</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <version>1.0.0</version>
+    <introducedDate>2017-02-15</introducedDate>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Federal Food, Drug, and Cosmetic Act to improve the process for inspections of device establishments for granting export certifications.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Federal Food, Drug, and Cosmetic Act to improve the process for inspections of device establishments for granting export certifications.</title>
+      </item>
+    </titles>
+    <amendments />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-31</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>To amend the Federal Food, Drug, and Cosmetic Act to improve the process for inspections of device establishments and for granting export certifications.</latestTitle>
+        <number>1736</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>115</congress>
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-15</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2017-02-15</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <title>A bill to amend the Federal Food, Drug, and Cosmetic Act to improve the process for inspections of device establishments for granting export certifications.</title>
+    <billNumber>404</billNumber>
+    <cosponsors>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <bioguideId>B001267</bioguideId>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <lastName>Bennet</lastName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <bioguideId>Y000064</bioguideId>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <lastName>Young</lastName>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <party>R</party>
+        <middleName>C.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IN</state>
+        <identifiers>
+          <lisID>1850</lisID>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <bioguideId>D000607</bioguideId>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <lastName>Donnelly</lastName>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-31T20:06:49Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-15T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill amends the Federal Food, Drug, and Cosmetic Act to revise provisions regarding Food and Drug Administration (FDA): (1) inspections of establishments that manufacture or process medical devices, and (2) certification of medical devices for export.</p> <p>The biannual inspection schedule for medical device establishments handling higher risk devices is replaced with a risk-based schedule. In establishing the risk-based schedule, the FDA must consider an establishment's participation in international medical device audit programs.</p> <p>The FDA must adopt a uniform process and uniform standards for inspections of domestic and foreign medical device establishments.</p> <p>Upon request, the FDA must provide to the person in charge of a medical device establishment feedback regarding the person's proposals to address issues identified during an inspection.</p> <p>The FDA must provide the basis for denying requests for certification of products for export as meeting FDA requirements for domestic products. A person denied such a certification may request supervisory review of that decision.</p> Products from a medical device establishment that an inspector found to be contaminated or insanitary may be certified for export if the person in charge of the establishment has agreed to a plan to correct the issues identified during the inspection.]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2017-02-15</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <updateDate>2018-02-06T16:44:47Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-15T23:20:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-02-16T08:49:56Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

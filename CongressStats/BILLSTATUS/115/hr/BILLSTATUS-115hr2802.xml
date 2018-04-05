@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-06-07</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-07T14:02:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>First-Time Homebuyer Savings Account Act of 201</b><b>7</b> </p> <p>This bill amends the Internal Revenue Code to provide for tax-preferred savings accounts for first-time homebuyers. An individual may make up to $14,000 per year in after-tax contributions to the account, subject to a $50,000 lifetime contribution limit, a $150,000 limit on the fair market value of the account, and adjustments for inflation after 2018. </p> <p>Distributions from the account that are used to pay the qualified principal residence purchase expenditures of the designated beneficiary are excluded from gross income. A &quot;qualified principal residence purchase expenditure&quot; is, with respect to a designated beneficiary who is a first-time homebuyer, any amount: (1) paid toward the purchase price of a principal residence of the beneficiary, (2) required to be paid to settle the purchase of such residence, or (3) required to be paid by the beneficiary to obtain acquisition indebtedness with respect to the residence. </p> <p>Excess contributions to the account, distributions that exceed the qualified principal residence purchase expenditures of the beneficiary, and distributions that are not used for first-time homebuyer purposes are subject to specified taxes. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-06-15T16:40:36Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-07T04:00:00Z</updateDate>
+          <actionDate>2017-06-07</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-02-22T15:29:08Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <firstName>Sean</firstName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <bioguideId>M001185</bioguideId>
+        <identifiers>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+          <lisID>2150</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>18</district>
+        <middleName>Patrick</middleName>
+        <state>NY</state>
+        <lastName>Maloney</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Barbara</firstName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <bioguideId>C001105</bioguideId>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <gpoId />
+          <lisID>2273</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <middleName />
+        <state>VA</state>
+        <lastName>Comstock</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <title>First-Time Homebuyer Savings Account Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>First-Time Homebuyer Savings Account Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide a tax-preferred savings account for first-time homebuyers.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>First-Time Homebuyer Savings Account Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-06-07</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COFFMAN:H.R. 2802.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8: The Congress shall have Power To layand collect Taxes, Duties, Imposts and Excise, to pay theDebts and provide for the common Defense and general Welfareof the United States.[Page H4701]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <district>6</district>
+        <state>CO</state>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <bioguideId>C001077</bioguideId>
+        <firstName>Mike</firstName>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <gpoId>7864</gpoId>
+          <lisID>1912</lisID>
+        </identifiers>
+        <lastName>Coffman</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <createDate>2017-06-08T03:11:41Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <laws />
+    <title>First-Time Homebuyer Savings Account Act of 2017</title>
+    <committeeReports />
+    <billNumber>2802</billNumber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

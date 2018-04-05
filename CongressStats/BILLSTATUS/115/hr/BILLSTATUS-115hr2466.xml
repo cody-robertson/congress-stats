@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>2466</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to House Foreign Affairs</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to House Judiciary</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:42:47Z</updateDate>
+    <cosponsors>
+      <item>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <bioguideId>E000294</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2253</lisID>
+          <gpoId />
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <lastName>Emmer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <state>MN</state>
+      </item>
+      <item>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <bioguideId>C001072</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+          <lisID>1889</lisID>
+        </identifiers>
+        <lastName>Carson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Andre</firstName>
+        <state>IN</state>
+      </item>
+      <item>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <bioguideId>D000625</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Donovan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Daniel</firstName>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-07T17:54:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-16T16:05:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-16T16:05:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-05-16</introducedDate>
+    <title>GRAD Act of 2017</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2017-06-07</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-05-17T03:11:42Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Meng</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>M001188</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <firstName>Grace</firstName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2148</lisID>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 2466.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H4224]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Grant Residency for Additional Doctors Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>GRAD Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Grant Residency for Additional Doctors Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To facilitate the expedited review of applications of aliens applying for admission to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act who are coming to the United States to participate in a program under which they will receive graduate medical education or training, require the Secretary of State to provide relevant Foreign Service officers with training regarding such aliens, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>GRAD Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Grant Residency for Additional Doctors Act of 2017 or the GRAD Act of 2017</strong></p> <p>This bill directs the Secretary of State to: </p> <ul> <li>designate a Department of State officer or employee whose sole responsibility during the months of March, April, May, June, and any other period of time determined by the Secretary, shall be to facilitate the expedited review of J-visa applications of aliens applying for U.S. admission to participate in a graduate medical education or training program; and </li> <li> provide appropriate Foreign Service officers with training related to medical graduates and medical graduate programs in the countries in which they are serving.</li></ul>]]></text>
+          <actionDate>2017-05-16</actionDate>
+          <updateDate>2017-05-16T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-22T20:44:44Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

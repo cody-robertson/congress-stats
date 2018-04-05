@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>31</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S598</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S598</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S598)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Aging Committee</name>
+          <systemCode>spag00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Special Committee on Aging. Original measure reported to Senate by Senator Collins. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Special Committee on Aging. Original measure reported to Senate by Senator Collins. Without written report.</text>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Aging Committee</name>
+          <systemCode>spag00</systemCode>
+        </committee>
+        <actionCode>14000</actionCode>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:43:57Z</updateDate>
+    <cosponsors />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Special Committee on Aging</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules and Administration Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T21:48:21Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Aging Committee</name>
+          <chamber>Senate</chamber>
+          <type>Special</type>
+          <subcommittees />
+          <systemCode>spag00</systemCode>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-02-01T21:47:19Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-01</introducedDate>
+    <title>An original resolution authorizing the expenditures by the Special Committee on Aging.</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>SRES</billType>
+    <createDate>2017-02-02T05:28:46Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <bioguideId>C001035</bioguideId>
+        <middleName>MARGARET</middleName>
+        <byRequestType />
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S598)</text>
+      <links />
+      <actionDate>2017-02-01</actionDate>
+    </latestAction>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>An original resolution authorizing the expenditures by the Special Committee on Aging.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>An original resolution authorizing the expenditures by the Special Committee on Aging.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-02T22:53:20Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Special Committee on Aging for the 115th Congress.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-01</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-03-02T22:53:52Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-01T19:00:38Z</updateDate>
+          <versionCode>80</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Special Committee on Aging for the 115th Congress.</p>]]></text>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2017-02-01</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

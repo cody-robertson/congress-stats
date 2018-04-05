@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <updateDate>2018-03-02T05:46:29Z</updateDate>
+    <notes />
+    <billNumber>2479</billNumber>
+    <introducedDate>2018-03-01</introducedDate>
+    <calendarNumbers />
+    <title>A bill to amend the Agricultural Research, Extension, and Education Reform Act of 1998 to address deferred maintenance at agricultural research facilities, and for other purposes.</title>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-03-01</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2018-03-01</actionDate>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssaf00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-03-01T16:40:45Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2018-03-02T05:41:12Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <congress>115</congress>
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend the Agricultural Research, Extension, and Education Reform Act of 1998 to address deferred maintenance at agricultural research facilities, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend the Agricultural Research, Extension, and Education Reform Act of 1998 to address deferred maintenance at agricultural research facilities, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mazie</firstName>
+        <middleName>K.</middleName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2018-03-01</actionDate>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </latestAction>
+    <amendments />
+    <policyArea />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <lastName>Van Hollen</lastName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>V000128</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000383</bioguideId>
+        <party>I</party>
+        <middleName />
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Angus</firstName>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

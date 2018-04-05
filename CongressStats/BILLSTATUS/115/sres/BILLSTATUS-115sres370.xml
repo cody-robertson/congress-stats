@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>CHARLES</firstName>
+        <state>NY</state>
+        <middleName>E.</middleName>
+        <lastName>SCHUMER</lastName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S111; text: CR S111)</text>
+      <actionDate>2018-01-09</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-01-09</introducedDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution to constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution to constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <billNumber>370</billNumber>
+    <title>A resolution to constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+    <originChamber>Senate</originChamber>
+    <createDate>2018-01-10T00:41:02Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>SRES</billType>
+    <amendments />
+    <notes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <relatedBills />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2018-01-09</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S111</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S111</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S111; text: CR S111)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>S111</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S111</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S111; text: CR S111)</text>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <congress>115</congress>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <updateDate>2018-01-25T21:37:47Z</updateDate>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

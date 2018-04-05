@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-11-28</actionDate>
+        <committee>
+          <name>Water, Power and Oceans Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <calendarNumbers />
+    <billType>HR</billType>
+    <introducedDate>2017-11-16</introducedDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+      <actionDate>2017-11-28</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-11-16T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-11-28T17:31:44Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Science, Space, and Technology Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-11-16T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hssy00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 to address harmful algal blooms, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <title>Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Army Corps of Engineers</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <relatedBills>
+      <item>
+        <number>1057</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017</latestTitle>
+        <latestAction>
+          <text>Held at the desk.</text>
+          <actionDate>2017-09-27</actionDate>
+          <actionTime>20:29:18</actionTime>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>4417</billNumber>
+    <amendments />
+    <createDate>2017-11-17T03:11:17Z</createDate>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 188 (Thursday, November 16, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BONAMICI:H.R. 4417.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H9425]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <lastName>Bonamici</lastName>
+        <bioguideId>B001278</bioguideId>
+        <byRequestType />
+        <firstName>Suzanne</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <district>1</district>
+        <middleName />
+        <state>OR</state>
+      </item>
+    </sponsors>
+    <updateDate>2017-12-08T08:13:04Z</updateDate>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <bioguideId>K000009</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <firstName>MARCY</firstName>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <middleName />
+        <lastName>KAPTUR</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>9</district>
+      </item>
+      <item>
+        <bioguideId>J000295</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <firstName>David</firstName>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <middleName>P.</middleName>
+        <lastName>Joyce</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>14</district>
+      </item>
+      <item>
+        <bioguideId>J000126</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <firstName>EDDIE</firstName>
+        <identifiers>
+          <lisID>599</lisID>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <middleName>BERNICE</middleName>
+        <lastName>JOHNSON</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>30</district>
+      </item>
+      <item>
+        <bioguideId>K000386</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <middleName />
+        <lastName>Katko</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>24</district>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

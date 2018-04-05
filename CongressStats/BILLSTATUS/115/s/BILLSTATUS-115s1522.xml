@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>1522</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>sseg04</systemCode>
+          <name>National Parks Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-10</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:45:35Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>A000360</bioguideId>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Lamar</firstName>
+        <lastName>Alexander</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+      </item>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>TOM</firstName>
+        <lastName>UDALL</lastName>
+        <state>NM</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>MARGARET</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+        <lastName>COLLINS</lastName>
+        <state>ME</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <state>OR</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Cory</firstName>
+        <lastName>Gardner</lastName>
+        <state>CO</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-19T14:15:10Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <systemCode>sseg04</systemCode>
+              <name>National Parks Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-10T21:33:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-07-10</introducedDate>
+    <title>Every Kid Outdoors Act</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-07-11T00:26:35Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <bioguideId>H001046</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <links />
+      <actionDate>2017-07-19</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>3186</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Every Kid Outdoors Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+          <actionDate>2017-08-08</actionDate>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Every Kid Outdoors Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish an Every Kid Outdoors program, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Every Kid Outdoors Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Every Kid Outdoors Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Every Kid Outdoors Act</b></p> <p>This bill directs the Departments of the Interior, Agriculture, Commerce, and the Army to establish the Every Kids Outdoors program to provide fourth graders free access to federal lands and waters to which the public has access. </p> <p>Such Departments shall issue such students annual passes, upon request, which shall allow free access to:</p> <ul> <li> a per-vehicle fee area for the student and any passengers accompanying the student in a private, noncommercial vehicle or for up to three adults accompanying the student on bicycles; or </li> <li> a per-person fee area for the student and up to three adults accompanying the student. </li> </ul> <p>In carrying out such program, such departments:</p> <ul> <li>may collaborate with state park systems that opt to implement a complementary Every Kid Outdoors State park pass,</li> <li>shall maintain a publicly available website that provides information about the program,</li> <li>may provide visitor services, and </li> <li>may support approved partners of the federal lands and waters by furnishing them with opportunities for participation in the program. </li> </ul>]]></text>
+          <actionDate>2017-07-10</actionDate>
+          <updateDate>2017-07-10T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-12-26T23:10:12Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-07-26</introducedDate>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-08-17</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <billNumber>73</billNumber>
+    <sponsors>
+      <item>
+        <state>IN</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+          <lisID>2130</lisID>
+        </identifiers>
+        <bioguideId>M001189</bioguideId>
+        <lastName>Messer</lastName>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <district>6</district>
+        <firstName>Luke</firstName>
+        <byRequestType />
+        <middleName />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Effectuating the Compact for a Balanced Budget.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Effectuating the Compact for a Balanced Budget.</title>
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <billType>HCONRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-07-26T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Resolves that Congress calls a convention for proposing amendments under Article V of the U.S. Constitution in accordance with the Compact for a Balanced Budget, effective after Congress receives certification that at least three-fourths of the states are members of the Compact and have applied for a convention for proposing amendments under Article V of the U.S. Constitution. </p> <p>Resolves that Congress refers the Balanced Budget Amendment to the state legislatures for ratification after Congress receives a certified copy of the Amendment showing that a convention for proposing amendments under Article V has approved and proposed for ratification the Amendment that is defined by the Compact and meets specified criteria, including prohibiting outlays from exceeding receipts unless the excess is financed by debt issued using specified procedures requiring approval by a majority of state legislatures. </p>]]></text>
+          <lastSummaryUpdateDate>2017-07-28T18:41:11Z</lastSummaryUpdateDate>
+          <actionDate>2017-07-26</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>General taxation matters</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-26T14:00:41Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju05</systemCode>
+              <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-08-17T16:38:10Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-08-17T16:37:41Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <updateDate>2018-02-06T16:39:27Z</updateDate>
+    <title>Effectuating the Compact for a Balanced Budget.</title>
+    <createDate>2017-07-27T03:11:30Z</createDate>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-17</actionDate>
+        <committee>
+          <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+          <systemCode>hsju05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-08-17</actionDate>
+        <committee>
+          <name>Constitution and Civil Justice Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-26</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-26</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-26</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <notes />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <lastName>Cramer</lastName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <party>R</party>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+      </item>
+      <item>
+        <lastName>Harper</lastName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <bioguideId>H001045</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1933</lisID>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <state>MS</state>
+        <firstName>Gregg</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+      </item>
+      <item>
+        <lastName>Hice</lastName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <bioguideId>H001071</bioguideId>
+        <middleName>B.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <party>R</party>
+        <state>GA</state>
+        <firstName>Jody</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+      </item>
+      <item>
+        <lastName>Franks</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <bioguideId>F000448</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>Trent</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+      </item>
+      <item>
+        <lastName>Palazzo</lastName>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <bioguideId>P000601</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <state>MS</state>
+        <firstName>Steven</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+      </item>
+      <item>
+        <lastName>Gosar</lastName>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <bioguideId>G000565</bioguideId>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+      </item>
+      <item>
+        <lastName>Graves</lastName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <bioguideId>G000560</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>7906</gpoId>
+          <bioguideId>G000560</bioguideId>
+          <lisID>1979</lisID>
+        </identifiers>
+        <district>14</district>
+        <party>R</party>
+        <state>GA</state>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+      </item>
+      <item>
+        <lastName>Schweikert</lastName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <bioguideId>S001183</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+      </item>
+      <item>
+        <lastName>Brooks</lastName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <bioguideId>B001274</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <state>AL</state>
+        <firstName>Mo</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+      </item>
+      <item>
+        <lastName>Duncan</lastName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <bioguideId>D000615</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <state>SC</state>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+      </item>
+      <item>
+        <lastName>CULBERSON</lastName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <bioguideId>C001048</bioguideId>
+        <middleName>ABNEY</middleName>
+        <identifiers>
+          <lisID>1670</lisID>
+          <gpoId>8163</gpoId>
+          <bioguideId>C001048</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+      </item>
+      <item>
+        <lastName>Flores</lastName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <bioguideId>F000461</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <district>17</district>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+      </item>
+      <item>
+        <lastName>Newhouse</lastName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <bioguideId>N000189</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2275</lisID>
+          <bioguideId>N000189</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <state>WA</state>
+        <firstName>Dan</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

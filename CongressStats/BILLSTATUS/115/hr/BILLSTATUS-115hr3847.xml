@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>3847</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2017-09-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-09-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-09-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:43:39Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <lastName>Cole</lastName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001053</bioguideId>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2231</lisID>
+          <gpoId />
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+        <district>35</district>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <lastName>Torres</lastName>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <middleName>J.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000474</bioguideId>
+        <firstName>Norma</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OK</state>
+        <identifiers>
+          <lisID>2156</lisID>
+          <gpoId />
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <lastName>Mullin</lastName>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001190</bioguideId>
+        <firstName>Markwayne</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <lastName>Cook</lastName>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001094</bioguideId>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <lastName>YOUNG</lastName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000033</bioguideId>
+        <firstName>DON</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <lastName>MCCOLLUM</lastName>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001143</bioguideId>
+        <firstName>BETTY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-10-06T19:47:34Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-10-03T19:47:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-27T19:02:00Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-09-27</introducedDate>
+    <title>Yurok Lands Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+      <links />
+      <actionDate>2017-10-03</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-09-28T03:11:21Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <firstName>Jared</firstName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Yurok Lands Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To revise the Yurok Reservation, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Yurok Lands Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Yurok Lands Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-09-27T04:00:00Z</updateDate>
+          <actionDate>2017-09-27</actionDate>
+          <text><![CDATA[<p><b>Yurok Lands Act</b></p> <p>This bill gives the Yurok Tribe the option to expand its role in the environmental review process under the National Environmental Policy Act of 1969 with respect to major federal actions within: (1) the Revised Yurok Reservation, and (2) specified areas within the Klamath and Redwood Creek Watersheds.</p> <p>The Department of the Interior must enter into a cooperative agreement with the tribe for protecting the natural resources of Redwood National Park.</p> <p>The bill confirms the 2006 &quot;Cooperative Agreement between the Department of the Interior and the Yurok Tribe for the Cooperative Management of Tribal and Federal Lands and Resources in the Klamath River Basin of California&quot; and authorizes Interior to implement the agreement.</p> <p>The Forest Service must transfer 1,229 acres in the Yurok Experimental Forest to Interior. That land must be held in trust for the benefit of the tribe and be managed by the tribe for conservation and research purposes. The trust land may not be: (1) used for gaming activity, and (2) subject to old growth logging.</p> <p>Interior must revise the boundary of the reservation as depicted on the map titled &quot;Revised Yurok Reservation Boundary&quot; and dated December 7, 2016. National Forest System land and National Park System land within the revised reservation must be administered by the Forest Service and the National Park Service, respectively.</p> <p>The bill designates the Bald Hills Road, which runs from U.S. Highway 101 to the Klamath River, as the &quot;Yurok Scenic Byway.&quot;</p> <p>The bill ratifies and confirms the tribe's governing documents.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-01-05T22:28:54Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <title>A concurrent resolution recognizing the rich history, heritage, and strategic importance of the Republic of the Marshall Islands and the Marshallese population residing in the United States.</title>
+    <sponsors>
+      <item>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <middleName />
+        <firstName>John</firstName>
+        <bioguideId>B001236</bioguideId>
+        <party>R</party>
+        <state>AR</state>
+        <lastName>Boozman</lastName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-27T22:47:14Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <updateDate>2018-02-28T16:22:12Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <createDate>2018-02-28T05:26:06Z</createDate>
+    <recordedVotes />
+    <relatedBills />
+    <notes />
+    <introducedDate>2018-02-27</introducedDate>
+    <latestAction>
+      <actionDate>2018-02-27</actionDate>
+      <text>Referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S1253)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <billNumber>34</billNumber>
+    <policyArea />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A concurrent resolution recognizing the rich history, heritage, and strategic importance of the Republic of the Marshall Islands and the Marshallese population residing in the United States.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A concurrent resolution recognizing the rich history, heritage, and strategic importance of the Republic of the Marshall Islands and the Marshallese population residing in the United States.</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-27</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1253</url>
+            <name>S1253</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S1253)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2018-02-27</actionDate>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>SCONRES</billType>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

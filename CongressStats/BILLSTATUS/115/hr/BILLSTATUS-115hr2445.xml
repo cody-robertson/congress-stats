@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <billNumber>2445</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-16T16:03:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2017-05-19T15:12:28Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-16T16:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <createDate>2017-05-17T03:11:41Z</createDate>
+    <cboCostEstimates />
+    <title>DATA Act of 2017</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACKBURN:H.R. 2445.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H4223]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <introducedDate>2017-05-16</introducedDate>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <middleName />
+        <district>11</district>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001187</bioguideId>
+        <lastName>Meadows</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <middleName />
+        <district>5</district>
+        <firstName>Mo</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1987</lisID>
+          <bioguideId>B001274</bioguideId>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <bioguideId>B001274</bioguideId>
+        <lastName>Brooks</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2018-01-18T23:30:08Z</updateDate>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <lastName>Blackburn</lastName>
+        <firstName>Marsha</firstName>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <state>TN</state>
+        <bioguideId>B001243</bioguideId>
+        <party>R</party>
+        <district>7</district>
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-19</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to House Ways and Means</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to House Energy and Commerce</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>DATA Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>DMEPOS Access and Transparency Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>DATA Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>DMEPOS Access and Transparency Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To amend title XVIII of the Social Security Act to provide for a prior authorization process under the Medicare program for certain high cost durable medical equipment, prosthetics, orthotics, and supplies.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>DATA Act of 2017</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <notes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-05-19</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

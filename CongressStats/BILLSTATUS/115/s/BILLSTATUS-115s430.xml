@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billNumber>430</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-02-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:44:48Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <firstName>Ron</firstName>
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Johnson</lastName>
+        <bioguideId>J000293</bioguideId>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <lastName>Barrasso</lastName>
+        <bioguideId>B001261</bioguideId>
+        <state>WY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <identifiers>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <lastName>Young</lastName>
+        <bioguideId>Y000064</bioguideId>
+        <state>IN</state>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Arms control and nonproliferation</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-16T23:10:33Z</date>
+            </item>
+          </activities>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-16</introducedDate>
+    <title>Intermediate-Range Nuclear Forces (INF) Treaty Preservation Act of 2017</title>
+    <amendments />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-02-17T09:06:59Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+      <actionDate>2017-02-16</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Became Public Law No: 115-91.</text>
+          <actionDate>2017-12-12</actionDate>
+        </latestAction>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>2810</number>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Strategic Forces.</text>
+          <actionDate>2017-03-23</actionDate>
+        </latestAction>
+        <latestTitle>Intermediate-Range Nuclear Forces (INF) Treaty Preservation Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>1182</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Intermediate-Range Nuclear Forces (INF) Treaty Preservation Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Intermediate-Range Nuclear Forces (INF) Treaty Preservation Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for compliance enforcement regarding Russian violations of the Intermediate-Range Nuclear Forces (INF) Treaty, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Intermediate-Range Nuclear Forces (INF) Treaty Preservation Act of 2017</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Intermediate-Range Nuclear Forces (INF) Treaty Preservation Act of 2017</strong></p> <p>This bill states that it is the policy of the United States that: (1) Russian actions undertaken in violation of the the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of their Intermediate-Range and Shorter-Range Missiles (INF treaty) constitute a material breach of the treaty, (2) the United States is legally entitled to suspend the INF treaty in whole or in part for so long as Russia continues to be in material breach, and (3) the United States should take certain actions to bring the Russian Federation back into compliance. </p> <p>The bill authorizes additional appropriations for: (1) development of active defenses to counter ground launched missile systems; (2) counterforce and countervailing capabilities; (3) missile system transfers to allied countries; and (4) research, development, and evaluation activities for a dual-capable road-mobile ground-launched cruise missile system. </p> <p>The Department of Defense (DOD) shall: (1) develop such a system with a range of between 500 to 5,500 kilometers; (2) report on the cost, schedule, and feasibility to modify the Tomahawk, Standard Missile-3, Standard Missile-6, Long-Range Stand Off Cruise Missile, and Army Tactical Missile System missiles for ground-launch with such range; and (3) report on the number and location of AEGIS Ashore sites with anti-air warfare capability necessary in Asia and Europe to defend U.S. forces and allies from Russian ground launched missile systems.</p> <p>The Director of National Intelligence, every 90 days for five years, shall determine whether Russia has flight tested, produced, or possesses a system that is inconsistent with the INF treaty and that has reached initial operational capability, is deployed, or is about to be deployed.</p> <p>No funds may be obligated or expended to extend the New START Treaty, permit Russian flights over the United States or U.S. allies pursuant to the Open Skies Treaty, or permit the approval of new or updated implementation decisions through the Open Skies Consultative Commission unless the President certifies that Russia has eliminated all missiles that are in violation of, or that may be inconsistent with, the INF treaty.</p> <p>The Department of State shall conduct a review of the RS-26 Ballistic Missile system. </p> <p>Upon a determination that Russia has flight-tested, produced, or is in possession of certain missiles, the President shall: (1) suspend the application of the INF treaty with respect to the United States, and (2) notify the other state parties to the INF treaty that Russia is in material breach of the INF treaty and of the U.S. decision to suspend the INF treaty. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-16</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-08-18T21:37:49Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

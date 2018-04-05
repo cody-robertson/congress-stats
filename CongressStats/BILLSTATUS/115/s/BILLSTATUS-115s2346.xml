@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <billNumber>2346</billNumber>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001047</bioguideId>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+      </item>
+    </cosponsors>
+    <title>A bill to establish an innovative water infrastructure workforce development program, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NJ</state>
+        <middleName>A.</middleName>
+        <firstName>Cory</firstName>
+        <byRequestType />
+        <lastName>Booker</lastName>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-25T20:22:22Z</date>
+            </item>
+          </activities>
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <billType>S</billType>
+    <committeeReports />
+    <updateDate>2018-02-16T05:29:08Z</updateDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <title>A bill to establish an innovative water infrastructure workforce development program, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to establish an innovative water infrastructure workforce development program, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <laws />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <introducedDate>2018-01-25</introducedDate>
+    <latestAction>
+      <actionDate>2018-01-25</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <createDate>2018-01-26T00:26:03Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

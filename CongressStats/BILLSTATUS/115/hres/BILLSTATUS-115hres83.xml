@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>83</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2017-02-02</actionDate>
+    </latestAction>
+    <createDate>2017-02-03T05:17:27Z</createDate>
+    <title>Providing amounts for the expenses of the Committee on Ethics in the One Hundred Fifteenth Congress.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Provides amounts for expenses of the House Committee on Ethics for the 115th Congress.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-03-03T23:49:33Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+          <actionDate>2017-02-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionDate>2017-02-02</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-02-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-02-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-06T16:39:33Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>B001284</bioguideId>
+        <district>5</district>
+        <middleName>W.</middleName>
+        <byRequestType />
+        <firstName>Susan</firstName>
+        <lastName>Brooks</lastName>
+        <state>IN</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+          <lisID>2129</lisID>
+        </identifiers>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-02T15:02:50Z</date>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <district>22</district>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <party>D</party>
+        <firstName>Theodore</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Deutch</lastName>
+        <state>FL</state>
+        <bioguideId>D000610</bioguideId>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-02-02</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Providing amounts for the expenses of the Committee on Ethics in the One Hundred Fifteenth Congress.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Providing amounts for the expenses of the Committee on Ethics in the One Hundred Fifteenth Congress.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Ethics</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

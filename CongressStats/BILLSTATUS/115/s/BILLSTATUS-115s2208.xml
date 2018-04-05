@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2017-12-07</introducedDate>
+    <updateDate>2018-02-28T06:15:49Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-07</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-12-07</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>2208</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>To provide for the issuance of an Alzheimer's Disease Research Semipostal Stamp.</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-06-23</actionDate>
+        </latestAction>
+        <number>2973</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <lastName>MARKEY</lastName>
+        <byRequestType />
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to provide for the issuance of an Alzheimer's Disease Research Semipostal Stamp.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to provide for the issuance of an Alzheimer's Disease Research Semipostal Stamp.</title>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-12-07</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2017-12-08T00:26:08Z</createDate>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <bioguideId>C001035</bioguideId>
+        <state>ME</state>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <lastName>CAPITO</lastName>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Van Hollen</lastName>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <lastName>Peters</lastName>
+        <bioguideId>P000595</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>179</lisID>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>CARPER</lastName>
+        <bioguideId>C000174</bioguideId>
+        <state>DE</state>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Manchin</lastName>
+        <bioguideId>M001183</bioguideId>
+        <state>WV</state>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-07T19:09:04Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>A bill to provide for the issuance of an Alzheimer's Disease Research Semipostal Stamp.</title>
+    <billType>S</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

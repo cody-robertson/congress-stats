@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>108</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Appropriations.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-12</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:13Z</updateDate>
+    <cosponsors />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsap00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-12T14:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Appropriations Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-07-12</introducedDate>
+    <title>Making continuing appropriations for fiscal year 2018 during any period between October 1, 2017, and December 14, 2017, for which discretionary appropriations have lapsed, and for other purposes.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Appropriations.</text>
+      <links />
+      <actionDate>2017-07-12</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HJRES</billType>
+    <createDate>2017-07-13T03:11:32Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <bioguideId>G000574</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <district>7</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AMASH:H.R. 3114.Congress has the power to enact this legislation pursuantto the following:Congress has the implied power to repeal laws that exceedits constitutional authority as well as laws within itsconstitutional authority.[Page H5377]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <number>601</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Became Public Law No: 115-56.</text>
+          <actionDate>2017-09-08</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Making continuing appropriations for fiscal year 2018 during any period between October 1, 2017, and December 14, 2017, for which discretionary appropriations have lapsed, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Making continuing appropriations for fiscal year 2018 during any period between October 1, 2017, and December 14, 2017, for which discretionary appropriations have lapsed, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-12</actionDate>
+          <updateDate>2017-07-12T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This joint resolution provides continuing FY2018 appropriations to federal agencies through December 14, 2017, or the enactment of specified appropriations legislation. It is known as a continuing resolution (CR) and prevents a government shutdown that would otherwise occur when FY2018 begins on October 1, 2017, if the 12 FY2018 regular appropriations bills that fund the federal government have not been enacted. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-12-18T20:04:50Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

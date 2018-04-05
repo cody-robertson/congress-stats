@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>2806</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <systemCode>hspw02</systemCode>
+          <name>Water Resources and Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionDate>2017-06-07</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:43:02Z</updateDate>
+    <cosponsors>
+      <item>
+        <lastName>UPTON</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>U000031</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1177</lisID>
+          <bioguideId>U000031</bioguideId>
+          <gpoId>7991</gpoId>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <state>MI</state>
+        <firstName>FRED</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+      </item>
+      <item>
+        <lastName>Walberg</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>W000798</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+          <lisID>1855</lisID>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <state>MI</state>
+        <firstName>Tim</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+      </item>
+      <item>
+        <lastName>Dingell</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>D000624</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <party>D</party>
+        <state>MI</state>
+        <firstName>Debbie</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+      </item>
+      <item>
+        <lastName>Moolenaar</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>M001194</bioguideId>
+        <middleName>R.</middleName>
+        <identifiers>
+          <lisID>2248</lisID>
+          <bioguideId>M001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <state>MI</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+      </item>
+      <item>
+        <lastName>Huizenga</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>H001058</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2028</lisID>
+          <bioguideId>H001058</bioguideId>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <state>MI</state>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+      </item>
+      <item>
+        <lastName>Kildee</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>K000380</bioguideId>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <state>MI</state>
+        <firstName>Daniel</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+      </item>
+      <item>
+        <lastName>Bishop</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>B001293</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001293</bioguideId>
+          <gpoId />
+          <lisID>2249</lisID>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <state>MI</state>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+      </item>
+      <item>
+        <lastName>LEVIN</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>L000263</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>683</lisID>
+          <bioguideId>L000263</bioguideId>
+          <gpoId>7997</gpoId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <state>MI</state>
+        <firstName>SANDER</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+      </item>
+      <item>
+        <lastName>Trott</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>T000475</bioguideId>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2250</lisID>
+          <bioguideId>T000475</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <state>MI</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+      </item>
+      <item>
+        <lastName>Mitchell</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>M001201</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001201</bioguideId>
+          <gpoId />
+          <lisID>2334</lisID>
+        </identifiers>
+        <district>10</district>
+        <party>R</party>
+        <state>MI</state>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+      </item>
+      <item>
+        <lastName>Lawrence</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>L000581</bioguideId>
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>2252</lisID>
+          <bioguideId>L000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>14</district>
+        <party>D</party>
+        <state>MI</state>
+        <firstName>Brenda</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+      </item>
+      <item>
+        <lastName>KAPTUR</lastName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <bioguideId>K000009</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <state>OH</state>
+        <firstName>MARCY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+      </item>
+      <item>
+        <lastName>NOLAN</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <bioguideId>N000127</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <party>D</party>
+        <state>MN</state>
+        <firstName>RICHARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+      </item>
+      <item>
+        <lastName>Joyce</lastName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <bioguideId>J000295</bioguideId>
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+          <gpoId />
+        </identifiers>
+        <district>14</district>
+        <party>R</party>
+        <state>OH</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Great Lakes</name>
+          </item>
+          <item>
+            <name>Michigan</name>
+          </item>
+          <item>
+            <name>Navigation, waterways, harbors</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Water Resources and Environment Subcommittee</name>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-08T13:43:22Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-07T14:02:20Z</date>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-06-07</introducedDate>
+    <title>Soo Locks Modernization Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <links />
+      <actionDate>2017-06-08</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-06-08T03:11:41Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Bergman</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <bioguideId>B001301</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <firstName>Jack</firstName>
+        <district>1</district>
+        <identifiers>
+          <lisID>2333</lisID>
+          <bioguideId>B001301</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BERGMAN:H.R. 2806.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18--To make all laws whichshall be necessary and proper for carrying into execution theforegoing powers vested by this Constitution in the UnitedStates, or in any Department or officer therof.[Page H4701]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S3331)</text>
+          <actionDate>2017-06-07</actionDate>
+        </latestAction>
+        <latestTitle>Soo Locks Modernization Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>1308</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Soo Locks Modernization Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Soo Locks Modernization Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To increase authorized funding for the Soo Locks.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Soo Locks Modernization Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-06-07</actionDate>
+          <updateDate>2017-06-07T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Soo Locks Modernization Act</strong></p> <p>This bill directs the U.S. Army Corps of Engineers to carry out the project authorized by the Water Resources Development Act of 1986 for the construction of a second lock adjacent to the existing lock at Sault Sainte Marie, Michigan, at a total project cost that is equal to the 2017 certified cost estimate, plus or minus such amounts as may be required by ordinary fluctuations in construction costs.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-09-20T20:30:19Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

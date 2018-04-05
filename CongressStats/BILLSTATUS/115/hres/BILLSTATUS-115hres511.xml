@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>511</billNumber>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-09-15</actionDate>
+    </latestAction>
+    <createDate>2017-09-09T03:11:30Z</createDate>
+    <title>Expressing support for designation of September as "National Childhood Obesity Awareness Month".</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-09-08T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses support for the designation of National Childhood Obesity Awareness Month. </p><p>Recognizes the importance of preventing childhood obesity and decreasing its prevalence in the United States.</p>]]></text>
+          <lastSummaryUpdateDate>2017-09-22T22:08:00Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-08</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-15</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-09-08</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-09-08</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-09-08</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2018-02-06T16:39:58Z</updateDate>
+    <amendments />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>F000455</bioguideId>
+        <district>11</district>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <firstName>Marcia</firstName>
+        <lastName>Fudge</lastName>
+        <state>OH</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8101</gpoId>
+          <lisID>1895</lisID>
+          <bioguideId>F000455</bioguideId>
+        </identifiers>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-09-15T20:33:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-09-08T13:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-09-08</sponsorshipDate>
+        <firstName>PATRICK</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1664</lisID>
+          <bioguideId>T000462</bioguideId>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <bioguideId>T000462</bioguideId>
+        <lastName>TIBERI</lastName>
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-09-08</sponsorshipDate>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <bioguideId>K000188</bioguideId>
+        <lastName>KIND</lastName>
+        <state>WI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2017-09-08</sponsorshipDate>
+        <firstName>David</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <bioguideId>R000578</bioguideId>
+        <lastName>Reichert</lastName>
+        <state>WA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+          <lisID>2113</lisID>
+        </identifiers>
+        <district>52</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <bioguideId>P000608</bioguideId>
+        <lastName>Peters</lastName>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <laws />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <introducedDate>2017-09-08</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for designation of September as "National Childhood Obesity Awareness Month".</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Expressing support for designation of September as "National Childhood Obesity Awareness Month".</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

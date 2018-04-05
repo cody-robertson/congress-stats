@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <laws />
+    <billNumber>994</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Crimes against property</name>
+          </item>
+          <item>
+            <name>First Amendment rights</name>
+          </item>
+          <item>
+            <name>Hate crimes</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <bioguideId>F000062</bioguideId>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <party>D</party>
+        <firstName>DIANNE</firstName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <createDate>2017-05-02T00:26:58Z</createDate>
+    <introducedDate>2017-05-01</introducedDate>
+    <latestAction>
+      <actionDate>2017-05-01</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-05-01</actionDate>
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-12-12</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <latestTitle>Protecting Religiously Affiliated Institutions Act of 2017</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>1730</number>
+      </item>
+    </relatedBills>
+    <billType>S</billType>
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Protecting Religiously Affiliated Institutions Act of 2017</b></p> <p>This bill amends the federal criminal code to modify prohibitions with respect to intentionally defacing, damaging, or destroying religious real property.</p> <p>Specifically, the bill broadens the scope of prohibited conduct to also criminalize threats to deface, damage, or destroy religious real property.</p> <p>Additionally, it establishes a criminal penalty&#8212;a fine, a prison term of up to five years, or both&#8212;for a violation that results in damage or destruction to religious property.</p> <p>Finally, the bill broadens the definition of &quot;religious real property&quot; to include real property owned or leased by a nonprofit, religiously affiliated organization. </p>]]></text>
+          <lastSummaryUpdateDate>2018-02-13T17:02:05Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-05-01</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-05-01T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <title>Protecting Religiously Affiliated Institutions Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Protecting Religiously Affiliated Institutions Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to amend title 18, United States Code, to provide for the protection of community centers with religious affiliation, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Protecting Religiously Affiliated Institutions Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-01T20:07:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Protecting Religiously Affiliated Institutions Act of 2017</title>
+    <updateDate>2018-02-20T13:04:23Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>HATCH</lastName>
+        <firstName>ORRIN</firstName>
+        <byRequestType />
+        <bioguideId>H000338</bioguideId>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <middleName>GRANT</middleName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

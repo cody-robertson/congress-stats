@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of New York:H.R. 2639.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1The Congress shall have Power to lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defence and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States.[Page H4570]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-07T18:59:25Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-24T14:04:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-05-26T20:24:14Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-24T14:04:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Education and the Workforce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-24T14:04:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-24T14:04:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>4</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-26</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Education and the Workforce</text>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on the Judiciary, Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2017-05-24</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Elder Justice Reauthorization Act </b></p> <p>This bill&nbsp;amends title XX (Block Grants to States for Social Services) of&nbsp;the Social Security Act to&nbsp;reauthorize through FY2021 grants to states for&nbsp;activities related to the prevention and detection of elder abuse.</p> <p>In addition, the&nbsp;bill amends the Patient Protection and Affordable Care Act to reauthorize through FY2021: (1) the National Training Institute for federal and state surveyors of long-term care facilities, and (2) grants to state agencies that perform surveys of certain nursing facilities.</p>]]></text>
+          <lastSummaryUpdateDate>2018-01-17T20:48:11Z</lastSummaryUpdateDate>
+          <updateDate>2017-05-24T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-05-24</introducedDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-06-07</actionDate>
+    </latestAction>
+    <createDate>2017-05-25T03:11:42Z</createDate>
+    <laws />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2092</lisID>
+          <gpoId>8367</gpoId>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <firstName>Suzanne</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <bioguideId>B001278</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Bonamici</lastName>
+        <district>1</district>
+        <state>OR</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>DEFAZIO</lastName>
+        <district>4</district>
+        <state>OR</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <bioguideId>D000624</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Dingell</lastName>
+        <district>12</district>
+        <state>MI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <firstName>Patrick</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <bioguideId>M001181</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Meehan</lastName>
+        <district>7</district>
+        <state>PA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <lastName>NAPOLITANO</lastName>
+        <district>32</district>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <state>NY</state>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>PETER</firstName>
+        <middleName>T.</middleName>
+        <lastName>KING</lastName>
+        <district>2</district>
+        <byRequestType />
+        <bioguideId>K000210</bioguideId>
+      </item>
+    </sponsors>
+    <updateDate>2018-02-16T05:21:18Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Elder Justice Reauthorization Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Elder Justice Reauthorization Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To reauthorize the Elder Justice Act of 2009.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Elder Justice Reauthorization Act</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <title>Elder Justice Reauthorization Act</title>
+    <billNumber>2639</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

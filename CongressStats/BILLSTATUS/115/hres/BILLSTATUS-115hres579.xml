@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>579</billNumber>
+    <actions>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-10-24</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>12:16:09</actionTime>
+        <links />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-10-24</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection.</text>
+        <actionTime>12:16:04</actionTime>
+        <links />
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-10-24</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <actionTime>12:16:04</actionTime>
+        <links />
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-10-24</actionDate>
+        <text>Considered as privileged matter.</text>
+        <actionTime>12:15:54</actionTime>
+        <links />
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-10-24</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-10-24</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:00Z</updateDate>
+    <cosponsors />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees />
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-10-24</introducedDate>
+    <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+    <amendments />
+    <latestAction>
+      <actionTime>12:16:09</actionTime>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionDate>2017-10-24</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-10-25T03:11:16Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <bioguideId>C001093</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <firstName>Doug</firstName>
+        <district>9</district>
+        <identifiers>
+          <lisID>2121</lisID>
+          <bioguideId>C001093</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Electing a Member to a certain standing committee of the House of Representatives.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-10-24T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Elects a specified Member to the House Committee on Energy and Commerce.</p>]]></text>
+          <lastSummaryUpdateDate>2017-11-14T22:36:06Z</lastSummaryUpdateDate>
+          <actionDate>2017-10-24</actionDate>
+        </item>
+        <item>
+          <updateDate>2017-10-24T20:47:38Z</updateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Elects a specified Member to the House Committee on Energy and Commerce.</p>]]></text>
+          <lastSummaryUpdateDate>2017-11-14T20:36:30Z</lastSummaryUpdateDate>
+          <actionDate>2017-10-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

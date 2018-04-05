@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <createDate>2018-03-02T08:11:02Z</createDate>
+    <cosponsors>
+      <item>
+        <lastName>Gianforte</lastName>
+        <bioguideId>G000584</bioguideId>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MT</state>
+        <firstName>Greg</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2359</lisID>
+          <gpoId />
+          <bioguideId>G000584</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+      </item>
+    </cosponsors>
+    <billNumber>5140</billNumber>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <amendments />
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To make improvements to the Account For the State Response to the Opioid Abuse Crisis to improve tribal health.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To make improvements to the Account For the State Response to the Opioid Abuse Crisis to improve tribal health.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2018-03-01</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2018-03-01</introducedDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2156</lisID>
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+        <firstName>Markwayne</firstName>
+        <middleName />
+        <district>2</district>
+        <lastName>Mullin</lastName>
+        <bioguideId>M001190</bioguideId>
+        <state>OK</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <billType>HR</billType>
+    <notes />
+    <title>To make improvements to the Account For the State Response to the Opioid Abuse Crisis to improve tribal health.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-03-01T18:32:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2018-03-02T08:16:33Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2018-03-01</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-03-01</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2018-03-01</actionDate>
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

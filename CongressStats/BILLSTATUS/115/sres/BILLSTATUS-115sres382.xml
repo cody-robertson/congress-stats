@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S524-525</url>
+            <name>S524-525</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S526</url>
+            <name>S526</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S526; text: CR S524-525)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S524-525</url>
+            <name>S524-525</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S526</url>
+            <name>S526</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S526; text: CR S524-525)</text>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S526; text: CR S524-525)</text>
+      <actionDate>2018-01-25</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution supporting the contributions of Catholic schools.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution supporting the contributions of Catholic schools.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>382</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <firstName>Pat</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Toomey</lastName>
+        <bioguideId>T000461</bioguideId>
+        <state>PA</state>
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Casey</lastName>
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>A resolution supporting the contributions of Catholic schools.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <type>HRES</type>
+        <number>57</number>
+        <latestTitle>Supporting the contributions of Catholic schools.</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Sponsor introductory remarks on measure. (CR H828)</text>
+          <actionDate>2017-02-01</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <type>HRES</type>
+        <number>692</number>
+        <latestTitle>Supporting the contributions of Catholic schools.</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Sponsor introductory remarks on measure. (CR E129)</text>
+          <actionDate>2018-02-02</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <type>SRES</type>
+        <number>47</number>
+        <latestTitle>A resolution supporting the contributions of Catholic schools.</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+          <actionDate>2017-02-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees />
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-27T05:28:32Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Donnelly</lastName>
+        <middleName />
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <bioguideId>D000607</bioguideId>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+          <lisID>1850</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>IN</state>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2018-01-25</actionDate>
+          <updateDate>2018-01-25T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-15T17:17:07Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Expresses support for: (1) the goals of Catholic Schools Week, an event cosponsored by the National Catholic Educational Association and the United States Conference of Catholic Bishops and established to recognize the contributions of Catholic elementary and secondary schools in the United States; and (2) the continued dedication of Catholic schools, students, parents, and teachers toward academic excellence and the key role they play in promoting and ensuring a brighter, stronger future for the nation.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <actionDate>2018-01-25</actionDate>
+          <updateDate>2018-01-25T15:28:27Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-16T19:34:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Expresses support for: (1) the goals of Catholic Schools Week, an event cosponsored by the National Catholic Educational Association and the United States Conference of Catholic Bishops and established to recognize the contributions of Catholic elementary and secondary schools in the United States; and (2) the continued dedication of Catholic schools, students, parents, and teachers toward academic excellence and the key role they play in promoting and ensuring a brighter, stronger future for the nation.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2018-01-25</introducedDate>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-01-26T00:26:02Z</createDate>
+    <billType>SRES</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

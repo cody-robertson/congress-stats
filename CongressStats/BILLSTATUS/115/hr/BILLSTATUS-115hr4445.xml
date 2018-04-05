@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cosponsors>
+      <item>
+        <district>0</district>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>7</district>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <middleName>C.</middleName>
+        <state>MN</state>
+        <bioguideId>P000258</bioguideId>
+        <identifiers>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+        </identifiers>
+        <lastName>PETERSON</lastName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>COLLIN</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <introducedDate>2017-11-16</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T14:04:40Z</date>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-17T15:05:07Z</date>
+                </item>
+              </activities>
+              <name>Aviation Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <byRequestType />
+        <bioguideId>N000127</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+        </identifiers>
+        <lastName>NOLAN</lastName>
+        <state>MN</state>
+        <district>8</district>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <middleName />
+      </item>
+    </sponsors>
+    <createDate>2017-11-17T03:11:19Z</createDate>
+    <billNumber>4445</billNumber>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <committeeReports />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <relatedBills />
+    <title>Airline Consumer Bill of Rights Act</title>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Airline Consumer Bill of Rights Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require air carriers to create and make available a concise document regarding air passenger rights.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Airline Consumer Bill of Rights Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2017-11-17</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <updateDate>2018-02-28T08:16:42Z</updateDate>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 188 (Thursday, November 16, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NOLAN:H.R. 4445.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3, United StatesConstitution.[Page H9426]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-17</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

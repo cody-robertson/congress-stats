@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <state>MN</state>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+        <byRequestType />
+        <firstName>Amy</firstName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-12-22T03:33:57Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-11-09T22:11:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <createDate>2017-11-10T00:26:22Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-11-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001061</bioguideId>
+        <middleName />
+        <firstName>John</firstName>
+        <state>ND</state>
+        <lastName>Hoeven</lastName>
+        <party>R</party>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <type>Floor</type>
+        <actionDate>2017-12-21</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      </item>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S8279</url>
+            <name>S8279</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8279)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S8279</url>
+            <name>S8279</name>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionDate>2017-12-21</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14500</actionCode>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8279)</text>
+      </item>
+      <item>
+        <actionDate>2017-11-09</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7159</url>
+            <name>S7159</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7159)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-11-09</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <billType>SRES</billType>
+    <recordedVotes />
+    <title>A resolution designating the week of November 5 through 12, 2017, as "National Carbon Monoxide Poisoning Awareness Week".</title>
+    <latestAction>
+      <links />
+      <actionDate>2017-12-21</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </latestAction>
+    <billNumber>327</billNumber>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <introducedDate>2017-11-09</introducedDate>
+    <updateDate>2018-02-15T05:13:02Z</updateDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A resolution designating the week of November 5 through 12, 2017, as "National Carbon Monoxide Poisoning Awareness Week".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A resolution designating the week of November 5 through 12, 2017, as "National Carbon Monoxide Poisoning Awareness Week".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution designating the week of November 5 through 12, 2017, as "National Carbon Monoxide Poisoning Awareness Week".</latestTitle>
+        <type>SRES</type>
+        <latestAction>
+          <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6655-6656)</text>
+          <actionDate>2017-10-19</actionDate>
+        </latestAction>
+        <number>296</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <laws />
+    <congress>115</congress>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

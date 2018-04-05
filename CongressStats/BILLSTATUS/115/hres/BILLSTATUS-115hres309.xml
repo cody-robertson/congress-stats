@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>309</billNumber>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-03</actionDate>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:39:45Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <bioguideId>B001281</bioguideId>
+        <lastName>Beatty</lastName>
+        <party>D</party>
+        <district>3</district>
+        <firstName>Joyce</firstName>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <bioguideId>D000624</bioguideId>
+        <lastName>Dingell</lastName>
+        <party>D</party>
+        <district>12</district>
+        <firstName>Debbie</firstName>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <bioguideId>E000296</bioguideId>
+        <lastName>Evans</lastName>
+        <party>D</party>
+        <district>2</district>
+        <firstName>Dwight</firstName>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <district>20</district>
+        <firstName>ALCEE</firstName>
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <middleName>Coleman</middleName>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <bioguideId>R000600</bioguideId>
+        <lastName>Radewagen</lastName>
+        <party>R</party>
+        <district>0</district>
+        <firstName>Aumua Amata</firstName>
+        <state>AS</state>
+        <identifiers>
+          <lisID>2222</lisID>
+          <bioguideId>R000600</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <bioguideId>M000312</bioguideId>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <district>2</district>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+        <bioguideId>R000606</bioguideId>
+        <lastName>Raskin</lastName>
+        <party>D</party>
+        <district>8</district>
+        <firstName>Jamie</firstName>
+        <state>MD</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Horticulture and plants</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T14:04:35Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-05-03</introducedDate>
+    <title>Supporting the goals and ideals of National Poppy Day.</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+      <actionDate>2017-05-03</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <createDate>2017-05-04T03:11:43Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Carson</lastName>
+        <party>D</party>
+        <state>IN</state>
+        <bioguideId>C001072</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <firstName>Andre</firstName>
+        <district>7</district>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Supporting the goals and ideals of National Poppy Day.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Supporting the goals and ideals of National Poppy Day.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-31T20:17:37Z</lastSummaryUpdateDate>
+          <updateDate>2017-05-03T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Supports the goals and ideals of National Poppy Day to honor members of the Armed Forces.</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-05-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

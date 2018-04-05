@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-12-19</introducedDate>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-01-02</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <billNumber>4689</billNumber>
+    <sponsors>
+      <item>
+        <state>NE</state>
+        <identifiers>
+          <lisID>1860</lisID>
+          <bioguideId>S001172</bioguideId>
+          <gpoId>8040</gpoId>
+        </identifiers>
+        <bioguideId>S001172</bioguideId>
+        <lastName>Smith</lastName>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <district>3</district>
+        <firstName>Adrian</firstName>
+        <byRequestType />
+        <middleName />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To authorize early repayment of obligations to the Bureau of Reclamation within the Northport Irrigation District in the State of Nebraska.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To authorize early repayment of obligations to the Bureau of Reclamation within the Northport Irrigation District in the State of Nebraska.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 207 (Tuesday, December 19, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of Nebraska:H.R. 4689.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18____________________[Page H10246]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-12-19T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-01-17T19:24:56Z</lastSummaryUpdateDate>
+          <actionDate>2017-12-19</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill authorizes any landowner within the Northport Irrigation District in Nebraska to repay, at any time, the construction costs of project facilities allocated to the landowner's land within the district. Upon discharge in full of the obligation for repayment of all such costs, the parcels of land shall not be subject to the ownership and full-cost pricing limitations under federal reclamation law. The Department of the Interior, upon request, must provide to the landowner who has repaid such costs in full a certificate acknowledging that the landholding is free of such limitations.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-19T14:00:23Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-02T21:37:45Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Power and Oceans Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <updateDate>2018-02-06T16:43:49Z</updateDate>
+    <title>To authorize early repayment of obligations to the Bureau of Reclamation within the Northport Irrigation District in the State of Nebraska.</title>
+    <createDate>2017-12-20T03:11:07Z</createDate>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-02</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Power and Oceans Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-12-19</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <amendments />
+    <notes />
+    <calendarNumbers />
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

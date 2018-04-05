@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-02-26</introducedDate>
+    <updateDate>2018-03-02T05:44:50Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-26</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2018-02-26</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <notes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>2452</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <byRequestType />
+        <bioguideId>W000437</bioguideId>
+        <party>R</party>
+        <middleName>F.</middleName>
+        <state>MS</state>
+        <firstName>ROGER</firstName>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to provide for the improvement of the capacity of the Navy to conduct surface warfare operations and activities, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to provide for the improvement of the capacity of the Navy to conduct surface warfare operations and activities, and for other purposes.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <actionDate>2018-02-26</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2018-02-27T05:26:07Z</createDate>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCAIN</lastName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <identifiers>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <middleName>SIDNEY</middleName>
+        <bioguideId>M000303</bioguideId>
+        <state>AZ</state>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-26T21:44:22Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>A bill to provide for the improvement of the capacity of the Navy to conduct surface warfare operations and activities, and for other purposes.</title>
+    <billType>S</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

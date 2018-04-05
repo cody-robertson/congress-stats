@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <title>Let Lenders Lend Act</title>
+    <introducedDate>2017-12-14</introducedDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-12-14</actionDate>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-12-14</actionDate>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-12-14</actionDate>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <laws />
+    <createDate>2017-12-15T09:05:09Z</createDate>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 204 (Thursday, December 14, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BIGGS:H.R. 4651.Congress has the power to enact this legislation pursuantto the following:Article I of the U.S. Constitution[Page H9940]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-01-09T08:15:58Z</updateDate>
+    <billNumber>4651</billNumber>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <state>FL</state>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <lastName>Posey</lastName>
+        <bioguideId>P000599</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>MD</state>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <lastName>Harris</lastName>
+        <bioguideId>H001052</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>7976</gpoId>
+          <lisID>2026</lisID>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <state>AZ</state>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <lastName>Schweikert</lastName>
+        <bioguideId>S001183</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>7802</gpoId>
+          <lisID>1994</lisID>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <state>WV</state>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <lastName>Mooney</lastName>
+        <bioguideId>M001195</bioguideId>
+        <middleName>X.</middleName>
+        <identifiers>
+          <lisID>2277</lisID>
+          <bioguideId>M001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Alexander</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <state>FL</state>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <lastName>Yoho</lastName>
+        <bioguideId>Y000065</bioguideId>
+        <middleName>S.</middleName>
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <gpoId />
+          <lisID>2115</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ted</firstName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <bioguideId>B001302</bioguideId>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+          <lisID>2307</lisID>
+        </identifiers>
+        <state>AZ</state>
+        <party>R</party>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <byRequestType />
+        <district>5</district>
+        <middleName />
+        <lastName>Biggs</lastName>
+        <firstName>Andy</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Let Lenders Lend Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To provide that the final rule of the Bureau of Consumer Financial Protection titled "Home Mortgage Disclosure (Regulation C)" shall have no force or effect.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Let Lenders Lend Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Let Lenders Lend Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-12-14T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-12-14</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>696</billNumber>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-127</citation>
+      </committeeReport>
+    </committeeReports>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2017-07-11</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-06-21T20:22:52Z</pubDate>
+        <title>S. 696, Stop Improper Federal Bonuses Act</title>
+        <url>https://www.cbo.gov/publication/52838</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-03-23T05:20:08Z</createDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Stop Improper Federal Bonuses Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Stop Improper Federal Bonuses Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 5, United States Code, to appropriately limit the authority to award bonuses to Federal employees.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Stop Improper Federal Bonuses Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2018-02-22T15:28:47Z</updateDate>
+    <notes />
+    <title>Stop Improper Federal Bonuses Act</title>
+    <relatedBills />
+    <laws />
+    <congress>115</congress>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0167</number>
+      </item>
+    </calendarNumbers>
+    <introducedDate>2017-03-22</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-127</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/127</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-127.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>report No. 115-127</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/127</url>
+          </link>
+        </links>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <actionDate>2017-07-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-127.</text>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-22</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-22</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-07-11T20:01:46Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-05-17T14:00:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-22T18:47:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaskill</lastName>
+        <firstName>Claire</firstName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001170</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heller</lastName>
+        <firstName>Dean</firstName>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001041</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+        </identifiers>
+        <state>NV</state>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employee performance</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Merit Systems Protection Board</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><STRONG>Stop Improper Federal Bonuses Act </STRONG></p> <p>This bill prohibits a federal agency from awarding a bonus to any employee for five years after the end of a fiscal year in which the agency makes an adverse finding relating to the employee. An "adverse finding" is a determination that an employee's conduct violated: (1) a policy of the agency for which the employee may be removed or suspended for at least 14 days, or (2) a law for which the employee may be imprisoned for more than one year.</p> <p>The bill requires an agency to issue an order directing an employee to repay a bonus awarded in any year in which an adverse finding is made. As a condition of receiving a bonus awarded after this bill's enactment, an employee must certify that he or she will repay the bonus in accordance with such an order. </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-03-22T04:00:00Z</updateDate>
+          <actionDate>2017-03-22</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-11-20T21:05:54Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <lastName>Fischer</lastName>
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <firstName>Deb</firstName>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NE</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

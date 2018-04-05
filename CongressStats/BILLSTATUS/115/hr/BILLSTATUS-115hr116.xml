@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>116</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:40:27Z</updateDate>
+    <cosponsors>
+      <item>
+        <lastName>Wittman</lastName>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <middleName>J.</middleName>
+        <state>VA</state>
+        <bioguideId>W000804</bioguideId>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <identifiers>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Cuellar</lastName>
+        <firstName>Henry</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>28</district>
+        <party>D</party>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>C001063</bioguideId>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+          <lisID>1807</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Soto</lastName>
+        <firstName>Darren</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <middleName />
+        <state>FL</state>
+        <bioguideId>S001200</bioguideId>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Tipton</lastName>
+        <firstName>Scott</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <middleName>R.</middleName>
+        <state>CO</state>
+        <bioguideId>T000470</bioguideId>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Pittenger</lastName>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <party>R</party>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <middleName />
+        <state>NC</state>
+        <bioguideId>P000606</bioguideId>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-01-03T17:05:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-01-03</introducedDate>
+    <title>Main Street Fairness Act</title>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2017-01-03</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-01-04T07:01:11Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Buchanan</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>B001260</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <firstName>Vern</firstName>
+        <district>16</district>
+        <identifiers>
+          <lisID>1840</lisID>
+          <bioguideId>B001260</bioguideId>
+          <gpoId>7885</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BUCHANAN:H.R. 116.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution.[Page H49]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-23</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>Main Street Fairness Act</latestTitle>
+        <number>707</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Main Street Fairness Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Main Street Fairness Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to ensure that pass-through businesses do not pay tax at a higher rate than corporations.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Main Street Fairness Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-10T14:40:33Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-03</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Main Street Fairness Act </b></p> <p>This bill amends the Internal Revenue Code to prevent qualified business income attributed to individuals from being taxed at a higher rate than corporate income.</p> <p>(Under current law, business income attributed to individuals is taxed using individual income tax rates rather than the corporate tax rate.)</p> <p>Qualified business income is all items of income, deduction, loss, or credit properly attributable to the taxpayer from the active conduct of a trade or business, including:</p> <ul> <li> a partnership in which the taxpayer holds a capital or profits interest; </li> <li> an S corporation in which the taxpayer is a shareholder;</li> <li> a sole proprietorship or an entity otherwise disregarded as separate from its sole owner, in which the taxpayer is the sole owner; and </li> <li> a trust or estate in which the taxpayer is a beneficiary. </li> </ul> <p>Qualified business income does not include any item taken into account in determining net capital gain or the financial services income of partnerships. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

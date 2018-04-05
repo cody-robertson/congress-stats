@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <notes />
+    <calendarNumbers />
+    <updateDate>2018-02-22T15:29:17Z</updateDate>
+    <cosponsors />
+    <billNumber>53</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-07T15:26:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-07T15:26:03Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>An original resolution authorizing expenditures by the Committee on Armed Services.</title>
+    <sponsors>
+      <item>
+        <lastName>MCCAIN</lastName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <middleName>SIDNEY</middleName>
+        <state>AZ</state>
+        <bioguideId>M000303</bioguideId>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <actionDate>2017-02-07</actionDate>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S869)</text>
+    </latestAction>
+    <createDate>2017-02-08T08:07:46Z</createDate>
+    <billType>SRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S869</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S869</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S869)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Armed Services. Original measure reported to Senate by Senator McCain. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <actionDate>2017-02-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Committee on Armed Services. Original measure reported to Senate by Senator McCain. Without written report.</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-02-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Armed Services</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-02-07</introducedDate>
+    <titles>
+      <item>
+        <chamberName />
+        <title>An original resolution authorizing expenditures by the Committee on Armed Services.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>An original resolution authorizing expenditures by the Committee on Armed Services.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-20T19:39:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Armed Services from March 1, 2017, through February 28, 2019.</p> <p>Limits expenses of such committee to specified amounts from: (1) March 1, 2017, through September 30, 2017, (2) October 1, 2017, through September 30, 2018, and (3) October 1, 2018, through February 28, 2019.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-07</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-03-20T19:40:19Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Armed Services from March 1, 2017, through February 28, 2019.</p> <p>Limits expenses of such committee to specified amounts from: (1) March 1, 2017, through September 30, 2017, (2) October 1, 2017, through September 30, 2018, and (3) October 1, 2018, through February 28, 2019.</p>]]></text>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2017-02-07</actionDate>
+          <name>Reported to Senate without amendment</name>
+          <updateDate>2017-02-07T16:00:42Z</updateDate>
+          <versionCode>80</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

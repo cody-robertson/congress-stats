@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-11</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2018-01-11</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2018-01-11</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Behavioral Health Coverage Transparency Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to strengthen parity in mental health and substance use disorder benefits.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Behavioral Health Coverage Transparency Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Behavioral Health Coverage Transparency Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>2301</billNumber>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <lastName>BALDWIN</lastName>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <firstName>Tina</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <lastName>Smith</lastName>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <lastName>MARKEY</lastName>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Booker</lastName>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <lastName>Murphy</lastName>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <firstName>BERNARD</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>I</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <lastName>SANDERS</lastName>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <firstName>DEBORAH</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <lastName>STABENOW</lastName>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <middleName>ANN</middleName>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <firstName>Timothy</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <lastName>Kaine</lastName>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>H001075</bioguideId>
+        <firstName>Kamala</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <lastName>Harris</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <firstName>Margaret</firstName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Hassan</lastName>
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <middleName>Wood</middleName>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <firstName>Jeanne</firstName>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <lastName>Shaheen</lastName>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <lastName>Van Hollen</lastName>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <title>Behavioral Health Coverage Transparency Act of 2018</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>4778</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Behavioral Health Coverage Transparency Act of 2018</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-01-12</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-11T20:48:44Z</date>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <laws />
+    <updateDate>2018-02-27T05:45:12Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Warren</lastName>
+        <middleName>A.</middleName>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>MA</state>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2018-01-11</introducedDate>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <createDate>2018-01-12T00:26:03Z</createDate>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

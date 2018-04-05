@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billNumber>1063</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-09-26</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-03</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2018-02-06T16:41:27Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <lastName>Coffman</lastName>
+        <bioguideId>C001077</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1912</lisID>
+          <bioguideId>C001077</bioguideId>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <state>CO</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>WALTER</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <lastName>JONES</lastName>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <state>NC</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Scott</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <lastName>Peters</lastName>
+        <bioguideId>P000608</bioguideId>
+        <middleName>H.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+        </identifiers>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <state>CA</state>
+        <district>52</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kathleen</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <lastName>Rice</lastName>
+        <bioguideId>R000602</bioguideId>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <state>NY</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Dina</firstName>
+        <party>D</party>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <lastName>Titus</lastName>
+        <bioguideId>T000468</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <state>NV</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <party>R</party>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <lastName>GOODLATTE</lastName>
+        <bioguideId>G000289</bioguideId>
+        <middleName>W.</middleName>
+        <identifiers>
+          <bioguideId>G000289</bioguideId>
+          <lisID>446</lisID>
+          <gpoId>8197</gpoId>
+        </identifiers>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <state>VA</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-09-26T15:24:50Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2017-03-03T14:04:52Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-15T15:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <introducedDate>2017-02-15</introducedDate>
+    <title>Veteran Prescription Continuity Act</title>
+    <amendments />
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+      <actionDate>2017-09-26</actionDate>
+    </latestAction>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-02-16T04:46:03Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>O'Rourke</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>O000170</bioguideId>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <firstName>Beto</firstName>
+        <district>16</district>
+        <identifiers>
+          <lisID>2162</lisID>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. O'ROURKE:H.R. 1063.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18:To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[Page H1244]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <laws />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Veteran Prescription Continuity Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Veteran Prescription Continuity Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To ensure that an individual who is transitioning from receiving medical treatment furnished by the Secretary of Defense to medical treatment furnished by the Secretary of Veterans Affairs receives the pharmaceutical agents required for such transition.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Veteran Prescription Continuity Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Veteran Prescription Continuity Act</strong></p> <p>This bill amends the National Defense Authorization Act for Fiscal Year 2016 to direct the Department of Veterans Affairs (VA) to furnish an individual who is transitioning from Department of Defense (DOD)- to VA-furnished medical treatment any pharmaceutical agent not included in the joint uniform formulary if a DOD health care provider determines that the pharmaceutical agent is critical for the transition. </p> <p>The VA shall furnish an individual with such pharmaceutical agent: (1) beginning when the individual enrolls in the VA health care system, and (2) ending when a DOD health care provider determines that the individual does not require the pharmaceutical agent.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-03-04T15:26:18Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-02-15T05:00:00Z</updateDate>
+          <actionDate>2017-02-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

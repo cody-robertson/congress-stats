@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <title>CTE Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionDate>2018-02-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2018-02-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2018-02-14</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-02-28T19:17:34Z</updateDate>
+    <committeeReports />
+    <version>1.0.0</version>
+    <billNumber>5020</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 29 (Wednesday, February 14, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LOEBSACK:H.R. 5020.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause I of the Constitution[Page H1178]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <relatedBills />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <lastName>Loebsack</lastName>
+        <byRequestType />
+        <bioguideId>L000565</bioguideId>
+        <party>D</party>
+        <middleName />
+        <state>IA</state>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>CTE Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Collaboration for Today's Education Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To provide for the establishment of a Department of Education program to award grants to secondary schools that establish a project to encourage students in their junior and senior school years to experience career and technical education courses at a community college, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>CTE Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>CTE Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Collaboration for Today’s Education Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <actionDate>2018-02-14</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2018-02-18T21:46:26Z</createDate>
+    <cosponsors />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-14T15:00:41Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2018-02-14</introducedDate>
+    <billType>HR</billType>
+    <amendments />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

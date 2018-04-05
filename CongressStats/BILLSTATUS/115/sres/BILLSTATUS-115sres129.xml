@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution designating April 2017 as "Second Chance Month".</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution designating April 2017 as "Second Chance Month".</title>
+      </item>
+    </titles>
+    <introducedDate>2017-04-07</introducedDate>
+    <latestAction>
+      <actionDate>2017-04-25</actionDate>
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <links />
+    </latestAction>
+    <title>A resolution designating April 2017 as "Second Chance Month".</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestTitle>Expressing support for designation of April 2017 as "Second Chance Month".</latestTitle>
+        <number>281</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-04-26</actionDate>
+          <text>Referred to the House Committee on the Judiciary.</text>
+        </latestAction>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2018-02-06T16:44:05Z</updateDate>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <createDate>2017-04-08T00:41:45Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-04-25T21:44:20Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-07T16:37:56Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>129</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <billType>SRES</billType>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2017-04-25</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-25</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <links />
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-04-25</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2535-2536</url>
+            <name>S2535-2536</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2535-2536)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-25</actionDate>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <links />
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2460</url>
+            <name>S2460</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2460)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-07</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <party>R</party>
+        <firstName>ROB</firstName>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <lastName>PORTMAN</lastName>
+        <state>OH</state>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-08-04T19:30:16Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-07T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Designates April 2017 as Second Chance Month.</p> <p>Honors the work of communities, governmental entities, nonprofit organizations, congregations, employers, and individuals to remove unnecessary legal and societal barriers that prevent an individual with a criminal record from becoming a productive member of society. </p> <p>Calls on the people of the United States to observe Second Chance Month through actions and programs that promote awareness of collateral consequences and provide closure for individuals who have paid their debts.</p> <ul> <ul> </ul> </ul>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-04-07</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-08-26T17:02:07Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-25T13:03:57Z</updateDate>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates April 2017 as Second Chance Month.</p> <p>Honors the work of communities, governmental entities, nonprofit organizations, congregations, employers, and individuals to remove unnecessary legal and societal barriers that prevent an individual with a criminal record from becoming a productive member of society. </p> <p>Calls on the people of the United States to observe Second Chance Month through actions and programs that promote awareness of collateral consequences and provide closure for individuals who have paid their debts.</p> <ul> <ul> </ul> </ul>]]></text>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2017-04-25</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>OK</state>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <bioguideId>L000575</bioguideId>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <lastName>Lankford</lastName>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IL</state>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <lastName>DURBIN</lastName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
