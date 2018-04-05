@@ -9,7 +9,5 @@ namespace CongressStats.Deserialization.Bill
     class BillAction
     {
         public string actionDate;
-
-        public 
     }
 }

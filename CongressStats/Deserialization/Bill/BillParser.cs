@@ -10,14 +10,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace CongressStats.Deserialization.Bill
 {
     class BillParser
     {
-        public List<Bill> ParseBills(string fileName)
-        {
-            throw new NotImplementedException();
-        }
+        [XmlArrayItem(typeof(Bill))]
+        Bill[] bills;
     }
 }

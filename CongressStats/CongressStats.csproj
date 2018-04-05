@@ -54,6 +54,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="CongressStatsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CongressStatsDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Deserialization\Bill\BillAction.cs" />
     <Compile Include="Deserialization\SenateVote\SenateVote.cs" />
     <Compile Include="Deserialization\SenateVote\SenateVoteSummary.cs" />
@@ -133,6 +138,17 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="CongressStatsDataSet.xsc">
+      <DependentUpon>CongressStatsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CongressStatsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CongressStatsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CongressStatsDataSet.xss">
+      <DependentUpon>CongressStatsDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -144,6 +160,11 @@
   <ItemGroup>
     <Folder Include="Deserialization\HouseVote\" />
     <Folder Include="Deserialization\SenateMember\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CongressStats.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

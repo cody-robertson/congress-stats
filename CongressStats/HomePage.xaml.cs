@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+using System.Xml.Linq;
+
 namespace CongressStats
 {
     /// <summary>
@@ -34,5 +36,7 @@ namespace CongressStats
         {
             this.NavigationService.Navigate(new Popular_Bills()); 
         }
+
+        
     }
 }
