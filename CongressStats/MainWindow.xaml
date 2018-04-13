@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CongressStats"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="450" Width="625">
     <Grid>
-        <Frame x:Name="frame" Content="Frame" HorizontalAlignment="Left" Height="321" VerticalAlignment="Top" Width="518" NavigationUIVisibility="Hidden" Loaded="MyWindow_Loaded" Margin="0,0,0,-0.2"/>
+        <Frame x:Name="frame" Content="Frame" HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="618" NavigationUIVisibility="Hidden" Loaded="MyWindow_Loaded"/>
     </Grid>
 </Window>

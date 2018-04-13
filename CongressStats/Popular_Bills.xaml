@@ -5,24 +5,27 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:CongressStats"
       mc:Ignorable="d"
-      Title="Popular_Bills" Height="350" Width="525">
+      Title="Popular_Bills" Height="450" Width="625">
 
-    <Grid Margin="-22,-15,-238,-41">
+    <Grid Margin="-22,-15,-213.2,-41.4" Height="506" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="860" RenderTransformOrigin="0.751,0.51">
         <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
             <ColumnDefinition/>
-            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="0*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="73*"/>
-            <RowDefinition Height="55*"/>
+            <RowDefinition Height="0*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
         </Grid.RowDefinitions>
-        <Label Content="Popular Bills" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="131.656,26,0,0" Width="83" Grid.Column="1"/>
-        <ListBox HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="87" Margin="54,163,0,0" RenderTransformOrigin="1.265,0.561" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
-        <ListBox HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="84" Margin="161.8,163,0,0" RenderTransformOrigin="0.56,0.549" Grid.RowSpan="2" Grid.Column="1"/>
-        <ListBox HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="93" Margin="336.8,163,0,0" Grid.RowSpan="2" Grid.Column="1"/>
-        <Label Content="New" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="9.8,127,0,0" RenderTransformOrigin="1.034,0.749" Grid.Column="1"/>
-        <Label Content="In-Vote" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="1.318,2.215" Margin="178.8,0,0,79" Width="51" Grid.Column="1"/>
-        <Label Content="Results" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="1.318,2.215" Margin="358.8,0,0,79" Width="51" Grid.Column="1"/>
+        <Label Content="Popular Bills" VerticalAlignment="Top" Margin="0,40,467,0" Grid.Column="1" Height="26" RenderTransformOrigin="0.164,0.891" HorizontalAlignment="Right" Width="83" Grid.Row="1"/>
+        <ListBox HorizontalAlignment="Left" Height="208" VerticalAlignment="Top" Width="170" Margin="35,138,0,0" RenderTransformOrigin="0.508,0.492" Grid.Column="1" Grid.Row="1"/>
+        <ListBox HorizontalAlignment="Left" Height="208" VerticalAlignment="Top" Width="170" Margin="246,138,0,0" RenderTransformOrigin="0.507,0.498" Grid.Column="1" Grid.Row="1"/>
+        <ListBox HorizontalAlignment="Left" Width="170" Margin="460,138,0,159.6" Grid.Column="1" Grid.Row="1"/>
+        <Label Content="New" VerticalAlignment="Top" Margin="63,101,0,0" RenderTransformOrigin="1.034,0.749" Grid.Column="1" Height="26" HorizontalAlignment="Left" Width="33" Grid.Row="1"/>
+        <Label Content="In-Vote" HorizontalAlignment="Right" VerticalAlignment="Bottom" RenderTransformOrigin="1.318,2.215" Margin="0,0,499,378.6" Width="51" Grid.Column="1" Height="26" Grid.Row="1"/>
+        <Label Content="Results" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="0.489,3.466" Margin="534,0,0,378.6" Width="51" Grid.Column="1" Height="26" Grid.Row="1"/>
+        <Button Grid.ColumnSpan="2" Content="Back" Margin="0,0,230,79.6" Grid.RowSpan="2" HorizontalAlignment="Right" Width="83" Click="Button_Click" Height="25" VerticalAlignment="Bottom"/>
 
     </Grid>
 </Page>

@@ -5,18 +5,30 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:CongressStats"
       mc:Ignorable="d" 
-      d:DesignHeight="300" d:DesignWidth="300"
+      d:DesignHeight="450" d:DesignWidth="625"
       Title="Congressional_Profile">
 
-    <Grid>
-        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="24,26,0,0"/>
-        <ListView HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="139" Margin="24,154,0,0">
+    <Grid Margin="0,0,-0.2,-0.4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="223*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="24,31,0,0" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <ListView HorizontalAlignment="Left" Height="209" VerticalAlignment="Top" Width="571" Margin="24,131,0,0" Grid.ColumnSpan="2" Grid.Row="1">
             <ListView.View>
                 <GridView>
                     <GridViewColumn/>
                 </GridView>
             </ListView.View>
         </ListView>
+        <Button Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="520,389,0,0" Click="Button_Click" Height="19" Grid.ColumnSpan="2" Grid.Row="1"/>
 
     </Grid>
 </Page>
