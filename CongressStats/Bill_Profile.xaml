@@ -5,17 +5,18 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:CongressStats"
       mc:Ignorable="d" 
-      d:DesignHeight="300.718" d:DesignWidth="301.435"
+      d:DesignHeight="450" d:DesignWidth="625"
       Title="Bill_Profile">
 
     <Grid>
-        <ListBox HorizontalAlignment="Left" Height="108" VerticalAlignment="Top" Width="66" RenderTransformOrigin="0.495,0.521" SelectionChanged="ListBox_SelectionChanged" Margin="25,169,0,0">
+        <ListBox HorizontalAlignment="Left" Height="196" VerticalAlignment="Top" Width="170" RenderTransformOrigin="0.495,0.521" SelectionChanged="ListBox_SelectionChanged" Margin="24,166,0,0">
         </ListBox>
-        <ListBox HorizontalAlignment="Left" Height="108" VerticalAlignment="Top" Width="68" Margin="121,169,0,0"/>
-        <ListBox HorizontalAlignment="Left" Height="108" VerticalAlignment="Top" Width="63" Margin="212,169,0,0"/>
-        <Label Content="House" VerticalAlignment="Bottom" RenderTransformOrigin="0.708,2.136" Margin="0,0,209,137" HorizontalAlignment="Right" Width="52" Height="29"/>
-        <Label Content="Senate" HorizontalAlignment="Left" Margin="136,134,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="0.557,1.646"/>
-        <Label Content="Executive" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="212,134,0,0" Width="63" RenderTransformOrigin="0.435,0.091"/>
+        <ListBox HorizontalAlignment="Left" Height="196" VerticalAlignment="Top" Width="170" Margin="229,166,0,0"/>
+        <ListBox HorizontalAlignment="Left" Height="196" VerticalAlignment="Top" Width="170" Margin="441,166,0,0"/>
+        <Label Content="House" VerticalAlignment="Bottom" RenderTransformOrigin="0.708,2.136" Margin="0,0,67.8,285.6" HorizontalAlignment="Right" Width="52" Height="29"/>
+        <Label Content="Senate" HorizontalAlignment="Left" Margin="70,135,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="0.557,1.646"/>
+        <Label Content="Executive" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="286,139,0,0" Width="63" RenderTransformOrigin="0.435,0.091"/>
+        <Button Content="Back" Margin="528,391,13.8,28.6" RenderTransformOrigin="0.547,0.425" Click="Button_Click"/>
 
     </Grid>
 </Page>

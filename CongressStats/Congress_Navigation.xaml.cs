@@ -34,5 +34,11 @@ namespace CongressStats
         {
             this.NavigationService.Navigate(new CongressListing());
         }
+
+        private void Prev_Page(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new HomePage());
+        }
+
     }
 }
