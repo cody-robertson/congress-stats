@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
-using System.Windows;
+
 namespace CongressStats
 {
-    class BillActionDropDown
+    class BillProfileDescription
     {
-        public BillActionDropDown(ListBox listBox)
+        public BillProfileDescription()
         {
-         }
+           
+        }
     }
 }

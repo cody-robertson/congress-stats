@@ -7,11 +7,11 @@ using System.Windows.Controls;
 
 namespace CongressStats
 {
-    class Bill_Profile_Title : Label
+    class Bill_Profile_Title
     {
-        public Bill_Profile_Title()
+        public Bill_Profile_Title(Label label)
         {
-            Content = "Profile Title";
+            label.Content = "Profile Title";
         }
     }
 }

@@ -16,24 +16,37 @@ using System.Windows.Shapes;
 namespace CongressStats
 {
     /// <summary>
-    /// Interaction logic for Popular_Bills.xaml
+    /// Interaction logic for MemberProfile.xaml
     /// </summary>
-    public partial class Popular_Bills : Page
+    public partial class MemberProfile : Page, IProfilePage
     {
-        public Popular_Bills()
+        public MemberProfile()
         {
             InitializeComponent();
+        }
+        void IProfilePage.FormatListBox()
+        {
+            new BillsSponsoredDropDown(MembersList);
+        }
+
+        void IProfilePage.FormatTitle()
+        {
+            new MemberProfileTitle();
+        }
+
+        void IProfilePage.FormatDescription()
+        {
+            new MemberProfileDescription();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            this.NavigationService.Navigate(new HomePage());
+            this.NavigationService.Navigate(new Popular_Bills());
         }
 
-        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        public void GetBillsSponsored()
         {
-            this.NavigationService.Navigate(new BillProfilePage());
+            new BillsSponsoredDropDown(MembersList);
         }
-        
     }
 }

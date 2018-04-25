@@ -55,7 +55,11 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="BillActionDropDown.cs" />
-    <Compile Include="Bill_Profile.cs" />
+    <Compile Include="BillProfileDescription.cs" />
+    <Compile Include="BillProfilePage.xaml.cs">
+      <DependentUpon>BillProfilePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BillsSponsoredDropDown.cs" />
     <Compile Include="Bill_Profile_Title.cs" />
     <Compile Include="CongressStatsDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -65,6 +69,10 @@
     <Compile Include="Deserialization\Bill\BillAction.cs" />
     <Compile Include="Deserialization\SenateVote\SenateVote.cs" />
     <Compile Include="Deserialization\SenateVote\SenateVoteSummary.cs" />
+    <Page Include="BillProfilePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Congressional_Profile.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -105,6 +113,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="MemberProfile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Popular_Bills.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -114,10 +126,16 @@
     <Compile Include="Congress_Navigation.xaml.cs">
       <DependentUpon>Congress_Navigation.xaml</DependentUpon>
     </Compile>
+    <Compile Include="IMemberProfilePage.cs" />
+    <Compile Include="MemberProfile.xaml.cs">
+      <DependentUpon>MemberProfile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MemberProfileDescription.cs" />
+    <Compile Include="MemberProfileTitle.cs" />
     <Compile Include="Popular_Bills.xaml.cs">
       <DependentUpon>Popular_Bills.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ProfilePage.cs" />
+    <Compile Include="IProfilePage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

@@ -8,12 +8,10 @@ using System.Windows.Controls;
 
 namespace CongressStats
 {
-    abstract class ProfilePage
-    {
-
-        public abstract Window GetPage();
-
-        public abstract Label GetTitle();
-        public abstract ListBox GetListBox();
+    public interface IProfilePage
+    { 
+        void FormatTitle();
+        void FormatListBox();
+        void FormatDescription();       
     }
 }
