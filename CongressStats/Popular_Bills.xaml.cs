@@ -29,5 +29,12 @@ namespace CongressStats
         {
             this.NavigationService.Navigate(new HomePage());
         }
+
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Bill_Profile profile = new Bill_Profile();
+            profile.GetPage().Show();
+        }
+        
     }
 }
