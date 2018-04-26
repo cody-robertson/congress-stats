@@ -20,12 +20,20 @@ namespace CongressStats
     /// </summary>
     public partial class CongressListing : Page
     {
+
+
         public CongressListing()
         {
             InitializeComponent();
+
+            CongressDataTableAdapters.CongressMembersTableAdapter adapter = new CongressDataTableAdapters.CongressMembersTableAdapter();
+            if (adapter != null)
+            {
+                CongressList.DataContext = adapter.GetData();
+            }
         }
 
-        private void Browse_Congress_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void CongressList_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             
         }

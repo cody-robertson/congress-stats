@@ -9,7 +9,7 @@
       Title="Congress_Navigation">
 
     <Grid HorizontalAlignment="Left" Width="625" Margin="0,0,-0.2,-0.4">
-        <Button x:Name="Browse_Representatives" Content="Browse Reprsentatives" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="144" RenderTransformOrigin="0.944,6.505" Margin="148,0,0,175" Height="147" Click="Browse_Representatives_Click"/>
+        <Button x:Name="Browse_Representatives" Content="Browse Representatives" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="144" RenderTransformOrigin="0.944,6.505" Margin="148,0,0,175" Height="147" Click="Browse_Representatives_Click"/>
         <Button x:Name="Browse_Senators" Content="Browse Senators" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" RenderTransformOrigin="2.916,7.252" Margin="312,0,0,175" Height="147" Click="Browse_Senators_Click"/>
         <Label Content="Members of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.572,1.358" Margin="183,26,0,0" Width="251" Height="41" FontSize="24"/>
         <Button Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="459,375,0,0" Height="34" Click="Prev_Page" RenderTransformOrigin="0.557,1.653"/>
