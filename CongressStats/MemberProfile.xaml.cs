@@ -20,23 +20,54 @@ namespace CongressStats
     /// </summary>
     public partial class MemberProfile : Page, IProfilePage
     {
+        string firstName;
+        string lastName;
+        string party;
+        string state;
+        string memberType;
+        int district;
+        int memberID;
+
         public MemberProfile()
         {
             InitializeComponent();
         }
+
+        public MemberProfile(int index)
+        {
+            InitializeComponent();
+
+
+        }
+
         void IProfilePage.FormatListBox()
         {
-            new BillsSponsoredDropDown(MembersList);
+            BillsSponsoredDropDown decorator = new BillsSponsoredDropDown(MembersList);
+            decorator.Decorate(memberID);
         }
 
         void IProfilePage.FormatTitle()
         {
-            new MemberProfileTitle();
+            MemberProfileTitle decorator = new MemberProfileTitle(MemberTitle);
+
+            string title = firstName + " " + lastName + " (" + state + "-" + party + ")";
+            decorator.Decorate(title);
         }
 
         void IProfilePage.FormatDescription()
         {
-            new MemberProfileDescription();
+            MemberProfileDescription decorator = new MemberProfileDescription(MemberDescription);
+
+            string description = "";
+            if (memberType == "representative")
+            {
+                description = firstName + " " + lastName + " represents " + state + " district number " + district + ".";
+            }
+            else
+            {
+                description = firstName + " " + lastName + " is a senator representing the state of " + state + ".";
+            }
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

@@ -10,6 +10,8 @@
 
     <Grid>
         <ListBox x:Name="MembersList" HorizontalAlignment="Left" Width="708" Margin="44,138,0,66.6"/>
+        <Label x:Name="MemberTitle" Content="FirstName lastName (Party State District) moreinformation......" HorizontalAlignment="Left" Margin="44,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="MemberDescription" Content="firstname lastname is a typeofcongressmen representing the what district of state" HorizontalAlignment="Left" Margin="44,41,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>

@@ -8,10 +8,18 @@ using System.Windows.Controls;
 namespace CongressStats
 {
     class BillsSponsoredDropDown
-    { 
+    {
+        ListBox billsSponsored;
+
         public BillsSponsoredDropDown(ListBox listBox)
         {
+            billsSponsored = listBox;
+        }
 
+        public ListBox Decorate(int index)
+        {
+            // add data
+            return billsSponsored;
         }
     }
 }

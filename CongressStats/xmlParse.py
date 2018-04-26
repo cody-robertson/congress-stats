@@ -244,3 +244,17 @@ def loadRepresentatives():
         member.party = items[11]
 
         storeRepresentativeData(member)
+
+def checkDrivers():
+    drivers = [x for x in pyodbc.drivers() if x.startswith('Microsoft Access Driver')]
+    driver = 'Microsoft Access Driver (*.mdb, *.accdb)'
+
+    if (driver not in drivers):
+        print("Error: database driver not found")
+        print("Please install Microsoft Access Driver (*.mdb, *.accdb)")
+        return
+    else:
+        print("Database driver is installed!")
+        return
+
+checkDrivers()
