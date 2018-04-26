@@ -21,11 +21,11 @@
             <ColumnDefinition Width="0*"/>
             <ColumnDefinition Width="163*"/>
         </Grid.ColumnDefinitions>
-        <Label Content="Congress Stats" HorizontalAlignment="Left" Margin="217,10,0,0" VerticalAlignment="Top" Height="39" Width="161" RenderTransformOrigin="0.533,0.003" Grid.Row="1" Grid.ColumnSpan="3" FontSize="22"/>
+        <Label Content="Congress Stats" HorizontalAlignment="Left" Margin="339,34,0,0" VerticalAlignment="Top" Height="39" Width="161" RenderTransformOrigin="0.533,0.003" Grid.Row="1" Grid.ColumnSpan="3" FontSize="22"/>
         <Button x:Name="Mem_Of_Congress" Content="Members Of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" Width="249" Margin="59,110,0,0" Height="282" Click="Mem_Of_Congress_Click" Grid.Row="1" FontSize="18" RenderTransformOrigin="0.51,0.511"/>
-        <Button x:Name="Popular_Bills" Content="Popular Bills" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="107.4,110,0,0" Height="178" Click="Popular_Bills_Click" Grid.Column="2" Grid.Row="1"/>
-        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="249" Margin="59,273,0,0" Grid.Row="1" RenderTransformOrigin="0.489,0.532"/>
-        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="122" Margin="120.4,174,0,0" RenderTransformOrigin="0.503,0.485" Grid.Column="2" Grid.Row="1"/>
+        <Button x:Name="Popular_Bills" Content="Popular Bills" HorizontalAlignment="Left" VerticalAlignment="Top" Width="275" Margin="107.4,110,0,0" Height="282" Click="Popular_Bills_Click" Grid.Column="2" Grid.Row="1"/>
+        <Image HorizontalAlignment="Left" Height="185" VerticalAlignment="Top" Width="249" Margin="59,188,0,0" Grid.Row="1" RenderTransformOrigin="0.489,0.532"/>
+        <Image HorizontalAlignment="Left" Height="185" VerticalAlignment="Top" Width="236" Margin="122.4,188,0,0" RenderTransformOrigin="0.503,0.485" Grid.Column="2" Grid.Row="1"/>
 
     </Grid>
 </Page>
