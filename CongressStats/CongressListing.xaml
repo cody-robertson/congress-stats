@@ -39,7 +39,7 @@
             </ListBox.ItemTemplate>
         </ListBox>
         <Label Content="Browsing by:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="2.493,2.215" Margin="37,10,0,0" Width="105" Height="36" Grid.Row="2" Grid.ColumnSpan="2"/>
-        <Button Content="Back" Margin="488,138.481,44.8,42.6" Grid.Row="3" Click="Button_Click" Grid.ColumnSpan="2"/>
+        <Button Content="Back" Margin="488,153,44.8,43.6" Grid.Row="3" Click="Button_Click" Grid.ColumnSpan="2"/>
 
     </Grid>
 </Page>

@@ -5,14 +5,14 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:CongressStats"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="625"
+      d:DesignHeight="600" d:DesignWidth="850"
       Title="Bill_Profile">
 
     <Grid Margin="0,0,-0.2,-0.4">
-        <ListBox x:Name="BillActions" HorizontalAlignment="Left" Height="196" VerticalAlignment="Top" Width="550" RenderTransformOrigin="0.495,0.521" SelectionChanged="BillActions_SelectionChanged" Margin="24,166,0,0">
+        <ListBox x:Name="BillActions" HorizontalAlignment="Left" Height="258" VerticalAlignment="Top" Width="781" RenderTransformOrigin="0.495,0.521" SelectionChanged="BillActions_SelectionChanged" Margin="24,197,0,0">
         </ListBox>
-        <Button Content="Back" Margin="550,391,13.8,28.6" RenderTransformOrigin="0.5,0.5" Click="Button_Click"/>
-        <Label x:Name="BillTitle" Content="Bill Title" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,74,0,0"/>
+        <Button x:Name="Back" Content="Back" Margin="670,498,44.8,42.4" RenderTransformOrigin="0.5,0.5" Click="Button_Click" FontSize="16"/>
+        <Label x:Name="BillTitle" Content="Bill Title" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,74,0,0" FontSize="18" Height="61" Width="116"/>
 
     </Grid>
 </Page>
