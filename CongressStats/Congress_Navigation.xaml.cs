@@ -27,12 +27,12 @@ namespace CongressStats
 
         private void Browse_Representatives_Click(object sender, RoutedEventArgs e)
         {
-            this.NavigationService.Navigate(new CongressListing());
+            this.NavigationService.Navigate(new CongressListing("representative"));
         }
 
         private void Browse_Senators_Click(object sender, RoutedEventArgs e)
         {
-            this.NavigationService.Navigate(new CongressListing());
+            this.NavigationService.Navigate(new CongressListing("senator"));
         }
 
         private void Prev_Page(object sender, RoutedEventArgs e)
@@ -40,5 +40,9 @@ namespace CongressStats
             this.NavigationService.Navigate(new HomePage());
         }
 
+        private void View_All_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new CongressListing());
+        }
     }
 }

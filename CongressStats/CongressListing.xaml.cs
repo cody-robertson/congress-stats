@@ -27,15 +27,34 @@ namespace CongressStats
             InitializeComponent();
 
             CongressDataTableAdapters.CongressMembersTableAdapter adapter = new CongressDataTableAdapters.CongressMembersTableAdapter();
-            if (adapter != null)
+            CongressList.DataContext = adapter.GetData();
+        }
+
+        public CongressListing(string type)
+        {
+            InitializeComponent();
+
+
+            CongressDataTableAdapters.CongressMembersTableAdapter adapter = new CongressDataTableAdapters.CongressMembersTableAdapter();
+
+            switch (type)
             {
-                CongressList.DataContext = adapter.GetData();
+                case "representative":
+                    CongressList.DataContext = adapter.GetRepresentativeData();
+                    break;
+                case "senator":
+                    CongressList.DataContext = adapter.GetSenatorData();
+                    break;
+                default:
+                    CongressList.DataContext = adapter.GetData();
+                    break;
             }
         }
 
         private void CongressList_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             
+            this.NavigationService.Navigate(new MemberProfile());
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
