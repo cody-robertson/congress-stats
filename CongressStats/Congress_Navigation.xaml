@@ -5,15 +5,15 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:CongressStats"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="625"
+      d:DesignHeight="600" d:DesignWidth="850"
       Title="Congress_Navigation">
 
-    <Grid HorizontalAlignment="Left" Width="625" Margin="0,0,-0.2,-0.4">
-        <Button x:Name="Browse_Representatives" Content="Browse Representatives" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="144" RenderTransformOrigin="0.944,6.505" Margin="148,0,0,175" Height="147" Click="Browse_Representatives_Click"/>
-        <Button x:Name="Browse_Senators" Content="Browse Senators" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" RenderTransformOrigin="2.916,7.252" Margin="312,0,0,175" Height="147" Click="Browse_Senators_Click"/>
-        <Label Content="Members of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.572,1.358" Margin="183,26,0,0" Width="251" Height="41" FontSize="24"/>
-        <Button Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="459,375,0,0" Height="34" Click="Prev_Page" RenderTransformOrigin="0.557,1.653"/>
-        <Button x:Name="View_All" Content="View All" HorizontalAlignment="Left" Height="43" Margin="148,295,0,0" VerticalAlignment="Top" Width="314"/>
+    <Grid HorizontalAlignment="Left" Width="850" Margin="0,0,-0.2,-0.4">
+        <Button x:Name="Browse_Representatives" Content="Browse Representatives" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="211" RenderTransformOrigin="0.944,6.505" Margin="211,0,0,194.4" Height="280" Click="Browse_Representatives_Click"/>
+        <Button x:Name="Browse_Senators" Content="Browse Senators" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="211" RenderTransformOrigin="2.916,7.252" Margin="466,0,0,194.4" Height="280" Click="Browse_Senators_Click"/>
+        <Label Content="Members of Congress" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.572,1.358" Margin="307,53,0,0" Width="251" Height="41" FontSize="24"/>
+        <Button Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="723,528,0,0" Height="24" Click="Prev_Page" RenderTransformOrigin="0.557,1.653"/>
+        <Button x:Name="View_All" Content="View All" HorizontalAlignment="Left" Height="43" Margin="211,438,0,0" VerticalAlignment="Top" Width="454" FontSize="16"/>
 
     </Grid>
 </Page>
